@@ -1,0 +1,94 @@
+.problem-draw {
+  --draw-accent:#548ff0; --draw-rgb:84,143,240;
+  --draw-light-delay:500ms; --draw-light-ms:calc(var(--draw-reveal-ms) - 500ms);
+  position:fixed; inset:0; z-index:100; display:grid; place-items:center; padding:28px;
+  background:radial-gradient(ellipse at 50% 45%,#dfecfe,#eef4fc 65%);
+  animation:draw-overlay-in .35s ease-out;
+}
+.draw-format-mcq { --draw-accent:#42a789; --draw-rgb:66,167,137; }
+.draw-format-experimental { --draw-accent:#c69443; --draw-rgb:198,148,67; }
+.draw-dialog { width:min(1180px,100%); max-height:100%; overflow:auto; position:relative; border:1px solid rgba(255,255,255,.94); border-radius:24px; background:#f9fcff; box-shadow:0 34px 100px #274c7926,0 2px 8px #274c790a; isolation:isolate; animation:draw-dialog-in .55s cubic-bezier(.16,1,.3,1); }
+.draw-header { display:flex; justify-content:space-between; align-items:center; gap:16px; padding:23px 30px 21px; background:linear-gradient(110deg,#ffffffdc,#f2f7ffb3); border-bottom:1px solid #dce7f480; }
+.draw-eyebrow { display:block; color:#8398b6; font-size:9px; font-weight:500; text-transform:uppercase; letter-spacing:.18em; }
+.draw-header h2 { margin:7px 0 0; color:#34506f; font-size:19px; font-weight:500; letter-spacing:-.035em; }
+.draw-mode { display:flex; align-items:center; gap:8px; padding:8px 12px; border:1px solid rgba(var(--draw-rgb),.16); border-radius:30px; color:var(--draw-accent); background:#ffffff9e; font-size:10px; white-space:nowrap; }
+.draw-mode i { width:5px; height:5px; border-radius:50%; background:currentColor; box-shadow:0 0 9px rgba(var(--draw-rgb),.4); }
+.draw-scene { position:relative; height:clamp(330px,53vh,490px); overflow:hidden; perspective:1000px; background:radial-gradient(ellipse at 50% 42%,rgba(var(--draw-rgb),.16),transparent 48%),linear-gradient(180deg,#f8fbff,#ecf4ff 70%,#e7f0fc); }
+.draw-sky { position:absolute; inset:0; opacity:.7; background-image:radial-gradient(circle at 12% 29%,#fff 0 1px,transparent 2px),radial-gradient(circle at 82% 12%,#fff 0 1px,transparent 2px),radial-gradient(circle at 30% 64%,#97b9ea 0 1px,transparent 2px),radial-gradient(circle at 64% 15%,#9cb8df 0 1px,transparent 2px); background-size:181px 173px,283px 223px,227px 263px,317px 199px; }
+.draw-horizon { position:absolute; left:-10%; right:-10%; height:260px; bottom:-130px; transform:rotateX(62deg); transform-origin:center top; background-image:linear-gradient(#9dbfe41f 1px,transparent 1px),linear-gradient(90deg,#9dbfe41f 1px,transparent 1px); background-size:48px 48px; mask-image:radial-gradient(ellipse at top,black,transparent 68%); }
+.draw-orbits { position:absolute; width:360px; height:360px; top:50%; left:50%; margin:-195px 0 0 -180px; pointer-events:none; transition:opacity .6s; }
+.draw-orbits i { position:absolute; inset:0; border:1px solid rgba(var(--draw-rgb),.14); border-radius:50%; transform:rotateX(50deg) rotateZ(-20deg); }
+.draw-orbits i:nth-child(2) { inset:-50px; transform:rotateX(64deg) rotateZ(30deg); border-style:dashed; opacity:.65; }
+.draw-orbits i:nth-child(3) { inset:40px; transform:rotateY(50deg) rotateZ(30deg); }
+.draw-charge { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:18px; padding-bottom:28px; color:var(--draw-accent); transition:opacity .55s ease,transform .65s cubic-bezier(.16,1,.3,1); }
+/* Keep accelerating through the crossfade; the rotation ends only once the icon is invisible. */
+.draw-charge svg { width:108px; height:108px; filter:drop-shadow(0 0 24px rgba(var(--draw-rgb),.32)); animation:draw-charge-orbit calc(var(--draw-charge-ms) + 550ms) cubic-bezier(.42,.07,.92,.53) both; will-change:transform; }
+.draw-charge span { color:#7990ad; font-size:11px; letter-spacing:.03em; }
+.draw-reel-mask { position:absolute; inset:0; overflow:hidden; opacity:0; transition:opacity .55s ease; mask-image:linear-gradient(90deg,transparent,#000 15%,#000 85%,transparent); }
+.draw-reel { position:absolute; left:calc(50% - 105px); top:calc(50% - 118px); display:flex; gap:16px; align-items:center; will-change:transform; transform:translate3d(0,0,0); }
+.draw-preview { width:210px; height:236px; flex:0 0 210px; display:flex; flex-direction:column; padding:20px 18px 16px; border:1px solid #c5d7eea6; border-top:3px solid var(--draw-accent); border-radius:18px; background:linear-gradient(150deg,#fffffff5,#f9fcfff0); box-shadow:0 16px 36px #26457112; }
+.draw-preview-type { display:flex; align-items:center; gap:8px; color:var(--draw-accent); font-size:10px; font-weight:500; text-transform:uppercase; letter-spacing:.07em; }
+.draw-preview-type svg { width:22px; height:22px; }
+.draw-preview h3 { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; margin:16px 0 9px; font-size:14px; line-height:1.55; letter-spacing:-.02em; font-weight:500; color:#3d536e; }
+.draw-preview p { margin:0; color:#8799af; font-size:10px; line-height:1.55; }
+.draw-preview-source { margin-top:auto; padding-top:10px; border-top:1px solid #e4edf6; color:#8b9cb3; font-size:9px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.draw-selection { position:absolute; left:50%; top:50%; width:244px; height:268px; transform:translate(-50%,-50%); z-index:3; border:1px solid rgba(var(--draw-rgb),.30); border-radius:25px; opacity:0; box-shadow:0 0 35px rgba(var(--draw-rgb),.10),inset 0 0 24px rgba(var(--draw-rgb),.04); transition:opacity .4s; pointer-events:none; }
+.draw-selection i { position:absolute; width:12px; height:3px; background:var(--draw-accent); left:calc(50% - 6px); box-shadow:0 0 15px rgba(var(--draw-rgb),.6); border-radius:2px; }
+.draw-selection i:first-child { top:-2px; } .draw-selection i:last-child { bottom:-2px; }
+/* sqrt(1.5) grows both dimensions equally, increasing the reel card's area by 50%. */
+.draw-reveal-stage { position:absolute; left:50%; top:50%; width:min(calc(210px * 1.2247448714),calc(100% - 80px)); aspect-ratio:210/236; transform:translate(-50%,-50%) scale(var(--draw-card-scale,.816496581)); transform-origin:center center; will-change:transform; z-index:4; }
+.draw-bloom { position:absolute; left:50%; top:50%; width:calc(100% + 140px); height:110%; background:radial-gradient(ellipse,#ffffffed 8%,#49a1ff47 32%,#49a1ff1a 48%,transparent 70%); opacity:0; transform:translate(-50%,-50%) scale(.55); will-change:transform,opacity; }
+.draw-galaxy { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; opacity:0; will-change:opacity; }
+.draw-galaxy-back { z-index:0; } .draw-galaxy-front { z-index:1; }
+.draw-dialog { z-index:2; }
+.draw-revealed .draw-sky,.draw-revealed .draw-horizon,.draw-revealed .draw-orbits { visibility:hidden; }
+.draw-revealed .draw-scene-caption { opacity:0; }
+.draw-result { position:absolute; inset:0; width:100%; height:100%; padding:20px 22px; margin:0; overflow:hidden; border-radius:21px; border:1px solid rgba(var(--draw-rgb),.27); border-top:3px solid var(--draw-accent); background:linear-gradient(140deg,#fff,#f9fcff); box-shadow:0 25px 65px rgba(var(--draw-rgb),.17),0 4px 14px #2441660a; opacity:0; will-change:opacity; pointer-events:none; }
+.draw-result::before { content:''; position:absolute; inset:0; border-radius:inherit; background:linear-gradient(115deg,transparent 30%,#ffffffd9 45%,transparent 60%); transform:translateX(-110%); pointer-events:none; opacity:0; }
+.draw-result-top { display:flex; align-items:center; justify-content:space-between; color:var(--draw-accent); font-size:10px; font-weight:600; letter-spacing:.17em; text-transform:uppercase; }
+.draw-result-top svg { width:28px; height:28px; }
+.draw-result h3 { display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; margin:12px 0 8px; color:#2e4665; font-size:17px; line-height:1.4; letter-spacing:-.04em; font-weight:500; overflow-wrap:anywhere; }
+.draw-result p { margin:0 0 14px; font-size:10px; line-height:1.6; color:#7a8ea9; }
+.draw-result-source { position:absolute; bottom:20px; left:22px; right:22px; color:#8094ae; font-size:9px; line-height:1.6; padding-top:10px; border-top:1px solid #e3ecf6; }
+.draw-scene-caption { position:absolute; bottom:22px; left:20px; right:20px; text-align:center; color:#8da1ba; font-size:10px; letter-spacing:.12em; }
+.draw-footer { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:21px 30px 24px; background:linear-gradient(115deg,#fff,#f8fbff); border-top:1px solid #dce7f480; }
+.draw-footer-copy { min-width:0; } .draw-footer-copy>div { margin-top:7px; color:#566c87; font-size:12px; line-height:1.5; max-width:650px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.draw-footer-actions { display:flex; align-items:center; gap:16px; flex-shrink:0; }
+.draw-skip { border:0; background:transparent; padding:10px 0; color:#91a1b5; font-size:10px; cursor:pointer; } .draw-skip:hover { color:#4b709c; } .draw-skip span { margin-left:7px; font-size:15px; }
+.draw-open { border:1px solid rgba(var(--draw-rgb),.24); border-radius:12px; background:var(--draw-accent); color:#fff; font-size:11px; font-weight:500; padding:13px 18px; box-shadow:0 5px 16px rgba(var(--draw-rgb),.2); cursor:pointer; transition:background .2s,transform .2s,box-shadow .2s; }
+.draw-open:disabled { background:#e8eff8; color:#92a4bc; border-color:#dce6f2; box-shadow:none; opacity:1; }
+.draw-open:not(:disabled):hover { transform:translateY(-1px); box-shadow:0 8px 24px rgba(var(--draw-rgb),.28); }
+.draw-progress { position:absolute; bottom:0; left:0; right:0; height:2px; overflow:hidden; background:#dfe9f5; }
+.draw-progress i { display:block; height:100%; background:var(--draw-accent); transform-origin:left; animation:draw-progress var(--draw-total-ms) linear both; }
+.draw-phase-rolling .draw-charge,.draw-phase-reveal .draw-charge,.draw-phase-ready .draw-charge { opacity:0; transform:scale(.92); pointer-events:none; }
+.draw-phase-rolling .draw-reel-mask { opacity:1; }
+.draw-phase-rolling .draw-reel,.draw-revealed .draw-reel { animation:draw-reel-travel var(--draw-roll-ms) cubic-bezier(.12,0,.1,1) both; }
+.draw-phase-rolling .draw-selection { opacity:1; }
+.draw-phase-reveal .draw-reel-mask,.draw-phase-ready .draw-reel-mask { opacity:0; }
+.draw-revealed .draw-reveal-stage { animation:draw-card-reveal 1.45s cubic-bezier(.3,0,.25,1) both; }
+.draw-revealed .draw-result { animation:draw-card-face .4s ease-out both; }
+.draw-revealed .draw-result::before { animation:draw-card-glint 1.2s .5s ease-out both; }
+.draw-revealed .draw-bloom { animation:draw-bloom-reveal var(--draw-light-ms) var(--draw-light-delay) ease-in-out both; }
+.draw-revealed .draw-galaxy { animation:draw-galaxy-reveal var(--draw-light-ms) var(--draw-light-delay) linear both; }
+.draw-result { z-index:2; }
+.draw-phase-reveal .draw-orbits,.draw-phase-ready .draw-orbits { opacity:.45; }
+.draw-phase-ready .draw-progress i { animation:none; transform:scaleX(1); }
+.draw-instant .draw-scene *,.draw-instant .draw-scene *::before { animation:none!important; transition:none!important; }
+.draw-instant .draw-reel { transform:translate3d(var(--reel-end),0,0); }
+.draw-instant .draw-reveal-stage { transform:translate(-50%,-50%) scale(1); }
+.draw-instant .draw-result { opacity:1; }
+.draw-instant .draw-galaxy,.draw-instant .draw-bloom { display:none; }
+@keyframes draw-overlay-in { from { opacity:0; } to { opacity:1; } }
+@keyframes draw-dialog-in { from { opacity:0; transform:translateY(16px) scale(.97); } to { opacity:1; transform:none; } }
+@keyframes draw-charge-orbit { from { transform:rotate(-90deg); } to { transform:rotate(810deg); } }
+@keyframes draw-reel-travel { from { transform:translate3d(0,0,0); } to { transform:translate3d(var(--reel-end),0,0); } }
+@keyframes draw-card-reveal { from { transform:translate(-50%,-50%) scale(var(--draw-card-scale,.816496581)); } to { transform:translate(-50%,-50%) scale(1); } }
+@keyframes draw-card-face { from { opacity:0; } to { opacity:1; } }
+/* Opacity has its own timeline: fast expansion must not make the final fade finish early. */
+@keyframes draw-galaxy-reveal { 0% { opacity:0; } 14% { opacity:1; } 72% { opacity:.95; } 82% { opacity:.8; } 100% { opacity:0; } }
+@keyframes draw-bloom-reveal { 0% { opacity:0; transform:translate(-50%,-50%) scale(.8); } 22% { opacity:1; } 55% { opacity:.8; } 100% { opacity:0; transform:translate(-50%,-50%) scale(1.08); } }
+@keyframes draw-card-glint { 0% { opacity:0; transform:translateX(-110%); } 20% { opacity:.8; } 100% { opacity:0; transform:translateX(110%); } }
+@keyframes draw-progress { from { transform:scaleX(0); } to { transform:scaleX(1); } }
+@media(max-height:680px) { .problem-draw { padding:18px; } .draw-header { padding:14px 24px; } .draw-header h2 { font-size:17px; } .draw-scene { height:310px; } .draw-footer { padding:15px 24px 18px; } .draw-result { padding:18px 20px; } .draw-result h3 { margin-top:8px; -webkit-line-clamp:3; } .draw-result p { margin-bottom:10px; } .draw-result-source { bottom:18px; left:20px; right:20px; } .draw-scene-caption { display:none; } }
+@media(max-width:900px) { .problem-draw { padding:20px; } .draw-header,.draw-footer { padding-left:22px; padding-right:22px; } .draw-footer-copy>div { max-width:330px; } .draw-footer-actions { gap:12px; } }
+@media(prefers-reduced-motion:reduce) { .problem-draw,.problem-draw *,.problem-draw *::before { animation:none!important; transition:none!important; } .draw-charge,.draw-reel-mask,.draw-selection,.draw-galaxy,.draw-bloom { display:none; } .draw-reveal-stage { transform:translate(-50%,-50%) scale(1); } .draw-result { opacity:1; } }
