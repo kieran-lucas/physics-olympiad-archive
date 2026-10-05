@@ -1,0 +1,12 @@
+[
+  {
+    "file_id": 3131,
+    "source_sha256": "590303f526aa64ded5492af6c6bcc96c99e241714b2f3574cf9bbc8a16ac4bca",
+    "page": 8,
+    "path": "renders/590303f526aa64de/page_008_pdfium.png",
+    "sha256": "faad0d80b60b5c4e7de50cb1b6c3e2e36af740ee2a756299062ed96c21019486",
+    "renderer": "pypdfium2",
+    "version": "5.13.0",
+    "created_or_verified_at": "2026-10-04T02:45:28.201526+00:00"
+  }
+]
