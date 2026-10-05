@@ -1,0 +1,41 @@
+﻿competition_slug,competition,identified_units,KEEP,BORDERLINE,REJECT,UNRESOLVED_ERROR,containers_pending
+apho,APhO,120,116,1,3,0,0
+aupho,AuPhO,232,232,0,0,0,0
+azpho,AzPhO,55,54,0,1,0,0
+baupc,BAUPC,60,60,0,0,0,0
+bpho,BPhO,267,266,0,1,0,0
+brtst,SOIF,26,26,0,0,0,0
+cpho-f,CPhO,162,154,0,8,0,0
+efo,EFO,300,300,0,0,0,0
+eotvos,Eötvös,36,36,0,0,0,0
+eupho,EuPhO,44,42,1,1,0,0
+fyziklani,Fyziklani,969,948,2,19,0,0
+gpho,GPhO,17,17,0,0,0,0
+inpho,InPhO,181,180,0,1,0,0
+ipho,IPhO,260,253,0,7,0,0
+ispho,ISPhO,15,15,0,0,0,0
+izho,IZhO,67,66,1,0,0,0
+kphc,KPhC,250,248,0,2,0,0
+mosphys,MOSh,150,150,0,0,0,0
+nbpho,NBPhO,215,212,0,3,0,0
+obf,OBF,96,96,0,0,0,0
+oibf,OIbF,154,151,0,3,0,0
+onf,ONF,63,46,1,16,0,0
+opho,OPhO,265,239,1,19,6,0
+ortvay,Ortvay,995,646,73,272,4,0
+osn-fisika,OSN Fisika,96,96,0,0,0,0
+panpho,PanPhO,165,160,0,5,0,0
+physicsbrawl,Physics Brawl,858,825,0,33,0,0
+physicscup,Physics Cup,14,12,1,1,0,0
+rmph,RMPh,39,36,0,3,0,0
+rutst,Russia TST,225,219,3,3,0,0
+sjpo,SJPO,850,835,1,14,0,0
+spho,SPhO,182,163,4,15,0,0
+spho-tst,SPhO TST,76,71,0,5,0,0
+twpho-camp,TwPhO Camp,90,83,1,6,0,0
+twpho-tst,TwPhO TST,102,102,0,0,0,0
+upho,UPhO,5,4,1,0,0,0
+usapho,USAPhO,749,744,0,5,0,0
+usatst,USA TST,7,7,0,0,0,0
+vosh,VsOSh,75,75,0,0,0,0
+wopho,WoPhO,36,34,1,1,0,0

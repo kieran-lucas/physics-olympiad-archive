@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-10-04T16:14:50.274974+00:00",
+  "mode": "FAST_SCOPE_PASS",
+  "phase": "FAST_SCOPE_COMPLETE_WITH_SOURCE_UNAVAILABLE",
+  "last_durable_source_file_id": 1571,
+  "required_focused_reviews": [],
+  "next_content_unit": null,
+  "boundary_queue": "remaining_paper_boundaries.csv",
+  "instructions": "Fast scope classification and complete physical-paper inventory audit are finished for available sources. No active content, boundary or focused-review queue remains. Keep source-unavailable records explicit in remaining.csv; do not guess decisions or replay committed batches. Archival enrichment and documented source-PDF structure issues remain separate deferred work. See final_checkpoint.json."
+}

@@ -1,0 +1,134 @@
+{
+  "checked_at": "2026-10-04T16:14:50.337455+00:00",
+  "mode": "FAST_SCOPE_PASS",
+  "scope_status": "COMPLETE_FOR_AVAILABLE_SOURCES",
+  "physical_paper_inventory_status": "COMPLETE",
+  "full_archival_status": "DEFERRED_WITH_DOCUMENTED_ISSUES",
+  "registered_units": 8568,
+  "decided_records": 8558,
+  "distinct_decided_problems": 8548,
+  "decisions": {
+    "BORDERLINE": 92,
+    "KEEP": 8019,
+    "REJECT": 447
+  },
+  "source_unavailable_count": 10,
+  "source_unavailable": [
+    {
+      "screening_unit_id": "raw::4274",
+      "competition_slug": "opho",
+      "year": "2025",
+      "problem_number": "24",
+      "evidence": "Actual printed removal notice visually and textually inspected; source logical row retained."
+    },
+    {
+      "screening_unit_id": "raw::4324",
+      "competition_slug": "opho",
+      "year": "2024",
+      "problem_number": "34",
+      "evidence": "Q34 explicitly removed from test in both local statement and official solution; no statement remains. Preserve NULL physics decision and provenance."
+    },
+    {
+      "screening_unit_id": "raw::4336",
+      "competition_slug": "opho",
+      "year": "2023",
+      "problem_number": "6",
+      "evidence": "Q6 statement explicitly says removed from test; no physical statement remains. Acquisition relationship and NULL decision preserved."
+    },
+    {
+      "screening_unit_id": "raw::4453",
+      "competition_slug": "opho",
+      "year": "2020",
+      "problem_number": "3",
+      "evidence": "Printed Q3 explicitly removed from this exam; local source 3096 PDF p 4 contains no physical statement. NULL scope decision preserved."
+    },
+    {
+      "screening_unit_id": "raw::4485",
+      "competition_slug": "opho",
+      "year": "2020",
+      "problem_number": "35",
+      "evidence": "Printed Q35 explicitly removed from this exam; local source 3096 PDF p 16 contains no physical statement. NULL scope decision preserved."
+    },
+    {
+      "screening_unit_id": "raw::4495",
+      "competition_slug": "opho",
+      "year": "2020",
+      "problem_number": "45",
+      "evidence": "Printed Q45 explicitly removed from this exam; local source 3096 PDF p 20 contains no physical statement. NULL scope decision preserved."
+    },
+    {
+      "screening_unit_id": "raw::5525",
+      "competition_slug": "ortvay",
+      "year": "2020",
+      "problem_number": "10",
+      "evidence": "Physical source p5 explicitly states Problem 10 withdrawn (26 October 19:52 CET). No statement remains; preserve acquisition row with NULL decision."
+    },
+    {
+      "screening_unit_id": "raw::5767",
+      "competition_slug": "ortvay",
+      "year": "2014",
+      "problem_number": "34",
+      "evidence": "Q34 physical p7 contains only a link to an essential satellite image, not the image. Original HTTP/HTTPS sandstorm.ps both return 404; original year directory has no abrak folder; exact source archive lookup returned 503. Actual image unavailable; no scope decision guessed. See reviews/shutdown_ortvay_2014_external_availability.json."
+    },
+    {
+      "screening_unit_id": "raw::5921",
+      "competition_slug": "ortvay",
+      "year": "2009",
+      "problem_number": "16",
+      "evidence": "Actual Q16 p4 and linked-source attempts inspected. Exact Hungarian HTTP/HTTPS URLs redirect to the current homepage; corresponding English path redirects to a general security page with no shuffle algorithm. Exact pre-2011 archive query timed out. See reviews/shutdown_ortvay_2009_q16_source_attempts.json. No algorithm or scope decision invented."
+    },
+    {
+      "screening_unit_id": "raw::5955",
+      "competition_slug": "ortvay",
+      "year": "2008",
+      "problem_number": "19",
+      "evidence": "Whole Q19 p6 inspected, but explicitly supplied real torrent measurements not available: HTTP/HTTPS return an ELTEnet-restricted error page despite status 200. Historical availability lookup returns HTTP429. See reviews/shutdown_ortvay_2008_link_attempts.json. No fabricated replacement data or final scope decision."
+    }
+  ],
+  "pending_content": 0,
+  "pending_boundary_audits": 0,
+  "pending_focused_reviews": 0,
+  "physical_papers_verified": 1396,
+  "expanded_containers": 235,
+  "embedded_units_discovered_total": 132,
+  "unit_equivalences": 10,
+  "sqlite_integrity": "ok",
+  "foreign_keys": "ok",
+  "primary_source_ledger_coverage": "complete",
+  "raw_immutability": {
+    "checked_at": "2026-10-04T16:10:42.278565+00:00",
+    "files_checked": 3312,
+    "mismatches": [],
+    "unchanged": true
+  },
+  "curated_materialization": {
+    "selected_units": 8019,
+    "verified_distinct_selected_questions": 8010,
+    "unique_physical_files": 2926,
+    "raw_acquisition_files": 2908,
+    "source_linked_reference_files": 18,
+    "source_linked_reference_associations": 19,
+    "byte_size": 1835051644,
+    "hardlinks": 2926,
+    "copies": 0,
+    "hash_mismatches": 0,
+    "selection_is_complete": false
+  },
+  "strict_archival_validation": {
+    "checked_at": "2026-10-04T16:12:05.261162+00:00",
+    "status": "FAILED_KNOWN_ORIGINAL_PDF_STRUCTURE",
+    "issues": [
+      "PDF repair required 2680",
+      "PDF repair required 2682",
+      "PDF repair required 2683",
+      "PDF repair required 2686",
+      "PDF repair required 2688"
+    ],
+    "assertion_retained": true,
+    "known_hash_mismatches": 0,
+    "all_other_checks_passed": true
+  },
+  "review_event_note": "raw::813 has two distinct pass-2 events: focused rendered prerequisite check 9100 and later seeded QC12 event 9359; both intentional, no restart replay. Historical duplicate events preserved as previously documented.",
+  "remaining_queue": "remaining.csv contains only ten explicit source-unavailable entries; remaining_paper_boundaries.csv is empty.",
+  "deferred_work": "Source-linked unavailable material recovery if it becomes obtainable; separate verified PDF repair derivatives for five original structure defects; optional archival enrichment. Do not modify originals or reclassify committed work."
+}

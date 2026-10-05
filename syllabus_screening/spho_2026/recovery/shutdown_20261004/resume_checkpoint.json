@@ -1,0 +1,18 @@
+{
+  "registered_units": 8472,
+  "decisioned_units": 807,
+  "awaiting_content_review": 7664,
+  "statement_unavailable": 1,
+  "decisions": {
+    "BORDERLINE": 8,
+    "KEEP": 780,
+    "REJECT": 19
+  },
+  "containers_expanded": 233,
+  "containers_pending": 0,
+  "original_205_preserved": true,
+  "new_second_review_units": 61,
+  "total_distinct_second_review_units": 266,
+  "low_confidence_units": 0,
+  "focused_reviews_pending": 0
+}

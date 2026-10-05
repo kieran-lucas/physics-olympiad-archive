@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-10-04T08:37:38.490142+00:00",
+  "historical_units": 205,
+  "historical_decisions_unchanged": true,
+  "mismatches": [],
+  "evidence": "Historical saved *.decisions.json compared against the 205 unique IDs in reviews/second_pass.json; no historical decision rewritten."
+}

@@ -1,0 +1,13 @@
+﻿domain,KEEP,BORDERLINE,REJECT
+I_force_motion,1683,33,5
+II_oscillations_waves,377,17,8
+III_ideal_gas,135,9,1
+IV_thermodynamics,225,18,3
+V_real_gas,7,2,0
+VI_electric_field,350,6,2
+VII_magnetic_field,174,8,5
+VIII_induction,57,4,0
+IX_em_oscillations_waves,57,5,0
+X_wave_optics,234,9,0
+XI_quantum_light,67,7,0
+XII_atomic_nuclear,52,3,2

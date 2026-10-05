@@ -1,0 +1,192 @@
+{
+  "checked_at": "2026-10-04T16:12:05.261162+00:00",
+  "run_status": "INCOMPLETE",
+  "source_rows": 6392,
+  "direct_units_in_inventory": 6157,
+  "whole_paper_containers": 235,
+  "identified_top_level_units": 8568,
+  "reviewed_units": 8558,
+  "verified_equivalence_records": 10,
+  "reviewed_units_after_verified_equivalences": 8548,
+  "reviewed_direct_units": 6147,
+  "reviewed_derived_units": 2411,
+  "decisions": {
+    "KEEP": 8019,
+    "REJECT": 447,
+    "BORDERLINE": 92,
+    "UNRESOLVED_ERROR": 10
+  },
+  "decision_percentages_of_reviewed": {
+    "KEEP": 93.702,
+    "BORDERLINE": 1.075,
+    "REJECT": 5.223
+  },
+  "pending_known_units": 10,
+  "awaiting_content_review": 0,
+  "statement_unavailable_units": 10,
+  "pending_containers": 0,
+  "full_top_level_inventory_known": true,
+  "embedded_unindexed_units_discovered": 132,
+  "formats": [
+    {
+      "format": "theory",
+      "reviewed": 2139,
+      "KEEP": 1791,
+      "BORDERLINE": 71,
+      "REJECT": 277
+    },
+    {
+      "format": "multiple_choice",
+      "reviewed": 1840,
+      "KEEP": 1823,
+      "BORDERLINE": 1,
+      "REJECT": 16
+    },
+    {
+      "format": "short_answer",
+      "reviewed": 2,
+      "KEEP": 2,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    },
+    {
+      "format": "numerical",
+      "reviewed": 351,
+      "KEEP": 311,
+      "BORDERLINE": 3,
+      "REJECT": 37
+    },
+    {
+      "format": "experimental",
+      "reviewed": 153,
+      "KEEP": 142,
+      "BORDERLINE": 7,
+      "REJECT": 4
+    },
+    {
+      "format": "data_analysis",
+      "reviewed": 47,
+      "KEEP": 43,
+      "BORDERLINE": 3,
+      "REJECT": 1
+    },
+    {
+      "format": "mixed",
+      "reviewed": 24,
+      "KEEP": 23,
+      "BORDERLINE": 0,
+      "REJECT": 1
+    },
+    {
+      "format": "unknown",
+      "reviewed": 3915,
+      "KEEP": 3797,
+      "BORDERLINE": 7,
+      "REJECT": 111
+    }
+  ],
+  "domains": [
+    {
+      "domain": "I_force_motion",
+      "KEEP": 1683,
+      "BORDERLINE": 33,
+      "REJECT": 5
+    },
+    {
+      "domain": "II_oscillations_waves",
+      "KEEP": 377,
+      "BORDERLINE": 17,
+      "REJECT": 8
+    },
+    {
+      "domain": "III_ideal_gas",
+      "KEEP": 135,
+      "BORDERLINE": 9,
+      "REJECT": 1
+    },
+    {
+      "domain": "IV_thermodynamics",
+      "KEEP": 225,
+      "BORDERLINE": 18,
+      "REJECT": 3
+    },
+    {
+      "domain": "V_real_gas",
+      "KEEP": 7,
+      "BORDERLINE": 2,
+      "REJECT": 0
+    },
+    {
+      "domain": "VI_electric_field",
+      "KEEP": 350,
+      "BORDERLINE": 6,
+      "REJECT": 2
+    },
+    {
+      "domain": "VII_magnetic_field",
+      "KEEP": 174,
+      "BORDERLINE": 8,
+      "REJECT": 5
+    },
+    {
+      "domain": "VIII_induction",
+      "KEEP": 57,
+      "BORDERLINE": 4,
+      "REJECT": 0
+    },
+    {
+      "domain": "IX_em_oscillations_waves",
+      "KEEP": 57,
+      "BORDERLINE": 5,
+      "REJECT": 0
+    },
+    {
+      "domain": "X_wave_optics",
+      "KEEP": 234,
+      "BORDERLINE": 9,
+      "REJECT": 0
+    },
+    {
+      "domain": "XI_quantum_light",
+      "KEEP": 67,
+      "BORDERLINE": 7,
+      "REJECT": 0
+    },
+    {
+      "domain": "XII_atomic_nuclear",
+      "KEEP": 52,
+      "BORDERLINE": 3,
+      "REJECT": 2
+    }
+  ],
+  "selected_statement_physical_files": 1370,
+  "selected_all_physical_files": 2926,
+  "selected_raw_acquisition_files": 2908,
+  "source_linked_reference_files": 18,
+  "curated_byte_size": 1835051644,
+  "source_linked_reference_associations": 19,
+  "hardlinks": 2926,
+  "copies": 0,
+  "validated_file_types": {
+    "pdf": 2717,
+    "zip": 98,
+    "tex": 99,
+    "other": 11,
+    "exe": 1
+  },
+  "pdf_pages_validated": 19923,
+  "visual_inspection_reviewed_units": 2689,
+  "solution_used_reviewed_units": 269,
+  "reviewed_source_sha256_count": 1396,
+  "zero_unexplained_identified_units": true,
+  "zero_unexplained_source_rows": true,
+  "whole_corpus_screening_complete": false,
+  "validation_issues": [
+    "PDF repair required 2680",
+    "PDF repair required 2682",
+    "PDF repair required 2683",
+    "PDF repair required 2686",
+    "PDF repair required 2688"
+  ],
+  "actual_operational_errors": 0
+}

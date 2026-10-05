@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-10-04T16:14:50.274974+00:00",
+  "mode": "FAST_SCOPE_PASS",
+  "sqlite_integrity": "ok (quick_check)",
+  "queue_equals_database": true,
+  "registered_units": 8568,
+  "reviewed_units": 8558,
+  "decisions": {
+    "BORDERLINE": 92,
+    "KEEP": 8019,
+    "REJECT": 447
+  },
+  "awaiting_content_review": 0,
+  "source_unavailable": 10,
+  "pending_paper_audits": 0,
+  "pending_focused_reviews": 0,
+  "last_deep_validation_at": "2026-10-04T08:37:44.666012+00:00",
+  "archival_validation": "latest full validation has documented issues; last successful deep checkpoint timestamp retained",
+  "materialization": "current KEEP selection materialized; archival validation status recorded separately",
+  "latest_archival_validation_at": "2026-10-04T16:12:05.261162+00:00",
+  "archival_validation_issues": [
+    "PDF repair required 2680",
+    "PDF repair required 2682",
+    "PDF repair required 2683",
+    "PDF repair required 2686",
+    "PDF repair required 2688"
+  ],
+  "registered_scope_complete": true,
+  "scope_and_inventory_complete": true,
+  "materialized_keep_records": 8019
+}
