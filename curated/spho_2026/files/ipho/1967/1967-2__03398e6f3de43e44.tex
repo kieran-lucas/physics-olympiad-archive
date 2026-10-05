@@ -1,0 +1,23 @@
+Consider an infinite network consisting of resistors (resistance of each of them
+is $r$) shown in Fig.~3. Find the resultant resistance $R_{AB}$ between points
+A and B.
+
+\begin{center}
+\begin{tikzpicture}[scale=0.75]
+  \node[left] at (0,2) {A};
+  \node[left] at (0,0) {B};
+  \draw (0,0) -- (9,0);
+  \foreach \x in {0,3,6} {
+    \draw (\x,2) -- (\x+0.8,2);
+    \draw (\x+0.8,1.85) rectangle (\x+2.2,2.15);
+    \node[below] at (\x+1.5,1.85) {$r$};
+    \draw (\x+2.2,2) -- (\x+3,2) -- (\x+3,1.5);
+    \draw (\x+2.85,0.5) rectangle (\x+3.15,1.5);
+    \node[left] at (\x+2.85,1) {$r$};
+    \draw (\x+3,0.5) -- (\x+3,0);
+  }
+  \draw[dashed] (9,2) -- (10.5,2);
+  \draw[dashed] (9,0) -- (10.5,0);
+\end{tikzpicture}
+\figcap{Fig.~3}
+\end{center}

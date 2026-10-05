@@ -1,0 +1,112 @@
+{\large\textbf{E1 – Deep Learning (10 pts)}}
+
+Modern ANNs (artificial neural networks) are made of billions of neurons. Each
+neuron transforms its input(s) $x_1, x_2, \ldots, x_n$ to an output $y$. First,
+\[
+z = w_1x_1 + w_2x_2 + \cdots + w_nx_n + b
+\]
+is calculated, with real numbered \textit{weights} $w_i$ and real numbered
+\textit{bias} $b$. Then an \textit{activation function} is applied to $z$ to
+produce the final output $y(x_1, x_2, \ldots)$. In the present problem you will
+investigate a physical model of a neuron with the electric voltages $x_1$ and
+$x_2$ as inputs, with the activation function being $A\sigma(z)$, graphed
+below, where $\sigma(z) = 1/(1{+}\exp\ (-z))$ is called sigmoid function.
+
+\begin{center}\includegraphics[width=0.32\linewidth]{figures/EuPhO_2025_Q4_fig1.png}\end{center}
+
+\textbf{Equipment}
+
+\textbf{Important! Do not switch off any power outlets.}
+
+(i)\quad A box containing a voltage source, an electronic circuit that models
+the neuron, and two potentiometers (the A-potentiometer and the
+B-potentiometer). The electric terminals on the box are denoted as follows:
+
+1\quad Two electrically connected GND terminals: the electrical \textit{ground}
+serving as a common negative terminal for +V, $x_1$, $x_2$, and $y$.
+
+2\quad +V: the positive terminal of the voltage source.
+
+3\quad X1 and X2: the positive terminals of the neuron input voltages $x_1$ and
+$x_2$, respectively. \textbf{The neuron output behaves unpredictably if either
+of these terminals has no input voltage.}
+
+4\quad Y: the positive output terminal. It behaves like a real voltage source,
+consisting of an ideal voltage source of voltage $y$ and a series output
+resistor $R_\mathrm{out}$, and operates as shown below.
+
+\begin{center}\includegraphics[width=0.54\linewidth]{figures/EuPhO_2025_Q4_fig2.png}\end{center}
+
+5\quad A1, A2, A3: terminals of the A-potentiometer.
+
+6\quad B1, B2, B3: terminals of the B-potentiometer.
+
+7\quad T: a terminal not to be used in this task.
+
+(ii)\quad Digital multimeter with two probe wires.
+
+(iii)\quad Wires with banana connectors. Two or more wires could be connected
+to the same terminal in the box by using the holes in the banana connectors.
+Using the banana connectors with the multimeter may form an unstable
+connection. Use the alligator clamp if needed.
+
+(iv)\quad Graph paper. You can ask for more if needed.
+
+\textbf{Task 1 (0.5 pts)}
+
+Terminals A1, A2, and A3 are connected to the A-potentiometer $R_P$ and an
+additional load resistor $R_L$.
+
+Which of the schemes below corresponds to the circuit in the box? Determine
+the resistances $R_L$ and $R_P$; document the measurements made.
+
+\begin{center}\includegraphics[width=0.57\linewidth]{figures/EuPhO_2025_Q4_fig3.png}\end{center}
+
+\textbf{Note}\quad The B-potentiometer is connected to terminals B1, B2, B3 in
+exactly the same way with the same resistances $R_L$ and $R_P$, within
+manufacturing tolerances.
+
+\textbf{Task 2 - (0.5 pts)}
+
+Sketch how the terminals have to be connected so that the neuron input voltages
+can be varied with the widest possible range.
+
+\textbf{Task 3 - (1.5 pts)}
+
+Devise (and document) a strategy allowing you to find the combination of input
+voltages $x_1$ and $x_2$ that maximizes the output voltage $y$ with the least
+possible number of measurements, irrespectively of with which set of input
+voltages you start the search. Determine this maximal voltage $y_\mathrm{max}$
+that will be henceforth used as an approximation for the amplitude $A$, and
+document your measurements.
+
+\textbf{Task 4 - (3.5 pts)}
+
+Determine the weights $w_1, w_2$ and the bias $b$. Describe your measurements
+and document your data in a table. Estimate $w_1, w_2$, and $b$ by using a
+graphical approach.
+
+\textit{Training} involves optimizing the network weights to achieve desired
+functionality. This allows ANNs to approximate arbitrary functions. For each of
+the following tasks you have to approximate a different function of a single
+input voltage using the given equipment. Make sure that the input and output
+that you define are clearly marked in your circuits.
+
+\textbf{Task 5 - (1.5 pts)}
+
+Connect the terminal X1 directly to +V. Design a circuit to approximate the
+function $y_5(x) = A\sigma\,(w_2x/2 + b_5)$, where $x$ is the voltage applied
+to your newly defined input terminal. Determine $b_5$ theoretically. Implement
+the circuit, take measurements and verify that your setup works as expected.
+Validate the value of $b_5$ from your data.
+
+\textbf{Task 6 - (2.5 pts)}
+
+a\quad Determine the internal series output resistance $R_\mathrm{out}$ of the
+Y terminal. (0.5 pts)
+
+b\quad Design and implement a circuit to approximate the function
+$y_6(x) = A_6 \cdot \sigma(w_2x + b) + B_6$, where
+$B_6 = 1.48\,\mathrm{V}$. Determine $A_6$ theoretically. Implement the circuit
+and verify experimentally that your setup works as expected. Confirm the
+values of $A_6$ and $B_6$ from your data. (2.0 pts)

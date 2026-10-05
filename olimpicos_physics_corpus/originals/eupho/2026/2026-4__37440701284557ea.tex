@@ -1,0 +1,231 @@
+{\large\textbf{Acoustic levitation (20 pts)}}
+
+An acoustic levitator consists of transducers which convert an electrical
+signal into intense sound waves. The acoustic pressure of the resulting
+interference pattern can levitate small objects close to the nodes of the
+pattern.
+
+\textbf{Warning:} Avoid short-circuiting the connections on the top and bottom
+of the levitator.
+
+The tasks E1-E7 of this exam are designed to be independent of each other's
+results. You may skip tasks you are struggling with.
+
+For the following tasks, consider only the nodes on the z-axis. For task E3 and
+onward, use only the centremost node. The Mode X switch on the electrical box
+(F), see Fig. 1, should be in position O.
+
+\begin{center}\includegraphics[width=0.39\linewidth]{figures/EuPhO_2026_Q4_fig1.jpg}\end{center}
+
+\textbf{Task E1:\quad Probing the acoustic field (1.0 pts)}
+
+To get familiar with the acoustic field, use the green LEDs (A) and the
+transducer (B) to construct a tool that emits light according to the local
+acoustic intensity. A transducer is a capacitor whose charge depends on the
+mechanical pressure applied to it.
+
+a) Draw a circuit diagram for your tool. (0.5 pts)
+
+b) Use your tool to roughly estimate the distance between two adjacent
+antinodes on the $z$ axis in the centre of the levitator. (0.5 pts)
+
+\textbf{Task E2:\quad Acoustic levitator properties (4.0 pts)}
+
+\textit{In what follows, to levitate a small solid object, the voltage of the
+connected power supply can be initially put to a high voltage, for example
+$17\,\mathrm{V}$. The object can be placed in the nodes by using the tweezers.
+Note that the levitating object can oscillate horizontally due to
+air-turbulence; wait a little for things to settle. Small oscillations are not
+detrimental to measurement results.}
+
+a) Design, sketch and use a setup to determine as precisely as possible the
+frequency of the transducers. The speed of sound in air is
+$v \approx 340\,\mathrm{m/s}$. (2.0 pts)
+
+% NOTE: the switch position after "to position" is drawn as a bold vertical bar (not in the text layer); reproduced as a bold sans I
+b) Switch \textit{Mode X} to position \textsf{\textbf{I}} on the electrical box
+(F) to change to a different mode of operation where the transducers in the
+upper half of the levitator are supplied with a \textit{slightly} different
+frequency $(f + \Delta f)$ than the lower one. Describe the changed behaviour
+of the levitated objects in this mode and determine the frequency difference
+$\Delta f$ and its sign. (2.0 pts)
+
+\textbf{Remember to return the \textit{Mode X} switch to position O for the
+rest of the exam.}
+
+\textbf{Task E3:\quad Density of solid beads (3.0 pts)}
+
+Levitated objects will be situated slightly below the node due to gravity. The
+restoring acoustic force $\vec{F}$ acting on the levitated object is
+proportional to $P^2$, where $P \propto U$ is the acoustic pressure amplitude
+at the antinodes and $U$ is the voltage from the power source.
+
+Experimentally determine the density of the unknown beads (O) as precisely as
+possible. The density of the glass beads (P) is
+$\rho_\mathrm{glass} = 2500\,\mathrm{kg/m^3}$. These spherical beads (O, P)
+have the same size. (3.0 pts)
+
+\textit{Hint:} Depending on your approach, for spherical objects and small
+displacements $\Delta\vec{z}$ from the node, you may use the approximation:
+\begin{equation}
+\vec{F} = -f(R)P^2\Delta\vec{z} \tag{1}
+\end{equation}
+Here, $f(R)$ is some unknown function of the radius $R$ of the levitated
+object.
+
+\textbf{Task E4:\quad Evaporation (3.0 pts)}
+
+\textit{For the remaining tasks, you will levitate liquids, which will form
+small droplets in the nodes. Place droplets in the levitator using the
+syringes (R) with needles (S). To avoid cross-contamination, use a separate
+syringe for each liquid. A good starting voltage for most droplet sizes is
+8–12 V; at higher voltages the droplets may explode.}
+
+\textbf{Warning: Avoid spilling liquids on the electronics and the
+transducers.} Keep the metal net (L) on the bottom of the levitator; if it gets
+wet, remove it and let it dry. If the transducers seem to malfunction, raise
+your HELP sign.
+
+The exact shape of the levitated droplets can be complicated. Moderately
+deformed droplets may be approximated as an ellipsoid with semi-axes $a, b, c$,
+which has the volume:
+\begin{equation}
+V = \frac{4\pi}{3}abc \tag{2}
+\end{equation}
+
+In this task, you will study the evaporation of a liquid droplet in the
+levitator. A simplified description for the evaporation of a droplet with
+equivalent diameter $D \gtrsim 1.5\,\mathrm{mm}$ is given by:
+\begin{equation}
+\frac{d(D^2)}{dt} = -\gamma \tag{3}
+\end{equation}
+where $D$ is the equivalent diameter of the droplet, i.e., the diameter of a
+sphere with the same volume $V$ as the real droplet, and $\gamma$ is the
+evaporation constant.
+
+\textbf{For this task, consider only liquid I and keep the voltage constant.}
+
+a) Determine the evaporation constant $\gamma$ in units $\mathrm{m^2/s}$ for
+droplets with an equivalent diameter $D \gtrsim 1.5\,\mathrm{mm}$. (2.5 pts)
+
+b) Would you over- or underestimate the time it takes for a droplet to
+evaporate entirely, using your result from a)? (0.5 pts)
+
+\textbf{Task E5:\quad Surface tension (2.5 pts)}
+
+The shape of the droplet depends only on its volume $V$ and the ratio
+$P^2/\sigma$. Here, $\sigma$ is the surface tension of the liquid.
+
+a) Perform a measurement to find out which liquid, I or II, has a lower
+surface tension. (0.5 pts)
+
+b) Experimentally determine the surface tension of liquid I, given that the
+surface tension of liquid II is $0.073\,\mathrm{N/m}$. (2.0 pts)
+
+\textbf{Task E6:\quad Explosion (4.0 pts)}
+
+When the acoustic pressure is too high, the levitating droplet will explode. A
+theoretical formula for the maximum voltage that can be applied to the droplet
+before it explodes is:
+\begin{equation}
+U_\mathrm{max} = \sqrt{\frac{\alpha}{D} + \beta} \tag{4}
+\end{equation}
+where $\alpha$ and $\beta$ are some constants.
+
+\textbf{Consider only liquid II for this task.}
+
+a) Determine the constants $\alpha$ and $\beta$ in the units
+V\textsuperscript{2}·mm and V\textsuperscript{2}, respectively. (2.0 pts)
+
+b) Estimate the maximum diameter of a droplet that can be levitated. (2.0 pts)
+
+\textbf{Task E7:\quad Mysterious line (2.5 pts)}
+
+When the levitating droplet becomes rather flat, a levitator voltage can be
+found for which the light from the red LED passing through the droplet forms a
+sharp horizontal line on the screen behind.
+
+\textbf{Consider only liquid III for this task.}
+
+Draw a sketch of the ray propagation inside the droplet when the line appears.
+Use the line phenomenon described above to estimate the refractive index $n$
+of liquid III. (2.5 pts)
+
+\textit{Hint:} For the line to be visible, the LED must be well aligned with
+the droplet, see Fig. 2.
+
+\textbf{Task E8:\quad Intentional damage penalty (-0.5 pts)}
+
+All equipment and packaging is left on the table after the competition in
+working condition. For breaking components or packaging due to careless
+handling or failing to follow the warning in red text, a penalty will be
+applied. (-0.5 pts)
+
+\textbf{Equipment}
+
+A.\quad Two green Light Emitting Diodes (LEDs). Do not connect the LEDs to the
+power supply (G).
+
+B.\quad Individual transducer.
+
+C.\quad Metal frame with a levitator module and a red LED, which can be modeled
+as a \textit{point source}.
+
+D.\quad Capture unit for collecting falling objects.
+
+E.\quad 2 hex keys for mounting and aligning the setup.
+
+F.\quad Electrical enclosure with switches \textit{LED} and \textit{Mode X}.
+
+G.\quad Power supply.
+
+H.\quad Banana cables.
+
+I.\quad Screen.
+
+J.\quad Tape.
+
+K.\quad Transparent ruler.
+
+L.\quad Metal net.
+
+M.\quad Tweezers.
+
+N.\quad 15 blue styrofoam beads.
+
+O.\quad Multiple white spherical beads of unknown material
+($\varnothing\ 2.0\,\mathrm{mm}$).
+
+P.\quad Multiple transparent spherical glass beads
+($\varnothing\ 2.0\,\mathrm{mm}$, $\rho_\mathrm{glass} = 2500\,\mathrm{kg\,m^{-3}}$).
+
+Q.\quad 3 different unknown liquids labelled I, II and III. They are all safe
+to touch with your hands, but should not be ingested.
+
+R.\quad 3 syringes.
+
+S.\quad 3 blunt end needles for the syringes (be careful!).
+
+T.\quad 2 clothes pegs.
+
+U.\quad Stop watch.
+
+V.\quad Lamp.
+
+W.\quad Power cord.
+
+X.\quad Piece of paper to dry the metal net (not in image).
+
+If you suspect that a component has failed for some reason during the
+competition, inform the invigilator to get help.
+
+\begin{center}\includegraphics[width=1.00\linewidth]{figures/EuPhO_2026_Q4_fig2.jpg}\end{center}
+
+\begin{center}Figure 1: Overview of the equipment.\end{center}
+
+\begin{center}\includegraphics[width=0.53\linewidth]{figures/EuPhO_2026_Q4_fig3.jpg}\end{center}
+
+Figure 2: Alignment of LED module. You can align the setup by using the screws
+shown in the figure. Arrows labelled \textbf{1} are for horizontal movement and
+tilting of the LED module, and arrows labelled \textbf{2} are for vertical
+movement and tilting of the LED module.
