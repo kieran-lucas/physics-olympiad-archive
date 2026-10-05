@@ -1,0 +1,81 @@
+{\large\textbf{E1: Hidden wire}}
+
+\textbf{Experimental setup and tasks}
+
+A very long copper wire runs horizontally at unknown depth $h$ under a
+horizontal square surface of side length $L = 100.0\,\mathrm{mm}$. The sides of
+the square are oriented West-East (the $x$-axis) and South-North (the
+$y$-axis), as shown in the figure. The origin of the coordinate system coincides
+with the South-West corner of the square.
+
+\begin{center}\includegraphics[width=0.30\linewidth]{figures/EuPhO_2021_Q4_fig1.png}\end{center}
+
+The wire is connected to an adjustable DC source (not shown in the figure),
+which can provide a current $I$ in the range from $-5\,\mathrm{A}$ to
+$5\,\mathrm{A}$. The reversal of the sign of the current corresponds to a
+reversal of the polarity of the source. A small compass can be placed on the
+square surface, (including its circumference) to sense the magnetic field of
+the wire through the deflection angle $\varphi$ between the magnetic needle and
+the North ($y$) direction. Positive $\varphi$ values correspond to an Eastward
+deflection, as shown in the figure, while negative $\varphi$ correspond to a
+Westward deflection. You can assume that:
+\begin{itemize}
+\item The magnetic needle is a point-like magnetic dipole, which can rotate
+freely around the vertical axis, i.e. the compass is sensitive to the
+horizontal component of the magnetic field only.
+\item The height of the needle above the surface is negligible compared to the
+depth of the wire beneath the surface, i.e. the needle is situated in the
+$xy$-plane.
+\end{itemize}
+
+Design your experiment and make the necessary simulations to perform the
+following tasks:
+
+a. Determine the orientation of the wire with respect to the coordinate system
+by specifying its equation in the form: $y = ax + b$, and estimate the
+uncertainties of the parameters $a$ and $b$. Draw the wire position on a graph
+and indicate the direction corresponding to a positive current $I$.
+
+b. Determine the depth $h$ of the wire below the surface and the horizontal
+component $B_\mathrm{E}$ of the Earth's magnetic field. In this task you are not
+required to calculate the experimental uncertainties explicitly, however, your
+final results must be represented with an appropriate number of significant
+digits.
+
+The magnetic permeability of free space is
+\[
+\mu_0 = 4\pi \times 10^{-7}\,\mathrm{T\,m/A}.
+\]
+
+\textbf{Description of the simulation software}
+
+The command line program simulates the measurement of the deflection angle
+$\varphi$ after providing the current $I$ and placing the compass at the
+coordinates $x$ and $y$ on the surface.
+
+A typical output of a single simulation cycle of the program looks like:
+\begin{verbatim}
+Enter I (A) between -5.0 and 5.0: 3.4
+Enter X (mm) between 0 and 100: 55
+Enter Y (mm) between 0 and 100: 31
+PHI = -33 degrees
+-------------------------------
+Enter I (A) between -5.0 and 5.0: _
+\end{verbatim}
+
+First, you enter the current $I$ in $A$ (the number between $-5.0$ and $5.0$),
+then coordinates $x$ and $y$ in $mm$ (the numbers between $0$ and $100$). Each
+input is confirmed with the \textbf{Enter} key. The program will output the
+value of $\varphi$ (\texttt{PHI}) in degrees (rounded to $1^\circ$) and return
+to the initial prompt.
+
+The current input $I$ will be rounded to $0.1\,\mathrm{A}$, the coordinate
+inputs $x$, $y$ will be rounded to $1\,\mathrm{mm}$ before being used in
+simulation. (There is no point in trying to input more precise numbers).
+
+Every time you change the position of a compass, its real position used in
+simulation differs from the input coordinates with an error about
+$0.5\,\mathrm{mm}$. (It is a simulation of a limited precision when you place
+an object).
+
+Any time you need to quit the program, press \textbf{Ctrl+C}.

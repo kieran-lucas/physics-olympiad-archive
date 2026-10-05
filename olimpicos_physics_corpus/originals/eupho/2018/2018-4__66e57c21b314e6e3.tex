@@ -1,0 +1,51 @@
+\textbf{General remarks}\enspace Provide detailed sketches of all the setups you use. Estimate errors only in part A. Depending on your method, you might be able to complete the tasks without using all the given equipment.
+
+\textbf{Porous membrane}
+
+You are going to study a membrane of anodic aluminum oxide. The membrane is transparent; it has thickness $h$ and cylindrical channels of diameter $d$ as shown in figure. Your goal is to determine parameters $h$, $d$ and porosity $p$ (the volume fraction of channels in the membrane). Assume the membrane to be optically homogeneous and please \textbf{do not touch} the surface of the membrane!
+
+\begin{center}\includegraphics[width=0.41\linewidth]{figures/EuPhO_2018_Q4_fig1.png}\end{center}
+
+\textbf{A\quad Diffusion, 5 pts}
+
+\textbf{Equipment}\quad \textit{Airproof vessel with a membrane window and 2 connecting tubes with clamps (window diameter is $d_w=13\,\mathrm{mm}$), equipped with carbon dioxide (CO$_2$, molar mass $44\,\mathrm{g/mol}$) concentration sensor with upper working limit of 0.5\,\%; powerbank; 2 fans with battery block (insert the last battery to operate); glue pads. \textbf{Do not disassemble electrical connections of the setup}.}
+
+If $c$ denotes the concentration (number of molecules per volume) of $\mathrm{CO_2}$ at one end of a channel and $c_0$ at the other end, the density of $\mathrm{CO_2}$ flux in the channel is given by $j=D(c-c_0)/h$; $D$ is the diffusion coefficient. Since channels are narrower than mean free path length, the diffusion rate is determined by the diameter of channels: $D\approx vd/3$; $v$ is the root-mean-square speed of $\mathrm{CO_2}$ molecules. The room temperature $T=(295\pm5)\ \mathrm{K}$.
+
+\textbf{Task}\quad Suggest a functional dependence of how $c-c_0$ changes in time, study it experimentally, determine the parameters of the dependence and estimate the errors.
+
+\textbf{Instruction to the $\mathbf{CO_2}$ sensor}\enspace The sensor effectively measures the ratio of the number of $\mathrm{CO_2}$ molecules to the total number of air molecules. Turn the sensor on by connecting it to the powerbank with a USB. Starting up takes a few minutes. If you turn the sensor off, \textbf{all data will be lost}.
+
+Pressing button \textsc{select} for a second switches the sensor between recording (\textsc{r}) and record-browsing (\textsc{d}) modes. In recording mode, a record is added every 20 s. Memory holds only the last 200 records. Switching to record-browsing mode stops adding new records but timer keeps going. In this mode, buttons \textsc{up} and \textsc{down} navigate through records. Switching back to recording mode resumes recording of new data.
+
+Reset button \textsc{rst} \textbf{deletes} all the records and resets the timer. Buttons \textsc{left} and \textsc{right} are not used.
+
+\textbf{B\quad Interference, 6 pts}
+
+\textbf{Equipment}\quad \textit{Optical bench; membrane (identical to the one in part A) on a support; laser, $\lambda=660\,\mathrm{nm}$; 2 polarizers (axis of polarizer is marked with a line and forms $45^\circ$ with the edge of the frame); photodiode (short-circuit current is proportional to the light intensity); multimeter; wires; clips; 2 rulers; glue pads; white paper.}
+
+The reflection intensity depends on the angle of incidence $\alpha$ due to interference of rays reflected from top and bottom surfaces of the membrane.
+
+\begin{center}\includegraphics[width=0.44\linewidth]{figures/EuPhO_2018_Q4_fig2.png}\end{center}
+
+\textbf{Task}\quad Determine the thickness $h$ of the membrane. Assume the refractive index of the membrane to be $n_o=1.50$. To avoid birefringence described in part C incident light should have polarization perpendicular to the plane of incidence (plane of the figure). If the contrast of interference is too weak, try the other surface of the membrane.
+
+\textbf{C\quad Birefringence, 7 pts}
+
+\textbf{Equipment}\quad \textit{the same as in part B.}
+
+\begin{center}\includegraphics[width=0.41\linewidth]{figures/EuPhO_2018_Q4_fig3.png}\end{center}
+
+The refractive index of the membrane depends on polarization and propagation direction of light. The membrane can be described with two refractive indices: $n_o$ and $n_e$; $|n_e-n_o|\ll n_o$. When laser beam enters membrane, it splits into two beams with different polarizations and velocities. Beam 1 is polarized normally to the plane of incidence; its refractive index $n_1=n_o$ and doesn't depend on $\beta_1$. Beam 2 is polarized parallel to the plane of incidence; its refractive index $n_2$ depends on $\beta_2$:
+\[
+\frac{1}{n_2^2}=\frac{\cos^2\beta_2}{n_o^2}+\frac{\sin^2\beta_2}{n_e^2}.
+\]
+One can show that the optical path difference between the beams $\delta=h(n_1\cos\beta_1-n_2\cos\beta_2)$.
+
+\textbf{Task}\quad Determine the difference $\Delta n=|n_e-n_o|$ of the membrane. Find the porosity $p$ using the given plot of $\Delta n(p)$.
+
+\textbf{D\quad Coda, 2 pts}
+
+\textbf{Task}\quad Using results from previous parts and making additional measurements if necessary, estimate the diameter $d$.
+
+\begin{center}\includegraphics[width=1.00\linewidth]{figures/EuPhO_2018_Q4_fig4.png}\end{center}

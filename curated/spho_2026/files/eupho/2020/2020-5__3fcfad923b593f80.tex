@@ -1,0 +1,133 @@
+{\Large\textbf{2\quad Black box}}
+
+{\large\textbf{2.1\quad Introduction}}
+
+You have a rigid mechanical black box consisting of a container of mass $m_1$.
+Inside the container there is a load of mass $m_2$ that hangs on an effectively
+massless spring of stiffness $k_1$ from the ceiling of the box. Another mass
+$m_3$ is hanged to the mass $m_2$ via another massless spring of stiffness
+$k_2$. There is a small viscous drag which depends on the velocity of the
+objects. The gravity of Earth is $g = 9.81\,\mathrm{m/s^2}$ and is parallel to
+the sides of the box.
+
+\begin{center}\includegraphics[width=0.40\linewidth]{figures/EuPhO_2020_Q5_fig1.png}\end{center}
+
+The box can be moved up or down with a piece-wise constant acceleration. The
+acceleration pattern can be programmed through input by giving the duration (in
+seconds) and acceleration (in $\mathrm{m/s^2}$) for each step. The simulation
+shows in ”real time” the force $F$ exerted to the box that is needed to
+maintain the given acceleration at the current moment of time, together with
+the reading of time. The simulation will also output the readings to a text
+file in the same folder as the program. All simulations will always start with
+the same initial configuration for the masses.
+
+\textit{Note}: Every measurement of force $F$ has a small random error. The
+springs are linear for reasonably small deformations, but nonlinear for larger
+deformations. The values $k_1$ and $k_2$ are defined to be the stiffness of
+each spring for small deformations near equilibrium when the box is at rest.
+Force $F$ and acceleration are considered to be positive if they are directed
+upwards. The side length of the box is $0.6\,\mathrm{m}$ and the box is
+initially in the middle of a room with height $3\,\mathrm{m}$. An experiment
+ends automatically if the box hits the ceiling or the floor, or if any of the
+masses collide with the box or with the other mass. The figure is not drawn to
+scale.
+
+{\large\textbf{2.2\quad Task}}
+
+The task is to determine all the parameters: $m_1$, $m_2$, $m_3$, $k_1$, $k_2$.
+You do not need to provide an error analysis for these results.
+
+As with all experiments, you must provide clearly labelled tables of data,
+clearly labelled graphs, and sufficient formulae derivations to make it clear
+what you have measured, and how you are deriving your results.
+
+{\large\textbf{2.3\quad Program Interface}}
+
+Initially, the program asks for a sequence of input actions. You have the
+following possibilities.
+\begin{itemize}
+\item Enter two numbers and press \textbf{return} to add a step to the
+acceleration pattern, for example: \texttt{1.5 -0.4}\\
+The first number should be the \textbf{duration} of the step in seconds (must
+be a multiple of $0.01\,\mathrm{s}$) and the second number should be the
+\textbf{acceleration} in $\mathrm{m/s^2}$ (must be between $-30$ and $30$).
+\item Enter \texttt{repeat} and an integer and press \textbf{return} to repeat
+actions, for example: \texttt{repeat 10}\\
+The integer should be the \textbf{number of times} you want to repeat actions.
+Every repeat action should end with an \texttt{endrepeat} action (see below).
+\item Enter \texttt{endrepeat} to end repeating actions. If you start the
+experiment, all actions between \texttt{repeat} and \texttt{endrepeat} will be
+repeated a given number of times. You cannot repeat actions inside another
+repeat.
+\item Enter \texttt{sample} and a number and press \textbf{return} to change
+the sampling time, for example: \texttt{sample 0.4}\\
+The number should be the new \textbf{sampling time} which is the time after
+which every new reading is output to the text file. The sampling time must be a
+multiple of $0.01\,\mathrm{s}$, which is also the default sampling time.
+\item Enter \texttt{begin} to finish the sequence and start the experiment.
+\end{itemize}
+
+You can also write multiple actions on the same line and then press
+\textbf{return}. For example, you can enter
+
+\texttt{sample 0.4 repeat 10 1.5 0.4 1.5 -0.4 endrepeat begin}
+
+to start an experiment where you change the sampling time to $0.4\,\mathrm{s}$
+and accelerate the box respectively with $a = 0.4\,\mathrm{m/s^2}$ and
+$a = -0.4\,\mathrm{m/s^2}$ ten times.
+
+If you enter an invalid input, you will get one of the following error messages
+and you can try to enter an action again.
+\begin{itemize}
+\item If acceleration is out of range:\\
+\texttt{Acceleration is out of range.}
+\item If duration of acceleration is out of range:\\
+\texttt{Duration is out of range.}
+\item If sampling time is out of range:\\
+\texttt{Sampling time is out of range.}
+\item If the number of repeat times is out of range:\\
+\texttt{Number of repeat times is out of range.}
+\item If you try to repeat actions inside another repeat action:\\
+\texttt{Cannot repeat actions inside another repeat.}
+\item If you try to end repeat without a repeat action to end:\\
+\texttt{Cannot end repeat outside repeat.}
+\item In all other cases:\\
+\texttt{Invalid entry.}
+\end{itemize}
+
+After you enter \texttt{begin}, the program will ask you for a name for the
+output file with the prompt
+
+\texttt{Enter name for output file (e.g. "results"). You should use Latin
+letters and numbers because some special characters are not allowed.}
+
+Enter a name and press \textbf{return}. You are advised to use only Latin
+letters and numbers for the name. Other characters may or may not be allowed in
+the filename and in case of an invalid filename the readings will not be saved.
+The readings will be saved in a \texttt{.txt} file with the given name in the
+same folder as the program.
+
+After this, the program will display
+
+\texttt{Begin experiment.}
+
+and start the experiment. The program will then display the current time since
+the beginning of the experiment (\texttt{Time (s)}), measured value of force
+$F$ (\texttt{Force (N)}) and acceleration of the box
+(\texttt{Accel (m/s\textasciicircum 2)}). The readings will be similarly
+displayed in the text file.
+
+The program will then display one of the following messages.
+\begin{itemize}
+\item If the experiment ended successfully:\\
+\texttt{Experiment ended successfully.}
+\item If the box hit the ceiling:\\
+\texttt{The box hit the ceiling. Experiment ended.}
+\item If the box hit the floor:\\
+\texttt{The box hit the floor. Experiment ended.}
+\item If the masses inside the box collided or one of the masses inside the box
+collided with the box:\\
+\texttt{Masses and/or the box collided. Experiment ended.}
+\end{itemize}
+
+After the experiment ends, you can start another experiment.

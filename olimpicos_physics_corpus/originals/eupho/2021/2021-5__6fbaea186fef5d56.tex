@@ -1,0 +1,102 @@
+{\large\textbf{E2: Hot Cylinder}}
+
+\textbf{Introduction}
+
+A uniform metal rod of length $L = 30\,\mathrm{cm}$ and radius
+$r = 1\,\mathrm{cm}$ is made of an unknown metal and is kept at room temperature
+$T_0 = 26.9\,\mathrm{C} = 300\,\mathrm{K}$. The metal rod is weighed to be
+$m = 460\,\mathrm{g}$. Your task is to determine the thermal properties of the
+unknown metal. The metal rod can be heated at one of its ends, and temperature
+measurements can be performed on customizable locations along the rod. The
+heater is located between $x = 0$ and $x = L_h = 3\,\mathrm{cm}$ (see fig). The
+heater can be programmed by specifying a fixed power (in watts) and the
+duration (in seconds) for which the heater is turned on for. Temperature
+measurements are made by specifying up to five locations for the sensors along
+the rod, alongside with the frequency, starting time and the ending time of the
+measurements. The simulation will show the temperature readings in accelerated
+”real time” (running around 10 times faster than in the real world).
+
+\begin{center}\includegraphics[width=0.34\linewidth]{figures/EuPhO_2021_Q5_fig1.png}\end{center}
+
+You may assume that all of the heating power goes into the rod, and that the
+rod loses heat to its surroundings via heat transfer with air and black body
+radiation. Heat transfer with air is linear in temperature of the rod, and can
+be described by a coefficient $\alpha$ such that the heat transfer per unit area
+per unit time is $\alpha(T - T_0)$. The air is well-ventilated such that
+$\alpha$ can be assumed to be constant throughout the surface of the rod and
+independent of the temperature of the surface. Heat loss via black body
+radiation can be described using the Stefan-Boltzmann law modified with
+emissivity $\beta$ such that the heat loss to radiation per unit area per unit
+time is $\beta\sigma(T^4 - T_0^4)$ where
+$\sigma = 5.67 \times 10^{-8}\,\mathrm{W/(m^2\,K^4)}$. Similar to $\alpha$, the
+emissivity can be assumed to be constant throughout the rod, and independent of
+temperature. The rod is further characterised by the thermal conductivity $k$
+(such that the heat flux density along $x$ is $-k\mathrm{d}T/\mathrm{d}x$) and
+the specific heat capacity $c$.
+
+\textbf{Task}
+
+The task is to determine the specific heat of the unknown metal, $c$ (units
+$\mathrm{J/(K\,kg)}$), the thermal conductivity $k$ (units
+$\mathrm{W/(m\,K)}$), and the heat loss coefficients $\alpha$ (units
+$\mathrm{W/(m^2\,K)}$), and $\beta$ (dimensionless). You should aim to find the
+values within $10\,\%$ of the true value. This is because there are various
+sources of errors, such as Gaussian fluctuations in both defining the locations
+of the sensors, and the taking the temperature measurements. The sizes of the
+errors can be found by observing the fluctuations in the output.
+
+As with all experiments, you must provide clearly labelled tables of data,
+clearly labelled graphs, and sufficient formulae derivations to make it clear
+what you have measured, and how you are deriving your results.
+
+\textbf{Program interface}
+
+Running the simulation program, named \textbf{rod}, allows performing multiple
+experiments on the rod. The program will ask a sequence of prompts regarding the
+setup of the experiment. For each prompt, the corresponding value(s) should be
+entered, followed by pressing \textbf{return} to go the next prompt. The prompts
+are as follows:
+
+1. The heating power of the heater:\\
+\texttt{Enter P (W), between 0 and 300:}
+
+2. The duration after the start of the experiment for which the heater is
+turned on for (after this time, the heater will be turned off):\\
+\texttt{Enter heating duration (s), between 0 and 3600s:}
+
+3. The starting and finishing times (after the start of the experiment) for the
+temperature measurements made on the rod:\\
+\texttt{Enter the starting and finishing time for the measurements (s),
+separated by a space. Must be between 0 and 3600s:}
+
+4. The time interval between two consecutive measurements that are made with
+the temperature sensors:\\
+\texttt{Enter dt (s), between 5 and 3600s and a multiple of 5s:}
+
+5. The locations of the temperature sensors along the rod. The coordinates are
+specified with respect to the end with the heater:\\
+\texttt{Enter up to 5 locations for the sensors (in cm), between L=0 and
+L=30cm, separated by spaces:}\\
+Note that not entering any numbers simply means not taking any measurements.
+
+6. The output file name for the temperature readings. Note that all of the
+saved readings will also be displayed on the screen:\\
+\texttt{Enter the output file name:}\\
+You are advised to only use Latin letters and numbers for the name. Other
+characters may or may not be allowed in the filename and in case of an invalid
+filename, the readings will not be saved. The readings will be saved in a
+\texttt{.txt} file with the given name in the same folder as the program.
+
+If you enter an invalid input, a clarifying error message will be sent, and an
+another opportunity for entering the input will be given.
+
+The program will then prompt to press \textbf{return} to start the experiment,
+or typing \texttt{restart} and pressing \textbf{return} to re-enter all the
+experimental parameters. After continuing with the simulation, the program will
+display a summary of the experimental setup, and then start printing out the
+time elapsed since the heater was turned on (\texttt{t(s)}), and all the sensor
+readings in the same order they were entered in the prompt (\texttt{Ti(C)},
+where i corresponds to the i-th sensor).
+
+After the simulation ends, a new experiment can be started by typing
+\texttt{restart} and pressing \textbf{return}.
