@@ -1,0 +1,37 @@
+A liquid with density $\rho$ flows in a pipe with diameter $D$. At low mean
+speeds $v$, the flow is laminar (uniform and without vortices); the drag force
+per unit area $F_L = \mu\,\mathrm{d}u/\mathrm{d}r$ on the liquid comes from wall
+friction, where $\mu$ (unit Pa$\cdot$s) is the dynamic viscosity, $u$ is the
+local speed, and $r$ is the distance from the axis. When $v$ is large enough, the
+flow becomes turbulent, filled with vortices whose velocity fluctuations are of
+the order of $v$ itself. The drag $F_T$ still comes from wall friction
+$\mu\,\mathrm{d}u/\mathrm{d}r$, but the vortices squeeze the near-wall layer
+(across which the flow speed drops from $v$ to zero) to a thickness
+$\delta \ll D$ where the drag force per unit area $\mu v/\delta$ is of the order
+of the dynamic pressure $\rho v^2$ carried by the vortices.
+
+\task{i)}{1.5} At any given flow speed, only one of the two mechanisms actually
+dominates the drag -- but the dimensionless ratio of the two characteristic drag
+scales, $R = F_T/F_L$, can be computed regardless and tells us which regime we
+are in. This ratio is the Reynolds number. Express $R$ as a product of powers of
+$\rho$, $v$, $D$, and $\mu$.
+
+A water pump with output power $P = 250$~W is used for watering a garden; it
+draws water from a depth $h = 20$~m directly into a hose of length $s = 40$~m and
+inner diameter $d = 13$~mm. Water leaves the end of the hose at a volumetric rate
+$Q = 25~\mathrm{L\cdot min^{-1}}$. Density of water is
+$\rho_w = 1000~\mathrm{kg\cdot m^{-3}}$, viscosity
+$\mu_w = 1.1\times10^{-3}~\mathrm{Pa\cdot s}$ and gravitational acceleration is
+$g = 9.8~\mathrm{N\cdot kg^{-1}}$.
+
+\task{ii)}{0.5} Determine the flow type in the hose. It is known that flow is
+turbulent when $R > 2500$ and laminar otherwise.
+
+\task{iii)}{3} The gardener is cleaning tools by directing the water jet onto
+dirty surfaces. Where the jet meets the surface, the pressure rises above
+atmospheric; this excess pressure is what removes dirt. To make cleaning more
+efficient, the gardener attaches a spray nozzle set to narrow-jet mode, so that
+the exit cross-section of the nozzle is $f = 15\,\%$ of the hose's
+cross-section. By what factor does the volumetric flow rate $Q$ change? By what
+factor does the excess pressure at the dirty surface change? Find both within
+$1\,\%$ accuracy. You are allowed to use numerical methods.
