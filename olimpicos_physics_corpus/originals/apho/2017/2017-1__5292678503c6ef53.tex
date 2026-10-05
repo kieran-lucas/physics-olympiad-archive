@@ -1,0 +1,242 @@
+{\large\textbf{Vortices in superfluid}}
+
+\textbf{Introduction}
+
+Superfluidity is a property of flowing without friction. Everyday experience
+tells us that motion of an ordinary fluid (say, water at room temperature) is
+always accompanied by viscous dissipation of energy, so that the flow gradually
+becomes slower unless it is maintained by external forces. In contrast,
+superfluid exhibits no loss of kinetic energy: once excited the motion of
+superfluid can continue indefinitely. Superfluidity was originally discovered
+experimentally in liquid helium.
+
+We study properties of superfluid helium at zero temperature. It will be
+treated as an incompressible fluid with density $\rho$. Flow continuity (the
+fact that the mass flowing into and the mass flowing out of a given
+infinitesimal volume are equal) implies that the flux of helium velocity
+$\vec{v}$ through a closed surface is always zero. Superfluid velocity in this
+aspect is analogous to the magnetic field intensity. By analogy with the
+magnetic field lines, ``streamlines'' are tangential to the fluid velocity at
+each point and their density is proportional to its magnitude.
+
+True superflow has an important property of being irrotational: circulation of
+superfluid velocity $\vec{v}$ along any closed path within helium is zero
+\begin{equation}
+\int\limits_L \vec{v} \cdot d\vec{l} = 0
+\tag{1}
+\end{equation}
+
+This statement must be amended if superfluidity is absent along a thin
+``vortex filament''. The thickness of the filament itself is of approximately
+atomic dimensions $a$, but the vortex induces long range velocity field in
+surrounding superfluid: velocity circulation around such filament is the
+circulation quantum\footnote{Circulation quantization is a macroscopic quantum
+effect and corresponds to the angular momentum quantization in Bohr model. The
+circulation quantum can be expressed as $\kappa = \hbar/m_{\mathrm{He}}$, where
+$m_{\mathrm{He}}$ is the mass of helium atom.}
+\begin{equation}
+\left| \int\limits_L \vec{v} \cdot d\vec{l} \right| = 2\pi\kappa,
+\tag{2}
+\end{equation}
+and zero if the path can be contracted to a single point without crossing the
+vortex, see Fig. 1. This supports the analogy between superflow and the
+magnetic field created by wires carrying current: superposition of two valid
+velocity distributions is a valid velocity distribution and the velocity at any
+point is equal (up to a dimensional factor) to the magnetic field produced by
+the unit currents running through a system of wires representing vortex
+filaments.
+
+\begin{center}\includegraphics[width=0.31\linewidth]{figures/APhO_2017_Q1_fig1.png}\end{center}
+
+Fig. 1: Vortex filament (red) in superfluid (light blue). Velocity circulations
+along paths $L_1$, $L_2$, $L_5$, and $L_6$ are all zero, but those for $L_3$
+and $L_4$ are equal to $\pm 2\pi\kappa$. Note that circulations along $L_3$ and
+$L_4$ have opposite signs.
+
+\textbf{Part A. Steady filament (0.75 points)}
+
+Consider a cylindrical beaker (radius $R_0 \gg a$) of superfluid helium and a
+straight vertical vortex filament in its center Fig. 2.
+
+\textbf{A.1}\quad Plot the streamlines. Find out the velocity $v$ at a point
+$\vec{r}$. \hfill 0.25pt
+
+\textbf{A.2}\quad Work out the free surface shape (height as a function of
+coordinate $z(\vec{r})$) around the vortex. Free fall acceleration is $g$.
+Surface tension can be neglected. \hfill 0.5pt
+
+\begin{center}\includegraphics[width=0.31\linewidth]{figures/APhO_2017_Q1_fig2.png}\end{center}
+
+\begin{center}Fig. 2: Straight vortex along the axis of a beaker.\end{center}
+
+\textbf{Part B. Vortex motion (1.4 points)}
+
+Free vortices move about in space with the flow\footnote{This is a consequence
+of momentum conservation, see next section.}. In other words each element of
+the filament moves with the velocity $\vec{v}$ of the fluid at the position of
+that element.
+
+As an example, consider a pair of counter-rotating straight vortices placed
+initially at distance $r_0$ from each other, see Fig. 3. Each vortex produces
+velocity $v_0 = \kappa/r_0$ at the axis of another. As a result, the vortex
+pair moves rectilinearly with constant speed $v_0 = \kappa/r_0$ so that the
+distance between them remains unchanged.
+
+\begin{center}\includegraphics[width=0.31\linewidth]{figures/APhO_2017_Q1_fig3.png}\end{center}
+
+\begin{center}Fig. 3: Parallel vortex filaments with opposite circulations.\end{center}
+
+\textbf{B.1}\quad Consider two identical straight vortices initially placed at
+distance $r_0$ from each other as shown in Fig. 4. Find initial velocities of
+the vortices and draw their trajectories. \hfill 0.25pt
+
+\begin{center}\includegraphics[width=0.31\linewidth]{figures/APhO_2017_Q1_fig4.png}\end{center}
+
+\begin{center}Fig. 4: Parallel vortex filaments with equal circulations.\end{center}
+
+A beaker of helium (see Part A) is filled with triangular lattice
+($u \ll R_0$) of identical vertical vortices, see Fig. 5.
+
+\begin{center}\includegraphics[width=0.51\linewidth]{figures/APhO_2017_Q1_fig5.png}\end{center}
+
+\begin{center}Fig. 5: Triangular lattice of vortices in a beaker. The view from above.\end{center}
+
+\textbf{B.2}\quad Draw the trajectories of vortices A, B, and C (located in the
+center). \hfill 0.15pt
+
+\textbf{B.3}\quad Find velocity $v(\vec{r})$ of a vortex positioned at
+$\vec{r}$. \hfill 0.4pt
+
+\textbf{B.4}\quad Find the distance AB$(t)$ between the vortices A and B at
+time $t$. Treat AB$(0)$ as given. \hfill 0.35pt
+
+\textbf{B.5}\quad Work out the \textquotedbl smoothed out\textquotedbl{} (omitting the lattice structure)
+free helium surface shape $z(\vec{r})$. \hfill 0.25pt
+
+\textbf{Part C. Momentum and energy (1.75 points)}
+
+The long range velocity field is the major contribution to the energy of a
+system of vortices, it is insensitive to exact structure of the filament. The
+filament itself can not be properly described by the macroscopic theory and
+apparent singularities (infinities) are insignificant. Real physical
+quantities, such as the energy, of the region inside a thin tube of radius $a$
+around the filament should be neglected. Outside of this tube the density of
+superflow kinetic energy $\rho v^2/2$ (where $\rho = \mathrm{const}$) is
+analogous to the energy density of the magnetic field $B^2/(2\mu_0)$ --- they
+are both quadratic in respective variables. This analogy together with the
+correspondence between magnetic field and superfluid velocity generated by
+vortices (currents) facilitates calculation of the flow energy for a given
+system. For instance, given the inductance of a circular wire loop
+$L \approx \mu_0 R \log(R/a)$, where $R$ is the loop radius and $a$ is wire
+radius, we get the superfluid vortex loop energy\footnote{This expression is
+also valid only if $\log R/a \gg 1$.}
+\begin{equation}
+U \approx 2R\rho\pi^2\kappa^2 \log(R/a)
+\tag{3}
+\end{equation}
+
+Total fluid momentum is also determined by the long range velocity
+distribution. It is obtained by integration of the momentum density
+$\rho\vec{v}$. Again, consider a flow generated by a circular vortex loop placed
+in $xy$ plane. It is obvious from the symmetry considerations, that total
+momentum has only $z$ component:
+\begin{equation}
+P = \int \rho v_z dV = \rho \int\int \underbrace{\left(\int v_z dz\right)}_{q(x,y)} dxdy
+\tag{4}
+\end{equation}
+
+The innermost integration is in fact an integration along appropriate paths
+parallel to $z$-axis, see Fig. 6. From the circulation identity (2) it follows
+that
+\begin{equation}
+q(x,y) = \int\limits_{L(x,y)} \vec{v} \cdot d\vec{l}
+\tag{5}
+\end{equation}
+is piecewise constant. Particularly, it is zero for paths passing outside the
+ring and $2\pi\kappa$ for paths inside it. Total momentum is therefore
+\begin{equation}
+P = \rho \cdot \pi R^2 \cdot 2\pi\kappa = 2\pi^2\rho R^2\kappa
+\tag{6}
+\end{equation}
+
+\begin{center}\includegraphics[width=0.92\linewidth]{figures/APhO_2017_Q1_fig6.png}\end{center}
+
+Fig. 6: Velocity field of a circular vortex loop and integration paths (green)
+for $q(x,y)$ calculation.
+
+\begin{center}\includegraphics[width=0.41\linewidth]{figures/APhO_2017_Q1_fig7.png}\end{center}
+
+\begin{center}Fig. 7: A nearly rectangular vortex loop, $b \ll d$.\end{center}
+
+\textbf{C.1}\quad Consider a nearly rectangular vortex loop $b \times d$,
+$b \ll d$, Fig. 7. Indicate the direction of its momentum $\vec{P}$. Find out
+the momentum magnitude. \hfill 0.3pt
+
+\textbf{C.2}\quad Calculate its energy $U$. \hfill 0.7pt
+
+\textbf{C.3}\quad Suppose we shift a long straight vortex filament by a distance
+$b$ in $x$ direction, see Fig. 8. How much does the fluid momentum change?
+Indicate the momentum change direction. The filament length (constrained by the
+vessel walls) is $d$. \hfill 0.75pt
+
+\begin{center}\includegraphics[width=0.30\linewidth]{figures/APhO_2017_Q1_fig8.png}\end{center}
+
+\begin{center}Fig. 8: Momentum changes whenever the vortex shifts with respect to the fluid.\end{center}
+
+\textbf{Part D. Trapped charges (2.85 points)}
+
+Electrons, if injected in helium, get trapped in the vortex filaments. Here
+and below polarizability of helium can be neglected ($\epsilon = 1$).
+
+\begin{center}\includegraphics[width=0.51\linewidth]{figures/APhO_2017_Q1_fig9.png}\end{center}
+
+\begin{center}Fig. 9: Straight vortex in a uniform electric field.\end{center}
+
+\textbf{D.1}\quad Consider a straight vortex charged with uniform linear
+density $\lambda < 0$ in a uniform electric field $\vec{E}$. Draw the vortex
+trajectory. Find its velocity as a function of time. \hfill 0.5pt
+
+A circular vortex loop of radius $R_0$ initially charged with uniform linear
+density $\lambda < 0$ is placed in a uniform electric field $\vec{E}$
+perpendicular to its plane, opposite to its momentum $\vec{P}_0$.
+
+\begin{center}\includegraphics[width=0.72\linewidth]{figures/APhO_2017_Q1_fig10.png}\end{center}
+
+\begin{center}Figure 10: (left) Vortex ring in a uniform electric field. (right) Cross section of the ring.\end{center}
+
+\textbf{D.2}\quad Draw the trajectory of the loop center $C$. Find the radius
+of the loop as a function of time. \hfill 0.6pt
+
+\textbf{D.3}\quad Find its velocity $v(t)$ as a function of time. \hfill 1.5pt
+
+\textbf{D.4}\quad The field is switched off at a time $t^*$ when the velocity
+reaches the value $v^* = v(t^*)$. Find the loop velocity $v(t)$ at a later
+time $t > t^*$. \hfill 0.25pt
+
+\textbf{Part E. Influence of the boundaries (3.25 points)}
+
+Solid walls alter the velocity field created by a vortex filament, because the
+fluid cannot flow through them. Mathematically this means that the wall-normal
+velocity component vanishes at the wall surface.
+
+\begin{center}\includegraphics[width=0.31\linewidth]{figures/APhO_2017_Q1_fig11.png}\end{center}
+
+\begin{center}Fig. 11: Straight vortex filament near a flat wall.\end{center}
+
+\textbf{E.1}\quad Draw the trajectory of a straight vortex, initially placed at
+a distance $h_0$ from a flat wall. Find its velocity as a function of time.
+\hfill 0.5pt
+
+Consider a straight vortex placed in a corner at a distance $h_0$ from both
+walls.
+
+\begin{center}\includegraphics[width=0.31\linewidth]{figures/APhO_2017_Q1_fig12.png}\end{center}
+
+\begin{center}Fig. 12: Straight vortex filament in a corner.\end{center}
+
+\textbf{E.2}\quad What is the initial velocity $v_0$ of the vortex? \hfill 0.75pt
+
+\textbf{E.3}\quad Draw the trajectory of the vortex. \hfill 0.5pt
+
+\textbf{E.4}\quad What is the velocity of the vortex $v_\infty$ after very long
+time? \hfill 1.5pt
