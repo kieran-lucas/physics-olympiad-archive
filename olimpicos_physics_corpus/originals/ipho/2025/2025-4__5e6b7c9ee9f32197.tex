@@ -1,0 +1,263 @@
+{\large\textbf{Earth's magnetic field measurement (10 points)}}
+
+\textbf{Introduction}
+
+This problem aims to measure the horizontal component of the Earth's magnetic
+field. A magnet will first be characterized using a so called Gouy balance,
+before being used to measure this magnetic field.
+
+In the entire problem, uncertainties are expected to be determined only from
+the fits and not from the individual experimental points.
+
+\textbf{Equipment list}
+
+\begin{center}\includegraphics[width=0.99\linewidth]{figures/IPhO_2025_Q4_fig1.jpg}\end{center}
+
+\begin{center}\textbf{Fig. 1.} Photographs of all equipment.\end{center}
+
+The list of equipment is given below and illustrated in Fig. 1. The number of
+items is indicated between [] when it is greater than one. Students should ask
+for help if something appears not to be working.
+\begin{itemize}
+\item \textbf{(a)} Magnets [3]. One magnet is attached to the force sensor (b)
+and should not be removed. Another magnet is inserted into the pod (f) and
+should not be removed until specified. The last one will be used in A.5. All
+magnets are supposed identical.
+\item \textbf{(b)} Force sensor. Connected to the Arduino (c), this sensor
+measures the force along its axis, noted $m_\mathrm{f}$, in grams-force (\textquotedbl g\textquotedbl),
+which is the force experienced by a 1-gram mass on the earth's surface in the
+gravity field ($g_0 = 9.81\,\mathrm{m\cdot s^{-2}}$) . One of the magnets (a)
+is attached to it. Each time it is switched back on, the sensor display is
+reset to 0, regardless of the situation. \textit{This sensor must not be
+subjected to forces in excess of 200 grams. It needs to be unpacked
+carefully.}
+\item \textbf{(c)} Arduino with digital display. This element is used to power
+the coils (e) and to perform force and magnetic field measurements, displayed
+directly in gram-force (\textquotedbl g\textquotedbl) and mT. The battery (j) powering the Arduino must
+be connected to slot (i), and the battery (j) powering the coils (e) to slot
+(ii) (pay attention to connection polarity). The force sensor (b) and magnetic
+field sensor (d) should be connected to slots (iv) and (iii) respectively, and
+the coil power cables to slots (v). A switch (vi) closes the coil supply
+circuit (indicated by an LED), whose electric current can be controlled in
+(vii).
+\item \textbf{(d)} Magnetic field sensor with ruler. Connected to the Arduino
+(c), this probe measures the field $B_z$ along the direction
+$\overrightarrow{e_z}$ of the ruler, in mT.
+\item \textbf{(e)} Coils in anti-Helmholtz configuration (wound in opposite
+directions). These coils must be connected in series with the ammeter (g) and
+to the Arduino (c) to create a magnetic field.
+\item \textbf{(f)} Metallic stand on a wooden base, with suspended pod where a
+magnet (a) is initially inserted, and with angle markers. The detailed assembly
+of this device is explained below.
+\item \textbf{(g)} Multimeter. Only used as an ammeter at the
+$10\,\mathrm{A}$ range. If left inactive, the multimeter switches off, and must
+be switched back on by returning it to the “OFF” position. Do not use the two
+cables supplied in the multimeter case.
+\item \textbf{(h)} Electric wires [3].
+\item \textbf{(i)} $40\,\mathrm{cm}$ ruler.
+\item \textbf{(j)} $9\,\mathrm{V}$ batteries [3]. Their capacity is of the
+order of $300\,\mathrm{mA\cdot h}$.
+\item \textbf{(k)} Chronometer.
+\item \textbf{(l)} Adhesive paste. Can be used for the entire problem.
+\end{itemize}
+
+\begin{center}\includegraphics[width=1.0\linewidth]{figures/IPhO_2025_Q4_fig2.jpg}\end{center}
+
+\begin{center}\textbf{Fig. 2.} Use of sensors inside the anti-Helmholtz coils.\end{center}
+
+\textbf{Use of sensors interfaced with the Arduino (Fig. 2)}
+
+The magnetic field sensor (d) can slide in the coils (e) as shown in (i), while
+measuring the field on their axis. The $z = 0$ position for the sensor is shown
+in (ii), and $z$ increases as it moves inside the coils.
+
+The force sensor (b) is inserted into the coils as shown in (iii), before
+turning the coil as in (iv) so that the transducer is vertical. \textit{To do
+this, be sure to route the electrical wires through the gutters provided.}
+
+\textbf{Installation of equipment (f) (Fig. 3), to be mounted only before
+starting part B, with a $34\,\mathrm{cm}$ wire}
+\begin{itemize}
+\item Insert the metal post (f0a) into the wooden plate with plastic feet (f0b)
+to form the stand (f0).
+\item The part (f1) is located on the lower part and marks the angle of the
+pod. Install the arm (f1b) on the metal post by means of a screw (f4), then fix
+the part (f1a) on it with a second screw (f4).
+\item The part (f2) is located on the upper part and hold the wire supporting
+the pod. Install the arm (f2b) on the metal post by means of a screw (f4), then
+insert the part (f2a) on it.
+\item To build the pod (f3), insert the inertia bar (f3b) and a toothpick (f3c)
+into the carrier part (f3a) on which a magnet (a) is already inserted. Insert
+the wire supporting the pod into the part (f2a), and secure it with a screw
+(f4). Turning part (f2a) changes the angle at which the wire is attached. The
+toothpick allows to precisely measure the angular position of the pod.
+\end{itemize}
+
+\begin{center}\includegraphics[width=0.95\linewidth]{figures/IPhO_2025_Q4_fig3.jpg}\end{center}
+
+\textbf{Fig. 3.} Installation of the pod on the metallic stand. Parts (f1a),
+(f1b), (f2a), (f2b), and (f3a) are shown from two different angles. There are
+four identical (f4) plastic screws.
+
+\textbf{Part A. Gouy balance and magnetic moment}
+
+\textbf{Modeling}
+
+We assume that a magnet can be treated as a magnetic dipole of magnetic moment
+$\overrightarrow{m}_\mathrm{m}$. The force experienced by such a dipole of
+magnetic moment $\overrightarrow{m}_\mathrm{m} = m_\mathrm{m}\overrightarrow{e_z}$
+in a magnetic field $\overrightarrow{B} = B(z)\overrightarrow{e_z}$ is
+\begin{equation}
+\overrightarrow{F}(z) = m_\mathrm{m}\frac{dB(z)}{dz}\overrightarrow{e_z}\,. \tag{1}
+\end{equation}
+When an electric current $i$ flows through the anti-Helmholtz coils, the field
+$\overrightarrow{B}$ along the unit vector $\overrightarrow{e_z}$ of revolution
+axis is
+\begin{equation}
+\overrightarrow{B}(z) = \alpha\, i(z - z_0)\overrightarrow{e_z}\,. \tag{2}
+\end{equation}
+This equation is only valid near the center of the device, denoted by
+$z = z_0$.
+
+\textbf{Magnetic field in the coils}
+
+\textbf{A.1}\quad Estimate numerically the typical operating time $\tau$ of one
+of the batteries used in the experiment, with an electric current of the order
+of $2\,\mathrm{A}$. \hfill 0.2pt
+
+\textit{This result must be taken into account when developing the protocols
+later on, knowing that the coils are only used in part A. Note that a spare
+battery is available if required.}
+
+Insert the magnetic field sensor into the coils, as shown in Fig 2. See also
+this figure for the identification of the sensor position in the coils.
+
+\textbf{A.2}\quad At a fixed electric current $i_0 \simeq 1.0\,\mathrm{A}$,
+measure and plot the magnetic field $B_z$ as a function of the position $z$ of
+the sensor on the axis of the coils. Identify the largest region
+$[z_\text{min}, z_\text{max}]$ where the magnetic field is experimentally
+linear with respect to position. \hfill 0.8pt
+
+\textbf{A.3}\quad By placing the sensor at two positions $(z_1, z_2)$ in this
+region of linear dependency, draw a curve to verify the electric current
+dependency of $\overrightarrow{B}$ given by equation (2), and determine the
+value of $\alpha$, with its uncertainty. \hfill 0.9pt
+
+\textbf{Gouy balance}
+
+Remove the magnetic field sensor from the coils, and carefully place the force
+sensor inside, as described in Fig. 2, with particular attention to the
+placement of electrical wires in the gutters.
+
+\textbf{A.4}\quad Perform experimental measurements of the gram-force
+$m_\mathrm{f}$ as a function of current $i$. Draw an appropriate plot to
+determine the value of the magnetic moment $m_\mathrm{m}$ of the magnet, with
+its uncertainty. \hfill 0.8pt
+
+\textbf{Alternative measurement of the magnetic moment}
+
+In the dipolar approximation, the magnetic field of a magnet of magnetic moment
+$m_\mathrm{m}$ on its revolution axis $z$ is
+\begin{equation}
+B_z(z) = \frac{\mu_0 m_\mathrm{m}}{2\pi(z - z_\mathrm{a})^3}, \tag{3}
+\end{equation}
+where $z_\mathrm{a}$ is not necessarily the geometric center of the magnet, and
+where $\mu_0 = 4\pi 10^{-7}\,\mathrm{H\cdot m^{-1}}$.
+
+\textbf{A.5}\quad Measure the magnetic field $B_z$ along the revolution axis of
+the free magnet, as a function of distance $z$. Draw a curve to verify the
+model given Eq. (3), showing its experimental deviations. Deduce a new value for
+$m_\mathrm{m}$, with uncertainty. \hfill 1.3pt
+
+\textbf{A.6}\quad Given the two results obtained in A.4 and A.5, propose a final
+experimental value of $m_\mathrm{m}$ with its uncertainty. \hfill 0.2pt
+
+\textbf{Part B. Determining the earth's magnetic field}
+
+\textbf{Modeling}
+
+We now study the oscillating motion of the magnet in a horizontal plane to
+estimate the value of the horizontal component $B_\mathrm{e}$ of the Earth's
+magnetic field, see Fig. 3 and the assembly instructions above Fig.3. The pod
+(f3), containing the magnet, is subjected to two torques around the vertical
+axis:
+\begin{itemize}
+\item the torque of the wire, modeled as
+$\varGamma_\mathrm{f} = -\frac{C_\mathrm{f}}{L}(\theta - \theta_0)$, where
+$C_\mathrm{f}$ is a constant and $L$ the total length between the two
+attachments of the wire, and $\theta_0$ corresponds to the angle for which the
+wire is not twisted,
+\item the torque of the Earth’s magnetic fields, given by
+$\varGamma_\mathrm{e} = -m_\mathrm{m}B_\mathrm{e}\sin(\theta - \theta_\mathrm{e})$,
+when the angular position of the Earth's magnetic field is given by the angle
+$\theta_\mathrm{e}$.
+\end{itemize}
+Denoting $J$ the unknown moment of inertia of the pod and magnet assembly
+around the vertical axis, the angular momentum theorem gives
+\begin{equation}
+J\frac{\mathrm{d}^2\theta}{\mathrm{d}t^2} = \varGamma_f + \varGamma_e
+= -\frac{C_\mathrm{f}}{L}(\theta - \theta_0)
+- m_\mathrm{m}B_\mathrm{e}\sin(\theta - \theta_\mathrm{e}). \tag{4}
+\end{equation}
+When the $\sin(\theta - \theta_\mathrm{e}) \simeq \theta - \theta_\mathrm{e}$
+approximation is valid, this leads to an sinusoidal oscillation at a period
+$T$. For this part, adhesive past (l) is moldable into any shape or size and
+attachable to other devices.
+
+\textit{Caution:}\quad To avoid disturbance from external magnetic fields, the
+magnet must be placed at least $20\,\mathrm{cm}$ away from any metal object or
+magnetic source (including the other magnets).
+
+\textbf{Experimental set-up and first measurement}
+
+\textit{For questions B.1 to B.5, set the length of the wire to
+$L = 34\,\mathrm{cm}$ and make sure that it is not twisted. In this setting, we
+begin by assuming that the torque from the wire is negligible with respect to
+the torque from the Earth's magnetic field, a hypothesis to which we will
+return later.}
+
+To align $\theta_0$ with $\theta_\mathrm{e}$, use piece (f2a) to adjust
+$\theta_0$ so the pod (f3) does not rotate when the magnet is removed. Then
+reinsert the magnet in the pod, and keep $\theta_0$ unchanged until question
+B.5.
+
+\textbf{B.1}\quad Propose an experimental protocol to determine
+$B_\mathrm{e}$. Introduce the different quantities you will measure and their
+units. Depict these quantities on a detailed schematic, and relate them to
+those given in the instructions through an equation. For each quantity, specify
+whether it is fixed (F) or varies (V) throughout the protocol. \hfill 0.3pt
+
+\textbf{B.2}\quad Using the protocol described above, draw a graph to determine
+a first value of $B_\mathrm{e}$, with its uncertainty. \hfill 1.1pt
+
+\textbf{Evaluation of the torque from the wire}
+
+\textbf{B.3}\quad Keeping $L = 34\,\mathrm{cm}$, study the motion of the pod
+without the magnet, and determine the value of $C_\mathrm{f}$, with
+experimental uncertainty: perform one period measurement for two system
+configurations. Specify the equation relating $C_\mathrm{f}$ to the measured
+quantities. \hfill 0.7pt
+
+\textbf{B.4}\quad Using previous measurements, give the expression and
+determine numerically the critical length $L_\mathrm{c}$ for which the
+amplitude factors $C_\mathrm{f}/L$ and $m_\mathrm{m}B_\mathrm{e}$ of the
+$\varGamma_\mathrm{f}$ and $\varGamma_\mathrm{e}$ torques are equal. In
+question B.2, what was the ratio $(C_\mathrm{f}/L)/(m_\mathrm{m}B_\mathrm{e})$
+? Choose from the intervals: [0\,\%, 1\,\%[ ; [1\,\%, 5\,\%[ ; [5\,\%, 20\,\%[ ;
+[20\,\%, 50\,\%[ ; [50\,\%, $\infty$\%[. \hfill 0.3pt
+
+\textbf{Static regime measurement}
+
+We now propose a static measurement of the Earth's magnetic field. Reinsert the
+magnet into the pod. Use piece (f2a) in Fig. 3 to adjust the angular position
+$\theta_0$, causing the wire to twist.
+
+\textbf{B.5}\quad Still at a fixed length of $L = 34\,\mathrm{cm}$, draw an
+appropriate plot to study how the equilibrium position of the magnet
+$\theta_\mathrm{eq}$ depends on the angle $\theta_0$, and determine a second
+value of $B_\mathrm{e}$, with its uncertainty. \hfill 1.1pt
+
+\textbf{B.6}\quad Vary the length $L$ and repeat the previous study for two
+other lengths to verify the $L$ dependence of the wire torque. Using a final
+graph that summarizes all the dependencies, determine a new value for
+$B_\mathrm{e}$ , with its uncertainty. \hfill 2.3pt

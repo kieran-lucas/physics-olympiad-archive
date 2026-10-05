@@ -1,0 +1,168 @@
+{\large\textbf{Strongly correlated Fermi gases (10.0 points)}}
+
+Despite twenty orders of magnitude of difference in density, it can be shown
+that laser cooled atoms and nuclear matter in neutron star share the same
+equation of state characterized by a single numerical parameter called
+Bertsch's parameter. In this problem we show how precise measurements on
+ultracold vapours allowed for an accurate determination of this parameter using
+tabletop experiments.
+
+\begin{center}\includegraphics[width=0.5\linewidth]{figures/IPhO_2025_Q6_fig1.jpg}\end{center}
+
+Fig. 1. Images of a Bose-Einstein condensate of ${}^7\mathrm{Li}$ atoms (top),
+immersed in a gas of fermionic ${}^6\mathrm{Li}$ atoms (bottom) both confined in
+the same magnetic trap. The condensate (narrow central peak) comprises
+$1 \times 10^4$ atoms, and the broad pedestal corresponds to the uncondensed
+atoms. The larger axial extension of the fermion cloud ($2.5 \times 10^4$ atoms)
+reflects the Fermi pressure resulting from Pauli Principle preventing two
+fermions from occupying the same state.
+
+% script E printed as ℰ throughout; \mathcal{E} is the closest symbol in the allowed packages
+\textbf{A. Thermodynamics of a non-interacting quantum gas}
+
+Consider a quantum particle of mass $m$ confined in a cubic box of size $L$. We
+consider first that the motion of the particle is restricted along the $x$ axis
+and we assume that the wave function of the particle can be described in
+complex notations by a plane wave
+\begin{equation}
+\psi(x) = Ae^{ik_x x} + Be^{-ik_x x}. \tag{1}
+\end{equation}
+Here $k_x$ is positive and we note $\lambda$ the associated wavelength.
+
+\textbf{A.1}\quad Express the kinetic energy $K_x$ of the particle as a function
+of $h$, $\lambda$ and $m$. \hfill 0.5pt
+
+Since the particle cannot leave the box, we assume that $\psi(0) = \psi(L) = 0$.
+
+\textbf{A.2}\quad Show that $k_x = k_1 n_x$, where $n_x$ is a strictly positive
+integer. \hfill 0.6pt
+
+We assume that the previous result is valid in all three $x$, $y$ and $z$
+directions.
+
+\textbf{A.3}\quad Represent the quantum states in the $(k_x, k_y, k_z)$ phase
+space. Express with $L$ the volume $(\varDelta k)^3$ occupied by each state.
+\hfill 0.7pt
+
+We consider fermionic atoms that, like electrons, obey Pauli's Exclusion
+Principle, meaning that we can only put two atoms per quantum state. We assume
+that the states are filled one by one with increasing energy.
+
+Consider a number $N \gg 1$ of atoms. We call $\mathcal{E}_F$ (the Fermi energy)
+the energy of the last occupied state. We also define the so-called Fermi
+momentum $k_F$ by $\mathcal{E}_F = \dfrac{\hbar^2 k_F^2}{2m}$.
+
+\textbf{A.4}\quad Represent the states with energy lower than $\mathcal{E}_F$ in
+$\overrightarrow{k}$-space. Deduce the expression of $\mathcal{E}_F$ with $N$.
+\hfill 1.4pt
+
+We add a small number of atoms $\mathrm{d}N \ll N$ to the system.
+
+\textbf{A.5}\quad Express the increase in energy $\mathrm{d}\mathcal{E}$ in the
+system as a function of $\mathcal{E}_F(N)$. Show that the energy $\mathcal{E}$
+is given by
+\begin{equation}
+\mathcal{E}(N) = \kappa N \mathcal{E}_F(N) \tag{2}
+\end{equation}
+for some number $\kappa$. \hfill 0.8pt
+
+We note $P$ the pressure of the gas.
+
+\textbf{A.6}\quad Express the energy variation $\mathrm{d}\mathcal{E}$ for a
+change in volume $\mathrm{d}V$. Deduce the expression of the pressure as a
+function of density $n = N/L^3$. \hfill 0.8pt
+
+We now consider the case of interacting atoms. The interactions are described
+by an attractive interatomic potential $V(\overrightarrow{r})$ of typical range
+$r_e \simeq a_0$. In the so-called ultra-cold regime, the atomic wavelength is
+much larger than $r_e$. As a consequence, the matter waves cannot resolve the
+details of the potential and one can show that the effect of the interactions
+can be encapsulated in the coupling constant
+\begin{equation}
+g = \iiint_{\mathbb{R}^3} V\left(\overrightarrow{r}\right) \mathrm{d}^3\overrightarrow{r}. \tag{3}
+\end{equation}
+Furthermore, we conventionally take $g = \dfrac{4\pi\hbar^2 a}{m}$ , which
+defines $a$.
+
+Using a dimensional argument, one can show that the energy of the interacting
+cloud can be written as
+\begin{equation}
+\mathcal{E} = \kappa N \mathcal{E}_F(N)\, f\left(\frac{1}{na^\alpha}\right), \tag{4}
+\end{equation}
+where $\kappa$ and $\mathcal{E}_F$ were introduced in questions A.4 and A.5, and
+$f$ depends only on $\dfrac{1}{na^\alpha}$.
+
+\textbf{A.7}\quad Give the value of $\alpha$. \hfill 0.4pt
+
+The so-called unitary limit corresponds to a regime where $a = \infty$. We
+assume that the function $f$ has a finite value in this limit and we define
+$\xi = f(0)$ the so-called Bertsch parameter.
+
+\textbf{A.8}\quad Show that, at the unitary limit, the properties of the
+interacting cloud are identical to those of a noninteracting system up to a
+rescaling of Planck's constant $\hbar \to \xi^\gamma \hbar$. Give the value of
+$\gamma$. \hfill 0.6pt
+
+\textbf{B. Thermodynamics of a trapped quantum gas}
+
+We now consider that the atoms are confined by a single-particle optical
+potential $U(\overrightarrow{r})$. We assume that the cloud can be locally
+considered as homogeneous and that the results of Part A are still applicable
+locally. We consider first the case of a non-interacting Fermi gas.
+
+Consider first the case of a one-dimensional potential $U(x)$, with
+$U(0) = 0$. We assume that the cloud is homogeeous in the $(y, z)$ direction and
+we note $\varSigma$ the area of the cloud in the $(y, z)$ plane. Let's consider
+the volume of the cloud comprised between $x$ and $x + \mathrm{d}x$.
+
+\textbf{B.1}\quad Write the total forces exerted on the atoms and show that the
+density $n(\overrightarrow{r})$ is given by
+\begin{equation}
+n(\overrightarrow{r}) = A(\mathcal{E}_F(0) - U(\overrightarrow{r}))^{3/2}, \tag{5}
+\end{equation}
+where $\mathcal{E}_F(0)$ is the Fermi energy at the trap center. Give the
+expression of $A$. \hfill 1.5pt
+
+We assume that this expression holds for a general potential
+$U(\overrightarrow{r})$ depending on the three coordinates $(x, y, z)$. If the
+the cloud is sufficiently small we can furthermore approximate $U$ by a
+harmonic potential close to its minimum. We thus take
+\begin{equation}
+U(\overrightarrow{r}) = \frac{m}{2} \sum_{i=x,y,z} \omega_i^2 x_i^2. \tag{6}
+\end{equation}
+
+\textbf{B.2}\quad Find the equation defining the surface of the cloud. Give the
+expression of the radius $R_i$ of the cloud in the direction $i = x, y, z$ as a
+function of $\mathcal{E}_F(0)$, $m$ and $\omega_i$. \hfill 0.7pt
+
+Using the previous question, one can prove that after a proper spatial
+rescaling, the system can be mapped onto a gas of fermions trapped in an
+isotropic harmonic potential of frequency
+$\bar{\omega} = (\omega_x \omega_y \omega_z)^{1/3}$.
+
+\textbf{B.3}\quad Calculate the total atom number as a spatial integral by
+decomposing the cloud into infinitesimal shells of radius $r$ and thickness
+$dr$, and show that
+\begin{equation}
+\mathcal{E}_F(0) = \hbar\bar{\omega}(3N)^\mu, \tag{7}
+\end{equation}
+where you will give the value of the exponent $\mu$. \textit{Hint}: we give
+\begin{equation}
+\int_0^1 r^2(1 - r^2)^{3/2}\mathrm{d}r = \frac{\pi}{32}. \tag{8}
+\end{equation}
+\hfill 1.1pt
+
+It is possible to change the value of $a$ using an external magnetic field
+$\overrightarrow{B}$. In the case of fermionic \textsuperscript{6}Li, the
+unitary limit is reached for
+$B = \left\|\overrightarrow{B}\right\| = 8.32 \times 10^{-2}\,\mathrm{T}$ and
+the cloud behaves as a non-interacting gas at high field.
+
+\begin{center}\includegraphics[width=0.75\linewidth]{figures/IPhO_2025_Q6_fig2.png}\end{center}
+
+Fig. 2. Density profile of a cloud of $7 \times 10^4$ fermionic lithium atoms
+for various external magnetic fields (figure from Bourdel \textit{et al.} Phys.
+Rev. Lett. \textbf{93}, 050401 (2004)).
+
+\textbf{B.4}\quad Express the ratio $\dfrac{R(a = \infty)}{R(a = 0)}$ with
+$\xi$ and deduce from the data of Fig. 2 an estimate of $\xi$. \hfill 0.9pt

@@ -1,0 +1,247 @@
+{\large\textbf{Hydrogen and galaxies (10 points)}}
+
+This problem aims to study the peculiar physics of galaxies, such as their
+dynamics and structure. In particular, we explain how to measure the mass
+distribution of our galaxy from the inside. For this we will focus on hydrogen,
+its main constituent.
+
+Throughout this problem we will only use $\hbar$, defined as $\hbar = h/2\pi$.
+
+\textbf{Part A - Introduction}
+
+\textbf{Bohr model}
+
+We assume that the hydrogen atom consists of a non-relativistic electron, with
+mass $m_e$, orbiting a fixed proton. Throughout this part, we assume its motion
+is on a circular orbit.
+
+\textbf{A.1}\quad Determine the electron's velocity $v$ in a circular orbit of
+radius $r$. \hfill 0.2pt
+
+In the Bohr model, we assume the magnitude of the electron's angular momentum
+$L$ is quantized, $L = n\hbar$ where $n > 0$ is an integer. We define
+$\alpha = \frac{e^2}{4\pi\varepsilon_0\hbar c} \approx 7.27 \times 10^{-3}$.
+
+\textbf{A.2}\quad Show that the radius of each orbit is given by
+$r_n = n^2 r_1$, where $r_1$ is called the Bohr radius. Express $r_1$ in terms
+of $\alpha$, $m_e$, $c$ and $\hbar$ and calculate its numerical value with 3
+digits. Express $v_1$, the velocity on the orbit of radius $r_1$, in terms of
+$\alpha$ and $c$. \hfill 0.5pt
+
+\textbf{A.3}\quad Determine the electron's mechanical energy $E_n$ on an orbit
+of radius $r_n$ in terms of $e$, $\varepsilon_0$, $r_1$ and $n$. Determine $E_1$
+in the ground state in terms of $\alpha$, $m_e$ and $c$. Compute its numerical
+value in eV. \hfill 0.5pt
+
+\textbf{Hydrogen fine and hyperfine structures}
+
+The rare spontaneous inversion of the electron's spin causes a photon to be
+emitted on average once per 10 million years per hydrogen atom. This emission
+serves as a hydrogen tracer in the universe and is thus fundamental in
+astrophysics. We will study the transition responsible for this emission in two
+steps.
+
+First, consider the interaction between the electron spin and the relative
+motion of the electron and the proton. Working in the electron's frame of
+reference, the proton orbits the electron at a distance $r_1$. This produces a
+magnetic field $\overrightarrow{B}_1$.
+
+\textbf{A.4}\quad Determine the magnitude $B_1$ of $\overrightarrow{B}_1$ at the
+position of the electron in terms of $\mu_0$, $e$, $\alpha$, $c$ and $r_1$.
+\hfill 0.5pt
+
+% script M printed as ℳ; \mathcal{M} is the closest symbol in the allowed packages
+Second, the electron spin creates a magnetic moment
+$\overrightarrow{\mathcal{M}}_s$. Its magnitude is roughly
+$\mathcal{M}_s = \frac{e}{m_e}\hbar$. The \textit{fine} (F) structure is related
+to the energy difference $\varDelta E_\mathrm{F}$ between an electron with a
+magnetic moment $\overrightarrow{\mathcal{M}}_s$ parallel to
+$\overrightarrow{B}_1$ and that of an electron with
+$\overrightarrow{\mathcal{M}}_s$ anti-parallel to $\overrightarrow{B}_1$.
+Similarly, the \textit{hyperfine} (HF) structure is related to the energy
+difference $\varDelta E_\mathrm{HF}$, due to the interaction between parallel
+and anti-parallel magnetic moments of the electron and the proton. It is known
+to be approximately
+$\varDelta E_\mathrm{HF} \simeq 3.72\frac{m_e}{m_p}\varDelta E_\mathrm{F}$
+where $m_p$ is the proton mass.
+
+\textbf{A.5}\quad Express $\varDelta E_\mathrm{F}$ as a function of $\alpha$ and
+$E_1$.\\
+Express the wavelength $\lambda_\mathrm{HF}$ of a photon emitted during a
+transition between the two states of the hyperfine structure and give its
+numerical value with two digits. \hfill 0.5pt
+
+\textbf{Part B - Rotation curves of galaxies}
+
+\textbf{Data}
+\begin{itemize}
+\item Kiloparsec: $1\,\mathrm{kpc} = 3.09 \times 10^{19}\,\mathrm{m}$
+\item Solar mass : $1\,\mathrm{M}_\odot = 1.99 \times 10^{30}\,\mathrm{kg}$
+\end{itemize}
+
+We consider a spherical galaxy centered around a fixed point $O$. At any point
+$P$, let $\rho = \rho(P)$ be the volumetric mass density and
+$\varphi = \varphi(P)$ the associated gravitational potential (i.e.\ potential
+energy per unit mass). Both $\rho$ and $\varphi$ depend only on
+$r = \left\|\overrightarrow{OP}\right\|$. The motion of a mass $m$ located at
+$P$, due to the field $\varphi$, is restricted to a plane containing $O$.
+
+\textbf{B.1}\quad In the case of a circular orbit, determine the velocity $v_c$
+of an object on a circular orbit passing through $P$ in terms of $r$ and
+$\dfrac{d\varphi}{dr}$. \hfill 0.2pt
+
+Fig.~1(A) is a picture of the spiral galaxy NGC 6946 in the visible band (from
+the $0.8\,\mathrm{m}$ Schulman Telescope at the Mount Lemmon Sky Center in
+Arizona). The little ellipses in Fig.~1(B) show experimental measurements of
+$v_c$ for this galaxy. The central region ($r < 1\,\mathrm{kpc}$) is named the
+bulge. In this region, the mass distribution is roughly homogeneous. The red
+curve is a prediction for $v_c$ if the system were homogeneous in the bulge and
+keplerian ($\varphi(r) = -\beta/r$ with $\beta > 0$) outside it, i.e.\
+considering that the total mass of the galaxy is concentrated in the bulge.
+
+\begin{center}\includegraphics[width=0.86\linewidth]{figures/IPhO_2025_Q1_fig1.png}\end{center}
+
+\begin{center}\textbf{Fig.~1}: NGC 6946 galaxy: Picture (A) and rotation curve (B).\end{center}
+
+\textbf{B.2}\quad Deduce the mass $M_b$ of the bulge of NGC 6946 from the red
+rotation curve in Fig.~1(B), in solar mass units. \hfill 0.5pt
+
+Comparing the keplerian model and the experimental data makes astronomers
+confident that part of the mass is invisible in the picture. They thus suppose
+that the galaxy's actual mass density is given by
+\begin{equation}
+\rho_m(r) = \frac{C_m}{r_m^2 + r^2} \tag{1}
+\end{equation}
+where $C_m > 0$ and $r_m > 0$ are constants.
+
+\textbf{B.3}\quad Show that the velocity profile $v_{c,m}(r)$, corresponding to
+the mass density in Eq.~1, can be written
+$v_{c,m}(r) = \sqrt{k_1 - \frac{k_2\cdot\arctan(\frac{r}{r_m})}{r}}$. Express
+$k_1$ and $k_2$ in terms of $C_m$, $r_m$ and $G$.\\
+( Hints: $\displaystyle\int_0^r \frac{x^2}{a^2 + x^2} dx = r - a\arctan(r/a)$,
+and: $\arctan(x) \simeq x - x^3/3$ for $x \ll 1$. )
+
+Simplify $v_{c,m}(r)$ when $r \ll r_m$ and when $r \gg r_m$.\\
+Show that if $r \gg r_m$, the mass $M_m(r)$ embedded in a sphere of radius $r$
+with the mass density given by Eq.~1 simplifies and depends only on $C_m$ and
+$r$.\\
+Estimate the mass of the galaxy NGC 6946 actually present in the picture in
+Fig.~1(A). \hfill 1.8pt
+
+\textbf{Part C - Mass distribution in our galaxy}
+
+For a spiral galaxy, the model for Eq.~1 is modified and one usually considers
+the gravitational potential is given by
+$\varphi_G(r,z) = \varphi_0 \ln\left(\dfrac{r}{r_0}\right)
+\exp\left[-\left(\dfrac{z}{z_0}\right)^2\right]$, where $z$ is the distance to
+the galactic plane (defined by $z = 0$ ), and $r < r_0$ is now the axial radius
+and $\varphi_0 > 0$ a constant to be determined. $r_0$ and $z_0$ are constant
+values.
+
+\textbf{C.1}\quad Find the equation of motion on $z$ for the vertical motion of
+a point mass $m$ in such a potential, assuming $r$ is constant. Show that, if
+$r < r_0$, the galactic plane is a stable equilibrium state by giving the
+angular frequency $\omega_0$ of small oscillations around it. \hfill 0.5pt
+
+From here on, we set $z = 0$.
+
+\textbf{C.2}\quad Identify the regime, either $r \gg r_m$ or $r \ll r_m$, in
+which the model of Eq.~1 recovers a potential of the form $\varphi_G(r,0)$ with
+a suitable definition of $\varphi_0$.\\
+Under this condition $v_c(r)$ no longer depends on $r$. Express it in terms of
+$\varphi_0$. \hfill 0.6pt
+
+Therefore, outside the bulge the velocity modulus $v_c$ does not depend on the
+distance to the galactic center. We will use this fact, as astronomers do, to
+measure the galaxy's mass distribution from the inside.
+
+All galactic objects considered here for astronomical observations, such as
+stars or nebulae, are primarily composed of hydrogen. Outside the bulge, we
+assume that they rotate on circular orbits around the galactic center $C$. $S$
+is the sun's position and $E$ that of a given galactic object emitting in the
+hydrogen spectrum. In the galactic plane, we consider a line of sight $SE$
+corresponding to the orientation of an observation, on the unit vector
+$\hat{u}_v$ (see Fig.~2).
+
+\begin{center}\includegraphics[width=0.62\linewidth]{figures/IPhO_2025_Q1_fig2.png}\end{center}
+
+\begin{center}\textbf{Fig.~2}: Geometry of the measurement\end{center}
+
+Let $\ell$ be the galactic longitude, measuring the angle between $SC$ and the
+$SE$. The sun's velocity on its circular orbit of radius
+$R_\odot = 8.00\,\mathrm{kpc}$ is denoted $\overrightarrow{v}_\odot$. A galactic
+object in $E$ orbits on another circle of radius $R$ at velocity
+$\overrightarrow{v}_E$. Using a Doppler effect on the previously studied
+$21\,\mathrm{cm}$ line, one can obtain the relative radial velocity $v_{rE/S}$
+of the emitter $E$ with respect to the sun $S$ : it is the projection of
+$\vec{v}_E - \vec{v}_\odot$ on the line of sight.
+
+\textbf{C.3}\quad Determine $v_{rE/S}$ in terms of $\ell$, $R$, $R_\odot$ and
+$v_\odot$. Then, express $R$ in terms of $R_\odot$, $v_\odot$, $\ell$ and
+$v_{rE/S}$. \hfill 0.7pt
+
+Using a radio telescope, we make observations in the plane of our galaxy toward
+a longitude $\ell = 30^\circ$. The frequency band used contains the
+$21\,\mathrm{cm}$ line, whose frequency is $f_0 = 1.42\,\mathrm{GHz}$. The
+results are reported in Fig.~3.
+
+\begin{center}\includegraphics[width=0.61\linewidth]{figures/IPhO_2025_Q1_fig3.png}\end{center}
+
+\textbf{Fig.~3}: Electromagnetic signal as a function of the frequency shift,
+measured in the radio frequency band at $\ell = 30^\circ$ using EU-HOU
+RadioAstronomy
+
+\textbf{C.4}\quad In our galaxy, $v_\odot = 220\,\mathrm{km\cdot s^{-1}}$.
+Determine the values of the relative radial velocity (with 3 significant
+digits) and the distance from the galactic center (with 2 significant digits)
+of the 3 sources observed in Fig.~3. Distances should be expressed as multiples
+of $R_\odot$. \hfill 0.6pt
+
+\textbf{C.5}\quad On the top view of our galaxy (in the answer box), indicate
+the positions of the sources observed in Fig.~3.\\
+What could be deduced from repeated measurements changing $\ell$? \hfill 0.6pt
+
+\textbf{Part D - Tully-Fisher relation and MOND theory}
+
+The flat external velocity curve of NGC 6946 in Fig.~1 is a common property of
+spiral galaxies, as can be seen in Fig.~4 (left). Plotting the external
+constant velocity value $v_{c,\infty}$ as a function of the measured total mass
+$M_\mathrm{tot}$ of each galaxy gives an interesting correlation called the
+Tully-Fischer relation, see Fig.~4 (right).
+
+\begin{center}\includegraphics[width=0.9\linewidth]{figures/IPhO_2025_Q1_fig4.png}\end{center}
+
+\textbf{Fig.~4}. Left: Rotation curves for typical spiral galaxies - Right:
+$\log_{10}(M_\mathrm{tot})$ as a function of $\log_{10}(v_{c,\infty})$ on
+linear scales. Colored dots correspond to different galaxies and different
+surveys. The green line is the Tully-Fischer relation which is in very good
+agreement with the best fit line of the data (in black).
+
+\textbf{D.1}\quad Assuming that the radius $R$ of a galaxy doesn't depend on its
+mass, show that the model of Eq.~1 (part B) gives a relation of the form
+$M_\mathrm{tot} = \eta v_{c,\infty}^\gamma$ where $\gamma$ and $\eta$ should be
+specified.\\
+Compare this expression to the Tully-Fischer relation by computing
+$\gamma_{TF}$. \hfill 0.4pt
+
+In the extremely low acceleration regime, of the order of
+$a_0 = 10^{-10}\,\mathrm{m\cdot s^{-2}}$, the MOdified Newtonian Dynamics (MOND)
+theory suggests that one can modify Newton's second law using
+$\overrightarrow{F} = m\mu\left(\dfrac{a}{a_0}\right)\overrightarrow{a}$ where
+$a = \left\|\overrightarrow{a}\right\|$ is the modulus of the acceleration and
+the $\mu$ function is defined by $\mu(x) = \dfrac{x}{1 + x}$.
+
+\textbf{D.2}\quad Using data for NGC 6946 in Fig.~1, estimate, within Newton's
+theory, the modulus of the acceleration $a_m$ of a mass in the outer regions of
+NGC 6946. \hfill 0.2pt
+
+\textbf{D.3}\quad Let $m$ be a mass on a circular orbit of radius $r$ with
+velocity $v_{c,\infty}$ in the gravity field of a fixed mass $M$.\\
+Within the MOND theory, with $a \ll a_0$, determine the Tully-Fischer
+exponent.\\
+Using data for NGC 6946 and/or Tully-Fischer law, calculate $a_0$ to show that
+MOND operates in the correct regime. \hfill 0.8pt
+
+\textbf{D.4}\quad Considering relevant cases, determine $v_c(r)$ for all values
+of $r$ in the MOND theory in the case of a gravitational field due to a
+homogeneously distributed mass $M$ with radius $R_b$. \hfill 0.9pt
