@@ -1,0 +1,222 @@
+{\large\textbf{Waves and Phase Transitions in Spin Systems (10.0 points)}}
+
+\textbf{Introduction}
+
+In classical physics, angular momentum arises from the motion of an object
+around an axis - whether it be a spinning top, a rotating planet, or an
+orbiting electron in the atom. However, in quantum physics, fundamental
+particles possess an intrinsic and quantized form of angular momentum called
+\textit{spin}. This property plays a crucial role in various physical
+phenomena, ranging from materials properties, such as magnetism, to modern
+applications, such as quantum computing.
+
+In this problem we will treat spin classically, which will lead to some
+qualitatively correct results. You will explore the physics of spin systems
+through spin-spin interactions, evolution under magnetic fields, and
+statistical physics to understand the emergence of spin waves and phase
+transitions in magnets.
+
+\textbf{Useful information:}
+
+$\cosh(x) \equiv \frac{e^x + e^{-x}}{2}$, $\sinh(x) \equiv \frac{e^x - e^{-x}}{2}$,
+$\tanh(x) \equiv \frac{\sinh(x)}{\cosh(x)} \approx x - \frac{1}{3}x^3$ for
+$|x| \ll 1$
+
+The magnetic field due to a magnetic dipole of moment $\vec{\mu}$ at a position
+$\vec{r}$ away from it is given by ($\mu_0$ is is the vacuum permeability):
+\begin{equation}
+\vec{B} = \frac{\mu_o}{4\pi} \left( \frac{3(\vec{\mu} \cdot \vec{r})\vec{r}}{r^5} - \frac{\vec{\mu}}{r^3} \right) \tag{1}
+\end{equation}
+
+\textbf{Part A. Precession and interactions of magnetic dipoles (1.2 points)}
+
+Consider a ring of radius $R$, total mass $M$, and charge $Q > 0$ distributed
+uniformly. The ring rotates with an angular speed $\omega$ around a
+perpendicular axis that passes through its center of mass.
+
+\textbf{A.1}\quad It is possible to write the ring's magnetic moment
+$\vec{\mu}$ in terms of its angular momentum $\vec{L}$ as
+$\vec{\mu} = \gamma\vec{L}$. Find the constant $\gamma$, called the
+\textit{gyromagnetic ratio}, of this system in terms of $Q$ and $M$.
+\hfill 0.3 pt
+
+The ring is placed in a weak uniform magnetic field $\vec{B} = B\hat{z}$ ,
+making an angle $\theta$ with $\vec{\omega}$, see \textit{Figure A.1}.
+
+\begin{center}
+\includegraphics[width=0.29\linewidth]{figures/APhO_2025_Q2_fig1.png}\\
+\textit{Figure A.1.}
+\end{center}
+
+\textbf{A.2}\quad Find the angular frequency $\omega_L$ of the angular momentum
+precession (the so-called Larmor frequency) due to the external magnetic field
+in terms of $B$ and $\gamma$. Take the positive direction to be
+counter-clockwise with respect to $+z$. \hfill 0.4 pt
+
+Now we turn off the external magnetic field and place an identical ring at a
+horizontal distance $d \gg R$ from the original ring such that the magnetic
+moment of the new ring $\vec{\mu}_2$ makes an angle $\theta$ with
+$\vec{\mu}_1$, see \textit{Figure A.2}.
+
+\begin{center}
+\includegraphics[width=0.52\linewidth]{figures/APhO_2025_Q2_fig2.png}\\
+\textit{Figure A.2.}
+\end{center}
+
+\textbf{A.3}\quad The magnetic interaction energy between the two rings can be
+written as $U = J_0\vec{L}_1 \cdot \vec{L}_2$, where $J_0$ is a constant and
+$\vec{L}_i$ is the angular momentum of the $i$th ring. Find $J_0$ in terms of
+$\gamma, d$ and fundamental constants. \hfill 0.5 pt
+
+\textbf{Part B. Spin Waves (4.5 points)}
+
+In what follows we investigate the dynamics of spins. A spin is a particle with
+intrinsic angular momentum $\vec{S}$, which has an associated magnetic moment
+$\vec{\mu}$ related to $\vec{S}$ via the gyromagnetic ratio as in
+\textbf{Part A.1}, $\vec{\mu} = \gamma\vec{S}$.
+
+The magnetic dipoles of two spins interact with each other. However, this
+interaction is negligible compared to another interaction arising from a
+quantum mechanical origin, which is not present in classical systems.
+Interestingly, the energy associated with this quantum interaction has the same
+form which we found in \textbf{Part A.3}, scaling with
+$\vec{S}_1 \cdot \vec{S}_2$, albeit with the opposite sign.
+
+Now we will look at a very long chain of spins. The positions of the spins are
+fixed along the $x$-axis, with a distance $a$ separating them, see
+\textit{Figure B.1}. We will approximate the total energy of the system by
+considering the interactions between nearest neighbors only, so that the
+energy can be written as
+\[
+E = -J \sum_i \vec{S}_i \cdot \vec{S}_{i+1}
+\]
+where $J > 0$ is the interaction strength, and $\vec{S}_i$ is the spin angular
+momentum vector of the $i$th dipole, with magnitude $S$. The spin vectors are
+free to rotate in three dimensions. Notice that the sign of the energy is
+different from the last part. This interaction is purely quantum mechanical.
+
+\begin{center}
+\includegraphics[width=0.57\linewidth]{figures/APhO_2025_Q2_fig3.png}\\
+\textit{Figure B.1.}
+\end{center}
+
+\textbf{B.1}\quad The energy terms containing $\vec{S}_i$ in the sum above can
+be viewed as the interaction energy between an effective magnetic field
+$\vec{B}_{i,\mathrm{eff}}$ and the magnetic moment of $\vec{S}_i$. Find
+$\vec{B}_{i,\mathrm{eff}}$ and express your answer in terms of $J$, the
+gyromagnetic ratio $\gamma$, and other spins $\vec{S}_j$ (specify the indices
+$j$ in relation to $i$) \hfill 0.3 pt
+
+\textbf{B.2}\quad Using the concept of effective magnetic field, express the
+rate of change of the $i$th spin vector, $d\vec{S}_i/dt$, in terms of
+$J, \vec{S}_i$, and other spins $\vec{S}_j$ (specify the indices $j$ in
+relation to $i$). \hfill 0.3 pt
+
+For the rest of \textbf{Part B}, assume that the system is highly magnetized
+along the $z$ direction, so we can use the approximations $S_{i,z} \approx S$
+and $dS_{i,z}/dt \approx 0$ for each spin, see \textit{Figure B.2}. In this
+regime, the set of equations describing the spins time evolution is satisfied
+by a traveling wave solution for $S_{i,x}$and $S_{i,y}$ characterized by a wave
+vector $k$ and angular frequency $\omega$.
+
+\begin{center}
+\includegraphics[width=0.49\linewidth]{figures/APhO_2025_Q2_fig4.png}\\
+\textit{Figure B.2.}
+\end{center}
+
+\textbf{B.3}\quad Find the relationship between $\omega$ and $k$ (known as the
+dispersion relation, $\omega(k)$) for the spin waves in terms of $J, S$ and
+$a$. \textit{Hint}: express the position of the $i$th spin as $x = a \cdot i$.
+\hfill 2.0 pt
+
+The spin wave described above carries energy and momentum. At low energies,
+the relation between its energy and momentum resembles that of a massive
+classical particle with an effective mass $m_{\mathrm{eff}}$ , a concept known
+as a \textit{quasi-particle}.
+
+\textbf{B.4}\quad For small $k$ ($k \ll 1/a$), find the effective mass
+$m_{\mathrm{eff}}$ of the spin wave. Express your answer in terms of $J, S, a$
+and fundamental constants. \hfill 0.6 pt
+
+Spin waves can be experimentally probed using inelastic neutron scattering.
+Although neutrons have zero net charge, they have a finite spin, allowing them
+to interact with other spins.
+
+\textbf{B.5}\quad Suppose that initially, all the spins in the chain are
+pointing along the $z$ direction. A neutron with low energy travels on the
+$x{-}y$ plane making an incident angle $\theta_{in}$ with the chain and
+scatters with an angle $\theta_{out}$ as shown in \textit{Figure B.3}.
+Assuming the neutron excites a single low wave vector spin wave, find the
+effective mass $m_{\mathrm{eff}}$ of the spin wave, in terms of
+$\theta_{\mathrm{in}}, \theta_{\mathrm{out}}$ and the neutron mass $m_n$.
+Assume that the chain stays at rest. \hfill 1.3 pt
+
+\begin{center}
+\includegraphics[width=0.49\linewidth]{figures/APhO_2025_Q2_fig5.png}\\
+\textit{Figure B.3.}
+\end{center}
+
+\textbf{Part C. Phase transitions in spin chains (4.3 points)}
+
+Next we consider the same chain made of $N$ spins from \textbf{Part B}, except
+the spin vectors are now restricted to point either up or down along the
+$z$-axis, so that the spin component along $z$ can be written as
+$S_{i,z} = s_i S$, where $s_i = \pm 1$, see \textit{Figure C.1}. In addition to
+the nearest neighbor interactions, we could have an external magnetic field
+pointing along the $z$-axis so that the total energy of the system is given by
+\[
+E = -\tilde{J} \sum_i s_i s_{i+1} - h \sum_i s_i .
+\]
+We assume $\tilde{J} \geq 0$, and $h$ is a constant dependent on the magnetic
+field. The spin system is at equilibrium with a heat bath at temperature $T$.
+Ignore the edges of the chain.
+
+\begin{center}
+\includegraphics[width=0.51\linewidth]{figures/APhO_2025_Q2_fig6.png}\\
+\textit{Figure C.1.}
+\end{center}
+
+\textbf{C.1}\quad Assume first that $\tilde{J} = 0$, what is the ratio between
+the probability to find an arbitrary spin aligned to the magnetic field
+$p_\uparrow$ to being anti-aligned to the magnetic field $p_\downarrow$?
+Express $p_\uparrow/p_\downarrow$ in terms of $h$, $T$ and fundamental
+constants. \hfill 0.5 pt
+
+\textbf{C.2}\quad Find the average polarization of the system
+$\bar{s} \equiv \frac{1}{N}\sum_i s_i$ for $N \gg 1$ in terms of $h$, $T$ and
+fundamental constants. If the magnetic field $h$ can range from $-h_0$ to
+$h_0$, make a sketch of $\bar{s}$ as a function of $h$ for the cases
+$h_o \gg k_B T$, $h_o \approx k_B T$ and $h_o \ll k_B T$. \hfill 1.0 pt
+
+In the remaining questions, we turn off the magnetic field, so $h = 0$, and set
+$\tilde{J} > 0$.
+
+\textbf{C.3}\quad What is the energy $E_g$ of the ground state (the lowest
+energy state)? Express your answer in terms of $\tilde{J}$ and $N$.
+\hfill 0.2 pt
+
+Instead of considering the interactions between each spin and its neighbors,
+we assume that each spin sees an average polarization $\bar{s}$ from its
+nearest-neighbors.
+
+\textbf{C.4}\quad Approximate the energy of the system as a sum over all spins
+\hfill 0.2 pt
+\[
+E = -\tilde{J}_{\mathrm{eff}} \sum_i s_i
+\]
+and express $\tilde{J}_{\mathrm{eff}}$in terms of $\tilde{J}$ and $\bar{s}$.
+
+\textbf{C.5}\quad Using your result from \textbf{C.2}, find an equation that the
+average polarization $\bar{s}$ must satisfy. The number of solutions to this
+equation depends on $T$. Find the critical temperature $T_c$ at which the
+number of solutions changes. Express your answer in terms of $\tilde{J}$ and
+fundamental constants. \hfill 1.2 pt
+
+\textbf{C.6}\quad Find all possible values of $\bar{s}$ when $T < T_c$ and
+$T_c - T \ll T_c$. Express your answers in terms of $T$ and $T_c$. Sketch all
+possible values of $\bar{s}$ for the temperature $T$ in the range
+$0 \leq T \leq 2T_c$. \hfill 1.0 pt
+
+\textbf{C.7}\quad What magnetic phase of matter does $T > T_c$correspond to?
+How about when $T < T_c$? Choose between paramagnetic or ferromagnetic.
+\hfill 0.2 pt

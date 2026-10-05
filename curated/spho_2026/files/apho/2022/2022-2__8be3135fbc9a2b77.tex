@@ -1,0 +1,126 @@
+{\large\textbf{A Mechanical Model for Phase Transitions}}\footnote{Sitikantha Das (IIT Kharagpur) and Pramendra Ranjan Singh (Principal, Narayan College, J.P. University) were the principal authors of this problem. The contributions of the Academic Committee, Academic Development Group, and the International Board are gratefully acknowledged.}
+
+A ring of radius $R$ has a bead of negligible size and mass $m$ threaded on
+it. The ring is set rotating about its vertical diameter with angular velocity
+$\omega$ as shown in Fig. 1. Alongside this, there is an opposing force on the
+bead, $F_f$, which is proportional to the normal reaction $N$, and is given by
+$F_f = fkN$ where $f$ is $1$ or $-1$. You are advised to employ polar
+coordinates \{$r,\ \theta$\}. As far as possible express your answers in terms
+of $\omega_c = \sqrt{g/R}$ where $g$ is the magnitude of the acceleration due
+to gravity.
+
+In a phase transition the free energy, $V(\mathcal{M})$ [mechanical equivalent
+is potential energy] depends on the magnetization $\mathcal{M}$ as follows
+\[
+V(\mathcal{M}) = a(T)\mathcal{M}^2 + b(T)\mathcal{M}^4
+\]
+where $T\!\rightarrow$ temperature, $b(T) > 0$ and $a(T)$ changes sign with
+temperature. We attempt to understand the phenomenon of phase transition using
+the above mentioned model.
+
+Note 1: For circular motion of radius $R$, the velocity in polar coordinates is
+$\dot{\vec{r}} = R\dot{\theta}\hat{\theta}$ and the acceleration is
+$\ddot{\vec{r}} = -R\dot{\theta}^2\hat{r} + R\ddot{\theta}\hat{\theta}$. Here
+$\hat{r}$ and $\hat{\theta}$ are unit vectors in the radial and the tangential
+directions respectively.
+
+Note 2: The direction of the opposing force say $\vec{F}_f$ will be denoted by
+$f$. Here $f$ = +1 if the bead is moving in the counter-clockwise direction (of
+increasing) $\theta$ and $f$ = -1 if the bead is moving in the clockwise
+direction $\theta$, e.g. $f$ = $sgn(\dot{\theta})$ where $sgn$ is +1 or -1
+depending on whether its argument is positive or negative.
+
+Note 3: You may find the expansions
+\[
+\begin{array}{rcl}
+\sin(\theta) & = & \theta - \theta^3/6 + ..\\
+\cos(\theta) & = & 1 - \theta^2/2 + \theta^4/24 + ..\\
+(1+x)^n & = & 1 + nx + n(n-1)x^2/2 + n(n-1)(n-2)x^3/6 + ..
+\end{array}
+\]
+(where $\theta$ is in radians and $|x| << 1$ ) useful for some parts of the
+problem.
+
+\begin{center}\includegraphics[width=0.5\linewidth]{figures/APhO_2022_Q2_fig1.png}\end{center}
+
+\begin{center}Fig. 1: The bead on a rotating ring.\end{center}
+
+In what follows we shall understand the dynamics of the bead in the frame of
+the rotating ring and for angles in the range $-\pi/2 < \theta < \pi/2$. The
+free body diagram of the bead is shown in Fig.2. Neglect all forces other than
+the ones shown in the free body diagram.
+
+\begin{center}\includegraphics[width=0.5\linewidth]{figures/APhO_2022_Q2_fig2.png}\end{center}
+
+\begin{center}Fig. 2: The free body diagram.\end{center}
+
+\textbf{A.1}\quad Write down the equations of motion for the radial $F_r$ and
+the tangential $F_\theta$ components of the force on the bead. Assume $\theta$
+increasing in the counter-clockwise direction. \hfill 0.5pt
+
+\textbf{For the following parts B.1 to B.9 assume $k = 0$.}
+
+\textbf{B.1}\quad State the relation between the equilibrium angle(s)
+$\theta_0$ in terms of \{ $\omega,\ \omega_c$\}. \hfill 1.0pt
+
+\textbf{B.2}\quad Qualitatively sketch $\theta_0$ ($y$-axis) as a function of
+$\omega/\omega_c$ ($x$-axis). \hfill 0.5pt
+
+\textbf{B.3}\quad Qualitatively sketch the magnitude of the normal reaction
+force on the bead as a function of $\omega/\omega_c$ at stable equilibrium.
+\hfill 0.5pt
+
+\textbf{B.4}\quad We define the potential energy corresponding to the
+tangential force $F_\theta$, namely
+\[
+F_\theta = -\frac{1}{R}\frac{d}{d\theta}V(\theta)
+\]
+with the zero of potential energy at $\theta = 0$. If $V(\theta)$ is expressed
+as $P + Q\cos(\theta) + S\sin^2(\theta)$, obtain $P, Q, S$. \hfill 1.0pt
+
+\textbf{B.5}\quad One can expand $V(\theta)$ for small $\theta$ and express it
+as $V(\theta) = a(\omega)\,\theta^2{+}b(\omega)\,\theta^4$. Obtain the
+coefficients $a(\omega)$ and $b(\omega)$. \hfill 1.0pt
+
+\textbf{B.6}\quad Make representative plots of $V(\theta)$ versus $\theta$ for
+values of $\omega/\omega_c$ just less than 1.0 (e.g. say 0.9) and
+$\omega/\omega_c$ large, say 5.0. Note that only qualitative sketches and no
+detailed calculations for the plots are required. \hfill 1.0pt
+
+\textbf{B.7}\quad Landau theory of second order phase transitions can be used
+to demarcate simple magnetic systems into two phases. For temperatures $T$
+greater than the critical temperature $T_c$ the system is paramagnetic. For
+$T < T_c$ the system is ferromagnetic and the magnetization $\mathcal{M}$ is
+given by
+\[
+\mathcal{M}(T) = \mathcal{M}_0(1 - T/T_c)^{1/2} \quad T < T_c
+\]
+Let us denote the exponent $1/2$ by $\beta$. Compare this behaviour with the
+bead problem discussed above. What are the analougues of $\mathcal{M}$, $T_c$,
+$T/T_c$ in our case? What is the equivalent value of $\beta$ in our case?
+\hfill 1.0pt
+
+\textbf{B.8}\quad Determine the angular frequency of oscillation $\Omega_0$ of
+the bead when it is disturbed from its \textit{``equilibrium''} position
+$\theta_0$. Note that for small oscillations
+\[
+\Omega_0 = \frac{1}{R}\sqrt{\frac{V''(\theta_0)}{m}}
+\]
+\hfill 1.0pt
+
+\textbf{B.9}\quad Qualitatively sketch $\Omega_0$ as a function of $\omega$.
+\hfill 1.0pt
+
+\textbf{For the following parts C.1 to C.2 $k \neq 0$.}
+
+\textbf{C.1}\quad Take $f$ = 1 and express $k = \tan\alpha$. We may express
+the condition for the equilibrium angle(s) $\theta_0$ as
+\[
+\left(\frac{\omega}{\omega_c}\right)^2 = \frac{\tan(x)}{\sin(y)}
+\]
+Obtain $x$ and $y$. \hfill 1.0pt
+
+\textbf{C.2}\quad It is given that $f$ =1 and $k = 0.05$. Obtain the
+equilibrium angles $\theta_0$, if any, for the following cases:\\
+1.\ $\omega/\omega_c$ = 0.50\\
+2.\ $\omega/\omega_c$ = 0.70 \hfill 0.5pt
