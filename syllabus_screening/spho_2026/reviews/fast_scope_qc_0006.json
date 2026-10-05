@@ -1,0 +1,34 @@
+[
+  {
+    "screening_unit_id": "raw::4396",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 3089, registered 27, PDF pp 27-28. KEEP confirmed: Kirchhoff infinite resistance network. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::493",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 1525, registered 5, PDF pp 2-2. KEEP confirmed: Classical cyclotron trajectories, elastic collisions and Coulomb repulsion. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4369",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 3087, registered 39, PDF pp 2-5. KEEP confirmed: Fully supplied Lorenz equations and Lyapunov definition; numerical trajectory analysis and uncertainties. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::505",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 1527, registered 8, PDF pp 2-2. KEEP confirmed: Axial Hooke strain and thermal expansion with supplied Young-modulus data. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4291",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 3077, registered 1, PDF pp 4-4. KEEP confirmed: Constant-acceleration braking and crossing time. No decision change."
+  },
+  {
+    "screening_unit_id": "derived::a00c78362c3176d7::4080::16",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 3019, registered 16, PDF pp 10-10. KEEP confirmed: Cut-spring stiffness and static tension. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::469",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 1463, registered 7, PDF pp 2-2. KEEP confirmed: Classical electron Lorentz and Coulomb motion. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::639",
+    "detail": "Seeded lightweight QC 0006 (seed 20261004510, 8/494 clear decisions): actual full statement reread at source 1555, registered 8, PDF pp 2-2. KEEP confirmed: Magnetic attraction and friction experiment. No decision change."
+  }
+]

@@ -1,0 +1,912 @@
+{
+  "checked_at": "2026-10-04T05:18:16.614930+00:00",
+  "source_file_id": 1034,
+  "document_id": 1090,
+  "sha256": "1777fde28418221663ea5803daf932a1b40a0da75298184894d7f889cda424ea",
+  "byte_size": 21993665,
+  "source_path": "originals/apho/2021/APhO_2021_ExperimentData__1777fde284182216.zip",
+  "source_url": "https://olimpicos.net/files/apho/APhO_2021_ExperimentData.zip",
+  "crc_ok": true,
+  "members": [
+    {
+      "path": "APhO/APHO.exe",
+      "byte_size": 650752,
+      "sha256": "0f10eecaf72cf42b136204af7e651fc8eda0a8e6466a7f03a7cc6336339a79d2",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/app.info",
+      "byte_size": 9,
+      "sha256": "5da3284c80baa5ed0f5b9cf6ce9f685ad02156a8633e569850bebb113b529a52",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/boot.config",
+      "byte_size": 62,
+      "sha256": "78cc47cbbed8923df2d9eb2da0c8fd7b3b400b3353544adb47c327802fc0ba56",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/globalgamemanagers",
+      "byte_size": 70452,
+      "sha256": "12e5d4c14b2f445d58d4c7b0843b8921fe5052dc6f38120bdec9d186e3a81c9c",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/globalgamemanagers.assets",
+      "byte_size": 131108,
+      "sha256": "ac423d7985777c4f4fcaf89a05ca6aa76c74462d3cb1dda22b9434367d2a5927",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/level0",
+      "byte_size": 23992,
+      "sha256": "1664dcef949655dc44a1e2023015266fd553efda1df2b4ddd44b199549ee7824",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/level1",
+      "byte_size": 156304,
+      "sha256": "b4440463c2e8751faf2b036ec8445db2865dfa9c7496ccc7f96dca233c2adfe2",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/level2",
+      "byte_size": 54288,
+      "sha256": "526b0ab135289e9335f02abca3e75764d733fad859ce54ebe8bbf55b34b62d5d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/level3",
+      "byte_size": 33952,
+      "sha256": "d9199f797771b53af78921a9121f930b5258e3858aec9f91a8929d9a77662a4d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Assembly-CSharp.dll",
+      "byte_size": 116224,
+      "sha256": "4f993d17389903958a0a58c53206c7540a520d8b654b3d2f3d168eedbda2fe99",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/DemiLib.dll",
+      "byte_size": 11264,
+      "sha256": "c88a33268e64bf4d8a939bbf726e622fdf865db7abb3bc4d0bb0e1c1b42ce1bd",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/DOTween.dll",
+      "byte_size": 155648,
+      "sha256": "2180f13df3ffb3b0ac63595a17c99a59e8bf1e986302dabf69a3c68588088fa7",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/DOTweenPro.dll",
+      "byte_size": 16384,
+      "sha256": "714a787cdec5be9cd386596a633b4163e9363de46e493b6ced955f6da51468be",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Mono.Posix.dll",
+      "byte_size": 212480,
+      "sha256": "a33abceffeaa6b6d5dbd2cf77210daddfe331ed40eeae4cea3c5efb0c0db2cc0",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Mono.Security.dll",
+      "byte_size": 309248,
+      "sha256": "2b7651b398dc63af0dbc0038758981c29238a495681a7ed487357a464ad4de15",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/mscorlib.dll",
+      "byte_size": 4072448,
+      "sha256": "d435ef1f6c2bd55d1010cf0ac8e0ec5c83f33284af1b472310a9576d104a0f85",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/PlayerPrefsEditor.dll",
+      "byte_size": 7680,
+      "sha256": "263cf777e27dbdf40d1551151656f197b83fc58f0f3c471f6442deef04b58093",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/System.Configuration.dll",
+      "byte_size": 124928,
+      "sha256": "cd5793957604e1448443da0d703f29a31100d4a7030c140121c7ddf6b2027d94",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/System.Core.dll",
+      "byte_size": 1046016,
+      "sha256": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/System.dll",
+      "byte_size": 2715136,
+      "sha256": "0cbaa8d813e2652700bb7803744ea9c4eaf66070b6428fa2624c1e4ef2b2010f",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/System.Security.dll",
+      "byte_size": 184320,
+      "sha256": "c931417eb4690730438d7c93d1cf6e1864695d8d90a5833fe83298802a84ee58",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/System.Xml.dll",
+      "byte_size": 3138048,
+      "sha256": "f37fa3ad6135a3bd298e7e6196debd1629891723767263d6fe80359f71ee6edd",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.2D.Animation.Runtime.dll",
+      "byte_size": 33792,
+      "sha256": "7afbd2de3b90cfdb20a2723b44105f8a801f16dd7e2eb74f04f2761e8e4d1aa3",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.2D.Animation.Triangle.Runtime.dll",
+      "byte_size": 187392,
+      "sha256": "fb2b0fe01842bd976a9c5169554ee46e8fa1562a1289507b05e9156a88a636f4",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.2D.Common.Runtime.dll",
+      "byte_size": 3584,
+      "sha256": "f75d5c3f8a3665586463d4b17925a390db0006441a76f411734de89597bbf3ec",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.2D.PixelPerfect.dll",
+      "byte_size": 11264,
+      "sha256": "aaf0bc3e77912926350eff2163f5f2a70ee74029f0aabaf68ba9828c3930a2de",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
+      "byte_size": 87552,
+      "sha256": "1aae3ede0580b1e1ef59faaa497e4e49b22a67f6138a37b584b4431bac77a3c9",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.Addressables.dll",
+      "byte_size": 78336,
+      "sha256": "58f0b3039fce91646e3e488deb0015392ae04f85399cdb40df1921e167fc0dbc",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+      "byte_size": 4096,
+      "sha256": "241e917acd2dfa16cd140812a7cd9d515f5e49040691237f4d6358a21a2f0132",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.Mathematics.dll",
+      "byte_size": 710144,
+      "sha256": "c3b178c75d5903f426b7276ddcb81381a18e48f94111e6971b50eb8be351c4d9",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.ResourceManager.dll",
+      "byte_size": 82944,
+      "sha256": "f3742898b8c6dc62b6e04191afc17e4fe7547d22c0ef0c64f487ddd56badced2",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.ScriptableBuildPipeline.dll",
+      "byte_size": 7680,
+      "sha256": "c21d12685dd66a7116ec78fc6419f69f72cfbf1edc0eba761473bdfa992ca34f",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.TextMeshPro.dll",
+      "byte_size": 368128,
+      "sha256": "98d60f8320095f13050fa612cc7408041ba08fcd0595497e33517cf8dc55a921",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/Unity.Timeline.dll",
+      "byte_size": 109056,
+      "sha256": "de0eb2da52859ae29bab9a854dbac09e58d6726942a1319dc903ce978aabb82d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "byte_size": 12288,
+      "sha256": "0ff96c898e72ed9938dd4768b011b2e3169918c33371199b63cdb1b88437e661",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.AIModule.dll",
+      "byte_size": 44544,
+      "sha256": "f61d316b0cfb7239abe5e9c1c4045e79bff82fdc9546edea9a00363802cbf8ca",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "byte_size": 57344,
+      "sha256": "cde5f14d3b6d0223d4445812255fb0868d2f922b7013b031c06157d67b904dc0",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.AnimationModule.dll",
+      "byte_size": 145920,
+      "sha256": "ba0d06153d840fba2812d83cbcc4eb788d06d9c85ff2840acc4215cb2a004c44",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ARModule.dll",
+      "byte_size": 12800,
+      "sha256": "340fc8befd64bfc41f6d6bbd6baedf8adf2967aa9f57bf51241f65851629793a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "byte_size": 21504,
+      "sha256": "f881591cd57e9b04bd6ed446ac15fc8e526b5536a5580cd709161e8fceb3a345",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.AudioModule.dll",
+      "byte_size": 57344,
+      "sha256": "84ac3c9691c2d489dbf37cda9240a48208ffcb159089bd204ca175c14f6e77dc",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ClothModule.dll",
+      "byte_size": 15872,
+      "sha256": "0cbfa5d350a4a60b2aba031381ec86b2fdfc616fd6f1ae8af6cd837cefa921c3",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "byte_size": 10240,
+      "sha256": "ef50330d5a6aab5a6070daf2e82fa42c3327ddc5b7678ac5b0ad98a31a61f4d2",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "byte_size": 9216,
+      "sha256": "da8f90eb6e9bc17237f57288bd0f182062128de7c8e4da5ed47717be2eb3330e",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.CoreModule.dll",
+      "byte_size": 1005568,
+      "sha256": "36d48c2068f85117781e380375d027ef0942f3b0c98654282603649106d76a72",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "byte_size": 9728,
+      "sha256": "6cd0fb94b7126b3362509275d78e205ca00c7d02040975e5ae23fbf120c9b80c",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.DirectorModule.dll",
+      "byte_size": 13312,
+      "sha256": "99533d43861743a75aaafe6ff915db08eecfb0f453a4067cb31f4c965a177382",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.dll",
+      "byte_size": 84992,
+      "sha256": "78014c03a6dedc1ebe7f4699afc1a3662c3c05ce557910392ccec304d82497a8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "byte_size": 17920,
+      "sha256": "728d062d13f4155dea12cf214fd27909dfc31e48d75bb4e085e0b2a9dfe9258c",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "byte_size": 27136,
+      "sha256": "1d90544af7e66bee5518c70efd06e7b7a93d3902bf01b938eb7c77e472b50361",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.GridModule.dll",
+      "byte_size": 13824,
+      "sha256": "5d0ba6d479a5defcefc9fec5d5eba754f9fa61d778184eb71597adbd9b205daf",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "byte_size": 8704,
+      "sha256": "e96fefda4c77dd32e99d2b179bb914e70113d7f632f593b7378c64fe25175139",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "byte_size": 12800,
+      "sha256": "12eca2b2813cd9cf439190ae8997eba138b87b437828a50f84f7a78b962f6b1d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "byte_size": 156160,
+      "sha256": "4f17553921476062c483938c038c76f521a39fade2af4f6221086c94adad7de1",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "byte_size": 25600,
+      "sha256": "e563b1dbe9ea5cb46c4052ac5f51b191fa5f0377e9f9853967f07c54871f652f",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.InputModule.dll",
+      "byte_size": 12288,
+      "sha256": "35d39beb7136f2a3bc56e82e4ebdddb56a37ec000315bfe8165ebf8a6cb53bcb",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "byte_size": 10752,
+      "sha256": "3adb2be5d53f1d6d27bcde984ab686940bc043dbbbd96122fc75075fae4b5157",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "byte_size": 9728,
+      "sha256": "41a6825d2eeff9c754087746282dbc42136d38c24b525c90dc12976ac97835b0",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "byte_size": 135168,
+      "sha256": "7619b5d776a37422110011cdc00fdc162753fd684e224638b5b0ee07f07952b4",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "byte_size": 9216,
+      "sha256": "b74e4f6d118638256b74346bd1c2e1791e0e7e338d34f1df49e66b532520212a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "byte_size": 105984,
+      "sha256": "f2dc5bde43f493ec342a0dfbc319f02e425c7873abab1ad43bda85d93659ae1b",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "byte_size": 87040,
+      "sha256": "b9554e5b8c17d50ba942a028424674c2356668fea4f5e5f2c71238c271f236d8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "byte_size": 8704,
+      "sha256": "04e12cea3dae107e67e553a8ed75329a2d5a05551d9c3e29d80f94e872f5cc8e",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "byte_size": 9728,
+      "sha256": "4acbe465d927806b16d03112dc70cd0dc1346bdfe544fc1076b38a85ee1b75b8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "byte_size": 19456,
+      "sha256": "455002154e1793e8a1e711a41a0c63af2a3218c52f07fb6ca341abe46e5455a0",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "byte_size": 10240,
+      "sha256": "44cf5e3fab231d9ba426253a0a31d038fce159b117273ab4b2ce08f77c33e435",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "byte_size": 13824,
+      "sha256": "0a586f56eb99ecbe5704c17a9fcc8e05375f1916ab3db487b07b23d23842e6dd",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.StreamingModule.dll",
+      "byte_size": 9728,
+      "sha256": "b217dc60daa1bfd8d12bb5ef7e9c9ae4d5da80c98c02c778ee8b117a2a8a185f",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "byte_size": 13312,
+      "sha256": "5ae7551b46245dd58f3b8c801166794d6fa05847377a10c72aaa582905fafc11",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "byte_size": 16896,
+      "sha256": "433af2403bc5a49d5f2f4af7db80949615ca85a4b781666c5d05e49c1cca6ce0",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.TerrainModule.dll",
+      "byte_size": 80384,
+      "sha256": "e1822c0749b1c66fc4f75c21f602f583d0ffc53b781e5ee7d3a4017159a8a165",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "byte_size": 9728,
+      "sha256": "6ec89a4c3ab4dd81ced7738dff65c22eb190cc6e0d8eebbeac19c9301890eecd",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.TextCoreModule.dll",
+      "byte_size": 183808,
+      "sha256": "4fa9dc9fffb47a64b3d0a284a67e6762d90d961a6833f4596b3c29900dd26b48",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "byte_size": 27648,
+      "sha256": "255e3793a6638cfa572e671b5cef67bb6b141702b0b6dc1cb8a7eb8fcc6c7e6c",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.TilemapModule.dll",
+      "byte_size": 25088,
+      "sha256": "b7794dca2cb1d2e94c82b9c5667d9018d6fa53444d3b31af63afa39d574c1486",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.TLSModule.dll",
+      "byte_size": 8704,
+      "sha256": "4cf4c6cbe5ddcd1b0048c9bfe4b3aa424a974bde3165bcf350e5c9a3db41579a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UI.dll",
+      "byte_size": 225792,
+      "sha256": "26a6f4621df1a81e3fbc31c6b5c14262e763e857055fc15e2ddb89adf2b3c98a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "byte_size": 725504,
+      "sha256": "675726281e53ddca155867eeac696ae856e9957fa65234eb023d5c1b464a3762",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UIModule.dll",
+      "byte_size": 23040,
+      "sha256": "e7b5d737b620bf96da6527638e5f3c5a4a6ee2e9e0b94466845e28ee36afe28e",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UmbraModule.dll",
+      "byte_size": 8704,
+      "sha256": "960db0c96866af3947e770afef9d7dfe38c40e33cb5fee730b82ef473773b289",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UNETModule.dll",
+      "byte_size": 77312,
+      "sha256": "0491f05d10fdef92c64ca4c80a3525ba9bc69bc5723ccbfe3dff7dd19e598e66",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "byte_size": 32768,
+      "sha256": "3850717a798b8e56438156a2db9a6208d72b6d520c1d650d88834c78c1b2ac2d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "byte_size": 10752,
+      "sha256": "2d2f5c3e8c3c8b369aadb49113b59d256113403242cdd4d7a04d60cf3d577b6d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "byte_size": 8704,
+      "sha256": "2a14ecd6aa42f2393daf7b1e5b119e8debe9ab1b310c54a6e92ed2dcf8122fbd",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "byte_size": 11776,
+      "sha256": "85f7865f4e5415d642f6990f0887843c514d2d2d23a388475e5859d4f553ef0b",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "byte_size": 11264,
+      "sha256": "4794f4737d59a227ae368f53ed349f415b120738ebe2d05a2554c83c719c5f37",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "byte_size": 43008,
+      "sha256": "28756d3279666690338915b7729603cc1808f0e158ca7489abf489a5dd746bd4",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "byte_size": 10752,
+      "sha256": "d622c37243d0d1bfc000a94f25cfd49be04f7d266abcd5e02b28439ed0760b4b",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "byte_size": 20480,
+      "sha256": "9ff04d2b6efacc8a31e7e537a783c9fbef924630c8f5539cfc23ccd530f66bca",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "byte_size": 12800,
+      "sha256": "b98299dc8c22872585cf31b394c85d9614a4ed6ee506289a8f52cb0e6d09271a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.VFXModule.dll",
+      "byte_size": 38912,
+      "sha256": "2c7adb437d19e0d8b0f64496454cd1b9fd291b867e49c8bb7cc7cc22808c899c",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.VideoModule.dll",
+      "byte_size": 28672,
+      "sha256": "97752f0e8cd8ce2538899becb4f319a21e7c2b796bdee902109ed16027951f4f",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.VRModule.dll",
+      "byte_size": 34816,
+      "sha256": "50661aad6401bd4ca1fb93d5454b883397e8bacef3696a483c14222257b286e8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.WindModule.dll",
+      "byte_size": 9728,
+      "sha256": "aae109b40fafe585e31bf59c2eede748ed606b6a2475c140d527293c50f8b25b",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityEngine.XRModule.dll",
+      "byte_size": 54272,
+      "sha256": "f9e54cc8b22e8121b38f2d100ec0f1d33429b2436dbdd3b11e5ae2e79d0be024",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Managed/UnityUIExtensions.dll",
+      "byte_size": 312832,
+      "sha256": "92438af577962c8a896b95940dab46a7669d3fbb7d84594665e6573604a3979c",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Resources/unity default resources",
+      "byte_size": 3837020,
+      "sha256": "28f34dd870e9ef576828fca791d86a90f932a3d6814b947dc191fbed2354b888",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/Resources/unity_builtin_extra",
+      "byte_size": 340640,
+      "sha256": "6db3c8b873d1aed241d2f8a2e4582a9e0364a7f74071b22e1c5acb0b7a4f8028",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/resources.assets",
+      "byte_size": 112192,
+      "sha256": "8c68fff501e8153b72566d482be0de9947e58d8471f3a4331a440d5d2f2d6449",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/resources.assets.resS",
+      "byte_size": 349552,
+      "sha256": "3cc19318f95b2a6eebec873885b3920438d2344cf1f120a4c241c75a8783555a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets0.assets",
+      "byte_size": 409424,
+      "sha256": "76503656e1ee3976909033c5bae8e11d093097cb5f9ccc0c79104d25cb9842c0",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets0.assets.resS",
+      "byte_size": 1059496,
+      "sha256": "dc41967726dfe882f8af3f27fc643297a90d41fe4535446e79fe47fe239c3de3",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets1.assets",
+      "byte_size": 27952,
+      "sha256": "6fa16f5b7bbaebc1bf98ff58b8c8f6f8f46d4cfa29ab5a5ba3a906508aa3868d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets1.assets.resS",
+      "byte_size": 321376,
+      "sha256": "e8ba360b18220eb4bba60ecd4e9f8095ade423ed95d166c08a413b25f053cc2b",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets2.assets",
+      "byte_size": 11528,
+      "sha256": "ecf09b5d1350a82f90cba7c0e6352857c8c15d9753c786eb344eebc2f2658116",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets2.assets.resS",
+      "byte_size": 688308,
+      "sha256": "f73cf850e9c22baa828159270f7efbf7894724c007e94bfa973a3a0c767bb663",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/APHO_Data/sharedassets3.assets",
+      "byte_size": 6664,
+      "sha256": "83074177eb0ca9a3e023f490612f7de6668ec286613471467ec691f1b9f27a9a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "byte_size": 4967552,
+      "sha256": "977671a334897e26f28330e6a74932dd125b9cde25dc4d8776df706824fa0fbf",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "byte_size": 780288,
+      "sha256": "b004def5f8698f83a2311f530d1fa9401f435101c24e48a34f1b0f2f8347e002",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser.html",
+      "byte_size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "byte_size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "byte_size": 29116,
+      "sha256": "edc5bcf685d930a607bc097927260a3f9ac7f52dd809db68158298bfd934b7ce",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "byte_size": 2622,
+      "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "byte_size": 11686,
+      "sha256": "3c1a76a5849074b437d297656a208a3bef6d84b982153542b9c797046c601dfc",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser.html",
+      "byte_size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "byte_size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "byte_size": 33648,
+      "sha256": "6919d5af506aae0d93e91bd83418a81895a5554b9f54cf94aad20d025a4db664",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "byte_size": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "byte_size": 18848,
+      "sha256": "f1a6416eeedd9d040387fd85dcf7d6e074b6644c6829d08be220ff9fc32efb31",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser.html",
+      "byte_size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "byte_size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "byte_size": 34106,
+      "sha256": "ef9b9387168fd1dd6c996f96c134d9c44f8eb06f9587004bf997252a520182d6",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "byte_size": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "byte_size": 18857,
+      "sha256": "15a2c7a9242bf54d3ccb3e07fa6d8f84ba8b303d8877243787a1103009941bdb",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/browscap.ini",
+      "byte_size": 311984,
+      "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/config",
+      "byte_size": 3276,
+      "sha256": "60099cf91bb1a5717fc1f2d23cf36a61d3bfb70d9489fbb6f4bae98c560bf3d5",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "byte_size": 25817,
+      "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/UnityCrashHandler64.exe",
+      "byte_size": 1094784,
+      "sha256": "c2f80e069314e540da503e5dc4b6e591a95a6f85baa2d074852022a87cb881d8",
+      "encrypted": false
+    },
+    {
+      "path": "APhO/UnityPlayer.dll",
+      "byte_size": 25951360,
+      "sha256": "e661981f033e2f1d32db6e44d43c0e0c1783b4cb3115caf393e7722673473317",
+      "encrypted": false
+    }
+  ],
+  "app_info": {
+    "APhO/APHO_Data/app.info": "APHO\nAPHO"
+  },
+  "managed_code_matching_strings": [
+    "A943A01A9184E18249E81FB16F5AA56A1898BC99",
+    "BeamLength",
+    "BeamLengthFront",
+    "CantileverBeam",
+    "Click On/Off btn, but not set laser, so experiment state is still {0}",
+    "Click On/Off btn, now experiment state is {0}",
+    "CreateLasers",
+    "DeflectionLaser",
+    "Diffraction0Application",
+    "Diffraction0Controller",
+    "Diffraction0View",
+    "DiffractionApplication",
+    "DiffractionLaserItem",
+    "DiffractionLaserPosition",
+    "DiffractionLaserType",
+    "DiffractionPrepareView",
+    "DiffractionScreenItem",
+    "DiffractionTextureColorPicker",
+    "DiffractionViewFinder",
+    "End drag laser {0}",
+    "ExperimentGaryImage",
+    "ExperimentRatio",
+    "ExperimentRatioToCM",
+    "ExperimentRatioToMM",
+    "HandleDeflection1aBtnClick",
+    "HandleDiffraction0BtnClick",
+    "HandleDiffractionBtnClick",
+    "HandleExperimentImgChange",
+    "HandleExperimentIsOn",
+    "HandleLaserTypeChange",
+    "HandleToggleExperimentIsOn",
+    "IDiffraction0Model",
+    "IDiffraction0ViewDelegate",
+    "IDiffractionController",
+    "IDiffractionModel",
+    "IDiffractionPrepareController",
+    "IDiffractionView",
+    "IPHO.Diffraction",
+    "IPHO.Diffraction.Controller",
+    "IPHO.Diffraction.Model",
+    "IPHO.Diffraction.UI",
+    "IPHO.Diffraction.View",
+    "IPHO.Diffraction0",
+    "IPHO.Diffraction0.Controller",
+    "IPHO.Diffraction0.Model",
+    "IPHO.Diffraction0.View",
+    "IPHO.Diffraction0.View.IDiffraction0ViewDelegate.OnPosChange",
+    "IPHO.Diffraction0.View.IDiffraction0ViewDelegate.OnPosXChange",
+    "IPHO.Diffraction0.View.IDiffraction0ViewDelegate.OnPosYChange",
+    "IsExperimentAvaliable",
+    "LaserParent",
+    "LaserPointTrans",
+    "LaserPrefab",
+    "LaserRect",
+    "LaserTypeEvent",
+    "NotifyExperimentIsOn",
+    "NotifyLaserTypeChange",
+    "OnExperimentBtnClick",
+    "PointLoadBeam",
+    "ResetExperimentImage",
+    "SCENE_DEFLECTION_1a",
+    "SCENE_DIFFRACTION",
+    "SCENE_DIFFRACTION_0",
+    "Set laser {0}",
+    "Start drag laser {0}",
+    "TAG_LASER",
+    "ToggleCurrentExperimentIsOn",
+    "Uninstall the laser {0}, so now experiment state is OFF",
+    "UpdateCurrentExperimentIsOn",
+    "UpdateCurrentLaser",
+    "UpdateExperimentImage",
+    "UpdateLaser",
+    "add_OnExperimentImgChange",
+    "add_OnExperimentIsOn",
+    "add_OnLaserTypeChange",
+    "beam_1_",
+    "beam_2_",
+    "beam_width_",
+    "beams_",
+    "get_BeamLengthExp",
+    "get_BeamLengthFrontExp",
+    "get_Beams",
+    "get_LaserType",
+    "in_beams",
+    "init_beam_properties",
+    "laser",
+    "m_BeamAngle",
+    "m_BeamDisp",
+    "m_BeamForce",
+    "m_BeamPoint",
+    "m_CurLaser",
+    "m_InitLaserPoint",
+    "m_Laser",
+    "m_LaserLine",
+    "m_LaserPoints",
+    "m_LaserType",
+    "m_NanoBeamInterface",
+    "nano_beam_core",
+    "point_load_beam_",
+    "remove_OnExperimentImgChange",
+    "remove_OnExperimentIsOn",
+    "remove_OnLaserTypeChange",
+    "scene_deflection-1a",
+    "scene_diffraction",
+    "scene_diffraction-0",
+    "set_Beam",
+    "set_Beam1",
+    "set_Beam2",
+    "set_LaserType",
+    "set_beam_1_properties",
+    "set_beam_2_properties",
+    "set_beam_properties",
+    "set_beam_width"
+  ],
+  "validation_status": "SHA and ZIP CRC verified; Windows Unity executable and complete associated data/managed libraries preserved. Static structural check only; executable not launched, no runtime or experiment data validation claimed.",
+  "relationship_evidence": "2021 general instructions1030 explicitly require APHO.exe; both actual experiment statements1044/1047 show the same APHO simulator interface with programs1A-1D and2A-2E. Existing acquisition year/source relationship1090 matches the printed instructions.",
+  "theory_qc": [
+    "raw::328"
+  ],
+  "experiment_qc": [
+    "raw::332"
+  ]
+}

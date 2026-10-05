@@ -1,0 +1,243 @@
+[
+  {
+    "screening_unit_id": "derived::1782a8234a1dbd75::884::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Variable-mass roll, supplied ohmmeter model and lens reflections",
+    "decision_reason": "KEEP: Variable-mass roll, supplied ohmmeter model and lens reflections.",
+    "evidence": "Complete actual cached English statement source 1813 pp2-2; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::1782a8234a1dbd75::884::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas steam cycle and supplied flow/governor relations",
+    "decision_reason": "KEEP: Ideal-gas steam cycle and supplied flow/governor relations.",
+    "evidence": "Complete actual cached English statement source 1813 pp3-5; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::1782a8234a1dbd75::884::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic moments and Boltzmann populations; spin and all transition/relaxation models supplied",
+    "decision_reason": "KEEP: Magnetic moments and Boltzmann populations; spin and all transition/relaxation models supplied.",
+    "evidence": "Complete actual cached English statement source 1813 pp6-8; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::8f6d6f3d4306220d::885::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rotational energy reconstruction, timing, empirical fits and uncertainty",
+    "decision_reason": "KEEP: Rotational energy reconstruction, timing, empirical fits and uncertainty.",
+    "evidence": "Complete actual cached English statement source 1815 pp2-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::389e0250c9d9a7dd::886::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian lunar encounter, adiabatic filling and geometric shadow alignment",
+    "decision_reason": "KEEP: Newtonian lunar encounter, adiabatic filling and geometric shadow alignment.",
+    "evidence": "Complete actual cached English statement source 1817 pp2-2; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::389e0250c9d9a7dd::886::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Fourier conduction, heat balance and blackbody cooling",
+    "decision_reason": "KEEP: Supplied Fourier conduction, heat balance and blackbody cooling.",
+    "evidence": "Complete actual cached English statement source 1817 pp3-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::389e0250c9d9a7dd::886::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied monopole field and flux quantization; Lorentz force, induction and field energy",
+    "decision_reason": "KEEP: Supplied monopole field and flux quantization; Lorentz force, induction and field energy.",
+    "evidence": "Complete actual cached English statement source 1817 pp5-7; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::df8b34e0cbdc899f::887::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Measured battery EMF, internal resistance, I-V characteristics and uncertainty",
+    "decision_reason": "KEEP: Measured battery EMF, internal resistance, I-V characteristics and uncertainty.",
+    "evidence": "Complete actual cached English statement source 1819 pp2-5; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::adad60cced7c5ca3::888::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Bicone rolling, ideal-gas heat exchange and motor torque model",
+    "decision_reason": "KEEP: Bicone rolling, ideal-gas heat exchange and motor torque model.",
+    "evidence": "Complete actual cached English statement source 1821 pp2-2; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::adad60cced7c5ca3::888::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian circular orbits and rotating-frame Lagrange equilibria",
+    "decision_reason": "KEEP: Newtonian circular orbits and rotating-frame Lagrange equilibria.",
+    "evidence": "Complete actual cached English statement source 1821 pp3-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::adad60cced7c5ca3::888::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Geometric optics with explicitly proportional photodetector response",
+    "decision_reason": "KEEP: Geometric optics with explicitly proportional photodetector response.",
+    "evidence": "Complete actual cached English statement source 1821 pp5-6; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::c8340cc9bf39be47::889::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Mechanical oscillation superposition, beats, fitting and uncertainty",
+    "decision_reason": "KEEP: Mechanical oscillation superposition, beats, fitting and uncertainty.",
+    "evidence": "Complete actual cached English statement source 1823 pp2-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f70b8ea60d432120::890::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas heat capacity, AC bridge and low-speed stellar Doppler shift",
+    "decision_reason": "KEEP: Ideal-gas heat capacity, AC bridge and low-speed stellar Doppler shift.",
+    "evidence": "Complete actual cached English statement source 1825 pp2-2; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f70b8ea60d432120::890::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Classical elastic collisions with a moving mirror and supplied stochastic model",
+    "decision_reason": "KEEP: Classical elastic collisions with a moving mirror and supplied stochastic model.",
+    "evidence": "Complete actual cached English statement source 1825 pp3-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f70b8ea60d432120::890::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicitly classical Lorentz trajectories, induction and cylindrical electrostatics",
+    "decision_reason": "KEEP: Explicitly classical Lorentz trajectories, induction and cylindrical electrostatics.",
+    "evidence": "Complete actual cached English statement source 1825 pp5-6; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::979b3ed80a9f4ebc::892::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rolling, ideal-gas first law and charged-hemisphere stability",
+    "decision_reason": "KEEP: Rolling, ideal-gas first law and charged-hemisphere stability.",
+    "evidence": "Complete actual cached English statement source 1829 pp2-2; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::979b3ed80a9f4ebc::892::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied spectral absorption models and radiative thermal balance",
+    "decision_reason": "KEEP: Supplied spectral absorption models and radiative thermal balance.",
+    "evidence": "Complete actual cached English statement source 1829 pp3-5; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::979b3ed80a9f4ebc::892::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Dominant photon-pressure, Newtonian solar-sail and lens momentum work; independent first-order dust drag extension",
+    "decision_reason": "KEEP: Dominant photon-pressure, Newtonian solar-sail and lens momentum work; independent first-order dust drag extension.",
+    "evidence": "Complete actual cached English statement source 1829 pp6-7; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0,
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::8c8b66520bee3983::893::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rolling/sliding Newtonian dynamics and friction data analysis",
+    "decision_reason": "KEEP: Rolling/sliding Newtonian dynamics and friction data analysis.",
+    "evidence": "Complete actual cached English statement source 1831 pp1-2; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::8c8b66520bee3983::893::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied rolling-friction law, damped mechanics and uncertainty",
+    "decision_reason": "KEEP: Supplied rolling-friction law, damped mechanics and uncertainty.",
+    "evidence": "Complete actual cached English statement source 1831 pp3-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::96b36cbbaf2d7fd1::894::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coupled fluid/spring oscillations, surface tension and LC energy",
+    "decision_reason": "KEEP: Coupled fluid/spring oscillations, surface tension and LC energy.",
+    "evidence": "Complete actual cached English statement source 1832 pp1-1; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::96b36cbbaf2d7fd1::894::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicit plasma cell model; electrostatics, equipartition and ordinary thermodynamics",
+    "decision_reason": "KEEP: Explicit plasma cell model; electrostatics, equipartition and ordinary thermodynamics.",
+    "evidence": "Complete actual cached English statement source 1832 pp2-3; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::96b36cbbaf2d7fd1::894::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicit waveguide fields and boundary condition; superposition, phase/group velocity",
+    "decision_reason": "KEEP: Explicit waveguide fields and boundary condition; superposition, phase/group velocity.",
+    "evidence": "Complete actual cached English statement source 1832 pp4-6; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::e2479da6ff139cad::895::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Nonlinear pendulum energy, supplied numerical algorithm and fit/error analysis",
+    "decision_reason": "KEEP: Nonlinear pendulum energy, supplied numerical algorithm and fit/error analysis.",
+    "evidence": "Complete actual cached English statement source 1835 pp1-3; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  }
+]

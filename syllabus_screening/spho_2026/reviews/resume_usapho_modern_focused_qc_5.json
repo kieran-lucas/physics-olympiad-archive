@@ -1,0 +1,22 @@
+[
+  {
+    "screening_unit_id": "raw::1019",
+    "detail": "Focused second reading: actual 2024 A2 p5 plus official solution pp6-8. Uncertainty times spacing is given; pressure then follows ordinary kinetic momentum flux. No unsupplied Fermi-Dirac statistics is used. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1021",
+    "detail": "Focused second reading: actual 2024 B1 p8 plus official solution pp13-15. The solution requires relativistic invariant collision energy and time dilation for a, b and d; neither law is supplied by the statement/reference table. REJECT confirmed at whole-problem level."
+  },
+  {
+    "screening_unit_id": "raw::1022",
+    "detail": "Focused second reading: actual 2024 B2 p9 plus official solution pp16-18. Supplied entropy/energy derivatives control the quantum part, and given solid heat capacity plus gas first law controls piston motion. KEEP confirmed; unfamiliar solid-state context is not a prerequisite."
+  },
+  {
+    "screening_unit_id": "raw::1053",
+    "detail": "Focused second reading: actual 2023 B2 p10 and official solution pp19-21. The primary solution uses only the supplied photon energy-momentum transformations, reflection, momentum conservation and lab interception rate (1-v/c); no unsupplied time-dilation law enters. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1054",
+    "detail": "Focused second reading: actual 2023 B3 p11 and official solution pp22-24. Gamma-energy and photon momentum relations supplied on the previous source page plus given magnetic radius suffice. The formula page is preserved as shared context. KEEP confirmed."
+  }
+]

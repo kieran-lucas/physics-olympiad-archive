@@ -1,0 +1,58 @@
+{
+  "seed": 20261004569,
+  "population": 398,
+  "batch_range": "fast_scope_0155-0169",
+  "sample": [
+    {
+      "screening_unit_id": "derived::b1cd565276ca09c0::4004::1",
+      "source_file_id": 2918,
+      "problem_number": "1",
+      "page_start": 2,
+      "page_end": 2,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "raw::768",
+      "source_file_id": 1651,
+      "problem_number": "5",
+      "page_start": 1,
+      "page_end": 1,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "derived::737710f6b84cc75f::4009::3",
+      "source_file_id": 2922,
+      "problem_number": "3",
+      "page_start": 5,
+      "page_end": 6,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A17",
+      "source_file_id": 2663,
+      "problem_number": "A17",
+      "page_start": 5,
+      "page_end": 6,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "raw::3952",
+      "source_file_id": 3180,
+      "problem_number": "5",
+      "page_start": 8,
+      "page_end": 8,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "raw::704",
+      "source_file_id": 1620,
+      "problem_number": "3",
+      "page_start": 5,
+      "page_end": 6,
+      "decision": "KEEP"
+    }
+  ],
+  "status": "completed",
+  "checked_at": "2026-10-04T14:52:50.654715+00:00",
+  "outcome": "6/6 decisions confirmed from actual statements; damaged extraction rendered"
+}

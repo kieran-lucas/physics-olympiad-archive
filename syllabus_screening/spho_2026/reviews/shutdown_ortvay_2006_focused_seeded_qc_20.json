@@ -1,0 +1,82 @@
+[
+  {
+    "screening_unit_id": "raw::6005",
+    "detail": "Focused ray-model review: complete rainbow story p2 reopened in render. Zenith passage and sunrise/sunset angles constrain reflected/refracted ray families with an inferred index. Snell law and stationary deflection are the needed physical methods; no exotic droplet chemistry or atmosphere dispersion theory is prescribed. Companion rainbow prediction can remain under an explicitly chosen spherical-droplet model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6009",
+    "detail": "Focused supplied-cosmology context review: exact Q5 p3 reopened. It explicitly prints G(t)=G0*t0/t in Newton law. Central-force ODE/angular momentum and secular/numerical orbit analysis use that entire supplied modification. The cited 1938 paper is not needed to supply extra cosmology. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6010",
+    "detail": "Focused axial-string review: complete release task p3 reread. Gravity sets initial tension gradient; ordinary scalar axial Hooke elasticity and string inertia derive longitudinal release waves and free-end matching. This is the same axial-compression boundary as previously retained massive springs/rod-end collision, unlike bending/tensor-solid tasks. KEEP confirmed with declared stiffness/mass idealization."
+  },
+  {
+    "screening_unit_id": "raw::6014",
+    "detail": "Focused contact-law review: complete Q10 p3 reopened. The text itself calls the shallow indentation force elastic with a very high spring rate; linear indentation energy/force is the specified coarse contact model. Classical impulse or radial orbit integration and impact-parameter Jacobian give the scattering correction/rigid limit. Hertz deformation is not silently added. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6017",
+    "detail": "Focused supplied spectral model review: exact K expression p4 reopened. Newton pendulum response driven by cart acceleration gives a convolution reaction force. Constant K integrates cos(omega*t) to a delta distribution under the stated continuum idealization, producing a drag term. Infinite-band/low-frequency limits require explicit cutoffs or formal distribution interpretation; no quantum/stochastic bath law is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6018",
+    "detail": "Focused bow prerequisite review: entire traditional-bow task p4 reopened. Arrow acceleration and limb mass/string design depend on load-deflection/curvature energy and coupled composite-limb dynamics; no curve or beam law is supplied by historical sizes/material names. Ordinary ballistic range is downstream of that central missing physics. REJECT confirmed for the whole task, without separately rescuing range subparts."
+  },
+  {
+    "screening_unit_id": "raw::6019",
+    "detail": "Focused model-construction review: complete branch-flow question p4 reopened. It gives freedom to create a model rather than demanding a particular fluid equation. A lumped restoring spring with changing immersion/drag might explain self-excitation within ordinary physics, while faithful flow/beam instability needs outside constitutive machinery. Neither observed mode nor target quantitative depth is specified. No acquired official solution resolves it. BORDERLINE retained."
+  },
+  {
+    "screening_unit_id": "raw::6020",
+    "detail": "Focused tidal supplied-model review: complete Q16 p4 reopened. It explicitly asks whether two point masses with a damped connecting spring can reproduce tidal locking. Newton force gradients, scalar spring lag and internal damping generate torque/angular-momentum exchange. No actual Moon elastic tensor or tidal quality-factor law is required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6021",
+    "detail": "Focused capillary foundation review: full coin-force Q17 p4 reread. Curvature pressure follows ordinary surface tension and work; hydrostatic pressure supplies restoring deformation. A small-slope far-field meniscus and derivative of its surface/gravity energy give distance force, with a lower-dimensional alternative explicitly permitted. This is ordinary hydrostatics/capillarity plus mathematics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6022",
+    "detail": "Focused source-sufficiency review: complete one-sentence pool-power task p4 reread. It supplies area/height/deep water but no energy-loss/build-up time or wavelength. Ordinary wave energy can scale as rho*g*S*h^2; stationary power is energy times a declared damping/escape rate. A unique number is underdetermined, but no outside physical theory is structurally required by a parametric answer. KEEP confirmed with this limitation explicit."
+  },
+  {
+    "screening_unit_id": "raw::6023",
+    "detail": "Focused classical-conductor review: all rotating-sphere requests p4 reread. In a declared free-electron equilibrium approximation, centripetal carrier acceleration creates an electrostatic gradient balanced by charge redistribution; neutrality fixes surface charge and rotating currents give ordinary magnetic multipoles. No quantum band calculation is asked. Earth comparison is a magnitude/model-validity check, not a supplied dynamo theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6026",
+    "detail": "Focused incomplete-elastic-model review: actual displacement formula p5 reopened. Its divergence away from the core can be computed, but interaction energy requires a strain/stress energy and defect-volume coupling law that the statement never supplies. Prior tensor-elasticity boundary therefore still applies despite the given u(r). REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6028",
+    "detail": "Focused decision correction after reopening all Q24 p5: source explicitly specifies E=f(p), p^2/2=Z(E), F=p-dot and a=v-dot. Ordinary work-energy dE/dt=F dot v, valid for arbitrary applied force, yields v=grad_p(E)=p/Z-prime without invoking a separately assumed canonical Hamilton rule. Its derivative/inverse gives transverse Z-prime and longitudinal Z-prime^3/(Z-prime^2-2Z*Z-double-prime); constant-ratio and power-family cases are algebra. Whole KEEP replaces provisional REJECT. Exact first-pass row/reason preserved in shutdown_ortvay_2006_q24_focused_change.json and pass-1 event. Rubric unchanged."
+  },
+  {
+    "screening_unit_id": "raw::6030",
+    "detail": "Focused uncertainty/theorem review: complete Q26 p6 reopened. It names saturation but does not provide quantum operators, inequality or eigen-equation; those remain the central missing specialized laws. Moreover arbitrary functions of an oscillator Hamiltonian share its ground eigenstate, so a conventional kinetic-plus-local-potential assumption is needed for the stated uniqueness theorem. REJECT confirmed with that separate source-quality caveat."
+  },
+  {
+    "screening_unit_id": "raw::6031",
+    "detail": "Focused spin-scattering review: actual matrix-wave expression and both symmetry cases p6 reopened. Asymptotic scalar/spinor amplitudes are printed, but how time reversal and rotation act on the spinor is not. Those quantum representation laws, not mere matrix algebra, determine the constraints. REJECT confirmed; supplied asymptotic expression is acknowledged."
+  },
+  {
+    "screening_unit_id": "raw::6032",
+    "detail": "Data-analysis QC: all five lifetimes and measurement precision p6 reread. Exponential nuclear decay implies a Gamma(5) sum statistic; confidence inversion gives a non-Gaussian lifetime/rate interval and the derived half-life sampling law. Data already supplied; no reaction-production or superheavy-structure theory needed. KEEP confirmed with interval convention explicit."
+  },
+  {
+    "screening_unit_id": "raw::6033",
+    "detail": "Focused chain-data review: full filtration setup and actual nuclear chain p6 reopened. Equilibrium source, small constant airflow and capture efficiency determine collection source terms; sequential decay equations give post-pump daughter populations and alpha activity. All exercise half-lives are printed, including 64 microseconds for Po214, retained literally rather than silently replaced. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6036",
+    "detail": "Focused partial-relativity model review: entire cascade p7 reopened. One invariant-mass relation and a target upper-endpoint expression are printed, but the four-vector component/mass-shell/frame transformation rules and actual masses needed to derive endpoints are not. This is substantial missing relativistic kinematics, unlike a supplied scalar dispersion threshold model using allowed energy/momentum. REJECT confirmed; particle names alone are not a reason."
+  },
+  {
+    "screening_unit_id": "raw::6016",
+    "detail": "Seeded QC (Random 2026100417 first selection): complete asteroid split task p4 reread. Cohesive force is explicitly removed by sawing; homogeneous small-ellipsoid/hemisphere mass geometry remains. Derivatives of ordinary Newton mutual energy versus stated displacement yield forces. No fracture/elasticity model is requested. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6006",
+    "detail": "Seeded QC (Random 2026100417 second selection): full Galileo task and historical diagram p2 reopened. Circle-through-origin central trajectories have a Binet reciprocal-radius form and force test dependent on launch angular momentum/radius. Newtonian inverse-orbit mathematics tests whether one universal law works for all stated latitudes/heights. KEEP confirmed."
+  }
+]

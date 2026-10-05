@@ -1,0 +1,42 @@
+[
+  {
+    "screening_unit_id": "raw::5546",
+    "detail": "Focused review: complete Q3 p2 reopened. Supplied lambda^3/T^2 scaling fixes a capillary-wave dimensional coefficient, but molecular length requires an additional molecular surface-energy/temperature relation. Eotvos law is only named. BORDERLINE confirmed rather than silently importing that empirical law."
+  },
+  {
+    "screening_unit_id": "raw::5554",
+    "detail": "Focused dimension/prerequisite check: complete Q11 p5 reread. For point masses at q_a in four-dimensional Euclidean space, rigid velocity is Omega*q_a and angular momentum is the antisymmetric matrix sum m(q*v^T-v*q^T). Torque-free Newtonian motion conserves its laboratory value; changing to rotating coordinates yields generalized Euler equations. These are ordinary Newtonian conservation plus rotation-matrix algebra; no new 4D physical law is assumed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5562",
+    "detail": "Focused and seeded QC (2026100404): whole Q19 p7 reopened. Tiny dielectric molecules respond as electric dipoles; ordinary Maxwell far-field emission gives the sin^2 radiation geometry and wavelength^-4 factor, while ideal-gas hydrostatics supplies the column distribution. Absolute brightness needs polarizability/density inputs, explicitly flagged. No unsupplied quantum scattering cross section is structurally required. KEEP confirmed under ordinary EM radiation scope."
+  },
+  {
+    "screening_unit_id": "raw::5566",
+    "detail": "Focused review: whole Q23 p8 and source render reopened. A constant normal dipole sheet produces a potential jump and no exterior field in the ideal planar/closed-layer interpretation. The source asserts repulsion without defining a finite patch, discreteness or variable dipole profile. That model conflict remains unresolved; BORDERLINE confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5568",
+    "detail": "Focused review: whole Q25 p8 reread. Pendulum plus infinitely many environmental oscillators lacks coupling Hamiltonian, bath spectrum and thermal initialization. Classical Langevin and quantum low-temperature interpretations cannot be equated from the supplied text. BORDERLINE confirmed; no model supplied by reviewer."
+  },
+  {
+    "screening_unit_id": "raw::5571",
+    "detail": "Focused source-interpretation check: whole Q28 p9 reread. Under the printed enclosing conducting-sphere reading, Gauss/equipotential screening fixes exterior Q/V independently of neutral gas pressure/polarization inside. Even an intended unshielded dielectric-gas interpretation would use ordinary electrostatics and centrifugal ideal-gas balance. KEEP physics scope confirmed, with wording ambiguity retained in quality notes."
+  },
+  {
+    "screening_unit_id": "raw::5573",
+    "detail": "Focused radiation/prerequisite check: whole Q30 p9 and all five rotation-axis diagrams reopened. Nonrelativistic sources and ordinary Maxwell radiation are in scope. Expanding the retarded wave solution for slowly varying discrete sources gives multipoles; symmetric cancellation and derivative frequency factors are mathematics. No quantum multipole selection rule is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5576",
+    "detail": "Focused exotic-context check: whole Q33 p10 and glued-face cube reread. Integrate curl B=mu0*j+mu0*epsilon0*dE/dt over a periodic transverse face: cancelling boundary edges makes integrated curl zero. Net current winding then requires a nonstationary mean electric field. The geometry is supplied and the physical law is standard Maxwell; de Rham is optional mathematics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5587",
+    "detail": "Focused supplied-model review: complete Q44 p13 reread. Site energies and uniform hopping are named, suggesting an adjacency-matrix route, but the Hamiltonian mapping is not operationally defined. Unlike an explicitly supplied finite matrix, this text may require the tight-binding model convention. BORDERLINE confirmed without inferring a missing quantum law."
+  },
+  {
+    "screening_unit_id": "raw::5591",
+    "detail": "Seeded REJECT QC (2026100404): complete Q48 p15 and full formula render reopened. Vacuum decomposition alone does not supply the excited-state transformation, partial trace over inaccessible modes or entanglement measure. Those unsupplied quantum-field/information concepts remain central. REJECT confirmed."
+  }
+]

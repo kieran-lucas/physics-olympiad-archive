@@ -1,0 +1,5 @@
+{
+  "checked_at": "2026-10-04T04:23:16.651761+00:00",
+  "comparison": "Complete 1998 Q26 p6 versus complete 2008 Q31 supplied condensate PDE",
+  "result": "Shared physical model, different whole task: anisotropic commuting differential operators versus axially symmetric polynomial-factor ansatz/frequencies. Preserve separate logical problems; no equivalence inserted."
+}

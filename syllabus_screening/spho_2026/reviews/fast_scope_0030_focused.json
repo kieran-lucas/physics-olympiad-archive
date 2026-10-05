@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::2865",
+    "detail": "Focused supplied-model check: full statement p45 supplies Hawking temperature and Schwarzschild radius. Solution p46 uses these with Stefan-Boltzmann radiation, E=mc^2 and one ODE; no unsupplied GR prerequisite. KEEP confirmed."
+  }
+]

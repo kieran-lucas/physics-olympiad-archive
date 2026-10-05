@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-04T04:37:34.406670+00:00",
+  "screening_unit_id": "raw::306",
+  "statement_file_id": 948,
+  "solution_file_id": 949,
+  "statement_pages": [
+    2,
+    3,
+    4
+  ],
+  "solution_pages": [
+    3,
+    4,
+    5,
+    7,
+    8,
+    9
+  ],
+  "inspection": "Full statement and cited solution sections read; statement all pages and solution pp7-9 actually rendered.",
+  "B": {
+    "literal": "Ei(r,t)=A*exp(i*(ki dot r-omega*t+phi(t))) has globally simultaneous random phase. Retarded detector contributions sample phi at outgoing-delay-separated scattering times.",
+    "solution_clarification": "S2 p5 says phi should mean transported source phase phi(t-si dot r/c); then delay is full scattering path, (q dot r)/(k*c).",
+    "status": "Additional phase-transport convention recorded, not silently inserted into original PDF."
+  },
+  "D": {
+    "literal_mean_amplitude": "[1-exp(i*x*Nbar-sigma^2*x^2/2)]/[1-exp(i*x)], x=q_z*d",
+    "at_bragg": "For Nbar=5 and sigma=0.4, numerator at x=2*pi is 1-exp(-2*pi^2*0.16), nonzero; denominator vanishes. Flat sigma=0 reference tends to5, so literal intensity ratio diverges as x approaches2*pi.",
+    "solution": "S2 applies the Gaussian characteristic function to residual delta-q after using integer N to discard exp(i*2*pi*N); then ratio at Bragg equals1. That equality is not valid for the exact continuous A_N stipulated in Q2-4.",
+    "status": "Genuine continuous-versus-integer model conflict; no raw/solution repair performed."
+  },
+  "scope": "All interpretations still use ordinary interference and supplied mathematical models. KEEP whole problem; source-quality conflict requires focused review and remains disclosed."
+}

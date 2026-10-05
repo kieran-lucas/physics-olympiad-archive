@@ -1,0 +1,145 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0016.json",
+  "papers": [
+    {
+      "file_id": 282,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. One E2 Solar cells, internal sections 2.1-2.7 and equipment. No additional independent statement."
+    },
+    {
+      "file_id": 291,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. p1 general experimental instructions mention both experiments but contain no other statement; pp2-3 E1 water permeability Parts A-B only. No additional independent statement."
+    },
+    {
+      "file_id": 294,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Question 1 three-body LISA, internal sections 1.1-1.4. No additional independent statement."
+    },
+    {
+      "file_id": 304,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Experimental Problem 1 capacitive displacement blackbox, internal calibration/measurement sections. No additional independent statement."
+    },
+    {
+      "file_id": 312,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Theory Problem 1 charge image and conducting sphere. No additional independent statement."
+    },
+    {
+      "file_id": 315,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Theory Problem 2 chimney power plant, internal Tasks 1-4. No additional independent statement."
+    },
+    {
+      "file_id": 317,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Theory Problem 3 atomic nuclei model, internal Tasks 1-5. No additional independent statement."
+    },
+    {
+      "file_id": 321,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Experimental Problem 1 elasticity of sheets only. No additional independent statement."
+    },
+    {
+      "file_id": 323,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Experimental Problem 2 forces between magnets only. No additional independent statement."
+    },
+    {
+      "file_id": 326,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Theoretical Problem 1 Earth-Moon evolution, internal sections 1-3. No additional independent statement."
+    },
+    {
+      "file_id": 329,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Theoretical Problem 2 Doppler laser cooling, internal sections 1-8. No additional independent statement."
+    },
+    {
+      "file_id": 332,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Theoretical Problem 3 Why stars are large, internal sections 1-5. No additional independent statement."
+    },
+    {
+      "file_id": 336,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-4 general instructions/equipment; blank-extraction p2 additionally rendered and checked: apparatus photographs only. pp5-10 one Experimental Problem 1 laser wavelength. No additional independent statement."
+    },
+    {
+      "file_id": 339,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Experimental Problem 2 mica birefringence; final mention of Problem 1 is a wavelength reference, not a new statement. No additional independent statement."
+    },
+    {
+      "file_id": 341,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Repeated Theoretical Problem No.1 across all six pages, water mortar. No additional independent statement."
+    },
+    {
+      "file_id": 344,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Repeated Theoretical Problem No.2 across all three pages, Cherenkov light. No additional independent statement."
+    },
+    {
+      "file_id": 345,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. Repeated Theoretical Problem No.3 across all six pages, atmospheric air temperature. No additional independent statement."
+    },
+    {
+      "file_id": 347,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. One Experimental Problem differential thermometry: internal diode calibration, phase transition and solar-cell tasks; final kit photographs not extra statements. No additional independent statement."
+    },
+    {
+      "file_id": 349,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. One theory problem with internal dimensional analysis and black-hole sections 1-3. No additional independent statement."
+    },
+    {
+      "file_id": 352,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. One theory accelerometer/airbag problem, internal sections 1-4. No additional independent statement."
+    },
+    {
+      "file_id": 355,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. One binary-star theory problem, internal sections 1-4. No additional independent statement."
+    },
+    {
+      "file_id": 357,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-2 Theory Question 1 neutron interferometer; pp3-5 answer script repeats internal outputs. No additional independent statement."
+    },
+    {
+      "file_id": 358,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-5 apparatus description; pp6-12 one semiconductor-bandgap Experimental Problem. No additional independent statement."
+    },
+    {
+      "file_id": 361,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-2 Theory Question 2 moving rod; pp3-5 answer script repeats internal outputs. No additional independent statement."
+    },
+    {
+      "file_id": 362,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-4 Theory Question 3 multiple contexts under same explicit heading; pp5-8 answer script, no new top-level units. No additional independent statement."
+    },
+    {
+      "file_id": 364,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. One 20-point Experimental Competition with common microwave apparatus and internal Parts 1-4. No additional independent statement."
+    },
+    {
+      "file_id": 367,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-2 Th1 satellite with internal Questions 1-4; p3 response template. No additional independent statement."
+    },
+    {
+      "file_id": 368,
+      "observed_units": 1,
+      "evidence": "All physical-page boundary contexts manually checked against complete persisted source inspection. pp1-2 Th2 electrical quantities with internal Tasks 1-7; p3 response template. No additional independent statement."
+    }
+  ]
+}

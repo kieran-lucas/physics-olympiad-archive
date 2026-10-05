@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "derived::ba52359793629df0::4087::A10",
+    "detail": "Seeded lightweight QC 0007 (seed 20261004368, 6/368): actual full statement reread at source 3031, registered 10. KEEP confirmed: Constant-deceleration stopping distance. No decision change."
+  },
+  {
+    "screening_unit_id": "derived::4d4c93156573a22f::4083::D",
+    "detail": "Seeded lightweight QC 0007 (seed 20261004368, 6/368): actual full statement reread at source 3024, registered D. KEEP confirmed: Ray reflection with supplied partial reflectivity. No decision change."
+  },
+  {
+    "screening_unit_id": "derived::5e4942537a984076::4091::6",
+    "detail": "Seeded lightweight QC 0007 (seed 20261004368, 6/368): actual full statement reread at source 3042, registered 6. KEEP confirmed: Projectile speed and acceleration. No decision change."
+  },
+  {
+    "screening_unit_id": "derived::ec0929b4a79a9724::4097::13",
+    "detail": "Seeded lightweight QC 0007 (seed 20261004368, 6/368): actual full statement reread at source 3058, registered 13. KEEP confirmed: Pendulum measurement method and uncertainty. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4219",
+    "detail": "Seeded lightweight QC 0007 (seed 20261004368, 6/368): actual full statement reread at source 3072, registered 4. KEEP confirmed: Classical electron motion in parallel electric and magnetic fields. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4175",
+    "detail": "Seeded lightweight QC 0007 (seed 20261004368, 6/368): actual full statement reread at source 3066, registered 35. KEEP confirmed: Elastic rigid-rod collision impulse. No decision change."
+  }
+]

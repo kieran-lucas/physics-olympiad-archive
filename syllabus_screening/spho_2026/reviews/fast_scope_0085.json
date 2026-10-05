@@ -1,0 +1,222 @@
+[
+  {
+    "screening_unit_id": "derived::99b2e4f7ca76745d::2584::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Dominant classical estimation, low-voltage electron mechanics and supplied source circuit model",
+    "decision_reason": "KEEP: Dominant classical estimation, low-voltage electron mechanics and supplied source circuit model.",
+    "page_start": 2,
+    "page_end": 3,
+    "evidence": "Fast statement pass: source 2750, printed Question 1; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::99b2e4f7ca76745d::2584::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicit Hubble recession law and Boltzmann populations; algebra and differential equations",
+    "decision_reason": "KEEP: Explicit Hubble recession law and Boltzmann populations; algebra and differential equations.",
+    "page_start": 3,
+    "page_end": 4,
+    "evidence": "Fast statement pass: source 2750, printed Question 2; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::99b2e4f7ca76745d::2584::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian tidal gravity, supplied disruption model and gravity-gradient detection",
+    "decision_reason": "KEEP: Newtonian tidal gravity, supplied disruption model and gravity-gradient detection.",
+    "page_start": 4,
+    "page_end": 5,
+    "evidence": "Fast statement pass: source 2750, printed Question 3; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::99b2e4f7ca76745d::2584::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicitly supplied memristor relations, magnetic-dipole force model and classical analogue",
+    "decision_reason": "KEEP: Explicitly supplied memristor relations, magnetic-dipole force model and classical analogue.",
+    "page_start": 5,
+    "page_end": 7,
+    "evidence": "Fast statement pass: source 2750, printed Question 4; complete statement and all internal parts read from SHA-cached text. Rendered pp5-6 confirm memristor dphi=M dq and the classical magnetic analogue.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::99b2e4f7ca76745d::2584::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Classical Hall-force balance, drift current and experimental design",
+    "decision_reason": "KEEP: Classical Hall-force balance, drift current and experimental design.",
+    "page_start": 7,
+    "page_end": 8,
+    "evidence": "Fast statement pass: source 2750, printed Question 5; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::e55e7336fe7e4e83::2585::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Whole Question 1: Newtonian mechanics, circuits, provided energy levels, optics, gases, nuclear binding and uncertainty",
+    "decision_reason": "KEEP: Whole Question 1: Newtonian mechanics, circuits, provided energy levels, optics, gases, nuclear binding and uncertainty.",
+    "page_start": 3,
+    "page_end": 6,
+    "evidence": "Fast statement pass: source 2752, printed Question 1; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Charging circuits and resistor-network symmetry",
+    "decision_reason": "KEEP: Charging circuits and resistor-network symmetry.",
+    "page_start": 3,
+    "page_end": 4,
+    "evidence": "Fast statement pass: source 2754, printed Question 2; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Acoustic Doppler, supplied string frequency and beats",
+    "decision_reason": "KEEP: Acoustic Doppler, supplied string frequency and beats.",
+    "page_start": 4,
+    "page_end": 5,
+    "evidence": "Fast statement pass: source 2754, printed Question 3; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Pendulum SHM, thermal expansion and Newtonian gravity",
+    "decision_reason": "KEEP: Pendulum SHM, thermal expansion and Newtonian gravity.",
+    "page_start": 5,
+    "page_end": 6,
+    "evidence": "Fast statement pass: source 2754, printed Question 4; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Thin-film interference and experimental surface mapping",
+    "decision_reason": "KEEP: Thin-film interference and experimental surface mapping.",
+    "page_start": 6,
+    "page_end": 7,
+    "evidence": "Fast statement pass: source 2754, printed Question 5; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Classical collisions, contact forces and relative velocity",
+    "decision_reason": "KEEP: Classical collisions, contact forces and relative velocity.",
+    "page_start": 7,
+    "page_end": 8,
+    "evidence": "Fast statement pass: source 2754, printed Question 6; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian orbital energy and galaxy mass estimates",
+    "decision_reason": "KEEP: Newtonian orbital energy and galaxy mass estimates.",
+    "page_start": 8,
+    "page_end": 9,
+    "evidence": "Fast statement pass: source 2754, printed Question 7; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photon momentum and explicitly nonrelativistic electron recoil; conservation laws",
+    "decision_reason": "KEEP: Photon momentum and explicitly nonrelativistic electron recoil; conservation laws.",
+    "page_start": 9,
+    "page_end": 10,
+    "evidence": "Fast statement pass: source 2754, printed Question 8; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1781698da0ed4b97::2586::9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coulomb dipole and ring fields, potential energy and classical motion",
+    "decision_reason": "KEEP: Coulomb dipole and ring fields, potential energy and classical motion.",
+    "page_start": 10,
+    "page_end": 10,
+    "evidence": "Fast statement pass: source 2754, printed Question 9; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::36f37cd7073b1b7c::2587::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Bernoulli, hydraulic-jump momentum and explicitly supplied fusion-energy data",
+    "decision_reason": "KEEP: Bernoulli, hydraulic-jump momentum and explicitly supplied fusion-energy data.",
+    "page_start": 2,
+    "page_end": 4,
+    "evidence": "Fast statement pass: source 2755, printed Question 1; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::36f37cd7073b1b7c::2587::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Biot-Savart, Faraday induction and AC filtering",
+    "decision_reason": "KEEP: Supplied Biot-Savart, Faraday induction and AC filtering.",
+    "page_start": 4,
+    "page_end": 5,
+    "evidence": "Fast statement pass: source 2755, printed Question 2; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::36f37cd7073b1b7c::2587::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied bow-wave analogy for Cherenkov geometry and classical thermal radiation",
+    "decision_reason": "KEEP: Supplied bow-wave analogy for Cherenkov geometry and classical thermal radiation.",
+    "page_start": 5,
+    "page_end": 5,
+    "evidence": "Fast statement pass: source 2755, printed Question 3; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::1d00b152ba4c7a77::2588::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Whole Question 1: gases, circuits, mechanics, thin-film optics, nuclear decay, SHM and induction",
+    "decision_reason": "KEEP: Whole Question 1: gases, circuits, mechanics, thin-film optics, nuclear decay, SHM and induction.",
+    "page_start": 4,
+    "page_end": 7,
+    "evidence": "Fast statement pass: source 2756, printed Question 1; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::5c0ca18fcc5c8cbf::2590::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Whole Question 1: collision torque, thermal conduction, rotating liquids, optics, induction and stored field energy",
+    "decision_reason": "KEEP: Whole Question 1: collision torque, thermal conduction, rotating liquids, optics, induction and stored field energy.",
+    "page_start": 2,
+    "page_end": 5,
+    "evidence": "Fast statement pass: source 2758, printed Question 1; complete statement and all internal parts read from SHA-cached text.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::5c0ca18fcc5c8cbf::2590::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicitly supplied effective refractive index for gravitational light bending; shell fields and Newtonian galaxy model",
+    "decision_reason": "KEEP: Explicitly supplied effective refractive index for gravitational light bending; shell fields and Newtonian galaxy model.",
+    "page_start": 5,
+    "page_end": 6,
+    "evidence": "Fast statement pass: source 2758, printed Question 2; complete statement and all internal parts read from SHA-cached text. Rendered p5 confirms n^2 approximately 1+4a/r is supplied.",
+    "needs_second_review": false
+  }
+]

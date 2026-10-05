@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-10-04T04:59:09.490063+00:00",
+  "file_id": 987,
+  "document_id": 1045,
+  "sha256": "4cde4f6acd6542ba3474bf7d9bd40fedca169e28e35e21502e98a2e9bf076048",
+  "source_url": "https://olimpicos.net/files/apho/APhO_2023_ExperimentInstructions.pdf",
+  "associated_units": [
+    "raw::321",
+    "raw::322"
+  ],
+  "inspection": "All eight pages text and images inspected. Generic safety/setup, laser and oscilloscope calibration/operation only, no independently graded top-level task. Timing instructions specify later pulses to avoid first-impact artifacts. Existing raw source preserved, not reacquired."
+}

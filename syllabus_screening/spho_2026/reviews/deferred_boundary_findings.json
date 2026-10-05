@@ -1,0 +1,39 @@
+[
+  {
+    "source_file_id": 3067,
+    "printed_problem_number": "8",
+    "page_start": 5,
+    "page_end": 5,
+    "finding": "Actual statement contains eighth slingshot/Hookean-rubber problem; database currently registers only 1-7. Registration deferred until known-unit scope queue reaches zero under user fast-pass ordering.",
+    "observed_at": "2026-10-04T07:55:39.818072+00:00"
+  },
+  {
+    "source_file_id": 2661,
+    "page_start": 11,
+    "page_end": 18,
+    "finding": "Actual INPhO 2010 Part B has 20 MCQs beyond registered Part A questions 1-5; all statements read. Register and screen only after known-unit scope queue closes.",
+    "observed_at": "2026-10-04T09:18:26.264621+00:00"
+  },
+  {
+    "source_file_id": 2663,
+    "page_start": 1,
+    "page_end": 22,
+    "finding": "INPhO 2009 instructions list 38 Part A MCQs, 20 Part B MCQs and Part C theory. Only Part A Q1 currently registered; defer full boundary audit and missing-unit registration until known-unit queue closes. Part C count not yet verified.",
+    "observed_at": "2026-10-04T09:18:26.264638+00:00"
+  },
+  {
+    "source_file_id": 2001,
+    "page_start": 11,
+    "page_end": 11,
+    "printed_unit": "Optical Society of America Bonus Question (Part C)",
+    "evidence": "Complete p11 read during scope pass: one independent five-subpart liquid-lens task absent from six registered USAPhO questions. Supplied lensmaker relation, spherical-cap geometry and surface attraction; KEEP when registered. Inventory expansion deferred until known-unit queue zero."
+  },
+  {
+    "source_file_id": 1644,
+    "page_start": 1,
+    "page_end": 3,
+    "printed_unit": "Midiendo momentos magneticos con reglas graduadas",
+    "finding": "Independent second 10-point, 2.5-hour experiment follows registered paper-filter experiment on p1; absent from database. Actual statement read pp1-3, supplied magnet force relations; render p1 confirms separate heading. Register after known-unit queue closes.",
+    "observed_at": "2026-10-04T12:08:51.972065+00:00"
+  }
+]

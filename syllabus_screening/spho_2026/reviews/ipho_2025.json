@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      5,
+      "KEEP",
+      "I_force_motion;II_oscillations_waves;VII_magnetic_field;XI_quantum_light;XII_atomic_nuclear",
+      "Bohr orbit quantization, magnetic moment energy, photon wavelength, Newtonian galactic gravity, Doppler shifts and a supplied modified force law",
+      "The galaxy problem is dominated by listed atomic/gravitational/wave physics. Hyperfine scaling and the complete MOND interpolation law are supplied; no relativistic cosmology or unsupplied atomic perturbation theory is needed.",
+      "Read all six pages of file 31 and visually inspected all six: Bohr/spin formulas, rotation curves, line-of-sight geometry, spectrum and MOND function. Retain Parts A-D as one Q1.",
+      [
+        1,
+        6
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      "Hyperfine proportionality and MOND model explicitly supplied."
+    ],
+    [
+      6,
+      "KEEP",
+      "I_force_motion;IV_thermodynamics",
+      "Hydrostatic pressure, saturated-vapour threshold, pulley/volume constraints, friction work and cycle energy",
+      "The clock model reduces to pressure/force balance and work-energy; the unfamiliar historical mechanism is fully specified and does not require clockmaking theory.",
+      "Read all six pages of file 36 and viewed all six. Pressure-force graphs, the two-part reservoir, pulley layout and triangular atmospheric-pressure history inspected. All A-C subparts remain Q2.",
+      [
+        1,
+        6
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      "No specialist theory; vapour-pressure data and periodic forcing supplied."
+    ],
+    [
+      7,
+      "KEEP",
+      "I_force_motion;II_oscillations_waves;III_ideal_gas;IV_thermodynamics",
+      "Ideal gas, ordinary surface tension, supplied solubility/diffusion/drag laws, force balance, adiabatic acoustic oscillation and pressure work",
+      "Henry law, molecular transfer laws, Stokes drag, equivalent acoustic mass and saturation-pressure model are explicitly supplied. Most work is thermodynamics, mechanics, oscillator reasoning and graph interpretation.",
+      "Read and visually inspected file 43 pages 1-5 in full: bubble-growth graph/photo, retracting-film geometry, resonator and cork/bottle diagram. A1-A6, B1-B3 and C1-C3 are internal sections of one Q3.",
+      [
+        1,
+        5
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      "Solubility, diffusion flux, effective neck mass and vapour-pressure relation supplied."
+    ],
+    [
+      8,
+      "KEEP",
+      "VII_magnetic_field;I_force_motion;II_oscillations_waves",
+      "Magnetic dipole force/torque, rigid-body torsional oscillation, calibration, graph fitting and uncertainty",
+      "The Gouy and torsion models are supplied; measuring magnetic moments and the Earth field uses in-scope fields and oscillations with standard experimental analysis.",
+      "Read file 51 pages 1-6; visually inspected apparatus pages 1-3 and equation/protocol page 5. Field/force sensors and coil directions checked. A/B protocols remain one Experiment Q1.",
+      [
+        1,
+        6
+      ],
+      "experimental",
+      1,
+      0,
+      "high",
+      "Dipole gradient force, coil gradient and wire torque models supplied; sensor electronics are operated rather than derived."
+    ],
+    [
+      9,
+      "KEEP",
+      "I_force_motion",
+      "Impact energy, rolling rigid-body motion, supplied drag laws, power-law fits and uncertainty",
+      "Crater scaling and both sand-drag hypotheses are supplied. The actual tasks are general mechanics and experiment/data analysis; planetary geology and granular constitutive theory are unnecessary.",
+      "Read file 57 pages 1-7; visually inspected equipment/model/setup pages 2-6. Q2 has internal independent Parts A/B under one 10-point top-level header; preserve the entire Q2 and all tasks.",
+      [
+        1,
+        7
+      ],
+      "experimental",
+      1,
+      0,
+      "high",
+      "Crater laws D=c1 d,c2 E^(1/3),c3 E^(1/4), air drag and two sand-drag models explicitly supplied."
+    ],
+    [
+      10,
+      "KEEP",
+      "XI_quantum_light;IV_thermodynamics;I_force_motion",
+      "De Broglie kinetic energy, standing-wave boundary conditions, supplied occupation rule, energy/pressure derivatives, force balance and density-profile integration",
+      "Despite the Fermi-gas context, the necessary wave form, boundary conditions, two-atoms-per-state filling rule, interaction scaling and local-density assumption are supplied. The remaining reasoning is wave quantization, counting, thermodynamics and ordinary equilibrium.",
+      "Read and visually inspected all four pages of file 64. Q4 Theory-Backup header, phase-space construction, Pauli rule, Bertsch rescaling and density-profile graph checked. All A/B questions stay one backup Q4.",
+      [
+        1,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "medium",
+      "Fermi-state filling, interaction scaling and local-homogeneous model supplied; no prior quantum many-body theory used."
+    ]
+  ],
+  "labels": {
+    "5": "Theory Q1",
+    "6": "Theory Q2",
+    "7": "Theory Q3",
+    "8": "Experiment Q1",
+    "9": "Experiment Q2",
+    "10": "Theory-Backup Q4"
+  },
+  "boundary_note": "Actual official headers distinguish theory/experiment/backup from the archive sequential catalogue identifiers. Keep each full top-level Q, including all Parts A/B/C/D."
+}

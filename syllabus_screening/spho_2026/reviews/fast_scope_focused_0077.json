@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::2004",
+    "detail": "Focused whole-problem rereview: A and C require viscous stress/velocity-profile construction, with no constitutive shear law or no-slip relation supplied. B supplies microscopic ionic drag, Fick and Einstein-Smoluchowski diffusion; Gauss-law screening is ordinary. The substantial operational electrostatic work and unsupplied continuum-flow work make this a real calibration boundary; retain BORDERLINE."
+  }
+]

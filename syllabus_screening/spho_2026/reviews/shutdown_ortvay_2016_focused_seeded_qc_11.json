@@ -1,0 +1,46 @@
+[
+  {
+    "screening_unit_id": "raw::5674",
+    "detail": "Focused data/format review: full Q8 p3 and both original linked numeric files inspected. Each has two finite columns and increasing times; 324 height and 598 velocity samples retained. Gravity minus an effective density/area-dependent drag permits model fitting; uncontrollable limb motion changes Newtonian orientation/drag parameters. No exact unsupplied turbulent flow solver is compulsory. KEEP confirmed with headerless-unit and video-access limitations explicit."
+  },
+  {
+    "screening_unit_id": "raw::5682",
+    "detail": "Focused force-law review: Q16 p5 reopened. For a conducting surface, ordinary electrostatic stress follows from field energy and normal surface charge force; balancing it with given surface tension determines the weak quadrupolar deformation. This is static force/energy balance, without a specialized fluid constitutive law. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5684",
+    "detail": "Focused context-versus-required-law review: all Q18 p5 reread. It expressly says treat electrons classically and supplies parabolic confinement plus screened Coulomb interaction. Minimizing that given classical energy is sufficient for all N cases. Quantum two-electron task Q26 is separate; no equivalence inferred from repeated context. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5685",
+    "detail": "Focused optical-prerequisite review: Q19 p5 and dawn photo reopened. Ordinary Maxwell response of small dielectric molecules and radiation propagation provide scattering; solar spectrum and atmospheric/monitor calibration determine numerical RGB. Missing exact calibration data are flagged, consistent with the existing 2019 sky-scattering boundary. No unsupplied quantum transition scattering law is necessary. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5691",
+    "detail": "Focused supplied-operator review: complete Q25 p7 and differential-integral render reopened. Psi vanishes at interval ends, while H psi need not; applying H a second time without checking its domain can invalidate the alleged squared moment. Both suspect integrals and H are explicitly given, so normalization, integration and boundary/domain checks suffice. KEEP confirmed without importing quantum dynamics."
+  },
+  {
+    "screening_unit_id": "raw::5693",
+    "detail": "Focused linked-model review: full Q27 p7 and all four linked reference pages read. Trace pumping law, unitary scattering interpretation, diagonal energy-shift criterion and integer phase winding are provided. However the paper does not define a simplest physical energy-independent 1D scatterer with two independent parameters; quantum point-boundary/scattering dynamics may be required for part(a). Balanced supplied cycle mathematics and that unresolved dependency support BORDERLINE, not blanket rejection."
+  },
+  {
+    "screening_unit_id": "raw::5696",
+    "detail": "Focused supplied-model review: full Q30 p8 and intact formula render reopened. Split its given field expansion into creation/annihilation pieces; the printed commutator fixes the c-number contraction. Reordering powers or exponential series and comparing masses gives a finite contraction difference and an algebraic derivative-series transformation of V, plus the stated mass-term difference. Normal-ordering definition and oscillator rules are actually supplied; no external field-theory emission/renormalization law is inserted. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5699",
+    "detail": "Focused statistical-model review: full Q33 p9 and all energy/entropy/evolution formulas reopened. The classical unit-vector model, integral entropy and fixed constraints are explicitly defined. Lagrange multipliers yield its axially symmetric density; derivative of entropy with energy defines temperature and the Hessian checks stability. No unsupplied Ising or quantum ensemble rule is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5701",
+    "detail": "Focused supplied-PDE review: full Q35 p10 and render reopened. Expand its given complex PDE around homogeneous density Nc/V; real/imaginary elimination gives u_tt-c^2*laplacian(u)+(hbar^2/(4*m^2))*laplacian^2(u)=0. Long wavelengths suppress the final term, while the complete PDE retains preferred-frame dispersion. This is ordinary algebra and wave-equation analysis, without an unsupplied condensate or quantum transformation model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5681",
+    "detail": "Seeded KEEP QC (2026100407): full Q15 p4 reread. Anisotropic linear permittivity is expressly given. Constant-coefficient electrostatic divergence and rescaled transverse coordinates produce equipotentials using mathematical tensor algebra. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5694",
+    "detail": "Seeded REJECT QC (2026100407): full Q28 p8 and hopping-chain diagram reopened. Hopping labels do not give the amplitude equation, probability current, scattering rule or envelope Hamiltonian. Those quantum-transport prerequisites centrally determine both transmission and continuum comparison. REJECT confirmed."
+  }
+]

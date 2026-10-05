@@ -1,0 +1,222 @@
+[
+  {
+    "screening_unit_id": "derived::5657c151d6b2f6f6::2560::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 5,
+    "required_physics": "Thermal expansion, battery networks, frost reasoning and accelerometer graph",
+    "decision_reason": "KEEP: Thermal expansion, battery networks, frost reasoning and accelerometer graph.",
+    "evidence": "Fast complete-statement pass: source 2712, printed Question 1, PDF pp 4-5; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::5657c151d6b2f6f6::2560::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 7,
+    "required_physics": "Atmospheric hydrostatics/adiabatic ideal gas and supplied molecular levels/selection rule",
+    "decision_reason": "KEEP: Atmospheric hydrostatics/adiabatic ideal gas and supplied molecular levels/selection rule.",
+    "evidence": "Fast complete-statement pass: source 2712, printed Question 2, PDF pp 6-7; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::5657c151d6b2f6f6::2560::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 9,
+    "required_physics": "Huygens wavelets and single-slit amplitude integration",
+    "decision_reason": "KEEP: Huygens wavelets and single-slit amplitude integration.",
+    "evidence": "Fast complete-statement pass: source 2712, printed Question 3, PDF pp 8-9; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::5657c151d6b2f6f6::2560::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 14,
+    "required_physics": "Supplied classical collision model and explicit de Broglie/Pauli state-counting model",
+    "decision_reason": "KEEP: Supplied classical collision model and explicit de Broglie/Pauli state-counting model.",
+    "evidence": "Fast complete-statement pass: source 2712, printed Question 4, PDF pp 10-14; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::d48e5bd5bfd4e554::2561::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 8,
+    "required_physics": "Complete Question 1(a-t): Newtonian motion, thermal/gas, circuits, photoelectricity, buoyancy, optics, decay and supplied scaling",
+    "decision_reason": "KEEP: Complete Question 1(a-t): Newtonian motion, thermal/gas, circuits, photoelectricity, buoyancy, optics, decay and supplied scaling.",
+    "evidence": "Fast complete-statement pass: source 2713, printed Question 1, PDF pp 3-8; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::c23a135b0cfa427b::2563::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 5,
+    "required_physics": "Centre of mass, supplied drag, orbital energetics, diffraction, estimates and gas kinetics",
+    "decision_reason": "KEEP: Centre of mass, supplied drag, orbital energetics, diffraction, estimates and gas kinetics.",
+    "evidence": "Fast complete-statement pass: source 2715, printed Question 1, PDF pp 4-5; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::c23a135b0cfa427b::2563::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Rigid balancing-toy potential stability and oscillations",
+    "decision_reason": "KEEP: Rigid balancing-toy potential stability and oscillations.",
+    "evidence": "Fast complete-statement pass: source 2715, printed Question 2, PDF pp 6-6; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::c23a135b0cfa427b::2563::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Given coffee-drinking law and ordinary thermal-loss models",
+    "decision_reason": "KEEP: Given coffee-drinking law and ordinary thermal-loss models.",
+    "evidence": "Fast complete-statement pass: source 2715, printed Question 3, PDF pp 7-7; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::c23a135b0cfa427b::2563::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 10,
+    "required_physics": "Explicit semiempirical nuclear mass formula, Coulomb/self-gravity and numerical root finding",
+    "decision_reason": "KEEP: Explicit semiempirical nuclear mass formula, Coulomb/self-gravity and numerical root finding.",
+    "evidence": "Fast complete-statement pass: source 2715, printed Question 4, PDF pp 8-10; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::a0d0dd6865a90c53::2562::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 5,
+    "required_physics": "Dam hydrostatic torque and explicit acoustic-impedance/reflection model",
+    "decision_reason": "KEEP: Dam hydrostatic torque and explicit acoustic-impedance/reflection model.",
+    "evidence": "Fast complete-statement pass: source 2717, printed Question 2, PDF pp 3-5; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::a0d0dd6865a90c53::2562::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 8,
+    "required_physics": "Circular ride forces, friction, springs and collision energy",
+    "decision_reason": "KEEP: Circular ride forces, friction, springs and collision energy.",
+    "evidence": "Fast complete-statement pass: source 2717, printed Question 3, PDF pp 6-8; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::a0d0dd6865a90c53::2562::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 11,
+    "required_physics": "Electrostatics of drops and rotating-prism ray optics",
+    "decision_reason": "KEEP: Electrostatics of drops and rotating-prism ray optics.",
+    "evidence": "Fast complete-statement pass: source 2717, printed Question 4, PDF pp 9-11; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::a0d0dd6865a90c53::2562::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 13,
+    "required_physics": "Newtonian asteroid gravity/collision with explicitly supplied low-temperature heat capacity",
+    "decision_reason": "KEEP: Newtonian asteroid gravity/collision with explicitly supplied low-temperature heat capacity.",
+    "evidence": "Fast complete-statement pass: source 2717, printed Question 5, PDF pp 12-13; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::a0d0dd6865a90c53::2562::6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 16,
+    "required_physics": "Radio reflection, explicit crystal Bragg model and thin-film interference",
+    "decision_reason": "KEEP: Radio reflection, explicit crystal Bragg model and thin-film interference.",
+    "evidence": "Fast complete-statement pass: source 2717, printed Question 6, PDF pp 14-16; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::def6a30f0371e41c::2565::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 5,
+    "required_physics": "Newtonian orbital gravity and planetary self-energy",
+    "decision_reason": "KEEP: Newtonian orbital gravity and planetary self-energy.",
+    "evidence": "Fast complete-statement pass: source 2719, printed Question 2, PDF pp 4-5; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::def6a30f0371e41c::2565::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 7,
+    "required_physics": "Centripetal motion, elastic strings and Hooke oscillations",
+    "decision_reason": "KEEP: Centripetal motion, elastic strings and Hooke oscillations.",
+    "evidence": "Fast complete-statement pass: source 2719, printed Question 3, PDF pp 6-7; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::def6a30f0371e41c::2565::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 9,
+    "required_physics": "Hydrostatic pressure, jets and buoyant bodies",
+    "decision_reason": "KEEP: Hydrostatic pressure, jets and buoyant bodies.",
+    "evidence": "Fast complete-statement pass: source 2719, printed Question 4, PDF pp 8-9; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::def6a30f0371e41c::2565::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 11,
+    "required_physics": "Resistor/strain-gauge networks and infinite circuits",
+    "decision_reason": "KEEP: Resistor/strain-gauge networks and infinite circuits.",
+    "evidence": "Fast complete-statement pass: source 2719, printed Question 5, PDF pp 10-11; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::def6a30f0371e41c::2565::6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 14,
+    "required_physics": "Capacitor charging/work and spherical electrostatics",
+    "decision_reason": "KEEP: Capacitor charging/work and spherical electrostatics.",
+    "evidence": "Fast complete-statement pass: source 2719, printed Question 6, PDF pp 12-14; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::30d7636bf85d1153::2564::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 8,
+    "required_physics": "Complete Question 1(a-r): Newtonian mechanics, circuits, ray/diffraction optics, buoyancy, Hooke/thermal and gas laws",
+    "decision_reason": "KEEP: Complete Question 1(a-r): Newtonian mechanics, circuits, ray/diffraction optics, buoyancy, Hooke/thermal and gas laws.",
+    "evidence": "Fast complete-statement pass: source 2720, printed Question 1, PDF pp 3-8; actual complete statement, internal subparts and supplied models/data inspected from SHA cache.",
+    "needs_second_review": false
+  }
+]

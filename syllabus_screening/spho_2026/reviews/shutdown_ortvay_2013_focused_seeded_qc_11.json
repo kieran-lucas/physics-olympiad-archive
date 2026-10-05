@@ -1,0 +1,46 @@
+[
+  {
+    "screening_unit_id": "raw::5775",
+    "detail": "Focused classical reduction review: complete Q7 p2 reopened. Fixing conserved momentum before variation changes which velocity derivatives are held fixed. Subtracting p*qdot before eliminating the cyclic velocity, or directly retaining its chain-rule contribution, restores the Newtonian radial force. This is conventional classical dynamics and mathematics; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5776",
+    "detail": "Focused supplied anisotropic-index review: all three parts and intact p2 index formula reopened. Fermat functional n(r,e)ds is the stipulated model. The directional term in part b is proportional to dz, so for radial beta its curl contribution aligns with a central variational reduction; path equations follow calculus rather than an imported anisotropic optical material theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5784",
+    "detail": "Focused whole-problem weighting review: complete Q16 p3 reread. Galilean wave transforms, sonic PDE and Green kernel form meaningful classical work, while the same complete calculations are expressly required with unsupplied Lorentz transformations. Neither half is a trivial extension. BORDERLINE confirmed; no separate subpart rescued."
+  },
+  {
+    "screening_unit_id": "raw::5788",
+    "detail": "Focused supplied-boundary review: full Q20 p3 reopened and compared with persisted superconducting-mesh calibration. Zero London depth suggests flux exclusion but is a named limit with no local magnetic boundary or trapped-flux condition defined. A conventional perfectly diamagnetic interpretation makes the remainder ordinary magnetostatics; whether that physics is sufficiently supplied is unresolved. BORDERLINE confirmed, without a blanket superconductivity rejection."
+  },
+  {
+    "screening_unit_id": "raw::5791",
+    "detail": "Focused supplied classical model review: complete Q23 p4, including every equation and five clauses, reread. E, Beff=-dE/dm, I=m/gamma and torque=m cross Beff supply dI/dt exactly. Linearization/Fourier analysis gives two modes; classical equipartition and fixed moment length give thermal amplitudes and the low-k integral. No missing quantum commutator, spin spectrum or named no-order theorem is needed. Whole task KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5794",
+    "detail": "Focused classical-versus-quantum weighting review: all Q26 p5 reopened. Explicit Hamiltonian permits thermal integrals (after declaring periodic-cell/domain normalization) and classical comparison. Part b meaningfully asks quantum-level improvement; its original homework URL remains uninspected because HTTP/HTTPS access fails, so a complete supplied quantum model cannot be presumed. BORDERLINE retained for this mixed problem; do not invent referenced equations."
+  },
+  {
+    "screening_unit_id": "raw::5795",
+    "detail": "Focused conceptual-dependency review: full Q27 p6 reread. Trace of a commutator could disprove a finite canonical representation once its relation is supplied/known, but the central nanophysics question concerns why projected effective matrices do not represent the same canonical observables. That explanation needs unsupplied quantum representation/effective-band machinery. REJECT confirmed for whole task."
+  },
+  {
+    "screening_unit_id": "raw::5796",
+    "detail": "Focused given-dispersion review: exact p6 square-root formula reopened. Cylindrical identification requires exp(i*k*R)=1, which is ordinary wave periodicity. Restricting the supplied branches to those lines and checking intersection with their given occupied/unoccupied threshold determines dispersion and gap closure. No hopping derivation, Pauli filling calculation or transport law is asked. KEEP confirmed within the explicitly stated ideal model."
+  },
+  {
+    "screening_unit_id": "raw::5769",
+    "detail": "Experimental format QC: full microwave task p1 reread. It calls for actual measurements and empirical repeatability, not a microwave magnetron engineering derivation. Heat/work/field power, timer duty-cycle observations and spatial sampling suffice for most meaningful work. Historical appliance exception and empty-oven explanation are peripheral. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5781",
+    "detail": "Seeded QC (Random 2026100410, first selection): complete mercury-shape task p3 reread. Contact angle is supplied. Gravity/hydrostatics plus surface tension determine scale and shape; tabulated ordinary material constants and numerical integration are allowed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5772",
+    "detail": "Seeded QC (Random 2026100410, second selection): full p1 cascade statement and pulley figure reopened. Massless pulleys enforce equal branch tensions and rope acceleration constraints; Newton equations recursively solve the network. The infinite-n limit is mathematics. KEEP confirmed."
+  }
+]

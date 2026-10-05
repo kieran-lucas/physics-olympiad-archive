@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::1818",
+    "detail": "Focused whole-problem/prerequisite check confirmed: Independent classical nuclear collision, spherical RC and EM wave tasks dominate; unsupplied Lorentz-Doppler part is only 3/11."
+  },
+  {
+    "screening_unit_id": "raw::1825",
+    "detail": "Focused whole-problem/prerequisite check confirmed: Large-redshift speed needs unsupplied relativistic Doppler law, controlling distance and subsequent time-delay inference; model speed correction alone is insufficient."
+  },
+  {
+    "screening_unit_id": "raw::1834",
+    "detail": "Focused whole-problem/prerequisite check confirmed: Explicit magnetic moment proportional to spin; classical torque/precession and rotating coordinates."
+  }
+]

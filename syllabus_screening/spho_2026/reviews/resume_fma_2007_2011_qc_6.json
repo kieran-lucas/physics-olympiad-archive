@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::1509",
+    "detail": "Seeded random QC (seed 2007201120261004): re-read 2011 Q7 actual p3. Conserved angular momentum with changed inertia determines rotational energy; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1546",
+    "detail": "Seeded random QC: re-read 2010 Q13 actual p5 and the already inspected vertical exit diagram. Given sphere inertia, rolling energy and subsequent projectile energy suffice; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1579",
+    "detail": "Seeded random QC: re-read 2009 Q15 actual p6. Resolve the given angled pull and balance friction against its horizontal component; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1615",
+    "detail": "Seeded random QC: re-read 2008 Q16 actual p7. Actual up/down signs are explicit; Hooke force and gravity determine acceleration. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1661",
+    "detail": "Seeded random QC: re-read 2007 Q27 actual p9 and the source instruction requiring written work. Angular momentum and changed astronaut inertia determine artificial gravity. KEEP confirmed as one independently numbered mixed-format question."
+  },
+  {
+    "screening_unit_id": "raw::1619",
+    "detail": "Focused second reading of 2008 Q20 actual p9: the source explicitly says eliminate implausible dimensionally correct answers. Given stiffness interpretation, vanishing load/gravity and increasing-length/decreasing-thickness trends eliminate the distractors without an unsupplied beam equation. KEEP confirmed. Available source solution is an answer key only, not claimed as a worked derivation."
+  }
+]

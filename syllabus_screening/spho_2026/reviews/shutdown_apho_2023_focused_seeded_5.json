@@ -1,0 +1,22 @@
+[
+  {
+    "screening_unit_id": "raw::318",
+    "detail": "Focused supplied collection model/key conflict and theory seeded QC Random(2026100431) selects raw::318. Entire A-F inspected. E specifies area S, all ions/electrons participation and effective length sqrt(S), giving ordinary I=enSv and Ampere force, without sheath law. Official key 989 p9 retains F tables and explicitly documents 1e13 versus 1e12 tenfold density scaling. Ranking/value conflict recorded, not repaired. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::319",
+    "detail": "Focused official-key conflict review using rendered 992 pp12-14 and statement all four pages. Newton and Lorentz torque close central work. C3 is a supplied constant-coefficient ODE. Complex w=exp(-i*gamma*t/2)*z removes its derivative with beta+gamma^2/4; no advanced mechanics needed. A fixed-angle scalar branch has initial angle rate -1, hence gamma=2, but beta remains free unless the key extra beta-prime=0 is imposed. Official statement does not supply that constraint. Mathematical underdetermination and sign/I/alpha errors recorded separately. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::320",
+    "detail": "Focused fluid prerequisite/supplied-model review: all seven statement pages and all eight key pages read, key renders1-3/6-8. Continuity v(s)=R^2*Rdot/s^2 gives kinetic energy K=2*pi*rho*R^3*Rdot^2; dK/dt=4*pi*R^2*(p-p_inf-2*sigma/R)*Rdot yields R*Rddot+1.5*Rdot^2=(p-p_inf-2*sigma/R)/rho. Ideal-gas compression closes p. Thus B1 does not require an unsupplied Navier-Stokes law; distinguishes explicitly idealized radial problem from prior unsupplied viscous/stratified-mode cases. Henry and Fick relations and heat kernel are provided for C; transformations/integration are mathematics. Numeric/radius inconsistencies recorded. Whole KEEP confirmed without changing rubric."
+  },
+  {
+    "screening_unit_id": "raw::321",
+    "detail": "Focused Hertz supplied-model/source consistency check: all ten statement pages and eight shared instructions pages inspected; key E pp13-15 rendered. Contact pressure and analytical displacement are explicitly given, effective modulus/material constants defined. Ordinary geometry plus force integration supplies deformation/force dependence; solving collision ODE or energy integral needs no outside elasticity theory. Kernel normalization mismatch and key time-average versus work-average force are documented with actual equations. Central A-D measurement/fitting and collision mechanics remain within scope. Whole KEEP confirmed; no experiment performed."
+  },
+  {
+    "screening_unit_id": "raw::322",
+    "detail": "Experimental-format seeded QC Random(2026100432) selects raw::322. All six pages and shared laser/scope instructions inspected. A-D use power calibration, empirical reversible heating, ring count/diameter/angles and explicit m=2h/lambda. Neither thermal-elastic constitutive theory nor microscopic laser physics is required. Complete experimental parent KEEP; no measured data fabricated."
+  }
+]

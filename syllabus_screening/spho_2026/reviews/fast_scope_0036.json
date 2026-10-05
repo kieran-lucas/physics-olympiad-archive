@@ -1,0 +1,512 @@
+[
+  {
+    "screening_unit_id": "raw::3137",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Constant download and playback rates",
+    "decision_reason": "KEEP: Constant download and playback rates within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AA, pp 2-2. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3138",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Conveyor momentum flux and acceleration",
+    "decision_reason": "KEEP: Conveyor momentum flux and acceleration within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AB, pp 2-2. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3139",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Supplied income and exchange-rate arithmetic",
+    "decision_reason": "KEEP: Supplied income and exchange-rate arithmetic within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AC, pp 2-2. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3140",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Constant-acceleration travel distance",
+    "decision_reason": "KEEP: Constant-acceleration travel distance within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AD, pp 3-3. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3141",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Mixing calorimetry",
+    "decision_reason": "KEEP: Mixing calorimetry within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AE, pp 3-3. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3142",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Supplied fuel heating value and density",
+    "decision_reason": "KEEP: Supplied fuel heating value and density within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AF, pp 4-4. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3143",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Moving walkway relative speed",
+    "decision_reason": "KEEP: Moving walkway relative speed within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AG, pp 4-4. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3144",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Plane-mirror reflection geometry",
+    "decision_reason": "KEEP: Plane-mirror reflection geometry within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed AH, pp 5-5. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3145",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Mass-energy conversion and supplied metabolic power",
+    "decision_reason": "KEEP: Mass-energy conversion and supplied metabolic power within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BA, pp 5-5. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3146",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Pendulum period and planetary gravity",
+    "decision_reason": "KEEP: Pendulum period and planetary gravity within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BB, pp 6-6. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3147",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Coulomb equilibrium of suspended balls",
+    "decision_reason": "KEEP: Coulomb equilibrium of suspended balls within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BC, pp 6-6. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3148",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Dimensional analysis with supplied viscosity units",
+    "decision_reason": "KEEP: Dimensional analysis with supplied viscosity units within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BD, pp 7-7. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3149",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Bulk conductor resistivity scaling",
+    "decision_reason": "KEEP: Bulk conductor resistivity scaling within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BE, pp 8-8. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3150",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 9,
+    "required_physics": "Gravitational energy and water heating",
+    "decision_reason": "KEEP: Gravitational energy and water heating within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BF, pp 8-9. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3151",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Hydrostatic mercury column and ideal gas",
+    "decision_reason": "KEEP: Hydrostatic mercury column and ideal gas within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BG, pp 9-9. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3152",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Buoyancy and supplied leak rate",
+    "decision_reason": "KEEP: Buoyancy and supplied leak rate within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed BH, pp 10-10. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3153",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Boat center-of-mass conservation",
+    "decision_reason": "KEEP: Boat center-of-mass conservation within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CA, pp 11-11. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3154",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Explicit hypothetical heat engine and phase calorimetry",
+    "decision_reason": "KEEP: Explicit hypothetical heat engine and phase calorimetry within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CB, pp 11-11. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3155",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Kepler orbit scaling",
+    "decision_reason": "KEEP: Kepler orbit scaling within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CC, pp 12-12. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3156",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Resistor network",
+    "decision_reason": "KEEP: Resistor network within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CD, pp 12-12. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3157",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 13,
+    "required_physics": "Summary statistics and mathematical inference",
+    "decision_reason": "KEEP: Summary statistics and mathematical inference within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CE, pp 13-13. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3158",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 14,
+    "required_physics": "Pressure-flow mechanical work",
+    "decision_reason": "KEEP: Pressure-flow mechanical work within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CF, pp 13-14. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3159",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Black-body planetary radiation balance",
+    "decision_reason": "KEEP: Black-body planetary radiation balance within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CG, pp 14-14. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3160",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Parabolic mirror and illuminance",
+    "decision_reason": "KEEP: Parabolic mirror and illuminance within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed CH, pp 14-14. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3161",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Supplied droplet threshold, continuity and Bernoulli fall",
+    "decision_reason": "KEEP: Supplied droplet threshold, continuity and Bernoulli fall within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DA, pp 15-15. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3162",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 16,
+    "required_physics": "Acoustic Doppler with moving air",
+    "decision_reason": "KEEP: Acoustic Doppler with moving air within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DB, pp 15-16. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3163",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 16,
+    "required_physics": "Projectile range window",
+    "decision_reason": "KEEP: Projectile range window within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DC, pp 16-16. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3164",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 17,
+    "page_end": 17,
+    "required_physics": "Paraxial lens and plane mirror",
+    "decision_reason": "KEEP: Paraxial lens and plane mirror within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DD, pp 17-17. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3165",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 17,
+    "page_end": 17,
+    "required_physics": "Flow continuity and projectile water jets",
+    "decision_reason": "KEEP: Flow continuity and projectile water jets within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DE, pp 17-17. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3166",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 18,
+    "page_end": 18,
+    "required_physics": "Newtonian symmetric four-body orbit",
+    "decision_reason": "KEEP: Newtonian symmetric four-body orbit within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DF, pp 18-18. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3167",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Supplied grounded oscilloscope connections and diode short circuit",
+    "decision_reason": "KEEP: Supplied grounded oscilloscope connections and diode short circuit within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DG, pp 19-19. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3168",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 20,
+    "required_physics": "Orbital and Earth-rotation kinematics with finite projectile travel time",
+    "decision_reason": "KEEP: Orbital and Earth-rotation kinematics with finite projectile travel time within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed DH, pp 19-20. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3169",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 21,
+    "page_end": 21,
+    "required_physics": "Resistor network",
+    "decision_reason": "KEEP: Resistor network within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EA, pp 21-21. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3170",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 22,
+    "page_end": 22,
+    "required_physics": "Angular resolution and bus deceleration",
+    "decision_reason": "KEEP: Angular resolution and bus deceleration within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EB, pp 22-22. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3171",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 23,
+    "page_end": 23,
+    "required_physics": "Rotational angular momentum and work",
+    "decision_reason": "KEEP: Rotational angular momentum and work within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EC, pp 23-23. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3172",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 24,
+    "page_end": 24,
+    "required_physics": "Newtonian orbit and radiation balance",
+    "decision_reason": "KEEP: Newtonian orbit and radiation balance within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed ED, pp 24-24. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3173",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 24,
+    "page_end": 24,
+    "required_physics": "Gravity-Coulomb cancellation",
+    "decision_reason": "KEEP: Gravity-Coulomb cancellation within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EE, pp 24-24. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3174",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 25,
+    "page_end": 25,
+    "required_physics": "Physical-pendulum period optimization",
+    "decision_reason": "KEEP: Physical-pendulum period optimization within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EF, pp 25-25. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3175",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 26,
+    "page_end": 26,
+    "required_physics": "Infinite resistor network",
+    "decision_reason": "KEEP: Infinite resistor network within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EG, pp 26-26. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3176",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 26,
+    "page_end": 26,
+    "required_physics": "Explicit constant-jerk kinematics",
+    "decision_reason": "KEEP: Explicit constant-jerk kinematics within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed EH, pp 26-26. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3177",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 27,
+    "page_end": 27,
+    "required_physics": "Axial Hooke extension under self-weight",
+    "decision_reason": "KEEP: Axial Hooke extension under self-weight within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FA, pp 27-27. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3178",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 27,
+    "page_end": 28,
+    "required_physics": "Supplied video-choice probability and geometric expectation",
+    "decision_reason": "KEEP: Supplied video-choice probability and geometric expectation within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FB, pp 27-28. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3179",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 28,
+    "page_end": 28,
+    "required_physics": "Battery energy and discrete power accounting",
+    "decision_reason": "KEEP: Battery energy and discrete power accounting within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FC, pp 28-28. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3180",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 30,
+    "page_end": 30,
+    "required_physics": "Pulley inertia, rolling and friction",
+    "decision_reason": "KEEP: Pulley inertia, rolling and friction within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FD, pp 30-30. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3181",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 31,
+    "page_end": 31,
+    "required_physics": "Constant-power acceleration",
+    "decision_reason": "KEEP: Constant-power acceleration within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FE, pp 31-31. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3182",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 31,
+    "page_end": 31,
+    "required_physics": "Physical pendulum and added mass",
+    "decision_reason": "KEEP: Physical pendulum and added mass within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FF, pp 31-31. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3183",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 32,
+    "page_end": 32,
+    "required_physics": "Static friction and sphere torque balance",
+    "decision_reason": "KEEP: Static friction and sphere torque balance within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FG, pp 32-32. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3184",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 33,
+    "page_end": 33,
+    "required_physics": "Rotating-fluid hydrostatic surface",
+    "decision_reason": "KEEP: Rotating-fluid hydrostatic surface within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed FH, pp 33-33. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3185",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 34,
+    "page_end": 34,
+    "required_physics": "Picked-up rope momentum flux and dissipated work",
+    "decision_reason": "KEEP: Picked-up rope momentum flux and dissipated work within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed GA, pp 34-34. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3186",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 35,
+    "page_end": 35,
+    "required_physics": "Supplied photoconductivity law and illuminance integral",
+    "decision_reason": "KEEP: Supplied photoconductivity law and illuminance integral within operational scope.",
+    "evidence": "Fast statement pass: source 2847, printed GB, pp 35-35. Complete statement read."
+  },
+  {
+    "screening_unit_id": "raw::3187",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 36,
+    "page_end": 36,
+    "required_physics": "Unsupplied relativistic photon Doppler shift",
+    "decision_reason": "REJECT: Unsupplied relativistic photon Doppler shift is central and not supplied.",
+    "evidence": "Fast statement pass: source 2847, printed GC, pp 36-36. Complete statement read."
+  }
+]

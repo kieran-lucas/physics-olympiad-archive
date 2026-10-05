@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::957",
+    "detail": "Seeded QC: full 2026 A2 re-read. The general-relativity opening is explicitly an analogy; the actual frictionless cone motion uses energy and angular momentum only. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1023",
+    "detail": "Seeded QC: full 2024 B3 and its actual circuit/data table re-read. RLC damping, resonance and given response fitting control the entire task. KEEP confirmed; data-analysis eligibility preserved."
+  },
+  {
+    "screening_unit_id": "raw::1054",
+    "detail": "Seeded QC: full 2023 B3 re-read independently of its title. The statement explicitly points to the preceding supplied relativity relations and gives curvature; no neutrino interaction model is needed. KEEP confirmed."
+  }
+]

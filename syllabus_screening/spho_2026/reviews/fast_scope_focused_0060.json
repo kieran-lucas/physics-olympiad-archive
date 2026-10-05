@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "derived::f64f49cb44a48be8::1691::8",
+    "detail": "Local solution 2027 pp17-19 confirms nonrelativistic Bohr and slow-atom photon conservation in independent parts 1-2; only separate fast-atom part 3 needs unsupplied relativistic energy/momentum. Meaningful in-scope work dominates the whole problem."
+  },
+  {
+    "screening_unit_id": "derived::7502a69152fd7623::1693::8",
+    "detail": "Local solution 2030 pp18-20 confirms core-temperature/pressure, nuclear mass-energy and photon production are independent in-scope work. Compton physics is explicitly within operational scope; the unsupplied relativistic recoil derivation is confined to a portion of part 4. Whole-problem majority remains KEEP."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::8",
+    "detail": "Focused supplied-model check: rendered p2 confirms full x and t Lorentz transformations. Clock intervals on travel legs and event-order differences follow supplied coordinate relations; no additional SR formula required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::9",
+    "detail": "Focused supplied-model check: rendered p2 confirms full x and t Lorentz transformations. Clock intervals on travel legs and event-order differences follow supplied coordinate relations; no additional SR formula required. KEEP confirmed."
+  }
+]

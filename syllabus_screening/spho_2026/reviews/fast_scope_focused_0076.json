@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::1986",
+    "detail": "Focused boundary review: B1 solution 2237 p2 assumes Newtonian viscous shear and no-slip boundary condition, both absent from statement. These feed fracture-flow work in B and tube flow in D, while A is hydrostatics and C provides Darcy law. Balanced whole-task conceptual weight remains BORDERLINE; no standalone subparts rescued."
+  }
+]

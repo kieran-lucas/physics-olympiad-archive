@@ -1,0 +1,48 @@
+{
+  "seed": 20261004524,
+  "pool_size": 524,
+  "sample": [
+    {
+      "screening_unit_id": "raw::4922",
+      "source_file_id": 3107,
+      "problem_number": "10",
+      "decision": "KEEP",
+      "required_physics": "Path geometry and average speed"
+    },
+    {
+      "screening_unit_id": "raw::5251",
+      "source_file_id": 3112,
+      "problem_number": "25",
+      "decision": "KEEP",
+      "required_physics": "Dimensional analysis and group velocity"
+    },
+    {
+      "screening_unit_id": "raw::4946",
+      "source_file_id": 3107,
+      "problem_number": "34",
+      "decision": "REJECT",
+      "required_physics": "Unsupplied relativistic mass and velocity addition"
+    },
+    {
+      "screening_unit_id": "raw::4918",
+      "source_file_id": 3107,
+      "problem_number": "6",
+      "decision": "KEEP",
+      "required_physics": "Projectile angles"
+    },
+    {
+      "screening_unit_id": "raw::4935",
+      "source_file_id": 3107,
+      "problem_number": "23",
+      "decision": "KEEP",
+      "required_physics": "Geometric spring equilibrium"
+    },
+    {
+      "screening_unit_id": "raw::5160",
+      "source_file_id": 3110,
+      "problem_number": "63",
+      "decision": "KEEP",
+      "required_physics": "Joule heating"
+    }
+  ]
+}

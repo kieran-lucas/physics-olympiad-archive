@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::5438",
+    "detail": "Focused post-shutdown review: reread complete Q16 on physical p6 and full-size render. No chain diagram, attachment topology, bath state or Langevin equation is supplied. Ordinary spring equations support much work, but friction/noise coarse-graining and its assumptions are an unresolved prerequisite/model boundary. BORDERLINE confirmed; no guessed topology used."
+  },
+  {
+    "screening_unit_id": "raw::5445",
+    "detail": "Focused post-shutdown review: reread complete Q23 and p9 render. The winding creates circumferential magnetization; residual response is explicitly proportional to field and survives cutting. Requested vector potential still presupposes its definition/gauge and magnetization-source construction. Given magnetic response prevents blanket rejection, but supplied-model sufficiency remains uncertain. BORDERLINE confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5454",
+    "detail": "Focused post-shutdown review: reread full Q32 and p13 matrix render. Completing the square and matrix diagonalization are mathematics; given commutators help infer a preservation condition. However canonical transformation is undefined and dominates part b. No quantum dynamics is requested, so automatic quantum rejection is unwarranted. BORDERLINE confirmed at the same operational prerequisite boundary."
+  },
+  {
+    "screening_unit_id": "raw::5447",
+    "detail": "Focused supplied-model QC: reread whole Q25 p10. Spin directions are continuous and dynamics expressly classical; the complete exchange energy is supplied. Orientation derivatives give torque, angular momentum evolves under torque, and linearization gives modes. Quantum spin algebra is confined to distinct Q26. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5449",
+    "detail": "Focused supplied-model QC: reread full Q27 p11, including all operator identities and finite-dimensional assumption. Hermitian matrix representations and spectra follow from the given algebra. Pauli matrices are an optional hint, not required physical knowledge. No state probabilities or quantum evolution is asked. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5450",
+    "detail": "Focused supplied-model QC: reread whole Q28 p11. Perfect initial anticorrelation and bounded block permutations are supplied explicitly. Aggregate binary-count correlations and sampling uncertainty answer the task; deriving entanglement or a Bell inequality is unnecessary. KEEP confirmed."
+  }
+]

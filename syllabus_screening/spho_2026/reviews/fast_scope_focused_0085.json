@@ -1,0 +1,18 @@
+[
+  {
+    "screening_unit_id": "raw::807",
+    "detail": "Whole-problem check: unsupplied relativistic wavelength is only B1/B2 (1.5/20); supplied lattice selection rules, Bragg/de Broglie diffraction, pendulum calibration and monolayer data dominate. KEEP."
+  },
+  {
+    "screening_unit_id": "raw::809",
+    "detail": "Both acquisition records name parts A/B of the same printed Problem 2; complete pp1-3 read and whole problem classified KEEP. Preserve both provenance records as equivalent whole-problem selections."
+  },
+  {
+    "screening_unit_id": "raw::810",
+    "detail": "Both acquisition records name parts A/B of the same printed Problem 2; complete pp1-3 read and whole problem classified KEEP. Preserve both provenance records as equivalent whole-problem selections."
+  },
+  {
+    "screening_unit_id": "raw::811",
+    "detail": "Rendered pp1-2 confirm complete wave equation, polarization matrices, spin definition and transformations are supplied; p3 supplies black-hole entropy. No unsupplied GR needed, KEEP."
+  }
+]

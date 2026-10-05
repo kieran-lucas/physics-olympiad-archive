@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::2304",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Lorentz force and limiting friction on an inclined rod."
+  },
+  {
+    "screening_unit_id": "raw::177",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Rigid-wheel rotational and translational energy, string tension and changing winding geometry."
+  },
+  {
+    "screening_unit_id": "raw::2214",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Supplied entrained-air model and classical variable-mass momentum."
+  },
+  {
+    "screening_unit_id": "raw::2181",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Induction in resistor grid and capacitors."
+  },
+  {
+    "screening_unit_id": "raw::207",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Ideal-gas density, buoyancy, isothermal hydrostatic atmosphere and restoring motion."
+  },
+  {
+    "screening_unit_id": "raw::2275",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Linear drag and river kinematics."
+  },
+  {
+    "screening_unit_id": "derived::c8340cc9bf39be47::889::E",
+    "detail": "Seeded fast-pass QC10, seed 20261004451, seven of 421 clear decisions; complete actual statement reread (English pp1-4 for multilingual 1823). Confirmed KEEP: Mechanical oscillation superposition, beats, fitting and uncertainty."
+  }
+]

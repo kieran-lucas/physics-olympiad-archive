@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::840",
+    "detail": "Focused boundary check: local solution 1753 p3 requires field exclusion and fixed hole flux; statement merely names superconductivity. BORDERLINE matches existing raw::303 and raw::5788 calibration; ordinary flux-linkage ring cases are distinct."
+  }
+]

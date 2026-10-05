@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::3136",
+    "detail": "Focused supplied-model check: complete p34 statement explicitly supplies Poiseuille equation and variables in Hint. Remaining work uses hydrostatics, continuity, capillarity and simple ODE. KEEP confirmed."
+  }
+]

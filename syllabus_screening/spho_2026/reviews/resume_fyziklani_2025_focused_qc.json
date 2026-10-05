@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::2810",
+    "detail": "Focused second review: re-read statement plus official solution physical pp39-40. The correct diffraction angle explicitly needs the unsupplied E^2=E0^2+p^2*c^2 relation. Electron diffraction itself is listed, and the correction is modest; balanced physics usefulness warrants BORDERLINE rather than automatic rejection or a low-precision KEEP."
+  },
+  {
+    "screening_unit_id": "raw::2824",
+    "detail": "Focused supplied-model check: solution pp61-62 obtains flux by Stokes theorem directly from the given A and uses Faraday law. Vector-calculus notation does not add external physics; KEEP confirmed."
+  }
+]

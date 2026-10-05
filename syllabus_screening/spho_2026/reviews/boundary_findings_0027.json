@@ -1,0 +1,130 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0027.json",
+  "papers": [
+    {
+      "file_id": 1211,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Question3 birthday balloon. No extra top-level problem."
+    },
+    {
+      "file_id": 1215,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Experimental Question1 conductor levitation and common apparatus. No extra top-level problem."
+    },
+    {
+      "file_id": 1219,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Experimental Question2 optical blackbox, internal Parts I-II. No extra top-level problem."
+    },
+    {
+      "file_id": 1223,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Question1 with explicitly internal Parts A scattering/B string/C universe; final Appendix. No extra top-level problem."
+    },
+    {
+      "file_id": 1227,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Question2 coil/magnet, internal Parts A-D and Appendix. No extra top-level problem."
+    },
+    {
+      "file_id": 1230,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Question3 internal A electron bubble/B collapsing gas bubble. No extra top-level problem."
+    },
+    {
+      "file_id": 1237,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Experimental Question1 repeated across12pages, common calibrated setup and internal stages. No extra top-level problem."
+    },
+    {
+      "file_id": 1239,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Experimental Question2 repeated across8pages, electrooptic crystal and photocell stages. No extra top-level problem."
+    },
+    {
+      "file_id": 1244,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theoretical competition Question1 repeated through2pages, internal1-numbered tasks. No extra top-level problem."
+    },
+    {
+      "file_id": 1246,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theoretical competition Question2 repeated through2pages, internal2-numbered tasks. No extra top-level problem."
+    },
+    {
+      "file_id": 1248,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theoretical competition Question3 repeated through2pages, internal3-numbered tasks. No extra top-level problem."
+    },
+    {
+      "file_id": 1251,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Experimental Problem2 oscillating water vessel, internal two parts and common apparatus. No extra top-level problem."
+    },
+    {
+      "file_id": 1252,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Experimental Problem1 Earth horizontal magnetic field only. No extra top-level problem."
+    },
+    {
+      "file_id": 1253,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Problem/Question1 tea bubbles, common introduction/data and internal tasks. No extra top-level problem."
+    },
+    {
+      "file_id": 1256,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Problem/Question2 ionic crystal only. No extra top-level problem."
+    },
+    {
+      "file_id": 1258,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Problem3 superluminal object, internal numbered tasks. No extra top-level problem."
+    },
+    {
+      "file_id": 1260,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. One experimental paper with internal Parts1-4 common acoustic apparatus; no independent Experiment2 heading. No extra top-level problem."
+    },
+    {
+      "file_id": 1261,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. p1 instructions; pp2-3 Theory Problem1 liquid sphere only. No extra top-level problem."
+    },
+    {
+      "file_id": 1263,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Problem2, internal2A optical material/2B dielectric spheres. No extra top-level problem."
+    },
+    {
+      "file_id": 1265,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theory Problem3, internal3A electron heat capacity/3B inverse Compton. No extra top-level problem."
+    },
+    {
+      "file_id": 1268,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. p1 general instructions, pp2-7 Experimental Problem1 thermal-expansion interference only. No extra top-level problem."
+    },
+    {
+      "file_id": 1270,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theoretical Question1 repeated through3pages, internal(a-f). No extra top-level problem."
+    },
+    {
+      "file_id": 1271,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. pp1-2 instructions/equipment, pp3-6 Experimental Problem2 liquid conductivity. No extra top-level problem."
+    },
+    {
+      "file_id": 1273,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theoretical Question2 repeated through3pages, internal Parts A-B. No extra top-level problem."
+    },
+    {
+      "file_id": 1274,
+      "observed_units": 1,
+      "evidence": "Complete saved actual-statement reading reused; every page boundary/printed question and internal continuation manually checked in cached packet. Theoretical Question3 repeated through2pages, internal Parts A-C. No extra top-level problem."
+    }
+  ]
+}

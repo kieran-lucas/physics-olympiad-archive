@@ -1,0 +1,180 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0014.json",
+  "papers": [
+    {
+      "file_id": 5,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. QUESTION T1 with internal T1-A, T1-B electron pair, T1-C ozone. No additional independent top-level statement."
+    },
+    {
+      "file_id": 10,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. QUESTION T2 with internal solar cooker and caustics Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 14,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. QUESTION T3 with internal magnetic cooling tasks A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 24,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. One 20-point experimental paper with shared apparatus and internal Parts A ideal gas, B vapor pressure, C heat conduction; operating notes not tasks. No additional independent top-level statement."
+    },
+    {
+      "file_id": 31,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q1 Hydrogen and galaxies, Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 36,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q2 Cox timepiece, Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 43,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q3 Champagne, Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 51,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q1 Earth magnetic field, Parts A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 57,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q2 Sand craters and dunes, internal craters/dunes tasks A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 64,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Backup theoretical Q4 Fermi gases, internal A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 70,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Greenhouse-effect theory, internal A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 77,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Trapping ions and cooling atoms, internal A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 86,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Black widow pulsar, internal A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 89,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental heat conduction in copper rod, Parts A-C, shared apparatus. No additional independent top-level statement."
+    },
+    {
+      "file_id": 95,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental diffraction phase steps, Parts A-C, shared apparatus. No additional independent top-level statement."
+    },
+    {
+      "file_id": 101,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q1 Soil colloids, internal Parts A-E. No additional independent top-level statement."
+    },
+    {
+      "file_id": 107,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q2 Neutron stars, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 111,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q3 Water and objects, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 113,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q1 mass measurement, internal Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 118,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q2 birefringence thickness, Parts A-C; final three pages refractive-index table. No additional independent top-level statement."
+    },
+    {
+      "file_id": 124,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q1 permanent magnets, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 127,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q2 Webb telescope, internal Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 131,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q1 planet, internal Parts A-C with simulation instructions. No additional independent top-level statement."
+    },
+    {
+      "file_id": 134,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q2 cylindrical diode, internal Parts A-C with simulation instructions. No additional independent top-level statement."
+    },
+    {
+      "file_id": 137,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q1 planetary physics, internal Parts A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 141,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q2 electrostatic lens, internal Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 144,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q3 particles and waves, internal Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 146,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q1 nonideal capacitors, Parts A-D; measurement examples are instructions. No additional independent top-level statement."
+    },
+    {
+      "file_id": 151,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q2 LEDs, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 158,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q3 laser technologies, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 161,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q1 crystallography, internal A-D and equipment/instructions at end. No additional independent top-level statement."
+    },
+    {
+      "file_id": 165,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q1 zero-length springs and slinky, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 169,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q2 microwave oven, internal Parts A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 171,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Q3 thermoacoustic engine, internal Parts A-B. No additional independent top-level statement."
+    },
+    {
+      "file_id": 176,
+      "observed_units": 1,
+      "evidence": "Reused persisted complete actual-statement inspection; manually checked boundary packet for every physical page, printed question headers, internal sections and file ending. Experimental Q1 optical measurements, internal Parts A-C and common equipment. No additional independent top-level statement."
+    }
+  ]
+}

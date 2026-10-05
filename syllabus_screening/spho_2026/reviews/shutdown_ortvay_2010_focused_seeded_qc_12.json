@@ -1,0 +1,50 @@
+[
+  {
+    "screening_unit_id": "raw::5882",
+    "detail": "Focused whole-problem weighting review: complete long tower task p3 and drawing reopened. Rigid-card force/torque/friction statics and the supplied inelastic-fall model dominate height/cascade optimization, equal and unequal arrangements and construction order. The final check of neglected card bending is a peripheral model-validity extension. KEEP confirmed without rescuing subparts or requiring an unprovided detailed beam spectrum."
+  },
+  {
+    "screening_unit_id": "raw::5883",
+    "detail": "Focused supplied coarse-model review: all dam-ribbon requests p3 reread. It explicitly asks an estimate under a high-stiffness ribbon idealization and adjustable soil attachment strength. Hydrostatic resultant pressure and changes in tension direction at corners produce the needed support-force concentration; axial elastic scaling is conventional Hooke physics. An exact geotechnical/fracture reconstruction is not the stated model. KEEP confirmed with limitations, not an asserted real accident explanation."
+  },
+  {
+    "screening_unit_id": "raw::5887",
+    "detail": "Focused wave-model review: full anisotropic-packet task p4 reopened. Given mode polarizations/dispersion allow superposition exp(i*k*r-i*omega_beta*t), moving-frame phase omega-k*vg and projection. A true mode-selective detector gives zero for another orthogonal eigenmode; a fixed-axis detector can see finite-band polarization variation. Those alternatives depend on detector definition, recorded parametrically, but neither requires deriving an unsupplied elastic PDE. Optional quantum analogy is peripheral. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5889",
+    "detail": "Focused phase-model review: full Q19 p4 and actual two-kink/plateau pressure graph reopened. Dalton/ideal-gas and independent saturation-pressure assumptions allow masses and a Clausius-Clapeyron estimate from the supplied boiling/latent-heat data. Predicting the new-temperature isotherm also depends on liquid-mixture activity/miscibility assumptions that are not stated. No worked official solution resolves the intended approximation. BORDERLINE retained for the complete three-part task."
+  },
+  {
+    "screening_unit_id": "raw::5897",
+    "detail": "Focused prerequisite-depth review: complete historical quotation question p6 reread. It does not prescribe numerical criticality, device material or the reason for the mass concern. Qualitative ordinary fission/chain-reaction context may suffice, but an intended quantitative mass/transport argument would require specialized unprovided modelling. BORDERLINE retained; no detailed weapon design or reviewer-supplied nuclear engineering relation used."
+  },
+  {
+    "screening_unit_id": "raw::5898",
+    "detail": "Focused theorem/model review: full face-count formula p6 reread. Euler F-E+V=2, sum i*n_i=2E and generic trivalence 3V=2E imply sum(6-i)*n_i=12. Amorphous/general-position geometry supports the intended case; degenerate high-valence cells require a documented caveat. Entire task is mathematics, so KEEP confirmed despite that source generality limitation."
+  },
+  {
+    "screening_unit_id": "raw::5902",
+    "detail": "Focused source-cited supplied-model review: complete Q32 p7 and exact reference pp2-3,6-8 reopened. Explicit matrices, differential eigen-equation, E=hbar*v*k, current and scalar-wall limiting matching are supplied there. Annular Cartesian single-valued spinor separation yields Bessel radial functions and a two-boundary determinant; root finding is numerical mathematics. Inner/outer signs follow outward-normal reversal. Probability-current boundary explanation is also actually supplied. Neutrino/graphene identification is peripheral. Whole task KEEP confirmed; no unrelated missing quantum law added."
+  },
+  {
+    "screening_unit_id": "raw::5904",
+    "detail": "Focused actual equation review: complete Q34 p7 exponent/ODE reopened. With y=exp(-(U-Uk)/V), each constant-current stage becomes a first-order linear equation; continuity and the specified alternating intervals generate ten periods. Semiconductor leakage interpretation is already encoded by the supplied ODE. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5905",
+    "detail": "Focused supplied reservoir model review: complete Q35 p7 assumptions and all cases reopened. Production and extraction are proportional rates with equal capacities, giving linear ODEs for each reservoir and a switching optimization. Biology is intentionally replaced by the specified toy model; optional external advice site is not needed. KEEP confirmed as numerical mathematics, not a real-world feeding recommendation."
+  },
+  {
+    "screening_unit_id": "raw::5875",
+    "detail": "Experimental format QC: full pendulum task p2 reread. It explicitly requires turning-point energy observations, multiple lengths, chosen drag powers and graphical data comparison. Energy balance, integration, fitting and uncertainty suffice without a prescribed aerodynamics prerequisite. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5880",
+    "detail": "Seeded QC (Random 2026100413, first selection): all p2 moving-chain parts and both diagrams reopened. Local momentum of a moving flexible chain plus gravity and tension constrain steady curves above/below the gear. No rod/plate elasticity is assumed. KEEP confirmed under declared flexible-chain idealization."
+  },
+  {
+    "screening_unit_id": "raw::5878",
+    "detail": "Seeded QC (Random 2026100413, second selection): full bridge task p2 reread. Self-weight along arc length and deck weight per horizontal length are conventional distributed gravity/tension sources. Local equilibrium integrates to a mixed cable curve with the specified limiting cases. Actual bridge dimensions are numerical data, not outside physics. KEEP confirmed."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "screening_unit_id": "raw::55",
+    "decision": "KEEP",
+    "primary_spho_domains": "I_force_motion;II_oscillations_waves;III_ideal_gas;XI_quantum_light;XII_atomic_nuclear",
+    "required_physics": "Blackbody radiation, supplied photon-to-output solar-cell model, efficiency optimization, gravitational energy, nuclear reaction flux and thermal Doppler/kinetic theory",
+    "decision_reason": "Most meaningful work uses radiation, photons, Newtonian gravity and thermal Doppler under stated models. A single independent Cherenkov-energy part needs unsupplied relativistic electron energy; it does not control the majority.",
+    "evidence": "IPhO 2015 T-1, both physical pages read and visually inspected because embedded extraction omits many equations. All seven pages of solution 251 inspected as text: B3 needs gamma mec^2, while B4 is expressly solved with nonrelativistic Doppler and kinetic theory. Solar-cell conversion/efficiency and nuclear flux do not depend on B3.",
+    "page_start": 1,
+    "page_end": 2,
+    "format": "theory",
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "confidence": "high",
+    "external_physics_if_any": "Unsupplied relativistic electron kinetic-energy relation in the independent Cherenkov subsidiary task; the dominant remainder does not depend on it. Solar-cell band-gap conversion model is explicitly given.",
+    "location_json": "{\"top_level_label\": \"T-1\", \"boundary_note\": \"The source presents A1-A10 and B1-B4 as sections of one Theory T-1. Retain the entire top-level problem and do not separately screen its internal questions.\"}",
+    "boundary_status": "content_boundary_verified"
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0039.json",
+  "papers": [
+    {
+      "file_id": 1914,
+      "observed_units": 25,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 25 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1916,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1930,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1936,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1939,
+      "observed_units": 3,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 3 top-level printed problems already represented. Three known USA/TST alias pairs count once per printed Question1-3; provenance retained. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1946,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1952,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1958,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1961,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1965,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1970,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1974,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1978,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1982,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1985,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1989,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1992,
+      "observed_units": 4,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 4 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1996,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 1999,
+      "observed_units": 4,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 4 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    },
+    {
+      "file_id": 2005,
+      "observed_units": 6,
+      "evidence": "All cached physical pages manually audited, including cover/reference sheets, part-divider pages and answer sheets; reuse prior full actual statement inspections. 6 top-level printed problems already represented. No omitted independent statement; internal subparts retained."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "derived::b1cd565276ca09c0::4004::1",
+    "detail": "Seeded fast-pass QC0013 seed 20261004569: KEEP confirmed. Rendered collision statement: three tethered balls, elastic collision and energy/momentum/tension only."
+  },
+  {
+    "screening_unit_id": "raw::768",
+    "detail": "Seeded fast-pass QC0013 seed 20261004569: KEEP confirmed. Rendered wooden-piece experiment: buoyancy/friction, supplied force relation, speed plotting and empirical fit."
+  },
+  {
+    "screening_unit_id": "derived::737710f6b84cc75f::4009::3",
+    "detail": "Seeded fast-pass QC0013 seed 20261004569: KEEP confirmed. Rendered two-page gyroscope: spring constants/damping fully supplied; rotating-coordinate Newton equations and driven resonance."
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A17",
+    "detail": "Seeded fast-pass QC0013 seed 20261004569: KEEP confirmed. Complete A17 plus shared A16 setup reread: hinged-rod collision, zero hinge impulse and center of percussion."
+  },
+  {
+    "screening_unit_id": "raw::3952",
+    "detail": "Seeded fast-pass QC0013 seed 20261004569: KEEP confirmed. Complete image-charge statement reread: explicit mirror construction, electrostatic boundary, force and energy."
+  },
+  {
+    "screening_unit_id": "raw::704",
+    "detail": "Seeded fast-pass QC0013 seed 20261004569: KEEP confirmed. Complete axon statement pp5-6 reread: supplied planar-capacitor/resistor geometry and RC model."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "screening_unit_id": "raw::5380",
+    "detail": "Local film-patch pressure, tension and weight balance supplies the shape equation; importing a ready-made membrane theory is unnecessary. Capillarity is a conventional general-physics foundation."
+  },
+  {
+    "screening_unit_id": "raw::5391",
+    "detail": "Compared with already-reviewed APhO spin waves: that statement explicitly supplied interaction energy, while this statement only names Heisenberg exchange. The missing central interaction law makes the difference substantive, not context bias."
+  },
+  {
+    "screening_unit_id": "raw::5394",
+    "detail": "The explicit piecewise potential fixes pair forces by differentiation. Temperature estimation and plotting a simulation phase diagram are thermal/data-analysis reasoning. No quantum condensed-matter machinery is needed."
+  },
+  {
+    "screening_unit_id": "raw::6369",
+    "detail": "Zero circulation is supplied; incompressibility supplies divergence-free flow, and boundary normal velocity follows no-penetration kinematics. Together with the supplied kinetic-energy definition these establish the electrostatic analogy without an unsupplied Euler/Bernoulli solution."
+  },
+  {
+    "screening_unit_id": "raw::6381",
+    "detail": "Newton-Lorentz gyromotion and Faraday induction yield the slow change of transverse energy; collisional equilibration supplies the remaining kinetic-theory step. Quantum adiabatic wording is a hint rather than an essential Landau-level prerequisite."
+  },
+  {
+    "screening_unit_id": "raw::833",
+    "detail": "Rechecked that magnetic-moment conservation is an explicit statement assumption, not an inferred plasma invariant. All later mirror-point calculations use this supplied invariant and energy conservation."
+  },
+  {
+    "screening_unit_id": "raw::839",
+    "detail": "Rechecked solution 1751 p1: a reversible Carnot heat pump and Planck spectral cutoff give the efficiency limit. No semiconductor microscopic model is structurally required."
+  },
+  {
+    "screening_unit_id": "raw::1956",
+    "detail": "Rechecked the graphene section and graph: epsilon=vF p, ordinary Lorentz force, and the D2 substitution are explicitly provided. The optical-isolator section supplies rotation and requires only Malus/polarization."
+  },
+  {
+    "screening_unit_id": "raw::5385",
+    "detail": "Second whole-problem review confirms the stated ambiguity/balanced external dependence. No subparts were separately rescued, and the unit remains excluded from the curated set. The snow-covered branch photographs do not establish the time history or a definite mechanical model sufficiently for a precise scope judgment."
+  },
+  {
+    "screening_unit_id": "raw::6377",
+    "detail": "Second whole-problem review confirms the stated ambiguity/balanced external dependence. No subparts were separately rescued, and the unit remains excluded from the curated set. The normal-mode frequency requires a distributed incompressible velocity field; the statement supplies a flat top boundary but not a flow model, leaving a substantial continuum-fluid prerequisite uncertain."
+  },
+  {
+    "screening_unit_id": "raw::2672",
+    "detail": "Second whole-problem review confirms the stated ambiguity/balanced external dependence. No subparts were separately rescued, and the unit remains excluded from the curated set. One substantial section requires unsupplied proper-acceleration relativity; the other is a complete Newtonian rigid-body impact. The whole problem is balanced rather than clearly dominated by usable material."
+  },
+  {
+    "screening_unit_id": "raw::1954",
+    "detail": "Second whole-problem review confirms the stated ambiguity/balanced external dependence. No subparts were separately rescued, and the unit remains excluded from the curated set. The equilibrium and critical-energy sections need unsupplied relativistic momentum; the long phase-stability section uses supplied energy gain and ordinary oscillation mathematics. Their dependency makes whole-problem usefulness genuinely near the boundary."
+  },
+  {
+    "screening_unit_id": "raw::5387",
+    "detail": "Random QC: rechecked complete statement, problem boundary and required-physics evidence. Confirmed scope decision without using title/source tags: Quasistatic rotating water surfaces follow equipotentials; no unsupplied dynamic ocean model is required."
+  },
+  {
+    "screening_unit_id": "raw::5377",
+    "detail": "Random QC: rechecked complete statement, problem boundary and required-physics evidence. Confirmed scope decision without using title/source tags: The movable hemisphere and departing particle are a Newtonian constrained-motion problem."
+  },
+  {
+    "screening_unit_id": "raw::5397",
+    "detail": "Random QC: rechecked complete statement, problem boundary and required-physics evidence. Confirmed scope decision without using title/source tags: Optimizing a wavefunction after free evolution requires unsupplied SchrÃ¶dinger dynamics and quantum probability, beyond de Broglie and hydrogen-state knowledge."
+  },
+  {
+    "screening_unit_id": "raw::6375",
+    "detail": "Random QC: rechecked complete statement, problem boundary and required-physics evidence. Confirmed scope decision without using title/source tags: Relativistic missile interception is the entire task; no transformation or accelerated-frame model is supplied."
+  },
+  {
+    "screening_unit_id": "raw::5395",
+    "detail": "Random QC: rechecked complete statement, problem boundary and required-physics evidence. Confirmed scope decision without using title/source tags: Deriving Friedmann equations from a Robertson-Walker metric is central and unsupplied; equations of state do not make the gravitational theory self-contained."
+  },
+  {
+    "screening_unit_id": "raw::5393",
+    "detail": "Random QC: rechecked complete statement, problem boundary and required-physics evidence. Confirmed scope decision without using title/source tags: The effective-mass Hamiltonian does not supply quantum evolution or measurement theory, which controls the whole protocol."
+  }
+]

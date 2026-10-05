@@ -1,0 +1,120 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0026.json",
+  "papers": [
+    {
+      "file_id": 958,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theory Q1 Earth precession, internal Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 965,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theory Q2 classical spins, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 972,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theory Q3 atmosphere, internal Parts A-E. No additional independent top-level statement."
+    },
+    {
+      "file_id": 976,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Experimental Q1 repeated through12pages; internal electromagnetism experiments1-3 plus operating instructions. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1154,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Question1 fractional Hall effect, internal parts across4pages. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1158,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Question2 aurora repeated through8pages. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1160,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Question3 Fabry-Perot/Zeeman, internal (a-f). No additional independent top-level statement."
+    },
+    {
+      "file_id": 1164,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. One22-page Experiment Problem with internal A-E piezoelectric applications; apparatus and all dependent calibration stages retained together. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1167,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Question1 Hadley circulation, internal (a-f). No additional independent top-level statement."
+    },
+    {
+      "file_id": 1170,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Question2 electron interference, internal (a,b). No additional independent top-level statement."
+    },
+    {
+      "file_id": 1173,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Question3 gravitational lensing, internal (a-h). No additional independent top-level statement."
+    },
+    {
+      "file_id": 1178,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. One14-page Experiment Problem ultrasonic speed in solution, internal Experiments A-D with common calibrated apparatus. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1180,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. One-page Theory Question1 only. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1182,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theory Question2 repeated through6pages, internal Parts A-E. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1185,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theory Question3 repeated through4pages, internal Parts A-D. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1188,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. One Theory Question I across3pages, internal I-numbered tasks. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1191,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Experimental Question1 repeated through14pages, internal wind-tunnel/turbine/anemometer tasks. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1192,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. One Theory Question II across2pages, internal II-numbered tasks. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1194,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theory Question III repeated through4pages, internal III-numbered polarization tasks. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1196,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Experimental Question No.1 repeated through6pages, friction with internal Parts1-2. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1199,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. One experimental induction question, common apparatus and internal (a-k). No additional independent top-level statement."
+    },
+    {
+      "file_id": 1204,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theoretical Question1 Shockley-James paradox, internal Parts A-C. No additional independent top-level statement."
+    },
+    {
+      "file_id": 1207,
+      "observed_units": 1,
+      "evidence": "Reused complete actual source inspection; manually checked all-page cached question/header sequence, continuations and final page. Theoretical Question2 creaking door, internal tasks. No additional independent top-level statement."
+    }
+  ]
+}

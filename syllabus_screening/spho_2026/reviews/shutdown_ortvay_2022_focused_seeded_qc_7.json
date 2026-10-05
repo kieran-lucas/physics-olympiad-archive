@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::5489",
+    "detail": "Focused supplied-model review: full Q2 p1 and exact kinetic expression reopened. Define Cartesian q=(x*y*cos(z), x*y*sin(z), x*sqrt(1-y*y)); direct differentiation gives qdot squared equal to the supplied L. Newton qddot=0 then supplies trajectories in the original coordinates. This identifiable free-particle model avoids an unsupplied arbitrary canonical dynamics law. KEEP confirmed; distinction from nonquadratic historical Hamiltonian rejections documented."
+  },
+  {
+    "screening_unit_id": "raw::5504",
+    "detail": "Focused second review: full Q17 p6 reread. Maxwell wave propagation is allowed, including field arrival across wire separation and subsequent reflected line waves. Full brightness/time history additionally depends on line impedance, conductor geometry and switching details not specified. This is an unresolved source/model boundary; BORDERLINE confirmed, not a blanket rejection of transmission-line physics."
+  },
+  {
+    "screening_unit_id": "raw::5509",
+    "detail": "Focused mathematical-model review: full Q22 p8 and Gaussian formula reopened. Physical is explicitly positive semidefinite and normalized. Choose a normalized smooth compact-support function psi: rho(x,y)=psi(x)*conj(psi(y)) is a positive rank-one unit-trace kernel with diagonal zero on an open interval. Every supplied finite-C Gaussian has strictly positive diagonal there; positive convex weights cannot cancel it. This counterexample uses only supplied positivity/kernel mathematics. KEEP confirmed; open-interval support refines the first-pass nodal example."
+  },
+  {
+    "screening_unit_id": "raw::5510",
+    "detail": "Focused second review: exact p8 render checked again. Entropy/kernel identities are given, but canonical momentum action is absent; printed F_beta lacks a logarithm and the thermal exponent contains (x-y)^2 rather than x^2+y^2. Those source conflicts materially obstruct the requested proof. BORDERLINE retained with explicit quality notes; no source bytes or formulas repaired."
+  },
+  {
+    "screening_unit_id": "raw::5514",
+    "detail": "Focused supplied-model review: complete Q27 p10 and trial-distribution formula reopened. Energy of classical +/-1 variables and all pair marginals are supplied. Use F=sum(P*E)+kT*sum(P*log(P)), ordinary Boltzmann entropy/free-energy reasoning, then probability constraints and algebra for correlations. There is no quantum dynamics or unsupplied material law. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5499",
+    "detail": "Seeded QC (2026100402): whole Q12 p5 reopened. Finite source adds spherical-wave path to zone-plate path difference. Fresnel interference and asymptotic phase focusing are operational wave optics. KEEP confirmed without applying a closed topic whitelist."
+  },
+  {
+    "screening_unit_id": "raw::5507",
+    "detail": "Seeded QC (2026100402): whole Q20 p7 reopened, including optional negative-epsilon part. The nonoptional work centrally uses unsupplied quantum oscillator matrix elements, perturbation energies and Schrodinger eigenstates. Giving only H0/V does not provide those rules. REJECT confirmed."
+  }
+]

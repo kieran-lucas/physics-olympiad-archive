@@ -1,0 +1,78 @@
+[
+  {
+    "screening_unit_id": "raw::6188",
+    "detail": "Focused distributed-friction review: complete Q2 p2 reread. Uniform pressure is explicit, so integrating tangential local static-friction forces about a candidate incipient centre produces the coupled force/torque threshold. Radial calibration F0 fixes the common friction scale; ordinary rigid mechanics suffices. KEEP confirmed; not a force-only mu*N shortcut."
+  },
+  {
+    "screening_unit_id": "raw::6189",
+    "detail": "Focused actual diagram/support review: all Q3 p2 and Y support figure reread. Lower/upper heights h1/h2, penetration length and negligible log-log friction versus nonzero anchor friction are actual givens. Static rigid-log thrust and anchor moments/Coulomb capacities give constraints; branch material strength is idealized strong, not a demanded unprovided beam theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6192",
+    "detail": "Seeded QC (Random 2026100422 first selection): complete eccentric circular-arc Q6 p3 reread. Angular momentum and central acceleration/Binet inversion constrain V over sampled radial distances. The full orbit needs a declared extension outside that range, which can be reported as nonuniqueness; no specialized physics is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6193",
+    "detail": "Focused fully defined optimization versus physical-canonical-law review: all Q7 p3 cost expressions and cone example reread. S is expressly an objective integral to minimize, so Euler variation is standard mathematics of a supplied functional. L2=b*v dot grad(h)=b*d(h)/dt is an endpoint term; the other terms give a defined metric-like speed cost. No missing physical Hamiltonian rule identifies p/v here. KEEP confirmed consistently with allowing math while rejecting central unsupplied canonical physical dynamics elsewhere."
+  },
+  {
+    "screening_unit_id": "raw::6195",
+    "detail": "Focused whole axial-composite review: complete Q9 p3 reread. Initial longitudinal stretch, long rod, perfect axial bonding and end release give shared strain with balanced scalar axial Hooke stresses. Moduli/areas/prestrain are parameters. A full radial Poisson/interface tensor correction is not specified as the main request and can be an explicit limitation of this long axial approximation. Whole KEEP confirmed, not an invented exact three-dimensional solution."
+  },
+  {
+    "screening_unit_id": "raw::6196",
+    "detail": "Focused experimental/constitutive ambiguity review: entire Q10 p3 reread. Observation and membrane pressure balance are ordinary, but predictive shape/localized inflation at large stretch may depend on nonlinear rubber stress-stretch response not supplied. No experiment was performed or constitutive curve measured; an ideal constant-tension versus actual rubber model can differ qualitatively. BORDERLINE retained for the whole intended explanation, not for experimental format."
+  },
+  {
+    "screening_unit_id": "raw::6197",
+    "detail": "Focused qualitative fluid-depth review: complete Q11 p4 reread. The short comparative question does not request a precise turbulent pressure-loss correlation. Material/surface roughness/deposits and pressure/flow demand support an ordinary qualitative resistance explanation, with no universal diameter ratio claimed. KEEP confirmed; a demanding quantitative turbulent model would be additional unrequested scope."
+  },
+  {
+    "screening_unit_id": "raw::6199",
+    "detail": "Focused explicit atom toy-model review: all Q13 p4 reread. Uniform positive cloud plus point electrons and neutrality fully define classical Coulomb energy and stability Hessian. Comparing candidate tetrahedral/planar/linear configurations and toy shell trends is Newton/electrostatic mathematics, not an assumed real quantum periodic table. KEEP confirmed under supplied-model rule."
+  },
+  {
+    "screening_unit_id": "raw::6200",
+    "detail": "Focused unusual material idealization review: all Q14 p4 reread. It expressly permits internal magnetic field penetration and declares only the critical B0 cutoff. Classical Maxwell/current continuity and boundary/maximum-principle bounds apply to that material; adding Meissner expulsion or quantum superconducting physics would contradict the stipulated model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6201",
+    "detail": "Focused complete circuit/model review: all Q15 p4 and four actual drawings reopened. Radial conductivity and capacitive charge balance define distributed RC response; given high/low Z versus voltage loop sets Va/Vb switching. Conductance/permittivity/finite resistance levels may remain parameters. Particle-detector context supplies no required microscopic prerequisite. KEEP confirmed, diagrams fully inspected."
+  },
+  {
+    "screening_unit_id": "raw::6202",
+    "detail": "Focused classical/annihilation wording review: all Q16 p5 reread. It explicitly says classical nonrelativistic, fixes uniform B and plane, and glosses annihilate as encounter. Coulomb/Lorentz relative motion therefore controls collision and periodic solutions; no QED cross section is required. Many-electron closing question is qualitative. KEEP confirmed; different whole statement from 2002 Q7, no exact equivalence invented."
+  },
+  {
+    "screening_unit_id": "raw::6204",
+    "detail": "Focused dominant optical work review: full Q18 p5 reread. Alternating plate boundary-wave transfer, periodic trace/eigenvalues and quarter-wave gap are fully defined ordinary optics. Quantum analogy is brief and requires only comparing periodic-wave gaps, not solving an unsupplied quantum spectrum. Whole KEEP confirmed; refractive/frequency convention and aperture assumptions disclosed."
+  },
+  {
+    "screening_unit_id": "raw::6205",
+    "detail": "Focused source-linked whole-choice review: Q19 p5 and all article model descriptions/discussion read. It requires one selected critique, not solving all four systems. A supplied classical collision/heat-bath example supports ordinary energy/momentum/entropy reasoning. KEEP confirmed without endorsing the article. Original URL/remote hash/inspection provenance retained; copying reservation prevents full curated republication."
+  },
+  {
+    "screening_unit_id": "raw::6206",
+    "detail": "Focused hydrostatic design and seeded QC (Random 2026100422 second selection): complete Q20 p5 reread. Fixed mercury volume and local funnel areas determine plug thickness, pressure and enclosed gas volume. Inverse geometry can hold pV fixed on equilibrium positions, but it cannot enforce instantaneous isothermality or produce perpetual refrigeration. Ordinary hydrostatics/ideal gas/first law give both construction and limitation. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6209",
+    "detail": "Focused partially supplied hypergravity review: whole Q23 p6 and exact F_k=M^N*partial_k(Phi) reread. The formula helps define force dependence but does not give relativistic momentum/proper-time/mass evolution or three-force conversion. Those central rules are needed before velocity/energy/Andromeda-time results. REJECT confirmed on precisely missing SR dynamics."
+  },
+  {
+    "screening_unit_id": "raw::6214",
+    "detail": "Focused low/high rotor model review: full Q28 p6 and hatted h*cos(phi) term reread. A classical rotor plus field admits Boltzmann angular/momentum integrals, while quantum level spacing supplies a distinct low-temperature crossover. No free-rotor Hamiltonian/spectrum or classical/quantum instruction settles which is intended, and no official worked key is linked. Whole BORDERLINE retained; do not silently select an easier model or presume every low-temperature problem quantum."
+  },
+  {
+    "screening_unit_id": "raw::6216",
+    "detail": "Focused partial quantum-ansatz review: full Q30 p7 displayed Hamiltonian, ladder coefficient and q/p hints reopened. These supply algebraic structure, but Heisenberg time evolution, shift action/commutation and state-probability interpretation remain merely named. They are central to initial conditions and the requested excitation probability. REJECT confirmed, unlike a full operational PDE with all differential terms supplied."
+  },
+  {
+    "screening_unit_id": "raw::6217",
+    "detail": "Focused actual Gaussian/table model review: full Q31 p7 product state, Morse law and five-gas table reread. They provide parameters/variational ansatz, but no quantum kinetic-energy functional or expectation/normalization rule. That missing physics selects finite zero-point width and controls stability. Actual amplitude exp(-x^2/(2*sigma^2)) has probability width sigma/sqrt2, not the stated amplitude parameter directly. REJECT confirmed; no experimental data added to supply missing contestant theory."
+  },
+  {
+    "screening_unit_id": "raw::6219",
+    "detail": "Focused supplied collision cartoon review: complete Q33 p8 read from cached text and intact PDFium page. On-shell massless exchanges and random longitudinal momentum are described, but the structure function and invariant/rest-frame four-momentum transfer laws are absent. Those central unsupplied relativistic/particle rules are needed for resonance mass/fragmentation interpretation. REJECT confirmed; actual supplied cartoon acknowledged."
+  }
+]

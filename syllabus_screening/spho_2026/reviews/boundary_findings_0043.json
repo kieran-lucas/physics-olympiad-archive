@@ -1,0 +1,70 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0043.json",
+  "papers": [
+    {
+      "file_id": 1792,
+      "observed_units": 3,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 3 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1793,
+      "observed_units": 1,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 1 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1797,
+      "observed_units": 3,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 3 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1799,
+      "observed_units": 1,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 1 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1803,
+      "observed_units": 3,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 3 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1805,
+      "observed_units": 1,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 1 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1810,
+      "observed_units": 3,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 3 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 1811,
+      "observed_units": 2,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 2 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 2680,
+      "observed_units": 5,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 5 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 2682,
+      "observed_units": 5,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 5 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 2683,
+      "observed_units": 5,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 5 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 2686,
+      "observed_units": 5,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 5 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    },
+    {
+      "file_id": 2688,
+      "observed_units": 6,
+      "evidence": "All physical page boundaries and printed T/E/Q headings manually checked; prior complete actual statement inspection reused. Exactly 6 independent top-level problems already registered, all internal Parts retained. Covers and known original PDF structural-repair flags do not conceal additional statements."
+    }
+  ]
+}

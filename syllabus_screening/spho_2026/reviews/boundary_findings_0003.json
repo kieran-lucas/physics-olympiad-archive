@@ -1,0 +1,71 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0003.json",
+  "papers": [
+    {
+      "file_id": 2909,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-8, solutions pp9-15 (Q5 repeated). Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3178,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-8, solutions pp9-14. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3179,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-10, solutions pp11-16 (scanned cover and all remaining solution headings rendered). Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3180,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-9, solutions pp10-15. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3181,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-8, solutions pp9-14. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3182,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-9, solutions pp10-15. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3183,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-9, solutions pp10-16. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3184,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-9, solutions pp10-16. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3185,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-9, original/revised solutions pp10-16 and pp17-23. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3186,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-7, solutions pp8-13. Mathematical formula page is supplied reference, internal parts stay together."
+    },
+    {
+      "file_id": 3187,
+      "observed_units": 6,
+      "missing": [],
+      "evidence": "Complete actual statement sequence already inspected and persisted in fast_scope_0165/0166; current boundary audit checked cover expressly specifies six 25-point top-level problems and remaining pages are matching Q1-Q6 grading solutions, no extra tasks: pp3-8, solutions pp9-17. Mathematical formula page is supplied reference, internal parts stay together."
+    }
+  ]
+}

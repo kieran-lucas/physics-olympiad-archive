@@ -1,0 +1,62 @@
+[
+  {
+    "screening_unit_id": "raw::45",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 5,
+    "required_physics": "Newtonian gravity, low-speed Doppler, guided virial theorem and supplied dark-matter density model",
+    "decision_reason": "KEEP: Newtonian gravity, low-speed Doppler, guided virial theorem and supplied dark-matter density model.",
+    "evidence": "Complete actual statement source 209, rendered pages 1-5; all internal parts inspected; specialized relations supplied.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::46",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 6,
+    "required_physics": "Calorimetry, ideal gas, supplied seismic refraction model and classical shallow-water wave scaling",
+    "decision_reason": "KEEP: Calorimetry, ideal gas, supplied seismic refraction model and classical shallow-water wave scaling.",
+    "evidence": "Complete actual statement source 212, rendered pages 1-6; all internal parts inspected; specialized relations supplied.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::47",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 5,
+    "required_physics": "Explicit Friedmann and inflaton equations, supplied slow-roll spectral relations and calculus",
+    "decision_reason": "KEEP: Explicit Friedmann and inflaton equations, supplied slow-roll spectral relations and calculus.",
+    "evidence": "Complete actual statement source 215, rendered pages 1-5; all internal parts inspected; specialized relations supplied.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::48",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 8,
+    "required_physics": "Laser refraction, supplied Gaussian diffusion model and experimental plotting and fitting",
+    "decision_reason": "KEEP: Laser refraction, supplied Gaussian diffusion model and experimental plotting and fitting.",
+    "evidence": "Complete actual statement source 220, rendered pages 1-8; all internal parts inspected; specialized relations supplied.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::49",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 11,
+    "required_physics": "Supplied magnetic-force and viscosity models, damped oscillations, magnetic susceptibility and sensor calibration",
+    "decision_reason": "KEEP: Supplied magnetic-force and viscosity models, damped oscillations, magnetic susceptibility and sensor calibration.",
+    "evidence": "Complete actual statement source 224, rendered pages 1-11; all internal parts inspected; specialized relations supplied.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::140",
+    "detail": "KEEP confirmed whole problem: statement explicitly limits b-f to nonrelativistic mechanics (9/10 points); unsupplied relativistic speed is only portion of one-point part a."
+  },
+  {
+    "screening_unit_id": "raw::143",
+    "detail": "KEEP confirmed: supplied effective photon gravitational mass, Newtonian potential and low-speed Doppler fit constitute 15/20 points; independent unsupplied relativistic recoil section carries 5/20 and does not dominate."
+  },
+  {
+    "screening_unit_id": "raw::148",
+    "detail": "Rendered equations confirm energy-momentum relation and full Lorentz coordinate transformations supplied. Dominant three graphical-motion tasks need these plus ordinary force/energy reasoning; final energy at speed may require unsupplied mass-speed relation but is peripheral. KEEP whole problem."
+  }
+]

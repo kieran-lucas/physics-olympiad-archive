@@ -1,0 +1,73 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0011.json",
+  "papers": [
+    {
+      "file_id": 549,
+      "observed_units": 2,
+      "evidence": "All two rendered pages inspected: cover and Problem 1 antenna followed on p2 by its (a,b) conclusion and complete Problem 2 Hall effect (a-d). Both printed problems already registered.",
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::191",
+          "start": 2,
+          "end": 2,
+          "evidence": "Complete printed Hall-effect Problem 2 matches fid554 p1, existing raw191."
+        }
+      ]
+    },
+    {
+      "file_id": 554,
+      "observed_units": 2,
+      "evidence": "Entire rendered page inspected: Problem 1 antenna conclusion (a,b), then complete Problem 2 Hall effect (a-d). Both existing registered problems.",
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::190",
+          "start": 1,
+          "end": 1,
+          "evidence": "Printed antenna Problem 1 tail matches fid549 p2, existing raw190."
+        }
+      ]
+    },
+    {
+      "file_id": 556,
+      "observed_units": 1,
+      "evidence": "Entire rendered page inspected: Problem 3 spacecraft launch and gravity assist, internal (a-d); no other problem.",
+      "existing_sources": []
+    },
+    {
+      "file_id": 558,
+      "observed_units": 1,
+      "evidence": "Both rendered pages inspected: Experimental Exercise A motor and brass-disc acceleration/deceleration; second page continues operation and moment-of-inertia measurement. One experiment; no Exercise B in this file.",
+      "existing_sources": []
+    },
+    {
+      "file_id": 568,
+      "observed_units": 1,
+      "evidence": "Entire rendered page inspected: Experimental Problem 1 diode RC circuit mean-power measurement; one complete experiment only.",
+      "existing_sources": []
+    },
+    {
+      "file_id": 571,
+      "observed_units": 1,
+      "evidence": "Entire rendered page inspected: Experimental Problem 2 glow-lamp diffraction wavelengths with laser, grating and ruler calibration; one experiment only.",
+      "existing_sources": []
+    },
+    {
+      "file_id": 611,
+      "observed_units": 1,
+      "evidence": "Both rendered pages inspected: Problem 1 internal-combustion ideal PV cycle, setup p1 and (a-d) plus its solution p2. No additional statement.",
+      "existing_sources": []
+    },
+    {
+      "file_id": 614,
+      "observed_units": 1,
+      "evidence": "Entire rendered page inspected: previous Problem 1 solution only at top, then complete Problem 2 soap film (a,b) and data. Solution continuation is not a new problem.",
+      "existing_sources": []
+    },
+    {
+      "file_id": 616,
+      "observed_units": 1,
+      "evidence": "Both rendered pages inspected: previous Problem 2 solution only followed by Problem 3 electron gun, diagram and (a,b), then its solution. One problem statement.",
+      "existing_sources": []
+    }
+  ]
+}

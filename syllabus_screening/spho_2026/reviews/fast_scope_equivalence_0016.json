@@ -1,0 +1,17 @@
+[
+  {
+    "alias_unit_id": "derived::b7e54b370a945bda::1681::1",
+    "canonical_unit_id": "raw::1146",
+    "evidence": "Entire actual USAPhO+ 2021 source 1939 read; direct USAPhO and derived USA TST provenance refer to identical SHA bytes and printed Question 1. Both provenance records retained."
+  },
+  {
+    "alias_unit_id": "derived::b7e54b370a945bda::1681::2",
+    "canonical_unit_id": "raw::1147",
+    "evidence": "Entire actual USAPhO+ 2021 source 1939 read; direct USAPhO and derived USA TST provenance refer to identical SHA bytes and printed Question 2. Both provenance records retained."
+  },
+  {
+    "alias_unit_id": "derived::b7e54b370a945bda::1681::3",
+    "canonical_unit_id": "raw::1148",
+    "evidence": "Entire actual USAPhO+ 2021 source 1939 read; direct USAPhO and derived USA TST provenance refer to identical SHA bytes and printed Question 3. Both provenance records retained."
+  }
+]

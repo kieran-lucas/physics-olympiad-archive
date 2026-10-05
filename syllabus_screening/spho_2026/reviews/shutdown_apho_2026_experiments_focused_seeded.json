@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::309",
+    "detail": "Focused measurement-model review and experimental-format seeded QC Random(2026100428) selects raw::309. Full six-page A-D statement and all apparatus/wiring images reread; official solution 956 pp10-12 rendered because extracted formula glyphs were broken. Finite input resistance Ri lies parallel to the grounded divider resistor. Swapped measurements give Va/Vc=R*Ri/(rR+rRi+RRi), Vb/Vc=r*Ri/(rR+rRi+RRi), hence r=R*(Nb-NL)/(Na-NL). The unknown loading cancels using ordinary resistor circuit laws and the explicitly supplied linear ADC map. No microscopic converter model required. A-C calibration, quantization/error range and precision redesign also ordinary measurement/data analysis. Whole experimental KEEP confirmed. Official sample data are not measurements made in this screening."
+  }
+]

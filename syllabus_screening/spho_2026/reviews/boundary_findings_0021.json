@@ -1,0 +1,180 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0021.json",
+  "papers": [
+    {
+      "file_id": 2243,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Lamp thermal experiment, internal Parts A-D and website footer. No additional top-level statement."
+    },
+    {
+      "file_id": 2246,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Conducting bodies in magnetic field, internal Parts A-D. No additional top-level statement."
+    },
+    {
+      "file_id": 2248,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Electromagnetohydrodynamics, internal Parts A-E. No additional top-level statement."
+    },
+    {
+      "file_id": 2249,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Diffusion data problem, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2251,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Relativistic rocket, internal Parts A-E. No additional top-level statement."
+    },
+    {
+      "file_id": 2254,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Ferroelectric thermodynamics, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2256,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Antireflection optics, internal Parts A-D. No additional top-level statement."
+    },
+    {
+      "file_id": 2259,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Skin-effect experiment, internal Parts A-E and shared apparatus. No additional top-level statement."
+    },
+    {
+      "file_id": 2260,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Acoustic levitation, internal Parts A-E. No additional top-level statement."
+    },
+    {
+      "file_id": 2263,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Sound-wave experiment, internal Parts A-F and shared apparatus. No additional top-level statement."
+    },
+    {
+      "file_id": 2264,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Slipping rope, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2266,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Electrical bridge, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2268,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Liquid-vapor transition, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2269,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Water-color/scattering data problem, shared internal tasks and final website footer. No additional top-level statement."
+    },
+    {
+      "file_id": 2272,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Microfluidics, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2274,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Binary thermodynamic cycles, internal Parts A-D; final pages supplementary saturation graphs. No additional top-level statement."
+    },
+    {
+      "file_id": 2276,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Tidal capture, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2278,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Spinner, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2281,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Three-phase current, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2282,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Metal ball in wire field, internal Parts A-E. No additional top-level statement."
+    },
+    {
+      "file_id": 2284,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Electrode-electrolyte experiment, internal Parts A-C and common apparatus. No additional top-level statement."
+    },
+    {
+      "file_id": 2287,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Anisotropic heat conduction, internal Parts A-B. No additional top-level statement."
+    },
+    {
+      "file_id": 2289,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Clear optics experiment, internal Parts A-E and common apparatus. No additional top-level statement."
+    },
+    {
+      "file_id": 2291,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Silicon photomultiplier, internal Parts A-E. No additional top-level statement."
+    },
+    {
+      "file_id": 2293,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Quasiparticle dynamics, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2295,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Gyroscopic forces/friction, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2297,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Detonation waves, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2300,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Thomson jumping ring, internal Parts A-E. No additional top-level statement."
+    },
+    {
+      "file_id": 2301,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Star-radius measurement, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2304,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Guitar-string experiment, internal tasks and website footer. No additional top-level statement."
+    },
+    {
+      "file_id": 2305,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Thermistor experiment, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2306,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Wien bridge experiment, common apparatus and internal tasks. No additional top-level statement."
+    },
+    {
+      "file_id": 2308,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Both pages are answer sheets for one variable-voltage capacitor problem, A/B outputs only; full statement previously reconstructed locally from associated official solution2309. No new independent question. No additional top-level statement."
+    },
+    {
+      "file_id": 2310,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Atmospheric optical rays, internal Parts A-C. No additional top-level statement."
+    },
+    {
+      "file_id": 2312,
+      "observed_units": 1,
+      "evidence": "Manually checked cached boundary evidence from every physical page against prior complete actual source inspection. Refractive-index experiment, internal Parts A-B. No additional top-level statement."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0007.json",
+  "papers": [
+    {
+      "file_id": 411,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Question 3 MHD Generator (a)-(d). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 416,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Theoretical Problem 2 CRT/beta-particle methods (a)-(d). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 422,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: The Magnetic Puck: one aim and one experimental investigation, timing instructions/data are supplemental. No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 431,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Rendered complete two-page Rolling of a hexagonal prism: one Problem 1 with (a)-(e), p2 then starts its solution. No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 438,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Theory Question No.1 Scaling (a)-(e). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 446,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Problem 1 explicitly calls five unrelated INTERNAL parts (a)-(e). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 448,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Problem 2 coaxial-electrode electron dynamics (a)-(f). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 450,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Problem 3 tides model (a)-(c). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 454,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Theoretical Question 1 gravitational red shift (a)-(c), p2 supplied constants only. No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 456,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Theoretical Question 2 sound propagation (a)-(e). No extra top-level task; physics decision preserved."
+    },
+    {
+      "file_id": 460,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file read and compared with registered row: Theoretical Question 3 cylindrical buoy (a)-(d). No extra top-level task; physics decision preserved."
+    }
+  ]
+}

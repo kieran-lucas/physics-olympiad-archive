@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-10-04T03:32:24.781391+00:00",
+  "suggested_q34_reference": {
+    "title": "Theory of the Dynamical Jahn-Teller Effect",
+    "doi": "10.1103/PhysRev.131.1596",
+    "primary_url": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.131.1596",
+    "availability": "Primary abstract inspected; full content explicitly requires authorization/subscription. No full paper or worked model acquired, no bypass attempted.",
+    "purpose": "Check whether source-suggested paper supplies required coupled quantum model; abstract is not an operational contestant model."
+  },
+  "other_references": {
+    "q21": "Suggested Jeng circuit paper is optional: actual graph/edge resistance fully defines nodal Kirchhoff problem.",
+    "q22": "Jackson cited for standard Maxwell dipole fields; deriving/checking classical retarded fields is operational general EM, not an outside quantum model."
+  },
+  "comparisons": [
+    {
+      "new_source": "2003 Q19",
+      "prior_source": "2006 Q19 raw::6023",
+      "equivalent_alias": false,
+      "evidence": "2003 asks dipole moment and Earth fraction; 2006 asks full internal/surface charge distribution plus full exterior field and Earth mechanism. Shared model, different printed task set, not an exact reprint."
+    },
+    {
+      "new_source": "2003 Q32",
+      "prior_source": "2008 Q32 raw::5968",
+      "equivalent_alias": false,
+      "evidence": "2003 computes radius-dependent activity from known diffusion coefficient/concentration; 2008 infers unknown D from measured gamma activity ratios 0.1,0.5,0.9. Same physical model, different inverse/direct top-level task."
+    }
+  ],
+  "prior_decisions_changed": false,
+  "rubric_changed": false
+}

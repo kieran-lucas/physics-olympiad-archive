@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-04T01:42:09.508663+00:00",
+  "reference_id": "ortvay_2017_q36_arxiv_1605.01087v3",
+  "old_path": "syllabus_screening/spho_2026/references/ortvay_2017_q36_arxiv_1605.01087v3.pdf",
+  "new_path": "references/ortvay_2017_q36_arxiv_1605.01087v3.pdf",
+  "cause": "New registration used repository-relative path; existing materializer requires screening-root-relative reference paths. Actual PDF hash validated; path metadata corrected without changing bytes or decision.",
+  "partial_materialization": "Exception occurred before creating reference link or writing final manifest; rerun incremental materializer from SQLite truth."
+}

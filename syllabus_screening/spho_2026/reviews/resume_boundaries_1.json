@@ -1,0 +1,4786 @@
+[
+  {
+    "source_problem_id": 1682,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (45 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            309.2341003417969,
+            193.72396850585938,
+            321.1893005371094
+          ],
+          "next_heading_text": "Problem 2 (45 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (45 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            248.28512573242188,
+            193.72396850585938,
+            260.2403259277344
+          ],
+          "next_heading_text": "Problem 3 (45 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (45 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            184.5301055908203,
+            193.72396850585938,
+            196.4853057861328
+          ],
+          "next_heading_text": "Problem 4 (45 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4 (45 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            214.60110473632812,
+            193.72396850585938,
+            226.55630493164062
+          ],
+          "next_heading_text": "Problem 5 (45 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5 (45 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            535.235107421875,
+            193.72396850585938,
+            547.1903076171875
+          ],
+          "next_heading_text": "Problem 6 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            683.8441162109375,
+            193.72396850585938,
+            695.79931640625
+          ],
+          "next_heading_text": "Problem 7 (45 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 8,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7 (45 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            562.5771484375,
+            193.72396850585938,
+            574.5323486328125
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1683,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            234.9611053466797,
+            193.72396850585938,
+            246.9163055419922
+          ],
+          "next_heading_text": "Problem 2 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            316.6640930175781,
+            193.72396850585938,
+            328.6192932128906
+          ],
+          "next_heading_text": "Problem 3 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            164.99610900878906,
+            193.72396850585938,
+            176.95130920410156
+          ],
+          "next_heading_text": "Problem 4 (70 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4 (70 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            297.30010986328125,
+            193.72396850585938,
+            309.25531005859375
+          ],
+          "next_heading_text": "Problem 5 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            178.39309692382812,
+            193.72396850585938,
+            190.34829711914062
+          ],
+          "next_heading_text": "Problem 6 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 9,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            321.9740905761719,
+            193.72396850585938,
+            333.9292907714844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1684,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (40 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            256.9140930175781,
+            193.72396850585938,
+            268.8692932128906
+          ],
+          "next_heading_text": "Problem 2 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            420.818115234375,
+            193.72396850585938,
+            432.7733154296875
+          ],
+          "next_heading_text": "Problem 3 (40 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (40 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            338.6921081542969,
+            193.72396850585938,
+            350.6473083496094
+          ],
+          "next_heading_text": "Problem 4 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            499.5531005859375,
+            193.72396850585938,
+            511.50830078125
+          ],
+          "next_heading_text": "Problem 5 (40 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5 (40 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            676.9501342773438,
+            193.72396850585938,
+            688.9053344726562
+          ],
+          "next_heading_text": "Problem 6 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            573.2051391601562,
+            193.72396850585938,
+            585.1603393554688
+          ],
+          "next_heading_text": "Problem 7 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 8,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            658.7791137695312,
+            193.72396850585938,
+            670.7343139648438
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1685,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (40 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            220.19410705566406,
+            193.72396850585938,
+            232.14930725097656
+          ],
+          "next_heading_text": "Problem 2 (60 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (60 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            704.0481567382812,
+            193.72396850585938,
+            716.0033569335938
+          ],
+          "next_heading_text": "Problem 3 (60 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (60 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            731.1461181640625,
+            193.72396850585938,
+            743.101318359375
+          ],
+          "next_heading_text": "Problem 4 (60 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4 (60 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            135.32510375976562,
+            193.72396850585938,
+            147.28030395507812
+          ],
+          "next_heading_text": "Problem 5 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            619.0541381835938,
+            193.72396850585938,
+            631.0093383789062
+          ],
+          "next_heading_text": "Problem 6 (50 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6 (50 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            264.2240905761719,
+            193.72396850585938,
+            276.1792907714844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1686,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            221.72010803222656,
+            129.22967529296875,
+            233.67530822753906
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            731.0801391601562,
+            129.22967529296875,
+            743.0353393554688
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            68.03099822998047,
+            492.6141052246094,
+            129.22967529296875,
+            504.5693054199219
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            487.5491027832031,
+            129.22967529296875,
+            499.5043029785156
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            734.1061401367188,
+            129.22967529296875,
+            746.0613403320312
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1687,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            191.24310302734375,
+            129.22967529296875,
+            203.19830322265625
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            652.5911254882812,
+            129.22967529296875,
+            664.5463256835938
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            68.03099822998047,
+            370.0000915527344,
+            129.22967529296875,
+            381.9552917480469
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            361.3701171875,
+            129.22967529296875,
+            373.3253173828125
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            759.610107421875,
+            129.22967529296875,
+            771.5653076171875
+          ],
+          "next_heading_text": "Problem 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 5,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6",
+          "heading_bbox": [
+            68.03099822998047,
+            653.5131225585938,
+            129.22967529296875,
+            665.4683227539062
+          ],
+          "next_heading_text": "Problem 7",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 7,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7",
+          "heading_bbox": [
+            68.03099822998047,
+            732.2901611328125,
+            129.22967529296875,
+            744.245361328125
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1688,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            272.4231262207031,
+            129.22967529296875,
+            284.3783264160156
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            691.5591430664062,
+            129.22967529296875,
+            703.5143432617188
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            68.03099822998047,
+            455.8721008300781,
+            129.22967529296875,
+            467.8273010253906
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            432.2391052246094,
+            129.22967529296875,
+            444.1943054199219
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            764.2221069335938,
+            129.22967529296875,
+            776.1773071289062
+          ],
+          "next_heading_text": "Problem 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6",
+          "heading_bbox": [
+            68.03099822998047,
+            480.1871032714844,
+            129.22967529296875,
+            492.1423034667969
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1689,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            244.67710876464844,
+            129.22967529296875,
+            256.63232421875
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            719.5901489257812,
+            129.22967529296875,
+            731.5453491210938
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            68.03099822998047,
+            512.7001342773438,
+            129.22967529296875,
+            524.6553344726562
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            506.9621276855469,
+            129.22967529296875,
+            518.9173583984375
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            323.5671081542969,
+            129.22967529296875,
+            335.5223083496094
+          ],
+          "next_heading_text": "Problem 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6",
+          "heading_bbox": [
+            68.03099822998047,
+            706.0411376953125,
+            129.22967529296875,
+            717.996337890625
+          ],
+          "next_heading_text": "Problem 7",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7",
+          "heading_bbox": [
+            68.03099822998047,
+            265.2721252441406,
+            129.22967529296875,
+            277.2273254394531
+          ],
+          "next_heading_text": "Problem 8",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 8",
+          "heading_bbox": [
+            68.03099822998047,
+            706.0411376953125,
+            129.22967529296875,
+            717.996337890625
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1690,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (35 points). Refer to Figure 1.1. Balls a and b of masses ma and mb respectively are placed",
+          "heading_bbox": [
+            43.20001220703125,
+            226.52162170410156,
+            568.8063354492188,
+            268.29119873046875
+          ],
+          "next_heading_text": "Problem 2 (35 marks). Binary star systems are important observation targets for astronomers. We",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (35 marks). Binary star systems are important observation targets for astronomers. We",
+          "heading_bbox": [
+            43.199951171875,
+            491.7117004394531,
+            568.8706665039062,
+            590.3419189453125
+          ],
+          "next_heading_text": "Problem 3 (35 points). Children who are well acquainted with the playground swing can force the seat",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (35 points). Children who are well acquainted with the playground swing can force the seat",
+          "heading_bbox": [
+            43.19996643066406,
+            48.30262756347656,
+            568.8821411132812,
+            233.60768127441406
+          ],
+          "next_heading_text": "Problem 4 (35 points). Refer to Figure 4.1. A square wire loop abcd having uniform density, mass m,",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4 (35 points). Refer to Figure 4.1. A square wire loop abcd having uniform density, mass m,",
+          "heading_bbox": [
+            43.20001220703125,
+            121.02961730957031,
+            568.823486328125,
+            190.7687530517578
+          ],
+          "next_heading_text": "Problem 5 (35 points). Refer to Figure 5.1. A thin disc of radius R is placed in the xy-plane such that",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5 (35 points). Refer to Figure 5.1. A thin disc of radius R is placed in the xy-plane such that",
+          "heading_bbox": [
+            43.199951171875,
+            48.30262756347656,
+            568.8582153320312,
+            175.82472229003906
+          ],
+          "next_heading_text": "Problem 6 (35 points). Consider a capillary tube having length 6.00 cm, inner radius 0.500 mm, and",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6 (35 points). Consider a capillary tube having length 6.00 cm, inner radius 0.500 mm, and",
+          "heading_bbox": [
+            43.20000076293945,
+            48.30262756347656,
+            568.8232421875,
+            74.70381164550781
+          ],
+          "next_heading_text": "Problem 7 (35 points).",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7 (35 points).",
+          "heading_bbox": [
+            43.19990539550781,
+            287.9205627441406,
+            568.8687133789062,
+            343.2127990722656
+          ],
+          "next_heading_text": "Problem 8. A sample of gallium nitride on silicon (GaN/Si) was prepared by depositing a thin layer",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 8. A sample of gallium nitride on silicon (GaN/Si) was prepared by depositing a thin layer",
+          "heading_bbox": [
+            43.19999694824219,
+            235.19447326660156,
+            568.8555908203125,
+            261.5956726074219
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1691,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            333.9140930175781,
+            129.22967529296875,
+            345.8692932128906
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            631.59814453125,
+            129.22967529296875,
+            643.5533447265625
+          ],
+          "next_heading_text": "Problem 3 (15 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (15 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            420.902099609375,
+            193.72396850585938,
+            432.8572998046875
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            733.13916015625,
+            129.22967529296875,
+            745.0943603515625
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            69.35411071777344,
+            129.22967529296875,
+            81.3093032836914
+          ],
+          "next_heading_text": "Problem 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6",
+          "heading_bbox": [
+            68.03099822998047,
+            494.97509765625,
+            129.22967529296875,
+            506.9302978515625
+          ],
+          "next_heading_text": "Problem 7",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7",
+          "heading_bbox": [
+            68.03099822998047,
+            281.985107421875,
+            129.22967529296875,
+            293.9403076171875
+          ],
+          "next_heading_text": "Problem 8",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 8",
+          "heading_bbox": [
+            68.03099822998047,
+            314.4521179199219,
+            129.22967529296875,
+            326.4073181152344
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1692,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            249.9381103515625,
+            129.22967529296875,
+            261.893310546875
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            651.8441162109375,
+            129.22967529296875,
+            663.79931640625
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            68.03099822998047,
+            427.3481140136719,
+            129.22967529296875,
+            439.3033142089844
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            69.35411071777344,
+            129.22967529296875,
+            81.3093032836914
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            526.8461303710938,
+            129.22967529296875,
+            538.8013305664062
+          ],
+          "next_heading_text": "Problem 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6",
+          "heading_bbox": [
+            68.03099822998047,
+            430.673095703125,
+            129.22967529296875,
+            442.6282958984375
+          ],
+          "next_heading_text": "Problem 7",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7",
+          "heading_bbox": [
+            68.03099822998047,
+            692.4911499023438,
+            129.22967529296875,
+            704.4463500976562
+          ],
+          "next_heading_text": "Problem 8",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 8",
+          "heading_bbox": [
+            68.03099822998047,
+            287.91510009765625,
+            129.22967529296875,
+            299.87030029296875
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1693,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1",
+          "heading_bbox": [
+            68.03099822998047,
+            186.93011474609375,
+            129.22967529296875,
+            198.88531494140625
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            68.03099822998047,
+            597.6471557617188,
+            129.22967529296875,
+            609.6023559570312
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            68.03099822998047,
+            219.90110778808594,
+            129.22967529296875,
+            231.85630798339844
+          ],
+          "next_heading_text": "Problem 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4",
+          "heading_bbox": [
+            68.03099822998047,
+            347.24310302734375,
+            129.22967529296875,
+            359.19830322265625
+          ],
+          "next_heading_text": "Problem 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5",
+          "heading_bbox": [
+            68.03099822998047,
+            69.35411071777344,
+            129.22967529296875,
+            81.3093032836914
+          ],
+          "next_heading_text": "Problem 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6",
+          "heading_bbox": [
+            68.03099822998047,
+            69.35411071777344,
+            129.22967529296875,
+            81.3093032836914
+          ],
+          "next_heading_text": "Problem 7",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7",
+          "heading_bbox": [
+            68.03099822998047,
+            756.713134765625,
+            129.22967529296875,
+            768.6683349609375
+          ],
+          "next_heading_text": "Problem 8",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 8",
+          "heading_bbox": [
+            68.03099822998047,
+            526.0821533203125,
+            129.22967529296875,
+            538.037353515625
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1694,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (15 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            258.87310791015625,
+            193.72396850585938,
+            270.82830810546875
+          ],
+          "next_heading_text": "Problem 2 (15 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (15 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            432.6981201171875,
+            193.72396850585938,
+            444.6533203125
+          ],
+          "next_heading_text": "Problem 3 (25 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (25 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            730.0401611328125,
+            193.72396850585938,
+            741.995361328125
+          ],
+          "next_heading_text": "Problem 4 (20 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 4 (20 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            437.172119140625,
+            193.72396850585938,
+            449.1273193359375
+          ],
+          "next_heading_text": "Problem 5 (20 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 5 (20 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            69.35411071777344,
+            193.72396850585938,
+            81.3093032836914
+          ],
+          "next_heading_text": "Problem 6 (15 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 6 (15 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            539.067138671875,
+            193.72396850585938,
+            551.0223388671875
+          ],
+          "next_heading_text": "Problem 7 (15 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 7 (15 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            665.3931274414062,
+            193.72396850585938,
+            677.3483276367188
+          ],
+          "next_heading_text": "Problem 8 (15 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 8 (15 points)",
+          "heading_bbox": [
+            68.03099822998047,
+            572.3141479492188,
+            193.72396850585938,
+            584.2693481445312
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2545,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            574.0450439453125,
+            240.4462432861328,
+            588.3912353515625
+          ],
+          "next_heading_text": "Qu 2. Random walks",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Random walks",
+          "heading_bbox": [
+            116.20899963378906,
+            56.64105224609375,
+            245.41085815429688,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 3. The blast radius of The Gadget",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. The blast radius of The Gadget",
+          "heading_bbox": [
+            116.20899963378906,
+            56.64105224609375,
+            341.84454345703125,
+            70.99468994140625
+          ],
+          "next_heading_text": "Qu 4. The Pendulum",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. The Pendulum",
+          "heading_bbox": [
+            116.20899963378906,
+            56.64105224609375,
+            244.3349151611328,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2546,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            85.68744659423828,
+            167.8513946533203,
+            102.90284729003906
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2547,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93599700927734,
+            115.5588150024414,
+            167.8513946533203,
+            132.7742156982422
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            120.11799621582031,
+            55.43485641479492,
+            199.0334014892578,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            120.11799621582031,
+            55.43485641479492,
+            199.0334014892578,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            120.11799621582031,
+            55.43485641479492,
+            199.0334014892578,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2548,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            56.8692512512207,
+            246.50030517578125,
+            71.21544647216797
+          ],
+          "next_heading_text": "Qu 2. The Physics of Flight",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. The Physics of Flight",
+          "heading_bbox": [
+            88.93599700927734,
+            56.8692512512207,
+            262.2810974121094,
+            71.21544647216797
+          ],
+          "next_heading_text": "Qu 3. Colourful transparent materials",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Colourful transparent materials",
+          "heading_bbox": [
+            88.93599700927734,
+            56.8692512512207,
+            335.30322265625,
+            71.21544647216797
+          ],
+          "next_heading_text": "Qu 4. Light Bulbs and Fluorescence",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. Light Bulbs and Fluorescence",
+          "heading_bbox": [
+            88.93599700927734,
+            56.8692512512207,
+            316.72491455078125,
+            71.21544647216797
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2549,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            82.29145050048828,
+            167.8513946533203,
+            99.50685119628906
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2550,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93598937988281,
+            131.64183044433594,
+            167.8513946533203,
+            148.8572235107422
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 11,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2551,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            240.4462432861328,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 2. Energy Levels",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Energy Levels",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            213.6331787109375,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 3. Party balloons",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Party balloons",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            215.5985870361328,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 4. A Space Elevator",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. A Space Elevator",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            232.49842834472656,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2552,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            55.45545196533203,
+            417.2933044433594,
+            96.44984436035156
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2553,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93598937988281,
+            114.65189361572266,
+            167.8513946533203,
+            131.86729431152344
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 12,
+        "page_end": 14,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2554,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            240.4462432861328,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 2. Stellar Interiors",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Stellar Interiors",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            225.28233337402344,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 3. The Runner’s Pace Function",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. The Runner’s Pace Function",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            301.9341125488281,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 4. Cloud Physics",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. Cloud Physics",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            213.14541625976562,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2555,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            81.57447052001953,
+            167.8513946533203,
+            98.78987121582031
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2556,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93598937988281,
+            87.58182525634766,
+            167.8513946533203,
+            104.79722595214844
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 12,
+        "page_end": 15,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2557,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            270.74786376953125,
+            72.65025329589844
+          ],
+          "next_heading_text": "Qu 2. Proton Decay",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Proton Decay",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            234.06182861328125,
+            72.65025329589844
+          ],
+          "next_heading_text": "Qu 3. Orbits",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Orbits",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            182.27792358398438,
+            72.65025329589844
+          ],
+          "next_heading_text": "Qu 4. EM Waves",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. EM Waves",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            213.5410614013672,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2558,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93600463867188,
+            84.76285552978516,
+            167.85140991210938,
+            101.97825622558594
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2559,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93598937988281,
+            85.25186920166016,
+            167.8513946533203,
+            102.46726989746094
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 12,
+        "page_end": 13,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 6",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2560,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            270.74786376953125,
+            72.65025329589844
+          ],
+          "next_heading_text": "Qu 2. The Atmosphere & a Molecule",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. The Atmosphere & a Molecule",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            359.8204040527344,
+            72.65025329589844
+          ],
+          "next_heading_text": "Qu 3. Diffraction",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Diffraction",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            215.72743225097656,
+            72.65025329589844
+          ],
+          "next_heading_text": "Qu 4. Free Electron Model of Conduction in Metals",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 10,
+        "page_end": 14,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. Free Electron Model of Conduction in Metals",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            467.5889892578125,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2561,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2562,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93600463867188,
+            85.6668472290039,
+            167.85140991210938,
+            102.88224792480469
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 9,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 12,
+        "page_end": 13,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 14,
+        "page_end": 16,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 6",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2563,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General Questions",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            240.4462432861328,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 2. Mechanical Toy",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Mechanical Toy",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            223.97677612304688,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 3. Sisyphus’s Coffee",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Sisyphus’s Coffee",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            234.33474731445312,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 4. Stable Nuclei",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. Stable Nuclei",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            207.76560974121094,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2564,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2565,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93600463867188,
+            85.6668472290039,
+            167.85140991210938,
+            102.88224792480469
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": "Question 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 12,
+        "page_end": 14,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 6",
+          "heading_bbox": [
+            88.93599700927734,
+            55.43485641479492,
+            167.8513946533203,
+            72.65025329589844
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2566,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. General questions",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            237.26138305664062,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 2. Gravitational Waves",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Gravitational Waves",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            252.19573974609375,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 3. Phase Space Physics",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 8,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Phase Space Physics",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            250.99069213867188,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 4. Solar Sail",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. Solar Sail",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            186.26063537597656,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 5. Particle Physics",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 12,
+        "page_end": 14,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 5. Particle Physics",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            223.33123779296875,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2567,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            154.698974609375,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2568,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            88.93601989746094,
+            84.98004150390625,
+            154.69898986816406,
+            99.32624053955078
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            154.698974609375,
+            70.98725128173828
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            154.698974609375,
+            70.98725128173828
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            154.698974609375,
+            70.98725128173828
+          ],
+          "next_heading_text": "Question 6",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 10,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 6",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            154.698974609375,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2569,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1. Estimations and Ideas",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            262.38153076171875,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 2. Magnetoresistance",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2. Magnetoresistance",
+          "heading_bbox": [
+            88.93597412109375,
+            261.51702880859375,
+            241.35003662109375,
+            275.86322021484375
+          ],
+          "next_heading_text": "Qu 3. Radioactive Decay",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3. Radioactive Decay",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            240.130615234375,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 4. Elliptical Orbits",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4. Elliptical Orbits",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            226.11441040039062,
+            70.98725128173828
+          ],
+          "next_heading_text": "Qu 5. Thermal Properties of Ideal Gases",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 5. Thermal Properties of Ideal Gases",
+          "heading_bbox": [
+            88.93599700927734,
+            56.64105224609375,
+            336.9961853027344,
+            70.98725128173828
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2570,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1.",
+          "heading_bbox": [
+            71.99996948242188,
+            74.26614379882812,
+            142.27218627929688,
+            88.30217742919922
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2571,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2.",
+          "heading_bbox": [
+            72.1199722290039,
+            147.12802124023438,
+            142.39219665527344,
+            161.1640625
+          ],
+          "next_heading_text": "Question 3.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3.",
+          "heading_bbox": [
+            72.1199722290039,
+            74.28800201416016,
+            142.39219665527344,
+            88.32403564453125
+          ],
+          "next_heading_text": "Question 4.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4.",
+          "heading_bbox": [
+            71.99996948242188,
+            275.7679138183594,
+            142.27218627929688,
+            289.803955078125
+          ],
+          "next_heading_text": "Question 5.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5.",
+          "heading_bbox": [
+            72.1199722290039,
+            74.28800201416016,
+            441.8714904785156,
+            88.32403564453125
+          ],
+          "next_heading_text": "Question 6.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 6.",
+          "heading_bbox": [
+            72.00027465820312,
+            416.2878723144531,
+            441.7517395019531,
+            430.32391357421875
+          ],
+          "next_heading_text": "Question 7.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 7.",
+          "heading_bbox": [
+            72.00018310546875,
+            342.805908203125,
+            520.6393432617188,
+            527.4038696289062
+          ],
+          "next_heading_text": "Question 8.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 10,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 8.",
+          "heading_bbox": [
+            72.1199722290039,
+            74.28800201416016,
+            144.66944885253906,
+            88.32403564453125
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2572,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 1",
+          "heading_bbox": [
+            72.1199722290039,
+            688.9360961914062,
+            154.8089599609375,
+            704.8914184570312
+          ],
+          "next_heading_text": "Question 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 2",
+          "heading_bbox": [
+            72.1199722290039,
+            74.65632629394531,
+            154.8089599609375,
+            107.62616729736328
+          ],
+          "next_heading_text": "Question 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 3",
+          "heading_bbox": [
+            71.99996948242188,
+            74.53633117675781,
+            154.68894958496094,
+            90.49165344238281
+          ],
+          "next_heading_text": "Question 4",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 4",
+          "heading_bbox": [
+            72.1199722290039,
+            74.65632629394531,
+            154.8089599609375,
+            121.42615509033203
+          ],
+          "next_heading_text": "Question 5",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Question 5",
+          "heading_bbox": [
+            71.99996948242188,
+            105.25630187988281,
+            154.68894958496094,
+            121.21162414550781
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2575,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 1.",
+          "heading_bbox": [
+            65.39997100830078,
+            58.48828125,
+            114.4782943725586,
+            72.58214569091797
+          ],
+          "next_heading_text": "Qu 2.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 2.",
+          "heading_bbox": [
+            65.39997100830078,
+            58.48828125,
+            111.71829986572266,
+            72.58214569091797
+          ],
+          "next_heading_text": "Qu 3.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 3.",
+          "heading_bbox": [
+            65.27996826171875,
+            58.60833740234375,
+            111.33349609375,
+            72.70220184326172
+          ],
+          "next_heading_text": "Qu 4.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 4.",
+          "heading_bbox": [
+            65.27996826171875,
+            507.158447265625,
+            422.49298095703125,
+            575.1420288085938
+          ],
+          "next_heading_text": "Qu 5.",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Qu 5.",
+          "heading_bbox": [
+            65.27996826171875,
+            58.60833740234375,
+            113.85267639160156,
+            72.70220184326172
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 884,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            179.5399932861328,
+            63.46797180175781,
+            418.8699951171875,
+            90.57198333740234
+          ],
+          "next_heading_text": "Problem 2. Steam Engine (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Steam Engine (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            63.46797180175781,
+            562.008056640625,
+            104.3719711303711
+          ],
+          "next_heading_text": "Problem 3. Electron Paramagnetic Resonance (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Electron Paramagnetic Resonance (10.0 points)",
+          "heading_bbox": [
+            147.02000427246094,
+            63.46797180175781,
+            451.4200134277344,
+            76.7519760131836
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 886,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            179.58999633789062,
+            61.08796691894531,
+            418.8500061035156,
+            88.05196380615234
+          ],
+          "next_heading_text": "Problem 2. First estimate of the age of the Earth (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. First estimate of the age of the Earth (10.0 points)",
+          "heading_bbox": [
+            141.1699981689453,
+            61.08796691894531,
+            457.25,
+            74.3719711303711
+          ],
+          "next_heading_text": "Problem 3. Dirac's monopole (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Dirac's monopole (10.0 points)",
+          "heading_bbox": [
+            190.14999389648438,
+            61.08796691894531,
+            408.260009765625,
+            74.3719711303711
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 888,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            179.51998901367188,
+            59.088008880615234,
+            418.6800231933594,
+            89.3639907836914
+          ],
+          "next_heading_text": "Problem 2. Lagrange points (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems.",
+          "additional_language_versions": {
+            "Kazakh_offset_pages": 6,
+            "Russian_offset_pages": 12
+          }
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Lagrange points (10.0 points)",
+          "heading_bbox": [
+            192.9600067138672,
+            59.088008880615234,
+            405.0,
+            75.69600677490234
+          ],
+          "next_heading_text": "Problem 3. Geometric optics and photodetector (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems.",
+          "additional_language_versions": {
+            "Kazakh_offset_pages": 6,
+            "Russian_offset_pages": 12
+          }
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Geometric optics and photodetector (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            59.088008880615234,
+            562.199951171875,
+            130.6439666748047
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems.",
+          "additional_language_versions": {
+            "Kazakh_offset_pages": 6,
+            "Russian_offset_pages": 12
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 890,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            179.53929138183594,
+            62.97474670410156,
+            418.869384765625,
+            90.97482299804688
+          ],
+          "next_heading_text": "Problem 2. Fermi acceleration (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems.",
+          "additional_language_versions": {
+            "Kazakh": [
+              8,
+              9
+            ],
+            "Russian": [
+              16,
+              16
+            ]
+          }
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Fermi acceleration (10.0 points)",
+          "heading_bbox": [
+            36.00019454956055,
+            62.97474670410156,
+            562.0820922851562,
+            104.77365112304688
+          ],
+          "next_heading_text": "Problem 3. Magnetron (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems.",
+          "additional_language_versions": {
+            "Kazakh": [
+              10,
+              12
+            ],
+            "Russian": [
+              17,
+              18
+            ]
+          }
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Magnetron (10.0 points)",
+          "heading_bbox": [
+            36.00019454956055,
+            62.97474670410156,
+            562.2013549804688,
+            118.57443237304688
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems.",
+          "additional_language_versions": {
+            "Kazakh": [
+              13,
+              14
+            ],
+            "Russian": [
+              19,
+              20
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 892,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            194.75999450683594,
+            57.742584228515625,
+            419.4194030761719,
+            85.23199462890625
+          ],
+          "next_heading_text": "Problem 2. Greenhouse effect (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Greenhouse effect (10.0 points)",
+          "heading_bbox": [
+            186.36000061035156,
+            57.742584228515625,
+            428.2264709472656,
+            72.32543182373047
+          ],
+          "next_heading_text": "Problem 3. Corpuscular interpretation of light pressure (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Corpuscular interpretation of light pressure (10.0 points)",
+          "heading_bbox": [
+            113.04000091552734,
+            57.623191833496094,
+            501.3984375,
+            72.20528411865234
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 894,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            179.52000427246094,
+            93.96000671386719,
+            418.79998779296875,
+            140.00401306152344
+          ],
+          "next_heading_text": "Problem 2. Thermodynamics of one-component plasma (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Thermodynamics of one-component plasma (10.0 points)",
+          "heading_bbox": [
+            35.99993896484375,
+            58.97374725341797,
+            562.3201293945312,
+            188.24388122558594
+          ],
+          "next_heading_text": "Problem 3. Optical waveguide (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Optical waveguide (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            58.97374725341797,
+            562.321044921875,
+            133.04393005371094
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 896,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            33.887996673583984,
+            561.8099975585938,
+            80.0040054321289
+          ],
+          "next_heading_text": "Problem 2. Phase states and phase transitions (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Phase states and phase transitions (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            33.887996673583984,
+            565.6190185546875,
+            121.40396881103516
+          ],
+          "next_heading_text": "Problem 3. Ring in a magnetic field (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Ring in a magnetic field (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            33.887996673583984,
+            561.8099975585938,
+            66.76509094238281
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 898,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            179.5399932861328,
+            49.770328521728516,
+            418.8699951171875,
+            79.1520004272461
+          ],
+          "next_heading_text": "Problem 2. Conductors in an electric field (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Conductors in an electric field (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            49.770328521728516,
+            562.3960571289062,
+            120.57198333740234
+          ],
+          "next_heading_text": "Problem 3. Laser (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Laser (10.0 points)",
+          "heading_bbox": [
+            36.0,
+            49.770328521728516,
+            562.4199829101562,
+            229.77198791503906
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 900,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            200.7100067138672,
+            57.21727752685547,
+            439.9700012207031,
+            86.1319808959961
+          ],
+          "next_heading_text": "Problem 2 (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (10.0 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            57.21727752685547,
+            396.5,
+            256.33477783203125
+          ],
+          "next_heading_text": "Problem 3 (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (10.0 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            57.21727752685547,
+            396.5,
+            228.573974609375
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 901,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            200.7100067138672,
+            57.21727752685547,
+            439.9700012207031,
+            86.1319808959961
+          ],
+          "next_heading_text": "Problem 2 (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (10.0 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            57.21727752685547,
+            555.4420776367188,
+            144.31396484375
+          ],
+          "next_heading_text": "Problem 3 (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (10.0 points)",
+          "heading_bbox": [
+            249.22000122070312,
+            57.21727752685547,
+            391.94000244140625,
+            72.62671661376953
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 903,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10.0 points)",
+          "heading_bbox": [
+            200.7100067138672,
+            57.21727752685547,
+            439.9700012207031,
+            86.1319808959961
+          ],
+          "next_heading_text": "Problem 2. Equilibrium in terms of potential energy (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Equilibrium in terms of potential energy (10.0 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            412.0679931640625,
+            555.7821044921875,
+            482.97198486328125
+          ],
+          "next_heading_text": "Problem 3. Nonlinear capacitor (10.0 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Nonlinear capacitor (10.0 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            271.1072998046875,
+            555.9400024414062,
+            328.3719787597656
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 905,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1. Plotting (7 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            77.16798400878906,
+            555.927978515625,
+            131.76197814941406
+          ],
+          "next_heading_text": "Problem 2. Vessel with water (7 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2. Vessel with water (7 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            383.26800537109375,
+            555.9400024414062,
+            634.2219848632812
+          ],
+          "next_heading_text": "Problem 3. Delay and attenuation (16 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3. Delay and attenuation (16 points)",
+          "heading_bbox": [
+            84.98400115966797,
+            119.19795227050781,
+            555.916015625,
+            159.8419952392578
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 907,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10 points)",
+          "heading_bbox": [
+            180.9672088623047,
+            54.77373504638672,
+            460.23687744140625,
+            105.94950103759766
+          ],
+          "next_heading_text": "Problem 2 Jet propulsion  (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 Jet propulsion  (10 points)",
+          "heading_bbox": [
+            85.08000183105469,
+            607.9737548828125,
+            555.7196044921875,
+            778.4039916992188
+          ],
+          "next_heading_text": "Problem 3 Metamaterials   (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 Metamaterials   (10 points)",
+          "heading_bbox": [
+            205.67758178710938,
+            178.4937744140625,
+            435.52642822265625,
+            214.0009307861328
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 909,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10 points)",
+          "heading_bbox": [
+            180.97999572753906,
+            57.210330963134766,
+            460.33001708984375,
+            105.05259704589844
+          ],
+          "next_heading_text": "Problem 2 (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (10 points)",
+          "heading_bbox": [
+            85.10399627685547,
+            57.210330963134766,
+            440.4700012207031,
+            161.25196838378906
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            85.10399627685547,
+            57.210330963134766,
+            555.8079833984375,
+            119.68794250488281
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 910,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10 points)",
+          "heading_bbox": [
+            85.08000183105469,
+            54.77373504638672,
+            556.4114990234375,
+            782.0302734375
+          ],
+          "next_heading_text": "Problem 2",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2",
+          "heading_bbox": [
+            85.08000183105469,
+            54.77373504638672,
+            556.379150390625,
+            782.0302734375
+          ],
+          "next_heading_text": "Problem 3",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3",
+          "heading_bbox": [
+            85.08000183105469,
+            54.77373504638672,
+            555.630615234375,
+            782.0302734375
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 912,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10 points)",
+          "heading_bbox": [
+            180.9672088623047,
+            54.77373504638672,
+            460.23687744140625,
+            105.94950103759766
+          ],
+          "next_heading_text": "Problem 2 (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (10 points)",
+          "heading_bbox": [
+            85.08000183105469,
+            661.9591674804688,
+            452.0571594238281,
+            710.9759521484375
+          ],
+          "next_heading_text": "Problem 3 (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (10 points)",
+          "heading_bbox": [
+            85.08000183105469,
+            432.29376220703125,
+            386.6672668457031,
+            480.8039855957031
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 914,
+    "boundary_evidence": "Reviewed cached top-level source headings, sequential numbering and cover instructions; decimal and lettered subparts excluded. Only boundary inventory reviewed, physics remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 1 (10 points)",
+          "heading_bbox": [
+            85.08000183105469,
+            54.77373504638672,
+            442.5348815917969,
+            118.28397369384766
+          ],
+          "next_heading_text": "Problem 2 (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 2 (10 points)",
+          "heading_bbox": [
+            221.27999877929688,
+            96.17375946044922,
+            420.0302429199219,
+            131.8051300048828
+          ],
+          "next_heading_text": "Problem 3 (10 points)",
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Problem 3 (10 points)",
+          "heading_bbox": [
+            213.24000549316406,
+            106.85375213623047,
+            431.4356689453125,
+            142.36512756347656
+          ],
+          "next_heading_text": null,
+          "boundary_note": "Source top-level numbered heading; all internal decimal/lettered parts remain grouped. Shared-page heading anchors delimit neighboring problems."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 885,
+    "boundary_evidence": "Cover explicitly states one experimental problem; Parts 1-4 are internal stages. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Torsion: Construction of the Potential Curve",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; Parts 1-4 are internal stages."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 887,
+    "boundary_evidence": "Cover explicitly states one experimental problem; industrial and homemade cells are stages of the one experiment. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "experimental",
+        "title": "Galvanic cells",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; industrial and homemade cells are stages of the one experiment."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 889,
+    "boundary_evidence": "Cover states one problem. Physical PDF includes the same experiment in three languages; no duplicate screening units. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Superposition of oscillations",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover states one problem. Physical PDF includes the same experiment in three languages; no duplicate screening units.",
+          "additional_language_versions": {
+            "Kazakh": [
+              6,
+              8
+            ],
+            "Russian": [
+              10,
+              12
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 895,
+    "boundary_evidence": "One titled computer experiment with numbered internal modeling/measurement steps. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 1,
+        "page_end": 3,
+        "format": "experimental",
+        "title": "A mathematical pendulum or what angle can be considered rather small ...",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "One titled computer experiment with numbered internal modeling/measurement steps."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 897,
+    "boundary_evidence": "Cover explicitly states one experimental problem; motion down/up are internal stages. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "experimental",
+        "title": "Maxwell’s Disc",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; motion down/up are internal stages."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 899,
+    "boundary_evidence": "Cover explicitly states one experimental problem; photodetector calibration and absorption measurement remain grouped. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Absorption of light",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; photodetector calibration and absorption measurement remain grouped."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 902,
+    "boundary_evidence": "Cover explicitly states one experimental problem; small/large twists are internal stages. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "experimental",
+        "title": "Torsion pendulum",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; small/large twists are internal stages."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 904,
+    "boundary_evidence": "Cover explicitly states one experimental problem. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "experimental",
+        "title": "Coal tablet",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 906,
+    "boundary_evidence": "Cover explicitly states one experimental problem; temperature dependence and cooling remain grouped. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "experimental",
+        "title": "Resistance of graphite",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; temperature dependence and cooling remain grouped."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 908,
+    "boundary_evidence": "Cover explicitly states one experimental problem; interaction measurements are internal stages. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "experimental",
+        "title": "Magnetic interactions",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; interaction measurements are internal stages."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 911,
+    "boundary_evidence": "Cover explicitly states one experimental problem; geometry and electrode-distance investigations remain grouped. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Electric currents in volume",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; geometry and electrode-distance investigations remain grouped."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 913,
+    "boundary_evidence": "Cover explicitly states one experimental problem; internal theoretical and measured stages remain grouped. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Deformation, Hysteresis, and Bistability",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; internal theoretical and measured stages remain grouped."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 915,
+    "boundary_evidence": "Cover explicitly states one experimental problem; different rod-diameter tests remain grouped. Boundary inventory only; scope decision remains pending.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "experimental",
+        "title": "Slow motion",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly states one experimental problem; different rod-diameter tests remain grouped."
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 893,
+    "boundary_evidence": "Cover explicitly states two problems; Experiment 1 precedes Experiment 2: Rolling friction on page 3. Internal numbered steps are not separate problems.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "experimental",
+        "location": {
+          "heading_text": "Experiment 1",
+          "boundary_note": "Includes experiment introduction and table on page 2."
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Rolling friction",
+        "location": {
+          "heading_text": "Experiment 2: Rolling friction"
+        }
+      }
+    ]
+  }
+]

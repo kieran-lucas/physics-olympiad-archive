@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::dfc13c25a5078678::6390::1",
+      "KEEP",
+      "I_force_motion;VI_electric_field",
+      "Buoyancy/volume displacement and Coulomb energy",
+      "Both numbered-1 parts are ordinary general physics: melting floating ice and slow charged-particle separation.",
+      "Complete scanned BAUPC 1997 Problem 1 text visually read on file 3172 page(s) 1-1; referenced figures checked for actual presence. ",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::dfc13c25a5078678::6390::2",
+      "KEEP",
+      "I_force_motion;VII_magnetic_field",
+      "Lorentz force and explicitly supplied linear drag",
+      "The spiral limit follows Newtonian charged-particle motion; damping is defined in the statement.",
+      "Complete scanned BAUPC 1997 Problem 2 text visually read on file 3172 page(s) 1-1; referenced figures checked for actual presence. ",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::dfc13c25a5078678::6390::3",
+      "KEEP",
+      "I_force_motion",
+      "Rigid-body energy, moving centre of mass and loss of wall contact",
+      "The falling frictionless stick uses force/torque and mechanical-energy conservation.",
+      "Complete scanned BAUPC 1997 Problem 3 text visually read on file 3172 page(s) 2-2; referenced figures checked for actual presence. ",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::dfc13c25a5078678::6390::4",
+      "KEEP",
+      "I_force_motion",
+      "Elastic impacts, rigid-body inertia and geometric mass limits",
+      "The successive sticks use supplied inertia and elastic-collision assumptions; the limiting sequence is mathematical.",
+      "Complete scanned BAUPC 1997 Problem 4 text visually read on file 3172 page(s) 2-2; referenced figures checked for actual presence. ",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::dfc13c25a5078678::6390::5",
+      "KEEP",
+      "I_force_motion",
+      "Circular-motion force balance and rolling angular momentum",
+      "Both cone particle and rolling ring are within force/motion and rigid-body dynamics.",
+      "Complete scanned BAUPC 1997 Problem 5 text visually read on file 3172 page(s) 3-3; referenced figures checked for actual presence. ",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::dfc13c25a5078678::6390::6",
+      "KEEP",
+      "I_force_motion",
+      "Repeated elastic collisions and conservation of energy",
+      "The heavy block/light particle approach uses collision momentum and the explicitly permitted small mass-ratio approximation.",
+      "Complete scanned BAUPC 1997 Problem 6 text visually read on file 3172 page(s) 4-4; referenced figures checked for actual presence. ",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

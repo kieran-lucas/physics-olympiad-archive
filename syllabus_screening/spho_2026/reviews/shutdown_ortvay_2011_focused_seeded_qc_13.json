@@ -1,0 +1,54 @@
+[
+  {
+    "screening_unit_id": "raw::5842",
+    "detail": "Focused context/model review: complete Q14 p3 reread. Cherenkov cone is described, and the task only requests planar wavefront shape for a circular path. Envelopes of ordinary fronts with material speed c give the curves. No microscopic emission coefficient or relativistic velocity transformation is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5845",
+    "detail": "Focused elasticity scope review: full Q17 p4 reopened. Scalar Hooke law names linear response but does not operationally supply the isotropic tensor strain/stress law and Poisson coefficient or elastic equilibrium PDE needed for a solid-sphere displacement field. This is a distributed continuum deformation, unlike ordinary axial rod/spring compression. REJECT confirmed under established elasticity boundary, not because of rotational speed or difficult mathematics."
+  },
+  {
+    "screening_unit_id": "raw::5848",
+    "detail": "Focused emitter versus material prerequisite review: all Q20 p4 reread. Resonant disk supplies the oscillating aperture; requested axial zeros/intensity and diameter follow coherent wave superposition and path difference. Piezoelectric electromechanical constitutive derivation is not requested. KEEP confirmed with piston-source idealization noted."
+  },
+  {
+    "screening_unit_id": "raw::5855",
+    "detail": "Focused whole-problem review: all Q27 p5 reread. Newtonian ring force and finite-amplitude period are meaningful conventional work. The final general-parameter energy spectrum expressly invokes unprovided Bohr-Sommerfeld rules, beyond simply using atomic circular-orbit Bohr quantization. Mixed work remains near boundary. BORDERLINE confirmed without splitting."
+  },
+  {
+    "screening_unit_id": "raw::5856",
+    "detail": "Focused foundational atomic-model review: entire Q28 p5 reread. It asks only positronium size relative to hydrogen. Coulomb two-body reduced mass and conventional Bohr angular-momentum quantization determine radius; annihilation lifetime is context. KEEP confirmed; it is distinct from Q34 spectroscopy."
+  },
+  {
+    "screening_unit_id": "raw::5857",
+    "detail": "Focused supplied-spectrum versus state-count review: full Q29 p5 reread. E= hbar*omega*(2n+l+3/2) is actually given, so no quantum eigenproblem is required. But n/l/m domains, spin occupancy and magic-number definition are not explicitly given; different degeneracy conventions change counts. Substantial combinatorics remains ordinary mathematics after those conventions. BORDERLINE confirmed, not blanket quantum-spectrum rejection."
+  },
+  {
+    "screening_unit_id": "raw::5862",
+    "detail": "Focused review changed this newly saved REJECT to BORDERLINE. Complete Q34 p6 reopened: no relativistic/high-speed atom regime is specified. A slow-atom Doppler-broadened annihilation line can use foundational wave/nuclear physics, while exact fast-atom transformation uses outside SR. Speed distribution/ensemble is also absent. The first reason assumed the fast exact model was necessarily required; that assumption was not source-grounded. BORDERLINE records the actual ambiguity. Change documented separately; original pass-one event preserved and no earlier decisions/rubric changed."
+  },
+  {
+    "screening_unit_id": "raw::5866",
+    "detail": "Focused supplied-dispersion review: full Q38 p7 and both processes reread. Complete species E(p) relations and speed inequalities are written. Thresholds follow minimizing final energy under vector momentum conservation, using triangle/collinearity conditions and small-delta expansion. No boost, proper time, weak-decay amplitude or QFT loop law is needed. KEEP confirmed for both numbered clauses together."
+  },
+  {
+    "screening_unit_id": "raw::5868",
+    "detail": "Focused supplied toy/data review: full Q40 p8 equation/three clauses reopened. Expected log utility with wealth recursion and stated zero-profit-plus-margin annuity defines mathematical optimization. Real mortality weights are available in the original CDC-linked portal; preserved US 2007 report existed before the contest and total-population ages including 100+ were actually inspected. No real financial advice/model is assumed. KEEP confirmed with table choice/payment timing/margin documented."
+  },
+  {
+    "screening_unit_id": "raw::5870",
+    "detail": "Focused supplied climate-model review: all Q42 p9 and figure reread. Blackbody Earth, explicit transparent-shortwave/absorbing-longwave reradiating layer, solar constant and contestant-selected albedo define the complete toy physics. Radiation balance and derivative stability suffice; no cloud microphysics or actual climate prediction law is imported. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5863",
+    "detail": "Experimental format QC: whole Q35 p7 reread. Material and carving method are free choices, with measurable controllability and atom count as criteria. Repeated mechanical subdivision and ordinary mass/density/Avogadro calibration are legitimate solutions; advanced atomic manipulation is not required by the text. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5864",
+    "detail": "Seeded QC (Random 2026100412, first selection): complete gas-escape task p7 reread. General velocity flux through a small aperture and declared well-mixed isotropic effusion produce a hazard conditional on speed; fixed speed permits exponential survival in that model. Collisionless billiard-memory alternatives are not uniquely excluded and are recorded as source-model limits, not a specialized prerequisite. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5843",
+    "detail": "Seeded QC (Random 2026100412, second selection): entire chain/delayed-boundary task p3 reread. Newtonian spring equations with the explicitly supplied time-shift constraint give a frequency-dependent phase/eigencondition. Complex/unstable modes and nonstandard orthogonality are mathematical consequences of that stipulated boundary. KEEP confirmed."
+  }
+]

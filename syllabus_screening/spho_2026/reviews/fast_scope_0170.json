@@ -1,0 +1,12 @@
+[
+  {
+    "screening_unit_id": "derived::05b58ff9ccf3d4d5::embedded::E2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied spin-lattice simulator; magnetization, hysteresis, critical-temperature graphs and uncertainty",
+    "decision_reason": "KEEP: model and simulator calculations supplied; tasks are magnetic measurements and data analysis.",
+    "evidence": "Full actual statement pp5-7 and shared introduction pp1-3 read; rendered E1/E2 headers pp4-5 confirm separate experiments. Includes all C1-C4, D1, E1-E3.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  }
+]

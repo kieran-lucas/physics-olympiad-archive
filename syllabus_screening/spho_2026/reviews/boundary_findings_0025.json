@@ -1,0 +1,205 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0025.json",
+  "papers": [
+    {
+      "file_id": 2517,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Isothermal atmosphere. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2519,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Spinning sphere in hole. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2522,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Spring between capacitor plates. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2524,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Optical fiber. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2525,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Elastic deformation and beam, internal Parts A-C; p3 footer. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2527,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Rocket-nozzle gas flow, internal Parts A-D; p2 footer. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2529,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Internal Parts A-C modified Newtonian dynamics/relativity; known original A2 truncation retained and previously reviewed; p2 tags/footer. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2530,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Photoactive membrane-protein model, internal Parts A-E; p5 footer. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2531,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Real gas/Joule-Thomson, internal Parts A-E. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2532,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Pendulum near dielectric. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2536,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Polyatomic gas process. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2537,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Capacitor charge. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2538,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Quartz polarization, internal Parts A-B; p2 tags/footer. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2539,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Phase transition/osmosis, internal Parts A-B. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2541,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Wedge and block. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2542,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Electrical pulses, internal Parts A-D. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2543,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Orbiting rocket. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2546,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Guided mechanical component. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2547,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Solenoid-capacitor. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2548,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Gas polytrope, internal Parts A-B. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2549,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Glass prism. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2550,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Two-capacitor two-resistor circuit. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2551,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Solar orbit spacecraft. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2552,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Inverse Compton photon-electron. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2553,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Two-capacitor inductive circuit. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2556,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. HCl molecular oscillations, internal Parts A-B. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2557,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Molecular interaction model. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2558,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Thermal decoy. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2560,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Tropical cyclone; known equivalence with source2571 retained. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2561,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Fixed electric dipole. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2562,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Solar formation model. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2563,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Ideal-gas processes. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2564,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. LC circuit. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2565,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Soliton supplied model. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2567,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Membrane/diffusion model, internal Parts A-B. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2568,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Three connected weights. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2569,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Satellite orbit. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2571,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Tropical cyclone, internal Parts A-B; already recorded alias of source2560, not a newly discovered unique problem. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2572,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Blocks on inclined plane. One top-level problem; no omitted independent statement."
+    },
+    {
+      "file_id": 2573,
+      "observed_units": 1,
+      "evidence": "Every physical page boundary manually inspected in cached packet; full actual statement inspection already persisted and reused. Charged beads on loop. One top-level problem; no omitted independent statement."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-04T04:18:45.724368+00:00",
+  "source_url": "http://ortvay.elte.hu/1998/roland.jpg",
+  "requested_url": "https://ortvay.elte.hu/1998/roland.jpg",
+  "final_url": "https://ortvay.elte.hu/1998/roland.jpg",
+  "status_code": 200,
+  "content_type": "image/jpeg",
+  "bytes": 219847,
+  "dimensions": [
+    1124,
+    1705
+  ],
+  "local_path": "references\\ortvay_1998_q35_roland_original.jpg",
+  "sha256": "4ba6dd7294373c9a08c729b9143bd6cd81c87c7450675c97e1356188d6f9b3e3",
+  "validation": "Original JPEG decoded and visually inspected; notch/hikers/perspective limitations recorded."
+}

@@ -1,0 +1,2338 @@
+[
+  {
+    "source_problem_id": 1679,
+    "boundary_evidence": "2022 theoretical cover states three problems. Titled Take Five, Chain Reaction and Lego Movie are the top-level units; explicitly unrelated numbered parts remain internal. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": "Take Five",
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "2022 theoretical cover states three problems. Titled Take Five, Chain Reaction and Lego Movie are the top-level units; explicitly unrelated numbered parts remain internal.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "title": "Chain Reaction",
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "2022 theoretical cover states three problems. Titled Take Five, Chain Reaction and Lego Movie are the top-level units; explicitly unrelated numbered parts remain internal.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "title": "Lego Movie",
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "2022 theoretical cover states three problems. Titled Take Five, Chain Reaction and Lego Movie are the top-level units; explicitly unrelated numbered parts remain internal.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1680,
+    "boundary_evidence": "Cover explicitly says single simulation-based lab. Disk-wall and disk-disk measurements are internal stages. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 1,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "The Future Circular Collider",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Cover explicitly says single simulation-based lab. Disk-wall and disk-disk measurements are internal stages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1681,
+    "boundary_evidence": "2021 USAPhO+ Question 1, Question 2 and Question 3 source headings verified. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "2021 USAPhO+ Question 1, Question 2 and Question 3 source headings verified.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "2021 USAPhO+ Question 1, Question 2 and Question 3 source headings verified.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 8,
+        "page_end": 10,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "2021 USAPhO+ Question 1, Question 2 and Question 3 source headings verified.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 891,
+    "boundary_evidence": "Rendered 2023 experimental cover says one problem. Fourier spectrometer stages 1-4 are internal. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "E",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "experimental",
+        "title": "Fourier spectrometer",
+        "location": {
+          "source_label_present": false,
+          "boundary_note": "Rendered 2023 experimental cover says one problem. Fourier spectrometer stages 1-4 are internal.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2593,
+    "boundary_evidence": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "All scanned pages visually inspected for Q1-Q8. Page 12 is blank; Q1 general lettered parts remain one problem.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2595,
+    "boundary_evidence": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Scanned cover explicitly says eight questions; all Q1-Q8 headings visually verified. Archive 2007 exam date and printed 2008 competition label both retained in provenance.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 3996,
+    "boundary_evidence": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Rendered Taiwan 2015 cover states six grand questions; Chinese labels 一 through 六 verified. Prefatory formula list excluded; all internal lettered parts retained.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 3997,
+    "boundary_evidence": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Chinese first-level headings 一 through 六 verified in embedded text; internal numbered tasks remain grouped.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1696,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "七",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "八",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1697,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "short_answer",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "七",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      },
+      {
+        "number": "八",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            22
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1698,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "short_answer",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      },
+      {
+        "number": "七",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            8,
+            16
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1699,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 3,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      },
+      {
+        "number": "七",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            7,
+            21
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1700,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      },
+      {
+        "number": "七",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            20
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1701,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1702,
+    "boundary_evidence": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed first-level source question headings across the statement section. Subsequent reference-solution headings are not new units. The source grand fill-in problem retains its internal numbered parts, consistently with British general-question bundles.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4074,
+    "boundary_evidence": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "10",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "11",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "12",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "13",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "14",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "15",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "16",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "17",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "18",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "19",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "20",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "21",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "22",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "23",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "24",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "25",
+        "page_start": 14,
+        "page_end": 14,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "26",
+        "page_start": 14,
+        "page_end": 14,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "27",
+        "page_start": 15,
+        "page_end": 15,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "28",
+        "page_start": 15,
+        "page_end": 15,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "29",
+        "page_start": 16,
+        "page_end": 16,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "30",
+        "page_start": 16,
+        "page_end": 16,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4075,
+    "boundary_evidence": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "10",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "11",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "12",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "13",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "14",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "15",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "16",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "17",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "18",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "19",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "20",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "21",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "22",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "23",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "24",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "25",
+        "page_start": 14,
+        "page_end": 14,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "26",
+        "page_start": 14,
+        "page_end": 14,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "27",
+        "page_start": 15,
+        "page_end": 15,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "28",
+        "page_start": 15,
+        "page_end": 15,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "29",
+        "page_start": 16,
+        "page_end": 16,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "30",
+        "page_start": 16,
+        "page_end": 16,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Reviewed two-column source numbering: questions 1-30, two per physical page 2-16. Parallel text-column reading order does not change question numbers; parameters/figures still require visual physics review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4079,
+    "boundary_evidence": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions. This is a boundary inventory, not a physics decision.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "10",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "11",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "12",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "13",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "14",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "15",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "16",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "17",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "18",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "19",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "20",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "21",
+        "page_start": 14,
+        "page_end": 14,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "22",
+        "page_start": 14,
+        "page_end": 14,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "23",
+        "page_start": 15,
+        "page_end": 15,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "24",
+        "page_start": 16,
+        "page_end": 16,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "25",
+        "page_start": 16,
+        "page_end": 16,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "26",
+        "page_start": 17,
+        "page_end": 17,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "27",
+        "page_start": 17,
+        "page_end": 17,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "28",
+        "page_start": 18,
+        "page_end": 18,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "29",
+        "page_start": 19,
+        "page_end": 19,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "30",
+        "page_start": 20,
+        "page_end": 20,
+        "format": "multiple_choice",
+        "title": null,
+        "location": {
+          "source_label_present": true,
+          "boundary_note": "Korean 2016 original explicitly has 【문제1 】 through 【문제30 】; spaces before closing brackets are source formatting, not missing questions.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "screening_unit_id": "raw::5937",
+    "detail": "Focused radiation/orbit review: entire narrative p2 reread. Net emitted light carries momentum P/c; torque-free spinning averages the direction of recoil. Newton perturbations around the Moon account for two-day displacement with declared torch mass/inertia and beam profile. Those estimate inputs are source limitations, not an unsupplied alien/SR model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5938",
+    "detail": "Focused source/method review: whole ISS task p3 reread. Its actual text describes changing frequencies of visible bright passes; no tabulated series is printed or recovered from the temporary-unavailable portal. Orbital plane versus Sun/Earth-shadow geometry, terrestrial rotation and ordinary Newtonian nodal perturbations model the pattern at declared parameters. No precise historical counts claimed. KEEP confirmed for its theoretical physics, with missing epoch inputs explicit."
+  },
+  {
+    "screening_unit_id": "raw::5944",
+    "detail": "Focused whole-prism review: complete p4 reread. Static compression mg/k and impact maximum from k*x^2/2=mg*(h+x) use k=EA/l. Free lateral surfaces leave the axial E law adequate; extra Poisson qualification depends on side constraint. Main physical work is ordinary compression/energy, and the brief caveat does not demand a full unprovided tensor boundary solution. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5945",
+    "detail": "Focused mode-boundary review: full welded-cylinder Q9 p4 reread. Longitudinal displacement and axial stress continuity give an accessible composite-string-like spectrum. The text does not actually restrict to longitudinal waves or declare end/rim conditions, and a complete elastic-body mode spectrum requires the excluded bending/3D model. Consistent with the previously ambiguous struck-rod boundary, BORDERLINE retained rather than guessing axial-only intent."
+  },
+  {
+    "screening_unit_id": "raw::5947",
+    "detail": "Focused elastic-wave scope review: whole normal-incidence layer Q11 p4 reread. Each polarization separately is a scalar plane wave with displacement and traction continuity; Z=rho*c and phase kD determine its transmission. Density and polarization-specific speeds may stay parameters. This is standard wave/interface matching, unlike a demanded finite-solid deformation or flexural dispersion derivation. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5948",
+    "detail": "Focused low-frequency estimate review: both sound/box requests p4 reread. Emitted power fixes pressure amplitude through spherical acoustic impedance; opposite-face phase difference reduces net force when box size is below wavelength. Driven mass response can retain mass/damping/size symbolically. Air-wave continuity and Newton compressibility are conventional sound foundations, not a specialized turbulent/viscous-film model. KEEP confirmed with near/far-field assumptions explicit."
+  },
+  {
+    "screening_unit_id": "raw::5950",
+    "detail": "Focused layered-wave model review: all Q14 p5 reread. Longitudinal wave propagation matrices and stress/velocity matching multiply across the specified finite AB stack and B half-spaces. Independent densities are required for impedance and are not encoded by speeds alone; retain them parametrically. No quantum band or tensor-solid prerequisite is introduced. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5960",
+    "detail": "Focused accelerator supplied-model review: all Q24 p7 reread including its final useful remark. Lorentz transverse force per unit path is charge*B/p; thin quadrupoles, drift and curvature linearization give the matrices. That explicitly authorized nonrelativistic momentum derivation also applies at high momentum. No unsupplied energy-velocity Lorentz relation is needed to answer in p. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5961",
+    "detail": "Focused superconducting-context review: complete copper and quench parts p8 reread. Both source resistance regimes are given. Ordinary Joule heating and Fourier conduction define C*T_t=kappa*T_xx+J^2*rho(T); the travelling coordinate reduces it to matching ordinary ODEs. Superconducting microscopics are bypassed by the explicitly stated step resistance. KEEP confirmed with finite area/current density and material constants retained."
+  },
+  {
+    "screening_unit_id": "raw::5962",
+    "detail": "Focused radiation-entropy review: entire two-star problem p8 reread. Blackbody fluxes supply a weighted sum of T^4; reversible radiation thermodynamics with U proportional to V*T^4 and p=U/(3V) gives S=4U/(3T). Photon pressure is ordinary radiation momentum within the explicit light domain. The supplied entropy ratio then fixes the temperatures. No stellar-plasma/quantum occupation machinery is centrally required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5963",
+    "detail": "Focused classical stipulation review: complete miniature-black-hole task p8 reread. Newtonian motion can use the explicitly classical gravitational model; a point mass with purely conservative encounters does not itself absorb passing matter. Capture/growth requires an unprovided absorbing boundary or dissipative prescription. The statement may intend a toy accretor or a realistic horizon. BORDERLINE retained without ignoring the classical stipulation or inventing horizon radius."
+  },
+  {
+    "screening_unit_id": "raw::5964",
+    "detail": "Focused partial-rate-model review: full Q28 p8 reread. Given kon*c and koff determine zero-force growth only. A frictionless obstacle pressed against the end needs a thermal gap distribution/diffusion equilibration or other force-dependent reaction law to permit insertion; none is stated. Even its temperature/time-scale model is absent. Specialized Brownian-ratchet kinetics is the central dependency for force-dependent speed/stall, so REJECT confirmed rather than rejecting biological vocabulary."
+  },
+  {
+    "screening_unit_id": "raw::5966",
+    "detail": "Focused muon supplied-distribution review: whole Q30 p9 reread. For spin direction s and electron direction n, given a+b*s dot n averages to a when mean s=0; paired opposite spins cancel the cosines. The story does not request deriving a,b from weak interactions. Whole task KEEP confirmed from supplied angular probability and rotational geometry."
+  },
+  {
+    "screening_unit_id": "raw::5967",
+    "detail": "Focused full PDE review: intact actual p9 eigen-equation and product ansatz reopened. Minus divergence of (mu-V)*gradient divided by mass is completely supplied, as are a,b,c and integer/alpha labels. Differentiation and coefficient/pole cancellation determine omega and theta conditions. Condensate support is the ellipsoid where mu-V is positive; normal regularity is mathematical. No Bose occupation model is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5968",
+    "detail": "Focused nuclear/diffusion review: complete Q32 p9 reread. Local number conservation with ordinary Fick flux and decay rate ln(2)/3.8 days gives D*laplacian(n)-lambda*n+q=0. A freely escaping spherical boundary and integrated lambda*n/q activity give alpha as a dimensionless function of R*sqrt(lambda/D), inverted for the three examples. Gamma detector modelling is not asked. KEEP confirmed; surface assumption remains explicit."
+  },
+  {
+    "screening_unit_id": "raw::5971",
+    "detail": "Focused incomplete-supplied-model review: full Q35 p10 reread. It supplies Hawking temperature proportional to inverse mass, but not absorbing/emitting area or capture cross section. Mass evolution would still contain an unknown function A(M); deriving its M^2 scaling and realistic normalization needs unsupplied horizon/gravitational relations. These set every limiting exponent and transition. REJECT confirmed, preserving the supplied-temperature distinction."
+  },
+  {
+    "screening_unit_id": "raw::5957",
+    "detail": "Seeded QC (Random 2026100415 first selection): Q21 p6 and resistor drawing reopened. Four resistors on each rail and four rungs implement the N=4 ladder; identify 1 with4 and2 with3. Ohm/Kirchhoff network inversion works at arbitrary nodes including degenerate N=1/2. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5970",
+    "detail": "Seeded QC (Random 2026100415 second selection): entire statistics task p10 reread. Independent-bin maximum gives 1-[1-p(s1)]^K; Poisson splitting makes two independent half-mean sets and hence 2K searched bins for part b. Conventional Gaussian/Poisson tails set thresholds. Quoted p-value/posterior wording and one/two-tail mismatch are source-quality issues, not outside physics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5941",
+    "detail": "Experimental format QC: all spare-wheel bicycle instructions p3 reread. Counterspin cancels angular momentum but not contact geometry or rider-controlled lean/steering torque. Source explicitly permits a theoretical model instead of construction. Ordinary Newtonian rigid dynamics suffices, so KEEP confirmed without blanket assumptions about bicycle stability."
+  },
+  {
+    "screening_unit_id": "raw::5949",
+    "detail": "Experimental design QC: complete tube/rigid-box sound-trap request p5 reread. Air compressibility and column inertance set a Helmholtz frequency; acoustic antinode placement and ordinary loss mechanisms provide a practical narrowband absorber. A perfectly lossless model does not damp energy, which is recorded rather than silently assumed. KEEP confirmed as apparatus design using general gas/oscillation physics."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "screening_unit_id": "raw::942",
+    "detail": "Seed 2026100402 content QC: Wakeboard force is expressly normal and static buoyancy is specified; ordinary component balance suffices. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::936",
+    "detail": "Seed 2026100402 content QC: The penetration-depth relation is supplied in the statement. Scaling impact work with kinetic energy requires no material-impact theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1017",
+    "detail": "Seed 2026100402 content QC: The source yo-yo figure and changing string radius specify the kinematic constraint; ordinary rotational energy determines acceleration. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1014",
+    "detail": "Seed 2026100402 content QC: The thin spherical shell asks only the Newtonian gravitational field jump. It does not invoke relativistic gravity. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::2716",
+    "detail": "Seed 2026100402 content QC: The uniform coating assumption makes nacho coverage an area-ratio model. It is foundational geometry practice, with no invented SPhO domain assigned. KEEP confirmed under the core prerequisite test."
+  },
+  {
+    "screening_unit_id": "raw::2715",
+    "detail": "Seed 2026100402 content QC: Supplied cutting energy and two Coulomb friction forces leave a gravitational-work balance. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::2780",
+    "detail": "Seed 2026100402 content QC: Spring length and fixed rope geometry determine pulley loading by Hooke law and static balance. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::2776",
+    "detail": "Seed 2026100402 content QC: The bubble volume stays fixed in the rigid filled tube; hydrostatic head and the isothermal trapped gas are general physics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::2743",
+    "detail": "Focused kaon check: source/solution p32 explicitly gives relativistic dispersion in the statement. Equal pion energies plus energy/vector-momentum conservation determine the angle. This supplied-model KEEP is consistent with rejecting unsupplied chocolate-relativity in 2025."
+  },
+  {
+    "screening_unit_id": "raw::2768",
+    "detail": "Focused source/solution pp67-68 check: conducting-sphere enhancement follows equipotential boundary conditions and dipole superposition. Mathematical construction is demanding but all physical laws are ordinary electrostatics. KEEP confirmed."
+  }
+]

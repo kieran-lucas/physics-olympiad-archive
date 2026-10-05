@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-10-04T02:40:27.180834+00:00",
+  "screening_unit_id": "raw::5921",
+  "attempts": [
+    {
+      "url": "http://www.pokerstars.hu/poker/room/features/security/",
+      "final_url": "https://www.pokerstars.com/hu/",
+      "status": 200,
+      "byte_size": 792183,
+      "preview": "<!doctype html><html lang=\"hu\" data-renderer=\"server\" class=\"_809b5ac\"><head><script>window.version=\"10.122.2-rc14-b650148\"</script><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no\"/><meta name=\"theme-color\" co"
+    },
+    {
+      "url": "https://www.pokerstars.hu/poker/room/features/security/",
+      "final_url": "https://www.pokerstars.com/hu/",
+      "status": 200,
+      "byte_size": 792183,
+      "preview": "<!doctype html><html lang=\"hu\" data-renderer=\"server\" class=\"_809b5ac\"><head><script>window.version=\"10.122.2-rc14-b650148\"</script><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no\"/><meta name=\"theme-color\" co"
+    },
+    {
+      "url": "https://www.pokerstars.com/poker/room/features/security/",
+      "final_url": "https://www.pokerstars.com/security/",
+      "status": 200,
+      "byte_size": 828282,
+      "preview": "<!doctype html><html lang=\"en\" data-renderer=\"server\" class=\"_809b5ac\"><head><script>window.version=\"10.122.2-rc14-b650148\"</script><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no\"/><meta name=\"theme-color\" co"
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.pokerstars.hu/poker/room/features/security/&output=json&filter=statuscode:200&filter=mimetype:text/html&to=2010&collapse=digest",
+      "error": "The read operation timed out"
+    }
+  ],
+  "note": "Exact statement-linked historical shuffle algorithm sought. Current general fairness language alone does not prove a historical algorithm."
+}

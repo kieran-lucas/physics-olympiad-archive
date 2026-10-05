@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-10-04T03:27:14.014592+00:00",
+  "cause": "Focused list initially omitted BORDERLINE Q17. Nineteen reviews committed validly before assertion caught the one pending review; checkpoint exposed pending_focused_reviews=1. No decision or previous review was replayed.",
+  "affected_unit": "raw::6096",
+  "resolution": "Only missing Q17 focused event added, then assert zero remaining focused records. Corrected full script retained for reproducibility, not replayed.",
+  "previous_completed_events_preserved": true
+}

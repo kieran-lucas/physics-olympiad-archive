@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::2942",
+    "detail": "Focused prerequisite check of official local solution: pp9-10 requires dimensional analysis, R=ct estimate and volume; no expansion cosmology. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::2963",
+    "detail": "Focused prerequisite check of official local solution: p27 explicitly uses classical leading-order wavelength shift; no unsupplied Lorentz transformation. KEEP confirmed."
+  }
+]

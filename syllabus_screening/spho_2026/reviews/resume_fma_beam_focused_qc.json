@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::1185",
+    "detail": "Focused qualitative-elasticity check: re-read actual 2020 B Q12 and official solution file1945 p9. The source solution explicitly uses top tension/bottom compression to balance gravity torque; no unsupplied constitutive coefficient or beam PDE is used. KEEP confirmed."
+  }
+]

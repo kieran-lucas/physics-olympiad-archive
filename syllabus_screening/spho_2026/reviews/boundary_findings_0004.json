@@ -1,0 +1,77 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0004.json",
+  "papers": [
+    {
+      "file_id": 2827,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2828,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Rendered page used for damaged extraction."
+    },
+    {
+      "file_id": 2829,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2830,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2831,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2832,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2833,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Rendered page used for damaged extraction."
+    },
+    {
+      "file_id": 2834,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2835,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Complete cached statement text inspected."
+    },
+    {
+      "file_id": 2836,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Rendered page used for damaged extraction."
+    },
+    {
+      "file_id": 2837,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Rendered page used for damaged extraction."
+    },
+    {
+      "file_id": 2838,
+      "observed_units": 3,
+      "missing": [],
+      "evidence": "Complete single physical page checked against three registered rows: right-hand problem column contains top-level 1, 2, 3; left column contains contestant/competition instructions only. Internal (a)/(b)/(c) remain together. Rendered page used for damaged extraction."
+    }
+  ]
+}

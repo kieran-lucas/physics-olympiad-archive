@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::305",
+    "detail": "Seeded QC Random(2026100427) second selection: full Q1 six-page A/B/C models and diagrams reread. Torque/stability, linkage energy/force equations, floor reaction and small-oscillation linearization are all ordinary Newton mechanics. Internal answer options do not create independent top-level questions. KEEP confirmed; no supplied-model ambiguity or unprovided central elastic law."
+  },
+  {
+    "screening_unit_id": "raw::306",
+    "detail": "Focused source/solution and supplied-model review: full Q2 and S2 B/D/E passages reread. All microscopic scattering amplitude and stochastic/Gaussian/layer laws are explicitly supplied, so remaining physics is ordinary waves. Analytically the literal continuous-thickness numerator is nonzero at q_z*d=2*pi for sigma=.4, whereas S2 first removes an integer Bragg phase then averages, yielding1. B also clarifies retarded phase transport beyond printed phi(t). Both conflicts documented with pages/formulas and raw sources preserved; no model silently repaired. Whole KEEP confirmed on scope, with explicit source-quality limitations."
+  },
+  {
+    "screening_unit_id": "raw::307",
+    "detail": "Focused supplied classical spin model and seeded QC Random(2026100427) first selection: all Q3 equations/rotations reread and S3 pp3-6 checked, with pp4/6 rendered. Differentiate Splus=e^(+i*omega2*t)*Sigmaplus to obtain M=(-omega1,0,-omega0-omega2); rotate that constant vector and average the linear ODE. Official key agrees with summed frequency and pi/sqrt2 condition. Full oscillator/random phase part also ordinary. KEEP confirmed; no Born, Pauli or microscopic relaxation law required."
+  }
+]

@@ -1,0 +1,264 @@
+Physical papers: 1396 verified 293 pending 1103
+{
+  "updated_at": "2026-10-04T01:25:22.921866+00:00",
+  "run_status": "INCOMPLETE",
+  "direct_units": 6159,
+  "derived_units": 2313,
+  "identified_units": 8472,
+  "decisions": {
+    "UNRESOLVED_ERROR": 6678,
+    "KEEP": 1699,
+    "REJECT": 71,
+    "BORDERLINE": 24
+  },
+  "screened_formats": {
+    "theory": 731,
+    "experimental": 76,
+    "multiple_choice": 733,
+    "mixed": 14,
+    "numerical": 222,
+    "data_analysis": 18
+  },
+  "keep_domains": {
+    "I_force_motion": 1233,
+    "II_oscillations_waves": 245,
+    "VII_magnetic_field": 88,
+    "IV_thermodynamics": 135,
+    "XI_quantum_light": 49,
+    "III_ideal_gas": 91,
+    "X_wave_optics": 141,
+    "VIII_induction": 37,
+    "IX_em_oscillations_waves": 31,
+    "VI_electric_field": 209,
+    "XII_atomic_nuclear": 32,
+    "V_real_gas": 1
+  },
+  "pending_content_units": 6678,
+  "remaining_queue_items": 7781,
+  "containers_pending": 0,
+  "containers_expanded": 233,
+  "pdfs_cached": 2984,
+  "source_rows_accounted": 6392,
+  "boundary_inventory_complete": false,
+  "identified_unit_reconciliation": true,
+  "unexplained_identified_units": 0,
+  "awaiting_content_review": 6676,
+  "explicit_statement_unavailable": 2,
+  "focused_reviews_pending": 0,
+  "pending_physical_paper_boundary_audits": 1103,
+  "registered_inventory_is_provisional": true
+}
+{
+  "selected_units": 1699,
+  "verified_distinct_selected_questions": 1695,
+  "unique_physical_files": 450,
+  "raw_acquisition_files": 445,
+  "source_linked_reference_files": 5,
+  "byte_size": 229127969,
+  "hardlinks": 450,
+  "copies": 0,
+  "hash_mismatches": 0,
+  "selection_is_complete": false
+}
+{
+  "checked_at": "2026-10-04T01:25:27.154574+00:00",
+  "run_status": "INCOMPLETE",
+  "source_rows": 6392,
+  "direct_units_in_inventory": 6159,
+  "whole_paper_containers": 233,
+  "identified_top_level_units": 8472,
+  "reviewed_units": 1794,
+  "reviewed_direct_units": 1414,
+  "reviewed_derived_units": 380,
+  "decisions": {
+    "UNRESOLVED_ERROR": 6678,
+    "KEEP": 1699,
+    "REJECT": 71,
+    "BORDERLINE": 24
+  },
+  "decision_percentages_of_reviewed": {
+    "KEEP": 94.705,
+    "BORDERLINE": 1.338,
+    "REJECT": 3.958
+  },
+  "pending_known_units": 6678,
+  "awaiting_content_review": 6676,
+  "statement_unavailable_units": 2,
+  "pending_containers": 0,
+  "full_top_level_inventory_known": false,
+  "embedded_unindexed_units_discovered": 50,
+  "formats": [
+    {
+      "format": "theory",
+      "reviewed": 731,
+      "KEEP": 649,
+      "BORDERLINE": 21,
+      "REJECT": 61
+    },
+    {
+      "format": "multiple_choice",
+      "reviewed": 733,
+      "KEEP": 731,
+      "BORDERLINE": 1,
+      "REJECT": 1
+    },
+    {
+      "format": "short_answer",
+      "reviewed": 0,
+      "KEEP": 0,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    },
+    {
+      "format": "numerical",
+      "reviewed": 222,
+      "KEEP": 212,
+      "BORDERLINE": 1,
+      "REJECT": 9
+    },
+    {
+      "format": "experimental",
+      "reviewed": 76,
+      "KEEP": 76,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    },
+    {
+      "format": "data_analysis",
+      "reviewed": 18,
+      "KEEP": 17,
+      "BORDERLINE": 1,
+      "REJECT": 0
+    },
+    {
+      "format": "mixed",
+      "reviewed": 14,
+      "KEEP": 14,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    },
+    {
+      "format": "unknown",
+      "reviewed": 0,
+      "KEEP": 0,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    }
+  ],
+  "domains": [
+    {
+      "domain": "I_force_motion",
+      "KEEP": 1233,
+      "BORDERLINE": 8,
+      "REJECT": 4
+    },
+    {
+      "domain": "II_oscillations_waves",
+      "KEEP": 245,
+      "BORDERLINE": 7,
+      "REJECT": 5
+    },
+    {
+      "domain": "III_ideal_gas",
+      "KEEP": 91,
+      "BORDERLINE": 3,
+      "REJECT": 1
+    },
+    {
+      "domain": "IV_thermodynamics",
+      "KEEP": 135,
+      "BORDERLINE": 6,
+      "REJECT": 0
+    },
+    {
+      "domain": "V_real_gas",
+      "KEEP": 1,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    },
+    {
+      "domain": "VI_electric_field",
+      "KEEP": 209,
+      "BORDERLINE": 3,
+      "REJECT": 2
+    },
+    {
+      "domain": "VII_magnetic_field",
+      "KEEP": 88,
+      "BORDERLINE": 4,
+      "REJECT": 2
+    },
+    {
+      "domain": "VIII_induction",
+      "KEEP": 37,
+      "BORDERLINE": 3,
+      "REJECT": 0
+    },
+    {
+      "domain": "IX_em_oscillations_waves",
+      "KEEP": 31,
+      "BORDERLINE": 2,
+      "REJECT": 0
+    },
+    {
+      "domain": "X_wave_optics",
+      "KEEP": 141,
+      "BORDERLINE": 2,
+      "REJECT": 0
+    },
+    {
+      "domain": "XI_quantum_light",
+      "KEEP": 49,
+      "BORDERLINE": 2,
+      "REJECT": 0
+    },
+    {
+      "domain": "XII_atomic_nuclear",
+      "KEEP": 32,
+      "BORDERLINE": 0,
+      "REJECT": 1
+    }
+  ],
+  "selected_statement_physical_files": 167,
+  "selected_all_physical_files": 450,
+  "selected_raw_acquisition_files": 445,
+  "source_linked_reference_files": 5,
+  "curated_byte_size": 229127969,
+  "hardlinks": 450,
+  "copies": 0,
+  "validated_file_types": {
+    "pdf": 344,
+    "zip": 53,
+    "tex": 50,
+    "exe": 1,
+    "other": 2
+  },
+  "pdf_pages_validated": 3069,
+  "visual_inspection_reviewed_units": 1587,
+  "solution_used_reviewed_units": 187,
+  "reviewed_source_sha256_count": 171,
+  "zero_unexplained_identified_units": true,
+  "zero_unexplained_source_rows": true,
+  "whole_corpus_screening_complete": false,
+  "validation_issues": [],
+  "actual_operational_errors": 0
+}
+{
+  "registered_units": 8472,
+  "decisioned_units": 1794,
+  "awaiting_content_review": 6676,
+  "statement_unavailable": 2,
+  "decisions": {
+    "BORDERLINE": 24,
+    "KEEP": 1699,
+    "REJECT": 71
+  },
+  "containers_expanded": 233,
+  "containers_pending": 0,
+  "original_205_preserved": true,
+  "new_second_review_units": 152,
+  "total_distinct_second_review_units": 357,
+  "low_confidence_units": 0,
+  "focused_reviews_pending": 0
+}
+Raw check: 3312 files; 0 mismatches

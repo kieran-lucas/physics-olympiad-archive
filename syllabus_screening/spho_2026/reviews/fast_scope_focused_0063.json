@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::17",
+    "detail": "C.1 uses unsupplied Lorentz time dilation (1 point), but C.2 explicitly provides c_eff independently, making 9/10 marks nuclear/Newtonian or supplied-model work; KEEP whole problem."
+  },
+  {
+    "screening_unit_id": "raw::23",
+    "detail": "Three independent classical scaling parts (6/8 marks) dominate meaningful work. Part C proper acceleration needs unsupplied SR but is independent and limited (2/8); KEEP whole problem."
+  }
+]

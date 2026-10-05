@@ -1,0 +1,822 @@
+[
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::1",
+    "detail": "Second pass: elementary vector products are prerequisite university mathematics; absence of a named physics domain does not make this MCQ out of scope."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::2",
+    "detail": "Second pass: moving-mirror, straight-ray, thin-lens and total-internal-reflection reasoning is foundational optics. The listed wave-optics heading is not a closed ban on ray optics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::4",
+    "detail": "Second pass: moving-mirror, straight-ray, thin-lens and total-internal-reflection reasoning is foundational optics. The listed wave-optics heading is not a closed ban on ray optics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::40",
+    "detail": "Second pass: moving-mirror, straight-ray, thin-lens and total-internal-reflection reasoning is foundational optics. The listed wave-optics heading is not a closed ban on ray optics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::43",
+    "detail": "Second pass: moving-mirror, straight-ray, thin-lens and total-internal-reflection reasoning is foundational optics. The listed wave-optics heading is not a closed ban on ray optics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::3",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::6",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::9",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::11",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::12",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::13",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::16",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::17",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::18",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::19",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::20",
+    "detail": "Second pass: actual motion/contact/impact/rotation requirements remain Newton laws, torque, momentum and energy. Geometry and harder vector calculations introduce no external physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::5",
+    "detail": "Second pass: buoyancy, hydrostatic pressure and elementary ideal-flow energy are conventional general-physics foundations; rejecting because fluid topics are not separate syllabus lines would be too literal."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::21",
+    "detail": "Second pass: buoyancy, hydrostatic pressure and elementary ideal-flow energy are conventional general-physics foundations; rejecting because fluid topics are not separate syllabus lines would be too literal."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::7",
+    "detail": "Second pass: coupled springs and pendula require oscillations, constraints and energy; normal-mode mathematics is not out-of-syllabus physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::14",
+    "detail": "Second pass: coupled springs and pendula require oscillations, constraints and energy; normal-mode mathematics is not out-of-syllabus physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::15",
+    "detail": "Second pass: coupled springs and pendula require oscillations, constraints and energy; normal-mode mathematics is not out-of-syllabus physics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::8",
+    "detail": "Second pass: the leaf-impact speed reduction is explicitly stipulated. No biological or collision-material model needs to be learned."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::10",
+    "detail": "Second pass: the damped-oscillator differential equation is supplied; identifying damping regimes uses the stated equation and ordinary oscillation theory."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::22",
+    "detail": "Second pass: gravity potential, Newtonian force superposition and orbital energy remain in scope; orbital context does not require relativity."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::23",
+    "detail": "Second pass: gravity potential, Newtonian force superposition and orbital energy remain in scope; orbital context does not require relativity."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::24",
+    "detail": "Second pass: gravity potential, Newtonian force superposition and orbital energy remain in scope; orbital context does not require relativity."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::25",
+    "detail": "Second pass: transformer core flux and solenoid superposition are standard magnetic-field/induction requirements, independent of apparatus familiarity."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::33",
+    "detail": "Second pass: transformer core flux and solenoid superposition are standard magnetic-field/induction requirements, independent of apparatus familiarity."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::26",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::27",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::28",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::29",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::30",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::31",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::34",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::37",
+    "detail": "Second pass: circuit loading, charge conservation, shielding, Gauss law, Coulomb sums and network symmetry are conventional electric-field/circuit prerequisites. Infinite-network algebra is difficulty, not external physics. Q34 carries a separate answer-options quality warning."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::32",
+    "detail": "Second pass, also checked against companion solution page 9: Lorentz force plus E=cB gives the required wave/charge force; relativistic transformation or acceleration is not used."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::35",
+    "detail": "Second pass: the moving rod couples Faraday emf, resistance and magnetic force, directly within induction and mechanics."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::36",
+    "detail": "Second pass: magnetic levitation uses the explicitly supplied separation power law; no microscopic magnetic-material theory is needed."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::38",
+    "detail": "Second pass: displaced slits and fringe geometry use ordinary interference and optical path difference."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::42",
+    "detail": "Second pass: displaced slits and fringe geometry use ordinary interference and optical path difference."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::39",
+    "detail": "Second pass: traveling-wave phase, an air-column standing wave and spherical-wave energy spreading require only ordinary wave principles."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::41",
+    "detail": "Second pass: traveling-wave phase, an air-column standing wave and spherical-wave energy spreading require only ordinary wave principles."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::44",
+    "detail": "Second pass: traveling-wave phase, an air-column standing wave and spherical-wave energy spreading require only ordinary wave principles."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::45",
+    "detail": "Second pass: ideal-gas energy, Carnot bound, molecular degrees of freedom and adiabatic compression remain core syllabus thermodynamics; droplet force balance in Q50 is foundational."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::46",
+    "detail": "Second pass: ideal-gas energy, Carnot bound, molecular degrees of freedom and adiabatic compression remain core syllabus thermodynamics; droplet force balance in Q50 is foundational."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::48",
+    "detail": "Second pass: ideal-gas energy, Carnot bound, molecular degrees of freedom and adiabatic compression remain core syllabus thermodynamics; droplet force balance in Q50 is foundational."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::50",
+    "detail": "Second pass: ideal-gas energy, Carnot bound, molecular degrees of freedom and adiabatic compression remain core syllabus thermodynamics; droplet force balance in Q50 is foundational."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::47",
+    "detail": "Second pass: gas-wall collision rate is kinetic theory plus an order-of-magnitude estimate, not a specialist transport theory."
+  },
+  {
+    "screening_unit_id": "derived::d086c64af4c00eac::4055::49",
+    "detail": "Second pass: stellar setting reduces to Stefan-Boltzmann balance and inverse-square flux. No astrophysics prerequisite."
+  },
+  {
+    "screening_unit_id": "raw::962",
+    "detail": "Second pass: component graphs, relative motion, nested circular acceleration and moving constraints require kinematics/rotation plus mathematics. No topic-title shortcut was used."
+  },
+  {
+    "screening_unit_id": "raw::965",
+    "detail": "Second pass: component graphs, relative motion, nested circular acceleration and moving constraints require kinematics/rotation plus mathematics. No topic-title shortcut was used."
+  },
+  {
+    "screening_unit_id": "raw::969",
+    "detail": "Second pass: component graphs, relative motion, nested circular acceleration and moving constraints require kinematics/rotation plus mathematics. No topic-title shortcut was used."
+  },
+  {
+    "screening_unit_id": "raw::970",
+    "detail": "Second pass: component graphs, relative motion, nested circular acceleration and moving constraints require kinematics/rotation plus mathematics. No topic-title shortcut was used."
+  },
+  {
+    "screening_unit_id": "raw::985",
+    "detail": "Second pass: component graphs, relative motion, nested circular acceleration and moving constraints require kinematics/rotation plus mathematics. No topic-title shortcut was used."
+  },
+  {
+    "screening_unit_id": "raw::986",
+    "detail": "Second pass: component graphs, relative motion, nested circular acceleration and moving constraints require kinematics/rotation plus mathematics. No topic-title shortcut was used."
+  },
+  {
+    "screening_unit_id": "raw::963",
+    "detail": "Second pass: elastic/inelastic collisions and pendulum rise are momentum/energy tasks. Shared stems do not merge independent numbered MCQs."
+  },
+  {
+    "screening_unit_id": "raw::964",
+    "detail": "Second pass: elastic/inelastic collisions and pendulum rise are momentum/energy tasks. Shared stems do not merge independent numbered MCQs."
+  },
+  {
+    "screening_unit_id": "raw::971",
+    "detail": "Second pass: elastic/inelastic collisions and pendulum rise are momentum/energy tasks. Shared stems do not merge independent numbered MCQs."
+  },
+  {
+    "screening_unit_id": "raw::972",
+    "detail": "Second pass: elastic/inelastic collisions and pendulum rise are momentum/energy tasks. Shared stems do not merge independent numbered MCQs."
+  },
+  {
+    "screening_unit_id": "raw::973",
+    "detail": "Second pass: elastic/inelastic collisions and pendulum rise are momentum/energy tasks. Shared stems do not merge independent numbered MCQs."
+  },
+  {
+    "screening_unit_id": "raw::966",
+    "detail": "Second pass: contact statics, rolling, hinge constraints and impulse are rigid-body mechanics. Q13-Q14 shared apparatus was retained in page/location metadata; companion solution pages 10-12 verifies the method."
+  },
+  {
+    "screening_unit_id": "raw::967",
+    "detail": "Second pass: contact statics, rolling, hinge constraints and impulse are rigid-body mechanics. Q13-Q14 shared apparatus was retained in page/location metadata; companion solution pages 10-12 verifies the method."
+  },
+  {
+    "screening_unit_id": "raw::968",
+    "detail": "Second pass: contact statics, rolling, hinge constraints and impulse are rigid-body mechanics. Q13-Q14 shared apparatus was retained in page/location metadata; companion solution pages 10-12 verifies the method."
+  },
+  {
+    "screening_unit_id": "raw::974",
+    "detail": "Second pass: contact statics, rolling, hinge constraints and impulse are rigid-body mechanics. Q13-Q14 shared apparatus was retained in page/location metadata; companion solution pages 10-12 verifies the method."
+  },
+  {
+    "screening_unit_id": "raw::975",
+    "detail": "Second pass: contact statics, rolling, hinge constraints and impulse are rigid-body mechanics. Q13-Q14 shared apparatus was retained in page/location metadata; companion solution pages 10-12 verifies the method."
+  },
+  {
+    "screening_unit_id": "raw::976",
+    "detail": "Second pass: contact statics, rolling, hinge constraints and impulse are rigid-body mechanics. Q13-Q14 shared apparatus was retained in page/location metadata; companion solution pages 10-12 verifies the method."
+  },
+  {
+    "screening_unit_id": "raw::977",
+    "detail": "Second pass: connected bubbles require ordinary surface-tension pressure and equilibrium. This is foundational general physics, not an unsupplied specialized fluid model."
+  },
+  {
+    "screening_unit_id": "raw::978",
+    "detail": "Second pass: read statement potentials, not source-authored titles. Q17 actually supplies quadratic U=-k(x^2+y^2)/2; Q18 supplies a saddle potential. Both use force as the gradient of potential."
+  },
+  {
+    "screening_unit_id": "raw::979",
+    "detail": "Second pass: read statement potentials, not source-authored titles. Q17 actually supplies quadratic U=-k(x^2+y^2)/2; Q18 supplies a saddle potential. Both use force as the gradient of potential."
+  },
+  {
+    "screening_unit_id": "raw::980",
+    "detail": "Second pass: kinetic-energy flux is ordinary power; the wind-height law is given. No atmospheric-flow prerequisite."
+  },
+  {
+    "screening_unit_id": "raw::981",
+    "detail": "Second pass: a spanner released near the ISS uses Newtonian orbital dynamics; spacecraft context does not imply special relativity."
+  },
+  {
+    "screening_unit_id": "raw::982",
+    "detail": "Second pass: continuity and ideal-flow energy/hydrostatic heads are ordinary prerequisites, consistent with the SPhO hydrostatic calibration."
+  },
+  {
+    "screening_unit_id": "raw::983",
+    "detail": "Second pass: continuity and ideal-flow energy/hydrostatic heads are ordinary prerequisites, consistent with the SPhO hydrostatic calibration."
+  },
+  {
+    "screening_unit_id": "raw::984",
+    "detail": "Second pass: spring calibration and uncertainty propagation are accepted experimental/data-analysis tools; MCQ format does not alter eligibility."
+  },
+  {
+    "screening_unit_id": "raw::987",
+    "detail": "Second pass: mammalian shaking reduces to prescribed angular oscillation, centripetal shedding and energy/latent heat. Surface tension is foundational, not external biology."
+  },
+  {
+    "screening_unit_id": "raw::988",
+    "detail": "Second pass: explicit ignore-relativity instruction controls the black-hole story; the supplied radius comparison does not require GR. Newtonian tidal/orbital energy dominates the whole A2."
+  },
+  {
+    "screening_unit_id": "raw::989",
+    "detail": "Second pass: magnetic stress limit uses Lorentz/current force and a supplied definition of tensile stress. No elastic constitutive theory is a hidden prerequisite."
+  },
+  {
+    "screening_unit_id": "raw::990",
+    "detail": "Second pass: one/two ants on a free disc require the same linear and angular momentum laws. Keep B1 entire."
+  },
+  {
+    "screening_unit_id": "raw::991",
+    "detail": "Second pass: the height-dependent wave speed and Mach angle are given; propagation/refraction geometry suffices. Nonlinear shock mechanics is not required."
+  },
+  {
+    "screening_unit_id": "raw::992",
+    "detail": "Second pass: the phase-aligned optical-mode model and final uncertainty inequality are supplied. The core is wave superposition and pulse bandwidth; retain all five parts."
+  },
+  {
+    "screening_unit_id": "derived::a2dc3f4f2c466e77::6392::1",
+    "detail": "Second pass: Projectile grazing/nonpenetration is ordinary mechanics and geometry; optimization difficulty is irrelevant to scope."
+  },
+  {
+    "screening_unit_id": "derived::a2dc3f4f2c466e77::6392::2",
+    "detail": "Second pass: The numbered Q2 deliberately groups three short-answer parts. Gas free expansion, current fields and torque are all foundational/in scope; do not derive three units from (a)-(c)."
+  },
+  {
+    "screening_unit_id": "derived::a2dc3f4f2c466e77::6392::3",
+    "detail": "Second pass: Current spreading through conducting Earth is Ohm law and spherical integration, not geophysical theory."
+  },
+  {
+    "screening_unit_id": "derived::a2dc3f4f2c466e77::6392::4",
+    "detail": "Second pass: Revisited missing drawing against companion solution pages 3-4. The explicit LC recurrence, cutoff and energy-flow interpretation establish ordinary EM-wave/circuit physics. Changed BORDERLINE to KEEP, retained source-quality warning and paired solution."
+  },
+  {
+    "screening_unit_id": "derived::a2dc3f4f2c466e77::6392::5",
+    "detail": "Second pass: Lasso geometry on a frictionless cone uses tension/force balance. The fixed versus varying loop constraint is stated."
+  },
+  {
+    "screening_unit_id": "derived::a2dc3f4f2c466e77::6392::6",
+    "detail": "Second pass: Polygonal-pencil terminal rolling requires inertia, repeated inelastic impact energy and gravity. Point-axis/inelastic model is given; no material theory."
+  },
+  {
+    "screening_unit_id": "derived::905711205a548329::6391::1",
+    "detail": "Second pass: A stacked-ball sequence is elastic collisions and energy; small mass-ratio limits are mathematical."
+  },
+  {
+    "screening_unit_id": "derived::905711205a548329::6391::2",
+    "detail": "Second pass: Both lettered parts use Coulomb-field symmetry or hydrostatic buoyancy. Source groups them as one Q2; no fragmentation."
+  },
+  {
+    "screening_unit_id": "derived::905711205a548329::6391::3",
+    "detail": "Second pass: Revisited missing cube drawing against explicit labelled reduced network in companion solution pages 2-3. Ordinary Ohm/Kirchhoff symmetry is established. Changed BORDERLINE to KEEP with missing-drawing quality flag and required companion solution."
+  },
+  {
+    "screening_unit_id": "derived::905711205a548329::6391::4",
+    "detail": "Second pass: Companion solution pages 3-4 confirms ballistic reflection and momentum transfer on a shaped curve, rather than an advanced continuum model."
+  },
+  {
+    "screening_unit_id": "derived::905711205a548329::6391::5",
+    "detail": "Second pass: Rocking-stick decay uses gravity, rotational inertia and inelastic pivot switching; supplied sums/log estimates are mathematical tools."
+  },
+  {
+    "screening_unit_id": "derived::905711205a548329::6391::6",
+    "detail": "Second pass: A uniformly stretching support with rolling cylinder uses constraints, torque and energy. Supplied inertial parameter is sufficient."
+  },
+  {
+    "screening_unit_id": "derived::dfc13c25a5078678::6390::1",
+    "detail": "Second pass: The two unrelated lettered scenarios are within one source Q1. Buoyancy and Coulomb energy are conventional scope; retain source boundary."
+  },
+  {
+    "screening_unit_id": "derived::dfc13c25a5078678::6390::2",
+    "detail": "Second pass: Magnetic spiral with explicitly specified linear drag is Lorentz force plus Newton law. No kinetic transport theory."
+  },
+  {
+    "screening_unit_id": "derived::dfc13c25a5078678::6390::3",
+    "detail": "Second pass: Falling-stick contact loss is rigid-body energy and Newtonian reaction forces."
+  },
+  {
+    "screening_unit_id": "derived::dfc13c25a5078678::6390::4",
+    "detail": "Second pass: Successively lighter sticks require elastic impacts, moments of inertia and limiting sums, not external physics."
+  },
+  {
+    "screening_unit_id": "derived::dfc13c25a5078678::6390::5",
+    "detail": "Second pass: Both cone scenarios use circular force balance and rolling angular momentum, within one numbered Q5."
+  },
+  {
+    "screening_unit_id": "derived::dfc13c25a5078678::6390::6",
+    "detail": "Second pass: Repeated wall/block collisions are classical energy/momentum; large mass ratio is an approximation, not an advanced-theory prerequisite."
+  },
+  {
+    "screening_unit_id": "derived::39d653a4c39cc891::6389::1",
+    "detail": "Second pass: Cylinder-stack contacts use normal forces and Newton laws."
+  },
+  {
+    "screening_unit_id": "derived::39d653a4c39cc891::6389::2",
+    "detail": "Second pass: Axisymmetric radial-field motion uses Lorentz force and total-flux geometry. The unusual field context adds no theory."
+  },
+  {
+    "screening_unit_id": "derived::39d653a4c39cc891::6389::3",
+    "detail": "Second pass: Infinite Atwood recursion is pulley constraints plus Newton law; infinite-chain algebra is difficulty only."
+  },
+  {
+    "screening_unit_id": "derived::39d653a4c39cc891::6389::4",
+    "detail": "Second pass: Icosahedral resistor reduction uses network symmetry and Ohm law."
+  },
+  {
+    "screening_unit_id": "derived::39d653a4c39cc891::6389::5",
+    "detail": "Second pass: Stacked gyroscope slow precession is explicitly covered by rigid-body torque and angular momentum."
+  },
+  {
+    "screening_unit_id": "derived::39d653a4c39cc891::6389::6",
+    "detail": "Second pass: Slow coupled Atwood/pendulum motion can be treated by Newtonian averaging/energy. An adiabatic-invariant route is mathematical technique, not an extra physical theory."
+  },
+  {
+    "screening_unit_id": "derived::6a29ec8f38e6f406::6388::1",
+    "detail": "Second pass: Sphere and cube Coulomb potentials use integration/scale symmetry. The two requested shapes remain one numbered question."
+  },
+  {
+    "screening_unit_id": "derived::6a29ec8f38e6f406::6388::2",
+    "detail": "Second pass: Wheel blur is instantaneous rolling velocity geometry."
+  },
+  {
+    "screening_unit_id": "derived::6a29ec8f38e6f406::6388::3",
+    "detail": "Second pass: Friction-limited motorcycle path uses tangential/radial acceleration; optimal control mathematics does not change physics scope."
+  },
+  {
+    "screening_unit_id": "derived::6a29ec8f38e6f406::6388::4",
+    "detail": "Second pass: Both fox/rabbit paths are relative kinematics under one numbered Q4."
+  },
+  {
+    "screening_unit_id": "derived::6a29ec8f38e6f406::6388::5",
+    "detail": "Second pass: Raindrop accretion uses the stated sticky spherical model and variable-mass momentum; no cloud microphysics."
+  },
+  {
+    "screening_unit_id": "derived::6a29ec8f38e6f406::6388::6",
+    "detail": "Second pass: Winding a spring around a pole is given elastic energy and a geometric constraint."
+  },
+  {
+    "screening_unit_id": "derived::a4f633140fd3956b::6387::1",
+    "detail": "Second pass: Pivot optimization remains gravitational rotational energy."
+  },
+  {
+    "screening_unit_id": "derived::a4f633140fd3956b::6387::2",
+    "detail": "Second pass: Grounded then insulated plates require ordinary induced charges and field energy; no quantum conductor model."
+  },
+  {
+    "screening_unit_id": "derived::a4f633140fd3956b::6387::3",
+    "detail": "Second pass: Planetary atmospheric refraction uses the supplied n-density law, hydrostatic ideal gas and Snell geometry. No atmospheric specialist model."
+  },
+  {
+    "screening_unit_id": "derived::a4f633140fd3956b::6387::4",
+    "detail": "Second pass: Many-particle collision limits are elastic momentum/energy and mathematics."
+  },
+  {
+    "screening_unit_id": "derived::a4f633140fd3956b::6387::5",
+    "detail": "Second pass: Turntable rolling is rigid-body kinematics and angular momentum."
+  },
+  {
+    "screening_unit_id": "derived::a4f633140fd3956b::6387::6",
+    "detail": "Second pass: Rope-heap mass loading of a spring is variable-mass momentum and damped oscillation. No continuum external prerequisite."
+  },
+  {
+    "screening_unit_id": "derived::15ad6a4f9aa9791b::6386::1",
+    "detail": "Second pass: Sphere/cylinder contact geometry and rotation are ordinary rigid-body dynamics."
+  },
+  {
+    "screening_unit_id": "derived::15ad6a4f9aa9791b::6386::2",
+    "detail": "Second pass: Reflecting-cone collection requires ray geometry and isotropic power, foundational optics."
+  },
+  {
+    "screening_unit_id": "derived::15ad6a4f9aa9791b::6386::3",
+    "detail": "Second pass: Velocity-directed friction and terminal inclined-plane motion use Newton laws; nonlinear algebra is not out-of-scope physics."
+  },
+  {
+    "screening_unit_id": "derived::15ad6a4f9aa9791b::6386::4",
+    "detail": "Second pass: Triangular PV-cycle efficiency uses ideal-gas internal energy and the first law."
+  },
+  {
+    "screening_unit_id": "derived::15ad6a4f9aa9791b::6386::5",
+    "detail": "Second pass: Stretching-rope ant motion is a prescribed kinematic model, not elasticity theory."
+  },
+  {
+    "screening_unit_id": "derived::15ad6a4f9aa9791b::6386::6",
+    "detail": "Second pass: General network identity uses Kirchhoff linearity/superposition and linear algebra."
+  },
+  {
+    "screening_unit_id": "derived::f6d033692f222eb4::6385::1",
+    "detail": "Second pass: Connected-container temperature change uses hydrostatic pressure and ordinary thermal expansion."
+  },
+  {
+    "screening_unit_id": "derived::f6d033692f222eb4::6385::2",
+    "detail": "Second pass: Unwinding string circular motion explicitly ignores relativity; Newtonian constraints suffice."
+  },
+  {
+    "screening_unit_id": "derived::f6d033692f222eb4::6385::3",
+    "detail": "Second pass: Landing brick motion uses projectile energy and impulsive/sliding friction."
+  },
+  {
+    "screening_unit_id": "derived::f6d033692f222eb4::6385::4",
+    "detail": "Second pass: Thermal creeping of roof uses the provided expansion coefficient and distributed friction. No continuum elasticity model."
+  },
+  {
+    "screening_unit_id": "derived::f6d033692f222eb4::6385::5",
+    "detail": "Second pass: Image-charge time-lag mechanism is explicitly supplied; electrostatics and dissipation reasoning suffice."
+  },
+  {
+    "screening_unit_id": "derived::f6d033692f222eb4::6385::6",
+    "detail": "Second pass: Slowly winding conical pendulum is Newtonian centripetal/energy dynamics."
+  },
+  {
+    "screening_unit_id": "derived::e4d6f3dca986b3ee::6384::1",
+    "detail": "Second pass: Folded-rope force requires variable-mass momentum flux, ordinary Newtonian mechanics."
+  },
+  {
+    "screening_unit_id": "derived::e4d6f3dca986b3ee::6384::2",
+    "detail": "Second pass: Pole/string unwinding requires constrained motion and gravity."
+  },
+  {
+    "screening_unit_id": "derived::e4d6f3dca986b3ee::6384::3",
+    "detail": "Second pass: Nested square network is a self-similar resistance calculation, not new physics."
+  },
+  {
+    "screening_unit_id": "derived::e4d6f3dca986b3ee::6384::4",
+    "detail": "Second pass: A spiralling charge uses Lorentz force and supplied velocity-proportional friction."
+  },
+  {
+    "screening_unit_id": "derived::e4d6f3dca986b3ee::6384::5",
+    "detail": "Second pass: Ball/surface no-slip/no-bounce impulse model is stated. Repeated impacts use classical translation/rotation."
+  },
+  {
+    "screening_unit_id": "derived::e4d6f3dca986b3ee::6384::6",
+    "detail": "Second pass: Rolling cone combines no-slip constraints, angular momentum and circular force balance."
+  },
+  {
+    "screening_unit_id": "derived::3718f60c0e82ec7a::6383::1",
+    "detail": "Second pass: Both snow-loading sled and arm-swing parts use ordinary linear/angular momentum; do not split the numbered Q1."
+  },
+  {
+    "screening_unit_id": "derived::3718f60c0e82ec7a::6383::2",
+    "detail": "Second pass: Rope on two inclines uses distributed weight and limiting static friction."
+  },
+  {
+    "screening_unit_id": "derived::3718f60c0e82ec7a::6383::3",
+    "detail": "Second pass: Isotropic radiation fraction is ordinary energy flux and solid-angle mathematics."
+  },
+  {
+    "screening_unit_id": "derived::3718f60c0e82ec7a::6383::4",
+    "detail": "Second pass: Tetrahedral RLC response is electromagnetic circuit oscillation and complex impedance."
+  },
+  {
+    "screening_unit_id": "derived::3718f60c0e82ec7a::6383::5",
+    "detail": "Second pass: Particle leaving a movable hemisphere is momentum/energy with zero-normal-force contact loss."
+  },
+  {
+    "screening_unit_id": "derived::3718f60c0e82ec7a::6383::6",
+    "detail": "Second pass: Repeated cylinder/plank rolling is rigid-body dynamics and recursion; many stages do not introduce external physics."
+  },
+  {
+    "screening_unit_id": "raw::301",
+    "detail": "Second pass: Rope mode/tension uses small oscillations and energy estimates; no advanced elasticity needed."
+  },
+  {
+    "screening_unit_id": "raw::302",
+    "detail": "Second pass: Hot/cold rotating disc uses supplied molecular-surface model, kinetic theory and heat/energy; exotic apparatus is irrelevant."
+  },
+  {
+    "screening_unit_id": "raw::303",
+    "detail": "Second pass: Reread statement and solution 933 pages 1-3. The solution makes local flux locking the necessary first step and uses two image dipoles. Statement does not explain the superconducting constraint. Ideal R=0/Faraday may make it foundational, but the boundary is genuinely ambiguous. Retain BORDERLINE, not a blanket rejection of superconductivity."
+  },
+  {
+    "screening_unit_id": "raw::304",
+    "detail": "Second pass: Diode Shockley and thermistor relations are supplied; operate/fit the devices rather than derive semiconductor band theory."
+  },
+  {
+    "screening_unit_id": "raw::297",
+    "detail": "Second pass: Three hinged balls require momentum/angular momentum and energy, keeping all constrained stages together."
+  },
+  {
+    "screening_unit_id": "raw::298",
+    "detail": "Second pass: Given diamagnetic coefficient plus field energy/force and hydrostatic boiling condition is in scope; magnetization is explicitly listed."
+  },
+  {
+    "screening_unit_id": "raw::299",
+    "detail": "Second pass: Crystal-step energy laws and variational target are specified; minimization/continuum geometry, not solid-state prerequisite."
+  },
+  {
+    "screening_unit_id": "raw::300",
+    "detail": "Second pass: Given diffusion, molecular speed and birefringence models plus ordinary optics/data fitting are sufficient; all A-D remain one experiment."
+  },
+  {
+    "screening_unit_id": "raw::293",
+    "detail": "Second pass: Ice temperature inversion uses heat capacity, latent heat and graph interpretation; atmospheric setting is not external theory."
+  },
+  {
+    "screening_unit_id": "raw::294",
+    "detail": "Second pass: Charged rolling ball uses distributed Lorentz force and rigid-body laws."
+  },
+  {
+    "screening_unit_id": "raw::295",
+    "detail": "Second pass: Irregular hose jet is ballistic trajectories and collection geometry, not unsupplied fluid dynamics."
+  },
+  {
+    "screening_unit_id": "raw::296",
+    "detail": "Second pass: Waveguide dispersion and attenuation law are provided. Interference and fitting suffice without prior waveguide theory."
+  },
+  {
+    "screening_unit_id": "raw::288",
+    "detail": "Second pass: Solenoid and moving wire require magnetic interaction and Faraday induction."
+  },
+  {
+    "screening_unit_id": "raw::289",
+    "detail": "Second pass: Thread unwinding geometry uses Newtonian constraints and energy."
+  },
+  {
+    "screening_unit_id": "raw::290",
+    "detail": "Second pass: Cat-eye camera uses thin-lens/ray/reflection geometry and given imperfection caveat; ray optics is foundational."
+  },
+  {
+    "screening_unit_id": "raw::291",
+    "detail": "Second pass: The Rutherford scattering relation is supplied and used to fit charge/geometry. Scattering derivation is not required."
+  },
+  {
+    "screening_unit_id": "raw::292",
+    "detail": "Second pass: Mechanical black-box inference uses coupled spring oscillators and inertia; parameter estimation is valid experimental work."
+  },
+  {
+    "screening_unit_id": "raw::283",
+    "detail": "Second pass: Piston/diaphragm compression uses ideal-gas adiabatic energy and force balance."
+  },
+  {
+    "screening_unit_id": "raw::284",
+    "detail": "Second pass: Spatial thread friction needs normal reactions and Newton laws; difficult geometry is not extra physics."
+  },
+  {
+    "screening_unit_id": "raw::285",
+    "detail": "Second pass: Glass-ball dispersion/refractive photographs use foundational optics and measurement."
+  },
+  {
+    "screening_unit_id": "raw::286",
+    "detail": "Second pass: Hidden wire/compass experiment uses magnetic field and torque equilibrium with uncertainty."
+  },
+  {
+    "screening_unit_id": "raw::287",
+    "detail": "Second pass: Given thermal-transfer laws support heat-capacity/conductivity fits; the task does not require deriving a turbulence model."
+  },
+  {
+    "screening_unit_id": "raw::279",
+    "detail": "Second pass: Floating cylinder fluid inertia follows continuity, kinetic energy and buoyancy. Hydrostatics remains foundational."
+  },
+  {
+    "screening_unit_id": "raw::280",
+    "detail": "Second pass: Temperature-switch resistor model and cooling law are specified; RL transient and Joule heating are in scope."
+  },
+  {
+    "screening_unit_id": "raw::281",
+    "detail": "Second pass: Charged rigid dipole uses Lorentz force and translation/rotation, not quantum dipoles."
+  },
+  {
+    "screening_unit_id": "raw::282",
+    "detail": "Second pass: Illumination experiment supplies photometric definitions; thermal/radiation calibration and uncertainty are ordinary scope."
+  },
+  {
+    "screening_unit_id": "raw::274",
+    "detail": "Second pass: Thermal-lens effect gives dn/dT and uses heat flow/optical path. No microscopic thermo-optic theory."
+  },
+  {
+    "screening_unit_id": "raw::275",
+    "detail": "Second pass: Brick between moving planes is vector friction and terminal Newtonian motion."
+  },
+  {
+    "screening_unit_id": "raw::276",
+    "detail": "Second pass: Moving plate eddy-current drag requires motional induction and Ohm/continuity laws, explicitly within EM scope."
+  },
+  {
+    "screening_unit_id": "raw::277",
+    "detail": "Second pass: Magnetic-pendulum frequency formula is supplied; model fitting and nonlinear oscillations do not require deriving advanced field theory."
+  },
+  {
+    "screening_unit_id": "raw::278",
+    "detail": "Second pass: Hidden optical black box uses lenses, polarization, slits and gratings. Shared apparatus context is retained."
+  },
+  {
+    "screening_unit_id": "raw::270",
+    "detail": "Second pass: Sliding puck needs translation/rotation and friction; all internal stages remain one problem."
+  },
+  {
+    "screening_unit_id": "raw::271",
+    "detail": "Second pass: Reread actual speeds 3c/5 and 4c/5, and simultaneity/relative-velocity questions. Both substantive parts need unsupplied Lorentz transformation/velocity addition. Reject for central special relativity, not spacecraft setting."
+  },
+  {
+    "screening_unit_id": "raw::272",
+    "detail": "Second pass: Fabry-Perot coherent amplitudes, cavity phase and decay are interference/energy reasoning, not quantum laser dynamics."
+  },
+  {
+    "screening_unit_id": "raw::273",
+    "detail": "Second pass: Piezo constitutive response and empirical force law are supplied. Energy/capacitance/calibration suffice without crystal theory."
+  },
+  {
+    "screening_unit_id": "raw::265",
+    "detail": "Second pass: Solar reflection from cylinder requires ray/flux geometry; foundational optics passes the remove-context test."
+  },
+  {
+    "screening_unit_id": "raw::266",
+    "detail": "Second pass: Table/chains equilibrium and period are rigid-body potential/kinetic energy and small oscillations."
+  },
+  {
+    "screening_unit_id": "raw::267",
+    "detail": "Second pass: Crossed-wire field lines use magnetic superposition; differential geometry is mathematics."
+  },
+  {
+    "screening_unit_id": "raw::268",
+    "detail": "Second pass: Given sigmoid and network definitions reduce the deep-learning setting to resistor/potentiometer measurements. No ML training knowledge."
+  },
+  {
+    "screening_unit_id": "raw::269",
+    "detail": "Second pass: Hidden-pattern laser diffraction requires interference/grating spacing and uncertainty, directly in scope."
+  },
+  {
+    "screening_unit_id": "raw::261",
+    "detail": "Second pass: Torsional articulated jumper uses supplied torque law, rotation, center of mass and floor reaction."
+  },
+  {
+    "screening_unit_id": "raw::262",
+    "detail": "Second pass: Rectangular hysteresis law is given; magnetic losses plus LC dynamics and ferromagnetism are explicitly covered."
+  },
+  {
+    "screening_unit_id": "raw::263",
+    "detail": "Second pass: Rechecked solution 717 pages 4-6: required flow scaling follows dimensional/pressure-viscosity balance. The lubrication PDE is explicitly optional; maximum-distance estimate can be obtained without solving it. Retain KEEP after supplied-model/general-physics audit."
+  },
+  {
+    "screening_unit_id": "raw::264",
+    "detail": "Second pass: Acoustic levitation provides force, evaporation, shape and breakup models. Wave/force/graph reasoning and ordinary refraction suffice; no acoustic radiation-force derivation."
+  },
+  {
+    "screening_unit_id": "raw::248",
+    "detail": "Second pass: scanned original shows one Problem 1 with two cart/tension scenarios. Newton equations/relative acceleration suffice; no subpart split."
+  },
+  {
+    "screening_unit_id": "raw::249",
+    "detail": "Second pass: copper/water/ice calorimetry is heat capacity and latent heat; scan location excludes preceding Problem 1 solution."
+  },
+  {
+    "screening_unit_id": "raw::250",
+    "detail": "Second pass: charged ring field and weight/tension balance are electrostatics/mechanics. Adjacent supplied solution confirms method."
+  },
+  {
+    "screening_unit_id": "raw::251",
+    "detail": "Second pass: actual scan header is Theory Problem 4, with continuation on page 2. Thin-film interference and given thermal expansion suffice; preceding solution text is excluded by location metadata."
+  },
+  {
+    "screening_unit_id": "raw::5",
+    "detail": "Second pass: hydrogen hyperfine scaling and MOND force law are supplied. Bohr/magnetic photon calculation and Newtonian galaxy/Doppler estimates dominate; no unsupplied cosmology."
+  },
+  {
+    "screening_unit_id": "raw::6",
+    "detail": "Second pass: Cox clock is hydrostatic barometer plus given vapour-pressure data, pulley constraint and energy/friction; all A/B remain one Theory Q2."
+  },
+  {
+    "screening_unit_id": "raw::7",
+    "detail": "Second pass: Henry/diffusion/Stokes and bubble-neck models are given. Champagne uses gas, buoyancy, surface energy and adiabatic oscillations; all A-C remain one Theory Q3."
+  },
+  {
+    "screening_unit_id": "raw::8",
+    "detail": "Second pass: magnetic-gradient and torsional-wire laws are supplied; calibration and uncertainty are in-scope experiment skills. The whole Earth-field experiment stays one Q1."
+  },
+  {
+    "screening_unit_id": "raw::9",
+    "detail": "Second pass: crater and sand-drag laws are provided; image/data fits and rolling energy are in scope. Internal A/B tasks are not separately screened."
+  },
+  {
+    "screening_unit_id": "raw::10",
+    "detail": "Second pass: reread all four pages. Standing-wave form/boundaries, two-atoms-per-state filling, coupling/scaling and local-homogeneous approximation are expressly supplied. De Broglie energy, counting, thermodynamic derivatives and force balance suffice. KEEP confidence raised from medium to high; no many-body quantum prerequisite is hidden."
+  },
+  {
+    "screening_unit_id": "raw::310",
+    "detail": "Second pass: supplied polar-mass surrogate plus Newtonian torque and angular momentum is sufficient; Earth/precession context does not invoke GR."
+  },
+  {
+    "screening_unit_id": "raw::311",
+    "detail": "Second pass: companion solution 966 confirms classical torque/plane-wave chain dynamics and Boltzmann mean-field probability, with de Broglie/energy-momentum relations in subsidiary B4-B5. The dominant task is supplied classical/statistical models; KEEP confidence raised to high and solution use recorded. No operator spin theory."
+  },
+  {
+    "screening_unit_id": "raw::312",
+    "detail": "Second pass: given atmospheric/radiative/phase models support ordinary ideal-gas stability, Doppler and prism optics. Clausius-Clapeyron is supplied rather than an unsupplied meteorology requirement."
+  },
+  {
+    "screening_unit_id": "raw::313",
+    "detail": "Second pass: induction cooker stages share one apparatus/20-point Q1 and depend on coil parameters. They remain one top-level experiment; supplied skin-depth/NTC/load laws make fitting and heat balance sufficient."
+  },
+  {
+    "screening_unit_id": "raw::79",
+    "detail": "Second pass: image-charge representation is given and proof waived; conductor potential, charged-pendulum oscillation and field energy are direct syllabus physics."
+  },
+  {
+    "screening_unit_id": "raw::80",
+    "detail": "Second pass: rendering restores the Bernoulli formula missing from extracted text. Hydrostatic/ideal-gas chimney flow and heat/power efficiency use supplied ordinary-flow assumptions."
+  },
+  {
+    "screening_unit_id": "raw::81",
+    "detail": "Second pass: solution 319 page 4 allows nonrelativistic reaction kinematics; pages 7-8 use ordinary photon recoil, with exact relativistic Doppler only in the final subsidiary lab-energy request. Nuclear binding/reactions dominate independently; KEEP the whole problem."
+  },
+  {
+    "screening_unit_id": "raw::82",
+    "detail": "Second pass: bending energy, stadium equilibrium and rigidity-to-Young relation are supplied. Experimental fitting does not need plate-elasticity theory. Internal Tasks are one E1."
+  },
+  {
+    "screening_unit_id": "raw::83",
+    "detail": "Second pass: force polarity, graph symmetry and equilibrium are measured rather than computed from a specialized microscopic magnet model. The source explicitly separates E2 despite shared apparatus."
+  },
+  {
+    "screening_unit_id": "raw::55",
+    "detail": "Second pass: solution 251 distinguishes unsupplied electron relativistic energy in independent B3 from nonrelativistic Doppler in B4. The extensive independent solar-cell/radiation/gravity work plus nuclear flux and kinetic theory make most of this whole T-1 useful. KEEP does not select or split subparts."
+  }
+]

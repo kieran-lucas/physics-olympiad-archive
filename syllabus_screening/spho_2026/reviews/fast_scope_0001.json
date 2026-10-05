@@ -1,0 +1,62 @@
+[
+  {
+    "screening_unit_id": "raw::351",
+    "decision": "KEEP",
+    "confidence": "high",
+    "format": "theory",
+    "primary_spho_domains": "VII_magnetic_field;VI_electric_field",
+    "required_physics": "Lorentz/Hall motion, supplied flux/quasihole model, Coulomb scaling and supplied Poisson statistics",
+    "decision_reason": "KEEP: dominant work is classical fields, supplied fractional-charge model and statistics. Unsupplied uncertainty estimate f(ii) is an independent small extension.",
+    "evidence": "1154 all4 statement text/images;1156pp3-9text,4/6/8renders resolve supplied model and independent uncertainty task.",
+    "page_start": 1,
+    "page_end": 4,
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "external_physics_if_any": "Unsupplied uncertainty estimate in subordinate f(ii)."
+  },
+  {
+    "screening_unit_id": "raw::352",
+    "decision": "KEEP",
+    "confidence": "high",
+    "format": "theory",
+    "primary_spho_domains": "VII_magnetic_field;III_ideal_gas;XII_atomic_nuclear",
+    "required_physics": "Lorentz orbits, given velocity distribution and mirror-field gradient, energy conservation, atmospheric hydrostatics and given transitions",
+    "decision_reason": "KEEP: magnetization and mirror invariant follow orbit/energy reasoning with supplied distribution and radial field; magnetic pressure and atomic levels supplied.",
+    "evidence": "1158all8text/images;1159all7text andpp3/4renders confirm magnetization/mirror derivation.",
+    "page_start": 1,
+    "page_end": 8,
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "external_physics_if_any": ""
+  },
+  {
+    "screening_unit_id": "raw::353",
+    "decision": "KEEP",
+    "confidence": "high",
+    "format": "theory",
+    "primary_spho_domains": "X_wave_optics;XII_atomic_nuclear",
+    "required_physics": "Given etalon transmission and Zeeman energy shifts, interference geometry and spectral resolution",
+    "decision_reason": "KEEP: optical model and splitting law/transition diagram supplied; remaining work is interference, photon energies and algebra.",
+    "evidence": "1160all4statementtext/images; damaged constants and diagram read from renders.",
+    "page_start": 1,
+    "page_end": 4,
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "external_physics_if_any": ""
+  },
+  {
+    "screening_unit_id": "raw::354",
+    "decision": "KEEP",
+    "confidence": "high",
+    "format": "experimental",
+    "primary_spho_domains": "II_oscillations_waves;VI_electric_field;IX_em_oscillations_waves",
+    "required_physics": "Measurement/uncertainty, supplied piezoelectric equivalent circuit and coefficient formula, supplied Curie-Weiss law, standing-wave spectra",
+    "decision_reason": "KEEP: all specialized material models supplied; remaining tasks are capacitance/resonance, plotting/extrapolation, acoustic standing waves and measurement.",
+    "evidence": "1164all22statementtext; renders1-21 viewed before fast-mode switch, p22text sufficient. A-E dependent stages of one piezoelectric experiment retained together.",
+    "page_start": 1,
+    "page_end": 22,
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "external_physics_if_any": ""
+  }
+]

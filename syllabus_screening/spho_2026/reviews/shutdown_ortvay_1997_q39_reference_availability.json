@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-04T04:28:26.635020+00:00",
+  "source_unit": "1997 Q39",
+  "requests": [
+    {
+      "url": "http://galahad.elte.hu/~gegix/publ.html",
+      "error": "HTTPConnectionPool(host='galahad.elte.hu', port=80): Max retries exceeded with url: /~gegix/publ.html (Caused by ConnectTimeoutError(<HTTPConnection(host='galahad.elte.hu', port=80) at 0x2aa46721be0>, 'Connection to galahad.elte.hu timed out. (connect timeout=20)'))"
+    },
+    {
+      "url": "https://galahad.elte.hu/~gegix/publ.html",
+      "error": "HTTPSConnectionPool(host='galahad.elte.hu', port=443): Max retries exceeded with url: /~gegix/publ.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='galahad.elte.hu', port=443) at 0x2aa44eabb60>, 'Connection to galahad.elte.hu timed out. (connect timeout=20)'))"
+    }
+  ],
+  "note": "Explicit original optional reference page; no unrelated substitute source added."
+}

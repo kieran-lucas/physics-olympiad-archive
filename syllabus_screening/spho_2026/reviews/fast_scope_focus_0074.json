@@ -1,0 +1,38 @@
+[
+  {
+    "screening_unit_id": "raw::2607",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Reduced-mass Newtonian mechanics and Bohr spectra dominate; independent uncertainty estimate is peripheral."
+  },
+  {
+    "screening_unit_id": "raw::2609",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Explicit Lorentz coordinate and time transformations; remaining event, trajectory and interval work is algebra."
+  },
+  {
+    "screening_unit_id": "raw::2614",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Bohr levels, orbital magnetic field and photon recoil dominate; uncertainty estimate is independent."
+  },
+  {
+    "screening_unit_id": "raw::2615",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Explicit vector Lorentz transformations supply the relative-velocity model."
+  },
+  {
+    "screening_unit_id": "raw::2611",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Classical ionization collision, Bohr spectra, thermal Doppler and decay dominate; relativistic excitation and natural linewidth are independent extensions."
+  },
+  {
+    "screening_unit_id": "raw::2612",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Explicit vector Lorentz transformations supply the event and neutrino velocity model."
+  },
+  {
+    "screening_unit_id": "raw::2617",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Explicit moving-charge electric and magnetic fields; Lorentz force and field momentum."
+  },
+  {
+    "screening_unit_id": "raw::2624",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Supplied radiation-loss formula, classical Coulomb orbits and de Broglie quantization."
+  },
+  {
+    "screening_unit_id": "raw::2633",
+    "detail": "Focused whole-problem/supplied-model review confirmed KEEP: Explicit Paczynski-Wiita potential; Newtonian orbital force, energy and stability."
+  }
+]

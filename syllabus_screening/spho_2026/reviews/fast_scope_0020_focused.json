@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::4845",
+    "detail": "Focused whole-problem check with rendered statement/solution p62: a simple constant transistor gain maps base current to meter current and cancels in the provided half-steady-current ratio. No device band theory or transistor characteristic computation is required. Most meaningful work is ordinary LR self-induction and exponential response; peripheral gain assumption does not veto whole problem. KEEP confirmed."
+  }
+]

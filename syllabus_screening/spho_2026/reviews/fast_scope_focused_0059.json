@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "derived::1e342d299c08c707::1690::7",
+    "detail": "Focused supplied-model check: equivalence of uniform gravity and acceleration is explicitly given, as is the weak-field and aL<<c^2 approximation. Accelerated-receiver travel time plus first-order Doppler yields the requested shifts; full SR Doppler formula in solution cancels to the same classical first-order term. Retain KEEP under supplied-principle rule."
+  }
+]

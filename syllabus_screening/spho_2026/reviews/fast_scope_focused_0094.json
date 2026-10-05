@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "derived::5f3bbd6100353715::4002::W2P3",
+    "detail": "Focused rendered-statement prerequisite assessment: Spatial probability and its interpretation supplied; finite-size potential averaging uses probabilities and electrostatics. Entire form-factor section supplies Fourier relation. No wave equation or eigenstate perturbation derivation required. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "derived::b1cd565276ca09c0::4004::5",
+    "detail": "Focused rendered-statement prerequisite assessment: Bohr isotope spectra and nuclear reaction mass-defect work are substantial independent standard tasks. Final temperature estimate names de Broglie/uncertainty but asks only an estimate, not unsupplied WKB machinery; no central external dependency. Whole KEEP."
+  }
+]

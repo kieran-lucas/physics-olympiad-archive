@@ -1,0 +1,75 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0018.json",
+  "papers": [
+    {
+      "file_id": 469,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. One Theoretical Problem 2 superconducting magnet, internal Tasks 1-3; last page figure5d only. No omitted independent problem."
+    },
+    {
+      "file_id": 471,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 practical instructions, pp2-4 one Experimental Problem 1 dielectric reflectivity and equipment. No omitted independent problem."
+    },
+    {
+      "file_id": 475,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 additionally rendered: general constants table only; prior complete rendered Problem 1 pp2-3 reused. No omitted independent problem."
+    },
+    {
+      "file_id": 481,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 additionally rendered: Experiment No.1 cover and instructions only; prior complete rendered pp2-5 experiment reused. No omitted independent problem."
+    },
+    {
+      "file_id": 483,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 additionally rendered: Experiment No.2 cover and instructions only; prior complete rendered pp2-5 experiment reused. No omitted independent problem."
+    },
+    {
+      "file_id": 485,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. Prior complete all-three-page rendered inspection reused, plus p1 and p3 reread now for full-paper boundaries: one theoretical Problem1. No omitted independent problem."
+    },
+    {
+      "file_id": 491,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 additionally rendered: general experimental cover/instructions only; prior complete rendered pp2-4 experiment reused. No omitted independent problem."
+    },
+    {
+      "file_id": 527,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. One Experiment1 polarization; four questions belong to common polarizers. No omitted independent problem."
+    },
+    {
+      "file_id": 529,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. One Experiment2 electron tube, internal material/resistivity/work-function tasks. No omitted independent problem."
+    },
+    {
+      "file_id": 546,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. One Experiment2 computer simulation, internal Computational Problems1-6 and information sets; reference to Problem6 denotes internal question. No omitted independent problem."
+    },
+    {
+      "file_id": 547,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. One telescope water-rainbow Experiment1, internal measurements and supplied refractive-index table. No omitted independent problem."
+    },
+    {
+      "file_id": 560,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. All three pages rendered: one Exercise B hidden magnets, followed by instrument list and operating instructions. No omitted independent problem."
+    },
+    {
+      "file_id": 586,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 historical article and p2 intro continuation; pp2-3 only Theoretical Problem1 fluorescent lamp. No omitted independent problem."
+    },
+    {
+      "file_id": 594,
+      "observed_units": 1,
+      "evidence": "Complete physical-file boundary checked from all-page cache packet and prior statement/render evidence; extra unreadable cover/boundary pages inspected as stated. p1 preceding lens Problem4 SOLUTION with nominal results, not statement; then Problem5 rolling cylinder starts p1 and continues pp2-3. One independent statement. No omitted independent problem."
+    }
+  ]
+}

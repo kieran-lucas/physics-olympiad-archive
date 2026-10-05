@@ -1,0 +1,102 @@
+[
+  {
+    "screening_unit_id": "raw::6221",
+    "detail": "Focused whole dog/ball/hearing review: actual Q1 p2 reread. The dog reacts to SOUND, so loss of communication once outrunning a trailing sound wave is an ordinary acoustic mechanism, not evidence for a relativistic c bound. Doubling is discrete and timing matters. Air drag can also lift the ball before further bumps, but radius/drag/contact model are absent. BORDERLINE retained for the underdefined whole model, with the initial speculative relativity rationale explicitly corrected and preserved in history; no outside physics presumed from density alone."
+  },
+  {
+    "screening_unit_id": "raw::6222",
+    "detail": "Focused actual piston-wheel diagram and full Q2 reread. Heavy tangential piston displacements change both gas work and gravitational work; water pressure is depth-dependent and contributes work/torque. Counting only expanded-cylinder buoyancy omits those dependencies. Closed-cycle work/first law suffices. KEEP confirmed; no new perpetual-motion claim."
+  },
+  {
+    "screening_unit_id": "raw::6224",
+    "detail": "Focused full satellite estimate reread. Estimate is explicitly requested, so geometric collision rates and offspring/removal branching parameters are legitimate ordinary approximations. No microphysical fracture spectrum must be derived; yield and orbit population must be declared rather than invented. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6228",
+    "detail": "Focused rope continuum versus specialized elastic model: complete Q8 p3 reread. Rope is flexible, not a bending beam; differential tension balance follows directly from Newton and centrifugal/gravity force density. Inextensibility and zero free-end tension close ideal shape branches. KEEP confirmed, mathematical difficulty not a prerequisite veto."
+  },
+  {
+    "screening_unit_id": "raw::6229",
+    "detail": "Focused variable-mass pendulum review: complete hourglass statement reread. Specify a sand-transfer history and include falling-grain momentum/impact and changing moment of inertia. A parameterized Newton model is possible; absence of a numerical flow/geometry is not itself out-of-scope physics. KEEP confirmed; no unique measured trajectory claimed."
+  },
+  {
+    "screening_unit_id": "raw::6230",
+    "detail": "Focused small membrane distortion review: actual one-percent instruction reread. Scalar membrane wave eigenvalue/domain perturbation is ordinary waves; specify constant tension versus induced pretension/area changes. No demanded exact three-dimensional tensor response appears in the statement. KEEP confirmed within explicit small scalar-wave idealization."
+  },
+  {
+    "screening_unit_id": "raw::6231",
+    "detail": "Focused full supplied fluid closure: complete Q11 equations and polynomial hint reread on actual p3. Maxwell-Boltzmann Gaussian with local chemical potential gives equilibrium rho/P; all continuity, acceleration and pressure coefficients are supplied for modes. Polynomial substitution is closed mathematical work, unlike deriving an unprovided atmospheric/kinetic wave law. KEEP confirmed; no quantum gas invoked."
+  },
+  {
+    "screening_unit_id": "raw::6232",
+    "detail": "Focused complete towel folding review: theoretical/numerical criteria and differing methods all reread. An ideal flexible-chain kink is Newtonian, whereas a finite-stiffness sheet fold can need a material/contact law. No specified idealization resolves the intended depth and no experimental measurements were performed. Whole BORDERLINE confirmed rather than rejecting experiments or rescuing only observations."
+  },
+  {
+    "screening_unit_id": "raw::6233",
+    "detail": "Focused qualitative fluid experiment review: full sugar/cup contrast reread on actual p4. Rotating pressure gradient persists while bottom friction slows fluid; imbalance drives inward near-bottom motion. Co-rotating cup lacks that mismatch and excess grain density gives outward tendency. Those ordinary force arguments explain the asked qualitative contrast; exact boundary-layer eigenstructure is not requested. KEEP confirmed; no actual experiment claimed."
+  },
+  {
+    "screening_unit_id": "raw::6234",
+    "detail": "Focused complete three-part thermal effusion review: actual d much less than mean free path and maintained T givens reread. Flux n*sqrt(T) equality, molecular momentum and energy exchanges suffice. Net force/source reaction and external temperature maintenance must all be counted; Q alone cannot fix a unique unspecified cycle, but thermodynamic bounds are within scope. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6235",
+    "detail": "Focused supplied heat-transfer optimization review: complete printed linear law reread. Choose the usual reversible internal engine and specified/equal conductance interpretation, optimize power through temperature drops and heat ratio. All required physics is ordinary conduction/Carnot; declare idealization and unprovided conductance asymmetry. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6236",
+    "detail": "Focused supplied qualitative Doppler cogwheel review: whole argument reread. It asks whether runaway is valid, not an exact all-speed transform. Radiation emission recoil, mirror angular momentum and energy/thermal sources close a conservation critique with the stated blueshift premise. KEEP confirmed; no unprovided Lorentz law imported."
+  },
+  {
+    "screening_unit_id": "raw::6239",
+    "detail": "Focused full zero-resistance energy-transfer review: actual L much longer than capacitor size and line dimensions reread. Electromagnetic propagation/inductance and capacitor energy are ordinary IX/VIII content. Finite lossless oscillations or outgoing radiation require stated termination approximations; missing detailed radiation geometry is a parameter limitation, not permission to discard energy as heat. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6240",
+    "detail": "Focused supplied permittivity versus friction model: entire Q20 reread. A real velocity-dependent friction needs fluctuation/dispersion/dissipation or quantum field response absent from constant epsilon alone. Unexcited nondissipative classical ideal sheets can have zero drag, but that special limit does not close the general intended friction law. REJECT confirmed on missing central specialized interaction, not the dielectric context."
+  },
+  {
+    "screening_unit_id": "raw::6241",
+    "detail": "Focused fully supplied wave and fitting model: all Q21 PDE, scale limits and three requests reread. Fourier packet evolution and product-average least squares use provided scalar PDE. Finite undamped torus is recurrent; fitted long-time damping is not genuine energy loss. Specify the initial time derivative and order of limits. KEEP confirmed, no field-theory dynamics must be supplied."
+  },
+  {
+    "screening_unit_id": "raw::6242",
+    "detail": "Focused classical massive-charge pulse review: complete f(x-ct), finite support and approximation request reread. Weak recoil/nonrelativistic Lorentz motion plus Maxwell scattering and field energy/momentum suffice at declared order. Large mass means small impulse relative to mc and limited displacement during pulse, not zero conservation accounting. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6244",
+    "detail": "Focused actual aircraft-ring premise review: entire two-paragraph Q24 reread. The source demands pressure-caused colour deflection but supplies neither density profile nor a cloud scattering model. Standard refraction/diffraction can challenge its identification, while a literal quantitative flow-optics answer needs more physical input. Whole BORDERLINE retained; no measured glory or invented aerodynamic solution."
+  },
+  {
+    "screening_unit_id": "raw::6245",
+    "detail": "Focused supplied source model and seeded QC (Random 2026100423 second selection): actual 14/92 counts, multiplets, 3-degree resolution, Poisson equal-intensity emissions, attenuation and latitude reread. Geometry/exposure and statistical inference are sufficient; latitude alone leaves zenith acceptance to a declared model. KEEP confirmed, not a cosmic-ray transport derivation."
+  },
+  {
+    "screening_unit_id": "raw::6246",
+    "detail": "Focused distribution-model ambiguity: all Q26 reread. Independent additive Gaussians remain Gaussian; alternative triggering populations give a mixture. Standard goodness-of-fit/model testing distinguishes the intended hypothesis when specified. This is ordinary data analysis even if the physical example is an earthquake. KEEP confirmed, no data fabricated."
+  },
+  {
+    "screening_unit_id": "raw::6249",
+    "detail": "Seeded QC (Random 2026100423 first selection): actual quartic Hamiltonian and quantise/vacuum/excited/second-order requests reread. Quantum ladder/state representation, perturbation and expectation rules are not supplied. Those methods dominate; REJECT confirmed, not from the Hamiltonian label alone."
+  },
+  {
+    "screening_unit_id": "raw::6251",
+    "detail": "Focused supplied probabilities and actual table: full pp6-7 reread. All spin probabilities are already numerical. A global binary joint table would violate the elementary Bell-type probability inequality; a real measurement record needs setting-conditioned denominators and unperformed-measurement conventions. Identifying/constructing that consistency requires ordinary probability, not deriving Born probabilities. KEEP confirmed despite the source table ambiguity."
+  },
+  {
+    "screening_unit_id": "raw::6252",
+    "detail": "Focused semantic-majority review: full Q32 p7 detector assumptions and concluding state/max-probability request reread. Classical locality contradiction is supplied-model logic, but constructing the two-state-pair wavefunction and optimizing its Born probabilities is the substantial central culmination and lacks operational quantum rules. Whole REJECT confirmed; logical opening does not rescue the quantum task."
+  },
+  {
+    "screening_unit_id": "raw::6253",
+    "detail": "Focused mathematical supply versus physical representation review: actual Q33 p7 boson space/boost formula and four-fermion instructions reread. U2B is supplied, but spin-half rotation/antisymmetric state representation U4F and composite embedding are not. They are the central prerequisite for M/intertwiner/state, beyond merely difficult linear algebra. REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6254",
+    "detail": "Focused explicit classical-function option: actual p8 Hamiltonian and drive reread. It is exactly kinetic p^2/(2m) plus onsite and nearest-neighbour scalar spring energies. Newton/Hooke gives a complete classical mode model; quantization is not requested. Finite no-damping mean power differs from outgoing infinite-chain power and resonance grows. KEEP confirmed with those limits recorded, distinct from an arbitrary unsupplied canonical H model."
+  },
+  {
+    "screening_unit_id": "raw::6255",
+    "detail": "Focused whole plasma release depth: all Q35 p8 read again. Given Debye length, one-dimensional magnetization and thermal/charge densities allow an ordinary electron-escape/charge-separation/ion-acceleration qualitative picture. Full collisionless expansion/trapping and late distribution can need an unprovided kinetic/sheath closure; no quantitative operational PDE is supplied unlike Q11. Requested qualitative-first wording leaves intended later depth genuinely uncertain. BORDERLINE confirmed, not a blanket advanced-plasma rejection."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0006.json",
+  "papers": [
+    {
+      "file_id": 1651,
+      "observed_units": 2,
+      "missing": [],
+      "evidence": "Complete two-page experiment file inspected: p1 prints independent experiment 1 wooden-piece motion (12 points) and experiment 2 heading (8 points), whose capacitor-calibration statement continues on p2. Both registered raw::768/769. Internal lettered questions retained."
+    }
+  ]
+}

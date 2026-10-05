@@ -1,0 +1,54 @@
+[
+  {
+    "screening_unit_id": "raw::5597",
+    "detail": "Focused review: complete Q4 p2 reopened. Circular center-of-mass motion and negligible gravity do not fix blade lift/torque versus throw and rotation. Gyroscopic mechanics is in scope, but returning radius requires an additional aerodynamic model. BORDERLINE confirmed; no supplied lift relation inferred from a name."
+  },
+  {
+    "screening_unit_id": "raw::5600",
+    "detail": "Focused review: Q7 and actual satellite-ring photograph p2 reopened. Photo establishes separate small drops surrounding a central drop, but does not distinguish launch/breakup mechanism or define wetting/impact regime. Ordinary energy scaling alone does not determine a unique radius model. BORDERLINE confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5601",
+    "detail": "Focused capillary-model review: Q8 p3 reread. Stationary rotating liquid obeys dp/dr=rho*omega^2*r; pressure balance against gas with surface tension determines interface curvature. This is ordinary force equilibrium, not an unsupplied Navier-Stokes transient. Slow spin-up is explicitly stipulated. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5604",
+    "detail": "Focused prerequisite review: complete Q11 p4 reread. Explicit approximate realistic-parameter wording permits cooling/latent-heat budget, saturated vapour content and advective or kinetic diffusive supply estimates. No exact atmospheric flow/fracture model is requested. KEEP physics scope confirmed; geometry/climate/cooling assumptions remain disclosed quality limitations."
+  },
+  {
+    "screening_unit_id": "raw::5612",
+    "detail": "Focused dielectric review: Q19 p5 and wedge render reopened. With the given linear tensor axes, div(epsilon*grad U)=0 and conducting boundary potentials define the solution; diagonal coordinate scaling reduces it to standard potential mathematics. Energy density is E dot D/2. Symbolic static permittivities retained without assuming optical index equals static epsilon. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5613",
+    "detail": "Focused source-conflict review: Q20 p6 reread. Conducting contact charge equalization can dissipate electrical energy despite mechanically elastic collision; ordinary electrostatic energy plus momentum and explicit contact approximation suffice. This affects the numerical idealization rather than introducing an outside physical prerequisite. KEEP confirmed, with conflict preserved in source-quality notes."
+  },
+  {
+    "screening_unit_id": "raw::5619",
+    "detail": "Focused supplied-model review: Q26 p7 and intact operator render reopened. Given quadratic psi satisfies Dirichlet ends, but H psi is a nonzero constant and violates them, so psi is not in the squared-operator domain. Normalization and boundary integration diagnose the invalid H^2 application using the printed differential operator. No imported quantum evolution rule. KEEP confirmed; coefficient typo retained."
+  },
+  {
+    "screening_unit_id": "raw::5620",
+    "detail": "Focused boundary review: Q27 p7 reread. A sharp quantized angular momentum can give zero spread, while a periodic angle cannot be handled by the naive unbounded-coordinate uncertainty argument. The angular operator/domain rule is unsupplied. Basic angular-momentum scope covers a substantial opening, but the central explanatory prerequisite remains uncertain. BORDERLINE confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5622",
+    "detail": "Focused supplied-model review: Q29 p7 and shared-upper-level diagram reopened. Classical oscillator permission supports dispersion algebra, but susceptibility weights depend on populations and transition strengths; laser pumping does not define those quantitatively. A full self-contained two-line model is absent. BORDERLINE confirmed rather than rejecting the optical context or inventing inversion parameters."
+  },
+  {
+    "screening_unit_id": "raw::5623",
+    "detail": "Focused supplied-model review: Q30 p8 and full master-equation render reopened. Trace cyclicity removes the Hamiltonian term; double commutator gives position variance. The friction term also requires a value for the position-momentum commutator, which is not supplied. Thus the purity threshold is not entirely a defined algebra problem. BORDERLINE confirmed; normalization typo is separately recorded."
+  },
+  {
+    "screening_unit_id": "raw::5608",
+    "detail": "Seeded REJECT QC (2026100405): complete Q15 and concentration-temperature ellipse p4 reopened. The requested free-energy reconstruction needs mixture chemical-potential/common-tangent phase equilibrium not provided by the ellipse or simple single-substance phase scope. It is the sole central task. REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5606",
+    "detail": "Seeded KEEP QC (2026100405): complete Q13 p4 reread. Different solid placement follows ordinary cooling paths: argon condenses and collects as liquid before freezing, whereas carbon dioxide deposits directly on cold walls under ordinary pressure. Qualitative material phase facts suffice; no specialized kinetics law requested. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5594",
+    "detail": "Format QC: complete experimental Q1 p1 reread. Mass-scaling exponent is defined; inertia integration and rolling energy connect stopwatch/ruler measurements to D. Foil experiment is a legitimate measurement extension and remains within the one top-level unit. KEEP confirmed."
+  }
+]

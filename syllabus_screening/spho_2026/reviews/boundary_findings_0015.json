@@ -1,0 +1,125 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0015.json",
+  "papers": [
+    {
+      "file_id": 182,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Experimental Q2 Wiedemann-Franz, internal Parts A-D; equipment and calibration belong to that experiment. No additional top-level problem."
+    },
+    {
+      "file_id": 189,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Q1 LIGO, internal Parts A-B. No additional top-level problem."
+    },
+    {
+      "file_id": 191,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Q2 neutrino, internal Parts A-B. No additional top-level problem."
+    },
+    {
+      "file_id": 195,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Q3 live systems, internal Parts A-B. No additional top-level problem."
+    },
+    {
+      "file_id": 202,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Experimental Q1 paper transistor, internal Parts A-D and equipment. No additional top-level problem."
+    },
+    {
+      "file_id": 204,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Experimental Q2 polymer viscoelasticity, internal Parts A-D and equipment. No additional top-level problem."
+    },
+    {
+      "file_id": 209,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. T1 repeated on all five pages; prior all-page rendered inspection reused because extraction is damaged. No additional top-level problem."
+    },
+    {
+      "file_id": 212,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. T2 repeated on all six pages; prior all-page rendered inspection reused because extraction is damaged. No additional top-level problem."
+    },
+    {
+      "file_id": 215,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. T3 repeated on all five pages; prior all-page rendered inspection reused because extraction is damaged. No additional top-level problem."
+    },
+    {
+      "file_id": 220,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. E1 repeated on all eight pages; prior all-page rendered inspection reused because extraction is damaged. No additional top-level problem."
+    },
+    {
+      "file_id": 224,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. E2 repeated on all eleven pages; prior all-page rendered inspection reused because extraction is damaged. No additional top-level problem."
+    },
+    {
+      "file_id": 227,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Q1 Two Problems in Mechanics: hidden disk and rotating station are explicitly internal Parts A-B of one 10-point problem. No additional top-level problem."
+    },
+    {
+      "file_id": 230,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Q2 nonlinear circuits, internal Parts A-C. No additional top-level problem."
+    },
+    {
+      "file_id": 233,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Q3 Large Hadron Collider, internal Parts A-B. No additional top-level problem."
+    },
+    {
+      "file_id": 239,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. pp1-4 general experimental instructions and shared equipment; pp5-13 experimental Q1 conductivity only, internal Parts A-E. No additional top-level problem."
+    },
+    {
+      "file_id": 244,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Experimental Q2 jumping beads, internal Parts A-C. No additional top-level problem."
+    },
+    {
+      "file_id": 256,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. E-I helical diffraction, internal Parts A-B and apparatus. No additional top-level problem."
+    },
+    {
+      "file_id": 258,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. E-II surface-wave diffraction, internal Parts C-E and apparatus; E1-E3 are internal numbered viscosity outputs, not three experiments. No additional top-level problem."
+    },
+    {
+      "file_id": 265,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. Problem 2 van der Waals gas, internal Parts A-B. No additional top-level problem."
+    },
+    {
+      "file_id": 271,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. One 20-point experimental problem To See Invisible, internal Parts 1/2 and apparatus Appendix A/B. No additional top-level problem."
+    },
+    {
+      "file_id": 275,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. p1 constants data sheet only; pp2-5 one T1 Maribo meteorite. No additional top-level problem."
+    },
+    {
+      "file_id": 277,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. p1 constants data sheet only; pp2-5 one T2 plasmonic steam generator. No additional top-level problem."
+    },
+    {
+      "file_id": 278,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. p1 constants data sheet only; pp2-5 one T3 Greenland ice sheet. No additional top-level problem."
+    },
+    {
+      "file_id": 280,
+      "observed_units": 1,
+      "evidence": "Manually inspected all-page physical-file boundary packet and reused persisted complete statement/render inspection. One E1 speed-of-light experiment, internal sections 1.1-1.4; shared laser distance meter. No additional top-level problem."
+    }
+  ]
+}

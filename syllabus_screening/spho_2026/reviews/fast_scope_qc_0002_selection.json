@@ -1,0 +1,70 @@
+{
+  "seed": 20261004648,
+  "pool_size": 648,
+  "sample": [
+    {
+      "screening_unit_id": "derived::76d27df5c0e7be73::4066::1",
+      "source_file_id": 3000,
+      "problem_number": "1",
+      "page_start": 3,
+      "page_end": 3,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "raw::4812",
+      "source_file_id": 3105,
+      "problem_number": "29",
+      "page_start": null,
+      "page_end": null,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "derived::00e82bfde1b28e03::4069::26",
+      "source_file_id": 3007,
+      "problem_number": "26",
+      "page_start": 11,
+      "page_end": 11,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "derived::8dfdaee6de87e2da::4070::37",
+      "source_file_id": 3008,
+      "problem_number": "37",
+      "page_start": 15,
+      "page_end": 15,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "derived::9c8ad5196a91ffd3::4064::12",
+      "source_file_id": 2998,
+      "problem_number": "12",
+      "page_start": 8,
+      "page_end": 8,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "raw::4785",
+      "source_file_id": 3105,
+      "problem_number": "2",
+      "page_start": null,
+      "page_end": null,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "raw::4755",
+      "source_file_id": 3104,
+      "problem_number": "41",
+      "page_start": null,
+      "page_end": null,
+      "decision": "KEEP"
+    },
+    {
+      "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::10",
+      "source_file_id": 3009,
+      "problem_number": "10",
+      "page_start": 4,
+      "page_end": 4,
+      "decision": "KEEP"
+    }
+  ]
+}

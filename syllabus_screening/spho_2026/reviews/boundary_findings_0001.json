@@ -1,0 +1,332 @@
+{
+  "decision_batch": "fast_scope_0168.json",
+  "papers": [
+    {
+      "file_id": 3067,
+      "observed_units": 8,
+      "evidence": "Complete six-page source inspected during scope pass and deferred finding rechecked: printed Q1-Q8; Q8 is the slingshot on p5; p6 blank. Seven acquisition rows omitted Q8.",
+      "missing": [
+        {
+          "label": "8",
+          "start": 5,
+          "end": 5,
+          "section": "Problems",
+          "format": "theory",
+          "physics": "Hooke-law slingshot work/energy and supplied spring stiffness k=EA/L",
+          "decision": "KEEP",
+          "reason": "KEEP: Hooke-law slingshot work/energy and supplied spring stiffness k=EA/L.",
+          "render": false,
+          "title": "Slingshot",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        }
+      ]
+    },
+    {
+      "file_id": 2001,
+      "observed_units": 7,
+      "evidence": "Complete eleven-page paper inspected: six numbered semifinal problems and independent OSA Part C Bonus Question on p11; scratch/instruction pages add no problems.",
+      "missing": [
+        {
+          "label": "C-Bonus",
+          "start": 11,
+          "end": 11,
+          "section": "Part C / OSA Bonus",
+          "format": "theory",
+          "physics": "Spherical-cap droplet geometry, supplied lensmaker formula and contact-angle reasoning",
+          "decision": "KEEP",
+          "reason": "KEEP: Spherical-cap droplet geometry, supplied lensmaker formula and contact-angle reasoning.",
+          "render": false,
+          "title": "Optical Society of America Bonus Question",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        }
+      ]
+    },
+    {
+      "file_id": 1644,
+      "observed_units": 2,
+      "evidence": "All three pages and renders inspected: paper-filter experiment then independently titled magnetic-moment experiment, each 10 points and 2.5 hours. Force formulas E1.1/E1.2 and friction data explicitly supplied on pp2-3.",
+      "missing": [
+        {
+          "label": "E2",
+          "start": 1,
+          "end": 3,
+          "section": "Experimental",
+          "format": "experimental",
+          "physics": "Supplied axial/lateral magnet forces, mechanical balance, two measurement methods and uncertainty",
+          "decision": "KEEP",
+          "reason": "KEEP: Supplied axial/lateral magnet forces, mechanical balance, two measurement methods and uncertainty.",
+          "render": true,
+          "title": "Midiendo momentos magneticos con reglas graduadas",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained. Cached statement renders inspected for supplied equations and apparatus."
+        }
+      ]
+    },
+    {
+      "file_id": 2661,
+      "observed_units": 25,
+      "evidence": "Entire 24-page paper checked: Part A Q1-Q5 pp3-10, Part B Q1-Q20 pp11-18 with explicit end-of-paper and answer grid; pp19-24 blank/administrative. Twenty independent Part B MCQs omitted from acquisition.",
+      "missing": [
+        {
+          "label": "B1",
+          "start": 11,
+          "end": 11,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Electrostatic charge distribution on a conducting sphere",
+          "decision": "KEEP",
+          "reason": "KEEP: Electrostatic charge distribution on a conducting sphere.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B2",
+          "start": 11,
+          "end": 11,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Dielectric polarization attraction",
+          "decision": "KEEP",
+          "reason": "KEEP: Dielectric polarization attraction.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B3",
+          "start": 11,
+          "end": 11,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Coulomb force scaling",
+          "decision": "KEEP",
+          "reason": "KEEP: Coulomb force scaling.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B4",
+          "start": 11,
+          "end": 12,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Electrostatic conductor shielding and induced charges",
+          "decision": "KEEP",
+          "reason": "KEEP: Electrostatic conductor shielding and induced charges.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B5",
+          "start": 12,
+          "end": 12,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Electric potential and work",
+          "decision": "KEEP",
+          "reason": "KEEP: Electric potential and work.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B6",
+          "start": 12,
+          "end": 12,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Electric field from equipotential spacing",
+          "decision": "KEEP",
+          "reason": "KEEP: Electric field from equipotential spacing.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B7",
+          "start": 12,
+          "end": 13,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Electric force direction from potential",
+          "decision": "KEEP",
+          "reason": "KEEP: Electric force direction from potential.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B8",
+          "start": 13,
+          "end": 13,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Coulomb equilibrium stability",
+          "decision": "KEEP",
+          "reason": "KEEP: Coulomb equilibrium stability.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B9",
+          "start": 13,
+          "end": 13,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Ionic drift current",
+          "decision": "KEEP",
+          "reason": "KEEP: Ionic drift current.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B10",
+          "start": 13,
+          "end": 14,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Series/parallel lamp power",
+          "decision": "KEEP",
+          "reason": "KEEP: Series/parallel lamp power.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B11",
+          "start": 14,
+          "end": 14,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Applied electric field in a resistive filament",
+          "decision": "KEEP",
+          "reason": "KEEP: Applied electric field in a resistive filament.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B12",
+          "start": 14,
+          "end": 14,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Magnetic field-line continuity",
+          "decision": "KEEP",
+          "reason": "KEEP: Magnetic field-line continuity.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B13",
+          "start": 15,
+          "end": 15,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Magnetic dipole force and torque",
+          "decision": "KEEP",
+          "reason": "KEEP: Magnetic dipole force and torque.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B14",
+          "start": 15,
+          "end": 15,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Lorentz-force charge separation in a moving metal",
+          "decision": "KEEP",
+          "reason": "KEEP: Lorentz-force charge separation in a moving metal.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B15",
+          "start": 15,
+          "end": 16,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Magnetic force on a current-carrying wire",
+          "decision": "KEEP",
+          "reason": "KEEP: Magnetic force on a current-carrying wire.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B16",
+          "start": 16,
+          "end": 16,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Magnetic field of a long wire and Earth-field direction",
+          "decision": "KEEP",
+          "reason": "KEEP: Magnetic field of a long wire and Earth-field direction.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B17",
+          "start": 16,
+          "end": 16,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Long-wire field and Lorentz force scaling",
+          "decision": "KEEP",
+          "reason": "KEEP: Long-wire field and Lorentz force scaling.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B18",
+          "start": 16,
+          "end": 17,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Faraday induction and changing magnetic flux",
+          "decision": "KEEP",
+          "reason": "KEEP: Faraday induction and changing magnetic flux.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B19",
+          "start": 17,
+          "end": 17,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Eddy-current braking at magnetic-region boundaries",
+          "decision": "KEEP",
+          "reason": "KEEP: Eddy-current braking at magnetic-region boundaries.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        },
+        {
+          "label": "B20",
+          "start": 18,
+          "end": 18,
+          "section": "Part B",
+          "format": "mcq",
+          "physics": "Induced electric field around a changing solenoid field",
+          "decision": "KEEP",
+          "reason": "KEEP: Induced electric field around a changing solenoid field.",
+          "render": false,
+          "title": "",
+          "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained."
+        }
+      ]
+    }
+  ]
+}

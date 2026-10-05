@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::356",
+    "detail": "Focused supplied-model/whole-problem check: rendered statement p2 and official solution 1171 pp3-6, p5 rendered. Biprism impulse gives kx; fringe period pi/kx is independent of relativistic energy. Electrostatic and interference work dominates; c(ii) and d(iv) are peripheral relativistic corrections. Confirm KEEP."
+  },
+  {
+    "screening_unit_id": "raw::360",
+    "detail": "Focused supplied-model check: all statement pages read, Lorentz coordinate transforms supplied in Part C, but relativistic dynamical momentum not supplied. Official solution 1183 p1 begins F=d(gamma m v)/dt, then acceleration feeds Parts B-E and GPS result. Central unsupplied prerequisite; confirm REJECT."
+  }
+]

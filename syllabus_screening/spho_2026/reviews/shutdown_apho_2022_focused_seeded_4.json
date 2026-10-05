@@ -1,0 +1,18 @@
+[
+  {
+    "screening_unit_id": "raw::323",
+    "detail": "Theory QC Random(2026100433) selects raw::323. All four statement images and two-page transcription reviewed. Fixed +/-mu_x supplied explicitly, and C3 air-gap continuation assumption supplied/exempted. Classical F_x=mu*dB/dx and constant-acceleration then free-flight geometry confirmed by official key1004 p2 image; no quantum spin measurement/state theory or boundary-field derivation is needed. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::324",
+    "detail": "Focused specialized-model check. The actual full statement supplies Landau polynomial and M=M0*(1-T/Tc)^.5, asking only an analogy to bead equilibrium. Mechanical equilibrium cos(theta0)=g/(omega^2*R) and Taylor expansion give the square-root onset through elementary calculus. Potential defined by tangential force and oscillation formula given. Friction/force model restriction disclosed. Whole KEEP; no unsupplied Landau/critical theory."
+  },
+  {
+    "screening_unit_id": "raw::325",
+    "detail": "Focused radiation prerequisite check. Charge-cloud electrostatics gives linear restoring force. Given variables imply s proportional p0^2*omega^4/(epsilon0*c^3), and coefficient1/(12*pi) explicitly supplied. Thus deriving radiation fields is not required. Given I=.5*c*epsilon0*E0^2 and S=n0*s close loss ODE; aerosol geometric coefficient also given. All A-G inside operational scope and supplied models. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::327",
+    "detail": "Experiment QC Random(2026100434) and focused simulator/source conflict check. Full four-page task and twelve-page acoustic key read; rendered pp2/4/5/7/12 establish classical Doppler, arrival-time triangulation and stationary-detector extrema inference. Preserved original JS archive contains SHA-identical original statements and explicit author credits. Headless stationary detector5-55s gives2500 finite samples and min543.5788577Hz, consistent with key trend; separate v10/gamma0 test proves moving-detector input bug. No simulated QC output is represented as an actual laboratory measurement. Archive mislinked solution2 and key p5 frequency typo recorded. Physical scope KEEP; original code retained unmodified."
+  }
+]

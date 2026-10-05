@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-10-04T09:25:36.381142+00:00",
+  "status": "Known source PDF structure defects; full validation remains failed and assertion unchanged",
+  "affected_files": [
+    {
+      "file_id": 2680,
+      "source_file": "originals/brtst/2026/SOIF_2026_Q1-5__c53e74c3de916c9b.pdf",
+      "sha256": "c53e74c3de916c9bcbc01982f10c59ad806deb1b72ba601773974d0ac386b904",
+      "hash_matches_original": true,
+      "page_count": 9,
+      "registered_page_count": 9,
+      "all_pages_load": true,
+      "automatic_structure_repair_required": true
+    },
+    {
+      "file_id": 2682,
+      "source_file": "originals/brtst/2025/SOIF_2025_Q1-5__765e2d55f17e69aa.pdf",
+      "sha256": "765e2d55f17e69aad3fe828fb973debc1701f8c203f75eea9322b441122e5e8c",
+      "hash_matches_original": true,
+      "page_count": 7,
+      "registered_page_count": 7,
+      "all_pages_load": true,
+      "automatic_structure_repair_required": true
+    },
+    {
+      "file_id": 2683,
+      "source_file": "originals/brtst/2024/SOIF_2024_Q1-5__a3c7a29f8f73afca.pdf",
+      "sha256": "a3c7a29f8f73afca85b448436fb11422498440b76821118edc47860617e0f6db",
+      "hash_matches_original": true,
+      "page_count": 7,
+      "registered_page_count": 7,
+      "all_pages_load": true,
+      "automatic_structure_repair_required": true
+    },
+    {
+      "file_id": 2686,
+      "source_file": "originals/brtst/2023/SOIF_2023_Q1-5__12ab9d23de30dac3.pdf",
+      "sha256": "12ab9d23de30dac3c529a3a9634279b7ca310359a466f7ba2a10cc392baeb775",
+      "hash_matches_original": true,
+      "page_count": 5,
+      "registered_page_count": 5,
+      "all_pages_load": true,
+      "automatic_structure_repair_required": true
+    },
+    {
+      "file_id": 2688,
+      "source_file": "originals/brtst/2021/SOIF_2021_Q1-6__472497ab6b8c1027.pdf",
+      "sha256": "472497ab6b8c102771d1d7056ca49fbfbc03f39e4b4d43947ec7aa05d354f182",
+      "hash_matches_original": true,
+      "page_count": 4,
+      "registered_page_count": 4,
+      "all_pages_load": true,
+      "automatic_structure_repair_required": true
+    }
+  ],
+  "scope_decisions_affected": false,
+  "action": "Defer separately repaired derivative/provenance work during scope prefilter. Immutable originals unchanged. No failed assertion suppressed."
+}

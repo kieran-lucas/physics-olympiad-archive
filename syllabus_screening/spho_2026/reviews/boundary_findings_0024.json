@@ -1,0 +1,205 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0024.json",
+  "papers": [
+    {
+      "file_id": 2445,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Added-mass/superconducting analogy, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2447,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Electrons in magnetic field, internal Parts A-B. No additional independent question."
+    },
+    {
+      "file_id": 2449,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Polarization/Pockels/interference, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2451,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Sliding block, internal Parts A-B. No additional independent question."
+    },
+    {
+      "file_id": 2454,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One AC resonance experiment. No additional independent question."
+    },
+    {
+      "file_id": 2455,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Gradient optics experiment, internal Parts A-C and shared apparatus. No additional independent question."
+    },
+    {
+      "file_id": 2456,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Semiconductor plate experiment, internal Parts A-B. No additional independent question."
+    },
+    {
+      "file_id": 2460,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One gravitational three-body problem. No additional independent question."
+    },
+    {
+      "file_id": 2462,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Thermoelectricity, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2464,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Electrical discharge, internal Parts A-B. No additional independent question."
+    },
+    {
+      "file_id": 2466,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One pursuit-motion problem. No additional independent question."
+    },
+    {
+      "file_id": 2468,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One isobar-map/weather problem. No additional independent question."
+    },
+    {
+      "file_id": 2469,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One thermal rocket problem. No additional independent question."
+    },
+    {
+      "file_id": 2471,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One rotating mercury-cylinder problem. No additional independent question."
+    },
+    {
+      "file_id": 2473,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One mirror-wall liquid-cylinder problem. No additional independent question."
+    },
+    {
+      "file_id": 2475,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Superresolution fluorescence, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2477,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Gravitational lensing, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2479,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One magnetic material separation problem. No additional independent question."
+    },
+    {
+      "file_id": 2481,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Membrane ion-channel problem, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2483,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One superfluid helium problem. No additional independent question."
+    },
+    {
+      "file_id": 2485,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One phase/group-velocity problem. No additional independent question."
+    },
+    {
+      "file_id": 2487,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One spinning-ball mechanics problem. No additional independent question."
+    },
+    {
+      "file_id": 2488,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One upwind sailing problem. No additional independent question."
+    },
+    {
+      "file_id": 2491,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One submerged-air-bubble problem. No additional independent question."
+    },
+    {
+      "file_id": 2493,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One constant-power electrical source problem. No additional independent question."
+    },
+    {
+      "file_id": 2495,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One two-parallel-mirror problem. No additional independent question."
+    },
+    {
+      "file_id": 2496,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. System stability, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2499,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One boomerang motion problem. No additional independent question."
+    },
+    {
+      "file_id": 2501,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. Comet, internal Parts A-B. No additional independent question."
+    },
+    {
+      "file_id": 2503,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One SERS spectroscopy problem, internal Parts A-D. No additional independent question."
+    },
+    {
+      "file_id": 2505,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One magnetic field/star-contraction problem. No additional independent question."
+    },
+    {
+      "file_id": 2506,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One gravitation/electromagnetic analogy problem, p2 tags/footer. No additional independent question."
+    },
+    {
+      "file_id": 2507,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One freezing-rain problem. No additional independent question."
+    },
+    {
+      "file_id": 2508,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One analemma problem, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2509,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One antenna problem, internal Parts A-C. No additional independent question."
+    },
+    {
+      "file_id": 2510,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One suspended-rod problem. No additional independent question."
+    },
+    {
+      "file_id": 2512,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One ideal-gas cyclic process. No additional independent question."
+    },
+    {
+      "file_id": 2513,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One infinite-wire-network problem. No additional independent question."
+    },
+    {
+      "file_id": 2515,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One two-thermodynamic-cycle problem. No additional independent question."
+    },
+    {
+      "file_id": 2516,
+      "observed_units": 1,
+      "evidence": "Complete persisted actual statement inspection reused; all-page cached title/continuation/end boundary evidence manually checked. One switched electrical-circuit problem. No additional independent question."
+    }
+  ]
+}

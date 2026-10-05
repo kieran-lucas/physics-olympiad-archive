@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::4380",
+    "detail": "Focused review: Fast statement pass: source 3089, printed 11, PDF pp 11-11. Complete statement read, including shared instructions. Official Solution 11 confirms central unsupplied Larmor formula. Verdict retained: REJECT"
+  },
+  {
+    "screening_unit_id": "raw::4400",
+    "detail": "Focused review: Fast statement pass: source 3089, printed 31, PDF pp 34-34. Complete statement read, including shared instructions. Official Solution 31 confirms supplied quantum weight leaves classical magnetostatics and integration. Verdict retained: KEEP"
+  }
+]

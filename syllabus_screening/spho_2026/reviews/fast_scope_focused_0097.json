@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::653",
+    "detail": "Focused boundary review: complete1571 pp1-7 read and rendered pp4-5 inspected. Independent E1/E2 headers, pagination reset and separate7/13-point totals verify two whole experiments; A/B belong to E1, C/D/E to E2, shared simulator introduction pp1-3. Supplied simulator computes interactions; magnetization/hysteresis/critical-point plotting requires no unsupplied Ising theory. KEEP confirmed; no subparts split."
+  },
+  {
+    "screening_unit_id": "derived::05b58ff9ccf3d4d5::embedded::E2",
+    "detail": "Focused boundary review: complete1571 pp1-7 read and rendered pp4-5 inspected. Independent E1/E2 headers, pagination reset and separate7/13-point totals verify two whole experiments; A/B belong to E1, C/D/E to E2, shared simulator introduction pp1-3. Supplied simulator computes interactions; magnetization/hysteresis/critical-point plotting requires no unsupplied Ising theory. KEEP confirmed; no subparts split."
+  }
+]

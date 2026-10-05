@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "derived::5759ef1bcc4d0cdb::1687::3",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed KEEP: Explicit two-level probabilities, heat and work definitions; Otto and Carnot thermodynamics."
+  },
+  {
+    "screening_unit_id": "derived::59b01e7f1bf3e94a::1692::3",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed REJECT: Relativistic rocket dynamics and velocity composition are central and unsupplied."
+  },
+  {
+    "screening_unit_id": "raw::363",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed KEEP: Newtonian damped motion, supplied dipole fields, induction and resistive energy."
+  },
+  {
+    "screening_unit_id": "raw::388",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed KEEP: Explicit negative-phase optical model; refraction, interference and electrostatic dipole energies."
+  },
+  {
+    "screening_unit_id": "derived::e93b019d5bc48cd8::1688::1",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed KEEP: Asymmetric rigid wheel, rolling constraint, inertia, Newtonian forces and torque."
+  },
+  {
+    "screening_unit_id": "raw::2419",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed KEEP: Thermal conduction/radiation with supplied convection relation."
+  },
+  {
+    "screening_unit_id": "derived::2e30b56ab9274363::1700::二",
+    "detail": "Seeded fast-pass QC9, seed 20261004450, seven of 432; complete actual statement reread. Confirmed KEEP: Newtonian solar transfer ellipse and Earth escape energy."
+  }
+]

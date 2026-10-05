@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::2486",
+    "detail": "Focused supplied-model check: Explicitly supplied relativistic momentum and energy relations. Render confirms the requisite model is explicitly supplied; remaining work is general physics and algebra."
+  },
+  {
+    "screening_unit_id": "raw::2499",
+    "detail": "Focused supplied-model check: Supplied photon gravitational-mass model and Newtonian potential-energy loss. Render confirms the requisite model is explicitly supplied; remaining work is general physics and algebra."
+  }
+]

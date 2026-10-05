@@ -1,0 +1,410 @@
+[
+  {
+    "source_problem_id": 2597,
+    "boundary_evidence": "All rendered statement pages inspected. Printed Q1-Q7 headings verified; compulsory general Q1 keeps its internal parts. Archive year retained despite printed following competition year.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2599,
+    "boundary_evidence": "All rendered statement pages inspected. Printed Q1-Q7 headings verified; compulsory general Q1 keeps its internal parts. Archive year retained despite printed following competition year.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2601,
+    "boundary_evidence": "All rendered statement pages inspected. Printed Q1-Q9 headings verified; compulsory general Q1 keeps its internal parts. Archive year retained despite printed following competition year.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2603,
+    "boundary_evidence": "All rendered statement pages inspected. Printed Q1-Q9 headings verified; compulsory general Q1 keeps its internal parts. Archive year retained despite printed following competition year.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2605,
+    "boundary_evidence": "All rendered statement pages inspected. Printed Q1-Q10 headings verified; compulsory general Q1 keeps its internal parts. Archive year retained despite printed following competition year.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      },
+      {
+        "number": "10",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "source_label_present": true
+        }
+      }
+    ]
+  }
+]

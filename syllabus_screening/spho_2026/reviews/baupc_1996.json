@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::905711205a548329::6391::1",
+      "KEEP",
+      "I_force_motion",
+      "Elastic collisions, gravitational energy and mass-ratio limits",
+      "The whole stacked-ball problem is completely specified in words despite absent decorative diagrams.",
+      "Complete scanned BAUPC 1996 Problem 1 text visually read on file 3174 page(s) 1-1; referenced figures checked for actual presence. ",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::905711205a548329::6391::2",
+      "KEEP",
+      "VI_electric_field;I_force_motion",
+      "Charged-ring potential symmetry and buoyancy/hydrostatic forces",
+      "Both ring-field proof and immersed-balloon argument are ordinary electrostatics/statics; text specifies their geometries.",
+      "Complete scanned BAUPC 1996 Problem 2 text visually read on file 3174 page(s) 2-2; referenced figures checked for actual presence. ",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::905711205a548329::6391::3",
+      "BORDERLINE",
+      "VI_electric_field",
+      "Ohm law and symmetry of a cube resistor network",
+      "Circuit physics is in scope, but the referenced labelled cube drawing is absent; the A-C terminal relationship cannot be established from the statement with confidence.",
+      "Complete scanned BAUPC 1996 Problem 3 text visually read on file 3174 page(s) 3-3; referenced figures checked for actual presence. Related solution page(s) were visually inspected.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      1,
+      "medium",
+      "No external physics established; source geometry incomplete."
+    ],
+    [
+      "derived::905711205a548329::6391::4",
+      "KEEP",
+      "I_force_motion",
+      "Elastic projectile reflection, momentum transfer and surface slope",
+      "The rings and general symmetric curve are specified in text; momentum/ballistic geometry establishes the method, also confirmed by solution pages 3-4.",
+      "Complete scanned BAUPC 1996 Problem 4 text visually read on file 3174 page(s) 4-4; referenced figures checked for actual presence. Related solution page(s) were visually inspected.",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      1,
+      "high",
+      ""
+    ],
+    [
+      "derived::905711205a548329::6391::5",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Rocking rigid-body energy and inelastic pivot switching",
+      "The two-stick geometry and collision assumptions are fully worded; the infinite sequence is a calculus challenge, not external physics.",
+      "Complete scanned BAUPC 1996 Problem 5 text visually read on file 3174 page(s) 5-5; referenced figures checked for actual presence. ",
+      [
+        5,
+        5
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::905711205a548329::6391::6",
+      "KEEP",
+      "I_force_motion",
+      "Rolling dynamics on a uniformly stretching moving support",
+      "The supplied limiting masses, inertia and band kinematics are enough; no rubber constitutive theory is needed.",
+      "Complete scanned BAUPC 1996 Problem 6 text visually read on file 3174 page(s) 6-6; referenced figures checked for actual presence. ",
+      [
+        6,
+        6
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

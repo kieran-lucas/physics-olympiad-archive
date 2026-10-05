@@ -1,0 +1,22 @@
+[
+  {
+    "screening_unit_id": "raw::328",
+    "detail": "Theory QC Random(2026100435) selects328, plus focused water-hammer prerequisite check. Whole statement and official8-page solution read. Rendered key1 derives pressure change by momentum impulse and continuity; bulk modulus closes sound speed. Rendered key6/7 derive the four-step recurrence through fixed/free reflections and Bernoulli valve relation/graph intersections. No Navier-Stokes or unsupplied constitutive law. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::329",
+    "detail": "Focused supplied quantum/anisotropic model review. Actual statementp4 expressly defines field-amplitude coefficients and intensity-product probability after superposition, while p5 supplies CHSH bound and observable. Official C4/C5 renders9/10 show only linear polarizer projection, squared amplitudes and elementary probabilities/trig. C3 official7/8 uses supplied refractive dispersion, Taylor and vector geometry, not additional photon interaction theory. Key sign/probability conflicts recorded. Whole KEEP; no arbitrary exemption for a quantum title."
+  },
+  {
+    "screening_unit_id": "raw::330",
+    "detail": "Focused specialized magnetic model review. Statementp3 supplies full film PDE and p4 explicitly permits extending image picture and describes +/- hopping sources. Official1041 all7 text, images2/4/5/6 confirm integration/symmetry, supplied skin-depth effective thickness and classical dipole force/oscillations. Statementp5 supplies field exclusion sigma to infinity; no superconducting microscopic theory. Skin correction is peripheral and uses defined penetration depth. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::331",
+    "detail": "Focused unsupplied beam-theory check. Actual p7 supplies entire bending compliance/I; p9/10 supplies bilayer strains, moment balance and complete final curvature/displacement formulas. Key1045 p4 image obtains C1 from plotted supplied-model displacement versus PSD measurements, not solving beam-shape PDE. D empirical coverage response is given and calibrated. Whole KEEP confirmed; software preserved, no simulated experiment falsely claimed."
+  },
+  {
+    "screening_unit_id": "raw::332",
+    "detail": "Experiment QC Random(2026100436) selects332. All seven statement images inspected, including actual close-packed sphere micrograph and every A-E task. Key1049 pp1-3 text/pp1/3 renders give ordinary d=m*lambda/sin(atan(S/L)) and a/d=2/sqrt(3), confirming phase geometry/triangular packing. Visible and IR spot spacing inference uses same classical wave-optics relation. No advanced solid-state scattering model needed. Whole KEEP; existing software/provenance verified."
+  }
+]

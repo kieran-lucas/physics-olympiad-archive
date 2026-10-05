@@ -1,0 +1,46 @@
+[
+  {
+    "screening_unit_id": "derived::48dc659e9e1bc1b2::2599::6",
+    "detail": "Seed 20261004 random QC: Full-size page 10 re-read: annular particle flux, Coulomb closest approach and nucleus recoil require energy/momentum conservation. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::13f583f4157c7811::4067::25",
+    "detail": "Seed 20261004 random QC: Full-size page 11 MCQ and all options re-read: ordinary ice/steam latent-heat calorimetry. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::68a927f32a6a8f22::4037::2",
+    "detail": "Seed 20261004 random QC: Full-size page 2 re-read with block diagram and both internal cases: Newtonian tensions and friction. Source speed/acceleration wording conflict does not introduce external physics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4264",
+    "detail": "Seed 20261004 random QC: Cached complete cable-car statement re-read on physical page 7. Constraint geometry, work/energy and time integration suffice; no elastic/continuum cable theory is required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::aef53bc89bff7e1e::4038::10",
+    "detail": "Seed 20261004 random QC: Full-size page 6 re-read: moving observer reverses apparent superluminal arrival order, then transforms rod length/orientation. Unsupplied Lorentz transformations are central; REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4282",
+    "detail": "Seed 20261004 random QC: Statement re-read alongside official solution pp33-34: WKB probability is introduced only in the solution, not supplied in the problem. Tunneling controls the fusion rate; REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4255",
+    "detail": "Focused model review: Supplied Hubble velocity law plus ordinary light-travel kinematics in official solution p6: cosmological context is self-contained, KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4265",
+    "detail": "Focused model review: Statement and solution p14 supply both hypothetical monopole relations. Faraday/Ohm/Biot-Savart and mechanical motion use in-scope physics; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4279",
+    "detail": "Focused model review: Magnetization is explicitly in the SPhO syllabus; official solution p30 uses surface magnetization charges and elementary magnetic-force/stress balance. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4281",
+    "detail": "Focused model review: Official solution pp31-33 explicitly identifies relativistic hidden momentum and imports a specialized prior result. This coupling is not in the statement; REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4284",
+    "detail": "Focused model review: Statement and official solution pp35-36 reviewed: hydrostatics, ideal gas, latent heat and saturation thermodynamics can generate the model. KEEP scope confirmed, while conflicting methane labels/constants are explicitly flagged as source-quality defects."
+  }
+]

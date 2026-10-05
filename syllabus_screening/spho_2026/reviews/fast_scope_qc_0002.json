@@ -1,0 +1,34 @@
+[
+  {
+    "screening_unit_id": "derived::76d27df5c0e7be73::4066::1",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Local gravitational acceleration versus universal constants. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4812",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Composite planar physical pendulum inertia and center of mass. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::26",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Relative river velocity and elapsed times. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::37",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Thin-lens pair and ray convergence. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::9c8ad5196a91ffd3::4064::12",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Incline normal force and static friction. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4785",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Pendulum period and gravitational energy per week. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::4755",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Steady DC resistor circuit with settled capacitors. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::10",
+    "detail": "Seeded lightweight QC 8/648, seed20261004648: complete statement reread. Equal and opposite collision momentum changes. KEEP confirmed."
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::3718f60c0e82ec7a::6383::1",
+      "KEEP",
+      "I_force_motion",
+      "Variable-mass momentum balance and angular momentum",
+      "Both snowfall/sled strategies and arm swinging to avoid falling use ordinary momentum and torque, despite different contexts.",
+      "BAUPC 2004 question 1, complete statement and diagram on page 1 read and visually inspected.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::3718f60c0e82ec7a::6383::2",
+      "KEEP",
+      "I_force_motion",
+      "Distributed weight, tension and limiting static friction",
+      "The hanging rope on inclined platforms is a Newtonian equilibrium/optimization problem; its catenary can be derived from force balance.",
+      "BAUPC 2004 question 2, complete statement and diagram on page 1 read and visually inspected.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::3718f60c0e82ec7a::6383::3",
+      "KEEP",
+      "IX_em_oscillations_waves",
+      "Isotropic radiation fraction and solid-angle geometry",
+      "The square detector requires only the supplied isotropic-emission assumption and geometrical radiation collection, not detector microphysics.",
+      "BAUPC 2004 question 3, complete statement and diagram on page 2 read and visually inspected.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::3718f60c0e82ec7a::6383::4",
+      "KEEP",
+      "IX_em_oscillations_waves",
+      "Forced RLC circuit response and complex impedance",
+      "The tetrahedral circuit is ordinary electromagnetic oscillations/network analysis with stated frequency and component relations.",
+      "BAUPC 2004 question 4, complete statement and diagram on page 2 read and visually inspected.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::3718f60c0e82ec7a::6383::5",
+      "KEEP",
+      "I_force_motion",
+      "Conservation of momentum/energy and loss of contact",
+      "The sliding particle and moving hemisphere use Newtonian mechanics; unequal masses change the algebra, not the scope.",
+      "BAUPC 2004 question 5, complete statement and diagram on page 3 read and visually inspected.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::3718f60c0e82ec7a::6383::6",
+      "KEEP",
+      "I_force_motion",
+      "Rolling rigid-body dynamics, constraints and recursion",
+      "All cylinders have supplied inertia; the infinite stack adds mathematics to ordinary force/torque equations.",
+      "BAUPC 2004 question 6, complete statement and diagram on page 3 read and visually inspected.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0009.json",
+  "papers": [
+    {
+      "file_id": 477,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file rendered and manually audited against existing row. Laser forces on transparent prism: common setup with internal tasks 1)-4). No extra top-level statement; existing decision retained."
+    },
+    {
+      "file_id": 479,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file rendered and manually audited against existing row. Theoretical Problem 3 Electron beam: internal tasks 1)-4). No extra top-level statement; existing decision retained."
+    },
+    {
+      "file_id": 487,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file rendered and manually audited against existing row. Problem 2 longitudinal motion of a linear molecule: shared spring model with internal tasks 1)-4). No extra top-level statement; existing decision retained."
+    },
+    {
+      "file_id": 489,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file rendered and manually audited against existing row. Problem 3 satellite sunshine: shared radiative model with internal tasks 1)-5). No extra top-level statement; existing decision retained."
+    },
+    {
+      "file_id": 492,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file rendered and manually audited against existing row. Experimental Problem 2 grating/optical filters: shared equipment with internal tasks 1)-3). No extra top-level statement; existing decision retained."
+    },
+    {
+      "file_id": 501,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Complete physical file rendered and manually audited against existing row. One Three Terminal Black Box experiment on p1; p2 only circuit-symbol reference, rendered and checked. No extra top-level statement; existing decision retained."
+    },
+    {
+      "file_id": 495,
+      "observed_units": 2,
+      "missing": [],
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::164",
+          "start": 1,
+          "end": 1,
+          "evidence": "Q2 intro at end of p1 is identical to same page in fid497, which supplies its continuation. Already registered Q2, no new unit."
+        }
+      ],
+      "evidence": "Complete one-page file contains complete Q1 and beginning of Q2. Exact cached page text equals fid497 p1. Both printed identities already registered raw::163/164; additional partial-source relationship preserved."
+    },
+    {
+      "file_id": 497,
+      "observed_units": 2,
+      "missing": [],
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::163",
+          "start": 1,
+          "end": 1,
+          "evidence": "Complete Q1 matches fid495 p1 verbatim; already registered."
+        }
+      ],
+      "evidence": "Complete two-page source has Q1 plus Q2 starting p1 and continuing p2, then supplied relativity reference. Existing raw::163/164 represent both; preserve alternate Q1 source without creating duplicate logical problem."
+    },
+    {
+      "file_id": 503,
+      "observed_units": 2,
+      "missing": [],
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::168",
+          "start": 2,
+          "end": 2,
+          "evidence": "Rendered p2 prints Q2 beginning identical to fid505 p1."
+        }
+      ],
+      "evidence": "Both pages rendered: complete Q1 diffraction pp1-2; p2 also begins Q2 magnetosphere, already represented by raw::168/fid505. No genuinely missing unit; overlapping source relationship retained."
+    },
+    {
+      "file_id": 505,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Both pages rendered: Q2 magnetosphere begins p1 and completes p2; no other top-level problem. Its beginning/continuation also occur in adjacent physical extracts."
+    },
+    {
+      "file_id": 507,
+      "observed_units": 3,
+      "missing": [],
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::168",
+          "start": 1,
+          "end": 1,
+          "evidence": "Rendered p1 begins with Q2 continuation identical to fid505 p2 before Q3 heading."
+        },
+        {
+          "screening_unit_id": "raw::170",
+          "start": 2,
+          "end": 2,
+          "evidence": "Rendered p2 starts Q4 LED efficiency after Q3 ends; complete experiment represented by raw::170/fid510."
+        }
+      ],
+      "evidence": "Both pages rendered completely: Q2 continuation p1, complete Q3 rotating neutron star pp1-2, Q4 LED experiment beginning p2. All three already registered; alternate partial sources explicitly mapped, no count inflation."
+    }
+  ]
+}

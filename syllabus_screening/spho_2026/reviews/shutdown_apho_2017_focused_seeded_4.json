@@ -1,0 +1,18 @@
+[
+  {
+    "screening_unit_id": "raw::342",
+    "detail": "Focused advanced-fluid prerequisite check. Actual full statement supplies circulation, magnetic-wire field correspondence, superposition, advection, U(R),P(R) and zero wall-normal-flow condition. Official1084p8 image explicitly derives v=dU/dP using dU/dt=Fv=(dP/dt)v, which is ordinary power/momentum balance, not assumed Hamiltonian dynamics. Pp9-11 text and p11image use image vortices and energy conservation; equivalent trajectory follows supplied velocity ODEs. Free surface is centripetal/gravity equilibrium (keyp2). Complete supplied model closes task; whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::343",
+    "detail": "Focused supplied-GR check. Original1090p1 expressly states only Newtonian gravity except radiation; p4 explicitly supplies radiation-power formula, quadrupole and rg. Official1092p4 image substitutes Newtonian orbital speed into supplied power and integrates shrinkage; pp3/5text uses impact-parameter flux and ordinary orbital energy. No metric, redshift or relativistic transformation needed. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::344",
+    "detail": "Theory QC Random(2026100441) selects344. Full six-page original statement and key1101pp3-12 text confirm angular-momentum geometry plus Faraday/Ohm shell ring integration. Rendered7/11/12 shows ordinary induction, trigonometric body-frame field derivative and averaged torque ODE. Fuel sloshing rate is never requested: only final conserved-L energy minimum. No unsupplied continuum-liquid or specialized rotational formalism required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::345",
+    "detail": "Experiment QC seed2026100442 over singleton345 and focused photonic supplied-model check. Original full19 pages include Bragg-Snell, effective-index dry/wet laws, spectral-width formula, classical phase/intensity sums and p19 candidate table/structures. Key1115p10image matches observed minimum depths/missing orders to that given table; no band-gap calculation demanded. Numerical red-laser discrepancy650/659nm recorded separately. ONE20-point top-level task, all A-E/internal samples retained. Whole KEEP confirmed."
+  }
+]

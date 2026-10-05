@@ -1,0 +1,82 @@
+[
+  {
+    "screening_unit_id": "raw::6039",
+    "detail": "Focused full two-reservoir/recoil review: actual Q2 p2 reread. Doppler asymmetry and photon-frequency energy relation are explicitly described, and neither part asks a quantitative all-v transform. Directional radiation is not a single equilibrium heat bath in the moving frame; engine output and recoil can consume relative motion while radiation supplies energy. Photon p=E/c and energy/entropy balance are ordinary quantum-light foundations. Motion eventually changes relative to the radiation environment, not absolute space. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6043",
+    "detail": "Focused experimental-format and seeded QC (Random 2026100418 second selection): entire Q6 p3 reread. Changing ray entry height crosses a curved free surface/meniscus; Snell geometry and ordinary capillary equilibrium account for distorted screen illumination and comparison liquids. No unprovided nonlinear flow model is required. No apparatus run or observed data fabricated. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6047",
+    "detail": "Focused dominant-work review: all Q10 p4 clauses reread. Maxwell, Lorentz force and simple constitutive laws are ordinary operational EM prerequisites. Galilean derivative/force transformations demonstrate incompatibility; a sketch of the symmetry search can use the Maxwell wave operator as a mathematical invariant. Final Poincare/Lorentz question is an exploratory closing hint, unlike tasks requiring unsupplied boosts to obtain the main numerical results. Whole KEEP confirmed without changing the established rejection of central relativistic kinematics."
+  },
+  {
+    "screening_unit_id": "raw::6048",
+    "detail": "Focused moving-mirror model review: all Q11 p4 reread. A moving geometrical boundary admits an ordinary ray model, but arbitrary v, rest-frame object position and observer-frame size/orientation raise relativity of simultaneity and aberration, with no small-v convention supplied. Neither direction/geometry nor intended transformation is adequately fixed. Organizer 2005 row has no worked solution link; a planned book on the cover is not an accessible key. BORDERLINE retained for whole-model ambiguity."
+  },
+  {
+    "screening_unit_id": "raw::6049",
+    "detail": "Focused complete supplied-mathematics review: all Q12 p4 potentials, conjugates, Poisson definitions and complex matrix constraint reopened. Branch/distribution calculus supplies charge support and total charge; rotation group comparison is mathematical linear algebra. No GR, complex physical space or quantum law is necessary. The final group connection need not supply a missing physical boost for the earlier calculation. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6050",
+    "detail": "Focused rotating-coordinate and whole-atom review: all Q13 p5 reread. Explicit nonrelativistic instruction permits rigid coordinate/vector derivative transformations of known Maxwell/Newton laws, not an unsupplied relativistic observer tensor. The charge pair can be approximately circular only after neglecting classical radiation and recoil, precisely the approximation interpretation asked. Wave dispersion and these force/radiation balances remain ordinary physics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6051",
+    "detail": "Focused supplied energy versus kinetic-law review: complete Q14 p5 reread. The actual curvature-squared energy, self-crossing permission and planar surface restriction define a classical thermal bending model. Discretized curvature increments with Boltzmann weights reduce endpoint tangent angle to Gaussian/periodic probability mathematics; unknown stiffness can remain a parameter. This differs from earlier polymer-force tasks lacking a binding/kinetic model. KEEP confirmed, no quantum polymer theory added."
+  },
+  {
+    "screening_unit_id": "raw::6052",
+    "detail": "Focused PDE/boundary review: full Q15 p5 reread. The Laplacian/time-derivative law is operationally given. A constant concentration gradient has nonzero constant transport even when local divergence and time derivative vanish. Fixed reservoir faces maintain it; isolated boundaries do not. The stated puzzle is answerable with the supplied PDE/conservation. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6055",
+    "detail": "Seeded QC (Random 2026100418 first selection): all Q18 pp5-6 reread, including stored annihilation fuel, robot 200g and launch/mass logistics. Proper onboard acceleration and ageing, relativistic rocket energy and mass loss are not supplied. They are central dependencies for the entire lengthy numerical task, not simply an Einstein-context association. REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6056",
+    "detail": "Focused source-model review: complete Q19 p6 reread. It compares an accelerating cavity laser under surface/bulk/gravitational forcing and all properties beyond colour. Ordinary cavity dimensions do not supply material strain/stress response or accelerated/gravitational proper-frequency laws. Those central missing elastic/relativistic methods dominate the comparison. REJECT confirmed rather than treating unspecified acceleration as a supplied GR model."
+  },
+  {
+    "screening_unit_id": "raw::6057",
+    "detail": "Focused moving-material prerequisite review: full Q20 p6 reread. Fixed epsilon/mu define rest material only. At arbitrary medium V, wave dispersion, electric/magnetic orientation and omega=0 require transformed constitutive law and field/frequency relations, not just a classical coordinate relabelling. None are given and no nonrelativistic approximation is instructed. REJECT confirmed; stationary Cherenkov context alone is not the reason."
+  },
+  {
+    "screening_unit_id": "raw::6058",
+    "detail": "Focused partial supplied-decay-model review: full Q21 p6 reread. f(x)=16*x^2*(3-4*x), x=p_e/p_muon_mass and angular/general CM distribution are acknowledged. The central rest-to-lab momentum mapping and distribution Jacobian still require unsupplied massive relativistic boost/mass-shell relations. REJECT confirmed for those precise missing tools, not for absence of the weak-decay input."
+  },
+  {
+    "screening_unit_id": "raw::6059",
+    "detail": "Focused whole-problem review: all Q22 pp6-7 reread through massive-photon closing question. Box expansion and free sunlight are substantial ordinary photon thermodynamics; cosmological adiabatic cooling/symmetry and massive-photon change require additional missing cosmological redshift/dispersion structure. Neither side is a tiny peripheral calculation. No official source-linked worked answer resolves the intended depth. BORDERLINE retained, one parent across both pages."
+  },
+  {
+    "screening_unit_id": "raw::6064",
+    "detail": "Focused quadrupole/radiation dependency review: full Q27 p7 reread. A chosen ejecta trajectory can produce a Newtonian quadrupole, but conversion to emitted gravitational-wave intensity needs the missing gravitational radiation law. Since radiation is explicitly central and not recoverable from ordinary EM radiation, the whole REJECT remains."
+  },
+  {
+    "screening_unit_id": "raw::6066",
+    "detail": "Focused rendered-metric review: full Q29 p8 reopened. Actual metric has positive dt^2 and spatial signs despite claiming Minkowski asymptotics; person height is 180 cm. Even a repaired Lorentzian convention would not supply proper acceleration/Riemann tidal observer laws. REJECT confirmed on unsupplied central GR, with printed inconsistency preserved instead of silently repaired."
+  },
+  {
+    "screening_unit_id": "raw::6069",
+    "detail": "Focused fully supplied-force review: complete Q32 pp8-9 reread. Both r=aR and acceleration a-double-dot*R are printed, producing an explicit extra Newton force. Ordinary radial/angular equations and effective potential handle exponential expansion analytically and power/tanh examples numerically. No derivation of cosmological dynamics is requested under the explicit classical restriction. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6070",
+    "detail": "Focused equivalent-source and supplied-model review: full 2005 Q33 p9 and 2001 Q34 p8 actually compared text and rendered page. Identical record energy, target-neutrino premise, Z daughter fraction, angular weight and beam proposal establish an exact reprint. Both lack the central invariant-energy/boost law needed for inference. REJECT confirmed once; original 2001 canonical and later reprint provenance retained separately. The rest of 2001 paper is not yet boundary-verified."
+  },
+  {
+    "screening_unit_id": "raw::6072",
+    "detail": "Focused explanatory-depth review: entire Q35 p9 reread. Basic quantized atomic energy levels plus classical radiation can give a qualitative counterexample to photon inference from an energy threshold. The more demanding semiclassical emission probabilities and spontaneous/stimulated argument are quantum dynamics beyond those foundations, with no supplied transition model. The statement does not fix whether the former suffices. BORDERLINE retained; unavailable planned solutions not invented."
+  },
+  {
+    "screening_unit_id": "raw::6079",
+    "detail": "Focused actual-network review: Q42 p10 and all six four-terminal drawings reopened. Vertical/horizontal/cross-cell resistors and direct wires differ, so each fixed-orientation cell must be reduced from its actual topology. Kirchhoff conductance recursion and independent cell-choice probability give expected resistance/large-N behaviour. End termination and equal probabilities require a declared convention, not specialized percolation physics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6220",
+    "detail": "Focused equivalent-source and supplied-model review: full 2005 Q33 p9 and 2001 Q34 p8 actually compared text and rendered page. Identical record energy, target-neutrino premise, Z daughter fraction, angular weight and beam proposal establish an exact reprint. Both lack the central invariant-energy/boost law needed for inference. REJECT confirmed once; original 2001 canonical and later reprint provenance retained separately. The rest of 2001 paper is not yet boundary-verified. This event belongs to the canonical original source record; there is no second independent physical problem."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::1215",
+    "detail": "Seeded QC: full 2019 A Q11 re-read. Known path length and stopwatch uncertainty give speed uncertainty by ordinary propagation. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1238",
+    "detail": "Seeded QC: full 2019 B printed Q9 re-read, including actual supporting-board figure. Normal reactions and torque about the hinge determine F; no contact-material model is required. KEEP confirmed."
+  }
+]

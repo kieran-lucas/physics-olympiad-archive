@@ -1,0 +1,2006 @@
+[
+  {
+    "source_problem_id": 2573,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1.",
+          "heading_bbox": [
+            72.00039672851562,
+            67.86373138427734,
+            92.23125457763672,
+            79.86019134521484
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2574,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2.",
+          "heading_bbox": [
+            71.99996948242188,
+            69.04965209960938,
+            92.23082733154297,
+            81.04611206054688
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3.",
+          "heading_bbox": [
+            71.99996948242188,
+            69.04965209960938,
+            92.23082733154297,
+            81.04611206054688
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4.",
+          "heading_bbox": [
+            72.11996459960938,
+            69.16964721679688,
+            92.35082244873047,
+            81.16610717773438
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5.",
+          "heading_bbox": [
+            71.99996948242188,
+            69.04965209960938,
+            92.23082733154297,
+            81.04611206054688
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6.",
+          "heading_bbox": [
+            71.99996948242188,
+            69.04965209960938,
+            92.23082733154297,
+            81.04611206054688
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2576,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1.",
+          "heading_bbox": [
+            72.00039672851562,
+            47.223716735839844,
+            92.23125457763672,
+            59.22017288208008
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2577,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2.",
+          "heading_bbox": [
+            71.99996948242188,
+            93.65272521972656,
+            92.23082733154297,
+            105.64917755126953
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3.",
+          "heading_bbox": [
+            71.99996948242188,
+            93.65272521972656,
+            92.23082733154297,
+            105.64917755126953
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4.",
+          "heading_bbox": [
+            71.99996948242188,
+            93.65272521972656,
+            92.23082733154297,
+            105.64917755126953
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5.",
+          "heading_bbox": [
+            71.99996948242188,
+            93.65272521972656,
+            92.23082733154297,
+            105.64917755126953
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6",
+          "heading_bbox": [
+            71.99996948242188,
+            93.65272521972656,
+            88.99190521240234,
+            105.64917755126953
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q7",
+          "heading_bbox": [
+            71.99996948242188,
+            93.65272521972656,
+            88.99190521240234,
+            105.64917755126953
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 9,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q8",
+          "heading_bbox": [
+            71.99996948242188,
+            98.09278869628906,
+            88.99190521240234,
+            110.08924102783203
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q9",
+          "heading_bbox": [
+            72.00019836425781,
+            98.09278869628906,
+            88.99213409423828,
+            110.08924102783203
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2578,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "1.  \nExplain or comment on the following.   More marks will be awarded for numerate or alg",
+          "heading_bbox": [
+            36.83998489379883,
+            58.1282958984375,
+            538.36962890625,
+            111.5783920288086
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "2.  \nIt can be shown that a square wave can be represented by a sum of sine waves as given",
+          "heading_bbox": [
+            36.83998489379883,
+            58.3682861328125,
+            534.669677734375,
+            111.8183822631836
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "3.  \nCalculate the approximate speed of Nitrogen molecules at a temperature o",
+          "heading_bbox": [
+            36.83962631225586,
+            286.3016357421875,
+            560.14208984375,
+            755.8080444335938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "4.  \nIt has been reported that the wind speed reached 200 mph (90 ms-1) in the Philippines",
+          "heading_bbox": [
+            36.95968246459961,
+            58.72833251953125,
+            541.4458618164062,
+            112.53841400146484
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "5.  \nImagine that you are an observer on a planet of a nearby star su",
+          "heading_bbox": [
+            36.95890426635742,
+            437.0882568359375,
+            557.7114868164062,
+            652.5381469726562
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "6.",
+          "heading_bbox": [
+            36.83998489379883,
+            58.3682861328125,
+            471.3240661621094,
+            622.0582275390625
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2580,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 9,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            89.01599884033203,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2581,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "1.  \n \nObservations show that the speed of light in a vacuum is always the same whatever t",
+          "heading_bbox": [
+            36.84000015258789,
+            56.653785705566406,
+            527.55078125,
+            337.4746398925781
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "2.",
+          "heading_bbox": [
+            36.84000015258789,
+            56.653785705566406,
+            57.599998474121094,
+            72.39262390136719
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "3.",
+          "heading_bbox": [
+            36.84000015258789,
+            56.653785705566406,
+            57.599998474121094,
+            84.464599609375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "4.",
+          "heading_bbox": [
+            36.84000015258789,
+            56.653785705566406,
+            507.70001220703125,
+            224.4199676513672
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "5.  \n \na) A particle of electromagnetic radiation is called a photon. A photon has an ener",
+          "heading_bbox": [
+            36.84000015258789,
+            56.653785705566406,
+            547.9667358398438,
+            97.20465087890625
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2582,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1.",
+          "heading_bbox": [
+            72.02400207519531,
+            74.41998291015625,
+            91.89599609375,
+            86.41998291015625
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2583,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q7.",
+          "heading_bbox": [
+            72.02400207519531,
+            59.03997802734375,
+            92.25599670410156,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q8.",
+          "heading_bbox": [
+            90.02400207519531,
+            59.03997802734375,
+            110.25199890136719,
+            71.03997802734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2584,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1",
+          "heading_bbox": [
+            39.71998596191406,
+            47.20987319946289,
+            56.71192169189453,
+            73.84634399414062
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2",
+          "heading_bbox": [
+            39.72007751464844,
+            261.6385498046875,
+            556.28173828125,
+            339.9305419921875
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3",
+          "heading_bbox": [
+            39.71998596191406,
+            46.89392852783203,
+            510.2032775878906,
+            151.8353271484375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4",
+          "heading_bbox": [
+            39.71998596191406,
+            46.89392852783203,
+            55.294952392578125,
+            71.37062072753906
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5",
+          "heading_bbox": [
+            39.71992492675781,
+            210.15855407714844,
+            55.294891357421875,
+            247.95526123046875
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2585,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 3,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1",
+          "heading_bbox": [
+            65.27958679199219,
+            69.9555892944336,
+            83.6378173828125,
+            81.95204162597656
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2586,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2",
+          "heading_bbox": [
+            62.52042007446289,
+            64.31563568115234,
+            80.87864685058594,
+            76.31208801269531
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3",
+          "heading_bbox": [
+            62.40042495727539,
+            64.09017944335938,
+            530.3982543945312,
+            89.99201965332031
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4",
+          "heading_bbox": [
+            62.40042495727539,
+            64.19564056396484,
+            80.75865173339844,
+            76.19209289550781
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5",
+          "heading_bbox": [
+            62.40042495727539,
+            64.19564056396484,
+            80.75865173339844,
+            76.19209289550781
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6",
+          "heading_bbox": [
+            62.52042007446289,
+            64.31563568115234,
+            80.87867736816406,
+            76.44668579101562
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q7",
+          "heading_bbox": [
+            62.40042495727539,
+            64.19564056396484,
+            80.75865173339844,
+            76.19209289550781
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 9,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q8",
+          "heading_bbox": [
+            62.40042495727539,
+            64.19564056396484,
+            80.75865173339844,
+            76.19209289550781
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q9",
+          "heading_bbox": [
+            62.5196418762207,
+            64.31563568115234,
+            80.87786865234375,
+            76.31208801269531
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2587,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1",
+          "heading_bbox": [
+            39.71998596191406,
+            47.155601501464844,
+            558.3583984375,
+            244.2158660888672
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2 \n \n(a) \nFigure 2.a.1 \n \n \n \n \n \n \n \n \nThe law of Biot-Savart states that if a current i",
+          "heading_bbox": [
+            39.71998596191406,
+            47.05541229248047,
+            555.7123413085938,
+            209.7698974609375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3",
+          "heading_bbox": [
+            58.19997787475586,
+            73.4358139038086,
+            76.5582046508789,
+            85.43226623535156
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2588,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 4,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1",
+          "heading_bbox": [
+            68.04013061523438,
+            73.79561614990234,
+            104.3983154296875,
+            99.59205627441406
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2589,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2",
+          "heading_bbox": [
+            68.03973388671875,
+            73.79561614990234,
+            86.39798736572266,
+            85.92666625976562
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3",
+          "heading_bbox": [
+            68.03973388671875,
+            73.79561614990234,
+            86.39795684814453,
+            99.48666381835938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4",
+          "heading_bbox": [
+            68.03973388671875,
+            73.79561614990234,
+            86.39798736572266,
+            99.48666381835938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5",
+          "heading_bbox": [
+            68.03976440429688,
+            73.69021606445312,
+            530.2776489257812,
+            113.28665161132812
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6",
+          "heading_bbox": [
+            68.03985595703125,
+            73.69021606445312,
+            525.7179565429688,
+            375.4867248535156
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 9,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q7",
+          "heading_bbox": [
+            68.03976440429688,
+            73.69021606445312,
+            530.2776489257812,
+            99.59205627441406
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 10,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q8",
+          "heading_bbox": [
+            68.03996276855469,
+            73.79561614990234,
+            89.39814758300781,
+            99.59205627441406
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 11,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q9",
+          "heading_bbox": [
+            68.03996276855469,
+            73.79561614990234,
+            86.39818572998047,
+            99.59205627441406
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2590,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1.a",
+          "heading_bbox": [
+            82.19999694824219,
+            35.711769104003906,
+            300.1550598144531,
+            77.4717025756836
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2 \nThis question is about cold dark matter. \n \nCold dark matter only affects ordinary m",
+          "heading_bbox": [
+            82.19625854492188,
+            64.06562805175781,
+            513.601318359375,
+            253.2970428466797
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2591,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1",
+          "heading_bbox": [
+            68.04000091552734,
+            55.89374542236328,
+            85.5,
+            82.95401763916016
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2592,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2 \n \n(a) \nA glass block measures 5.0 cm x 5.0 cm x 8.0 cm. When the block stands on one o",
+          "heading_bbox": [
+            68.4000015258789,
+            55.89374542236328,
+            519.5867919921875,
+            128.01400756835938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3  \nThe ends of a uniform wire of cross-sectional area 1.00 x 10-6 m2 and negligible mass",
+          "heading_bbox": [
+            68.4000015258789,
+            55.50535202026367,
+            562.6804809570312,
+            127.83402252197266
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4  \nA weight of mass M hangs from the end of a light vertical spring that is att",
+          "heading_bbox": [
+            68.40005493164062,
+            325.8940124511719,
+            529.5814819335938,
+            458.55401611328125
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5 \n(a) \nTwo capacitors, of capacitance 2.0 μF and 4.0 μF, are each given a charge of 12",
+          "heading_bbox": [
+            68.4000015258789,
+            54.34767150878906,
+            501.58819580078125,
+            126.6940689086914
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6",
+          "heading_bbox": [
+            68.4000015258789,
+            55.89374542236328,
+            85.86000061035156,
+            67.95401763916016
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "7",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q7 \n \n(a) \nThe abundances of U238 and U235 are in the ratio, respectively, of 140:1.  Equa",
+          "heading_bbox": [
+            68.4000015258789,
+            55.89374542236328,
+            516.6719970703125,
+            127.83402252197266
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "8",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q8",
+          "heading_bbox": [
+            65.5199966430664,
+            55.89374542236328,
+            82.97999572753906,
+            67.95401763916016
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "9",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q9",
+          "heading_bbox": [
+            68.39999389648438,
+            55.89380645751953,
+            98.34715270996094,
+            82.9540786743164
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2594,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1 \n 1a  This question is about surface tension.   You are unlikely to have studied it in",
+          "heading_bbox": [
+            65.22000122070312,
+            36.251869201660156,
+            494.0383605957031,
+            135.99606323242188
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2",
+          "heading_bbox": [
+            65.22000122070312,
+            36.24687957763672,
+            298.7162170410156,
+            110.60526275634766
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3 \n \nI \nFigure 3.1 \n \n \n \n \na) The charge on a capacitor, Q, of capacity, C, is relate",
+          "heading_bbox": [
+            70.9198989868164,
+            35.70677947998047,
+            485.5621337890625,
+            175.89199829101562
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4 \n \n(a) Light from a sodium gas discharge lamp is incident on a gas flame into which",
+          "heading_bbox": [
+            70.91999816894531,
+            36.244293212890625,
+            501.04595947265625,
+            174.56478881835938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2596,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1 \na) \nFigure1.1 \nFigure 1.2",
+          "heading_bbox": [
+            78.41999816894531,
+            35.651893615722656,
+            369.4559020996094,
+            97.2363052368164
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2 \nFigure 2.1",
+          "heading_bbox": [
+            89.87999725341797,
+            51.416526794433594,
+            259.1246032714844,
+            215.35867309570312
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3 \n \nHint: In this question you may find it a help to consider a small length of ro",
+          "heading_bbox": [
+            89.87999725341797,
+            51.416526794433594,
+            510.8728942871094,
+            191.24533081054688
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4 \n \nFigure 4.1 \n \n \n \n \n \n \n \n \na) The Biot Savart law relates the magnetic field δB",
+          "heading_bbox": [
+            89.87999725341797,
+            131.4477081298828,
+            503.992919921875,
+            334.9437255859375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2598,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1    In this question you are asked to make reasoned estimates and assumptions.   These",
+          "heading_bbox": [
+            90.0,
+            72.4165267944336,
+            486.4975280761719,
+            135.09030151367188
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2",
+          "heading_bbox": [
+            90.0,
+            72.4165267944336,
+            109.55318450927734,
+            97.2313003540039
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3\nFigure 3.1",
+          "heading_bbox": [
+            89.99813842773438,
+            72.4165267944336,
+            505.9205322265625,
+            306.43841552734375
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4 \nFigure 4.1 \n \n \n \n \n \n \n \na) In the circuit shown in Figure 4.1 find the value of Ra t",
+          "heading_bbox": [
+            89.99562072753906,
+            72.4165267944336,
+            500.1141052246094,
+            273.0867614746094
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5",
+          "heading_bbox": [
+            90.0,
+            72.4165267944336,
+            108.22679901123047,
+            84.5713882446289
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2600,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1 \nIn this question you are asked to make reasoned estimates and assumptions.",
+          "heading_bbox": [
+            89.87999725341797,
+            36.251869201660156,
+            497.97796630859375,
+            149.25137329101562
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2",
+          "heading_bbox": [
+            79.91999816894531,
+            36.251869201660156,
+            300.14971923828125,
+            83.70704650878906
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3",
+          "heading_bbox": [
+            51.784427642822266,
+            74.9191665649414,
+            67.13105773925781,
+            86.01130676269531
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4",
+          "heading_bbox": [
+            59.58000183105469,
+            36.251869201660156,
+            494.32647705078125,
+            199.81283569335938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2602,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1 \nIn this question you are asked to make reasoned estimates and assumptions",
+          "heading_bbox": [
+            70.91999816894531,
+            36.251869201660156,
+            512.2335815429688,
+            174.57015991210938
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2 \na) \nHow do the electrical currents in the a",
+          "heading_bbox": [
+            70.91999816894531,
+            36.251869201660156,
+            532.7698974609375,
+            434.7843017578125
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3   \nThis question concerns a proposed satellite navigation system.",
+          "heading_bbox": [
+            89.87999725341797,
+            36.251869201660156,
+            366.8904724121094,
+            86.0109634399414
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4 \n \nThis question is about the motion of objects down a slope.",
+          "heading_bbox": [
+            89.87999725341797,
+            36.251869201660156,
+            452.626220703125,
+            123.9303970336914
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2604,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1 \nIn this question you are asked to make reasoned estimates and assumptions.   T",
+          "heading_bbox": [
+            89.87999725341797,
+            54.296531677246094,
+            497.97796630859375,
+            143.49130249023438
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2. Missing mass.",
+          "heading_bbox": [
+            89.87670135498047,
+            54.296531677246094,
+            203.15078735351562,
+            79.04544830322266
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3 \n \na) Figure 3.1a  \n \n \n \n \n \nFigure 3.1b",
+          "heading_bbox": [
+            89.87999725341797,
+            54.296531677246094,
+            431.3711242675781,
+            104.3113784790039
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4 \n \n \n(a)  Figure 4.1",
+          "heading_bbox": [
+            89.87999725341797,
+            54.296531677246094,
+            488.6263427734375,
+            167.54409790039062
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2606,
+    "boundary_evidence": "Reviewed cached original Q-number headings across the paper. Repeated subpart markers, footer page numbers and numerical data excluded. 2010 cover explicitly confirms only two questions. Physics content remains pending.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q1 \nEmphasise the physical principles and make reasoned estimates where appropriate. \n \na)",
+          "heading_bbox": [
+            90.0,
+            72.40797424316406,
+            532.4085083007812,
+            127.0318832397461
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q2 \na) \nWrite down an energy equation expressing the first law of thermodynamics.",
+          "heading_bbox": [
+            90.0,
+            72.46797180175781,
+            557.4873657226562,
+            168.43202209472656
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q3 \na) \nTwo identical synchronously oscillating dippers separated by a horizontal distan",
+          "heading_bbox": [
+            90.0,
+            72.34797668457031,
+            542.8367919921875,
+            148.2436981201172
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q4",
+          "heading_bbox": [
+            82.91999816894531,
+            63.10798645019531,
+            477.4800109863281,
+            78.37191009521484
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q5 \na)",
+          "heading_bbox": [
+            90.0,
+            72.46797180175781,
+            135.04534912109375,
+            138.42384338378906
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 8,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "heading_text": "Q6",
+          "heading_bbox": [
+            90.0,
+            72.46797180175781,
+            129.0,
+            113.35201263427734
+          ],
+          "boundary_note": "Retain all lettered/decimal internal parts; repeated Q1.a/Q1.b markers are the same problem. Conservative end page, to refine during physics content review.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 2579,
+    "boundary_evidence": "Source begins Section 1 on page 3, followed only by lettered parts (a)...; retain this entire source section as one unnumbered top-level unit.",
+    "units": [
+      {
+        "number": "Section1",
+        "page_start": 3,
+        "page_end": 7,
+        "format": "theory",
+        "title": "Section 1",
+        "location": {
+          "source_label_present": false,
+          "heading_text": "Section 1",
+          "boundary_note": "All lettered parts retained; no question number invented."
+        }
+      }
+    ]
+  }
+]

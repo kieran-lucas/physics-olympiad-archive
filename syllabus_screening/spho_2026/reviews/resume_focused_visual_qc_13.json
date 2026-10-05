@@ -1,0 +1,54 @@
+[
+  {
+    "screening_unit_id": "derived::029b38048289c4c6::4035::7",
+    "detail": "Full-size page 4 correction: the source says a supplied heating power law and an impurity-made graded-index lens, not a two-level relaxation model. KEEP unchanged; physics description/domains corrected."
+  },
+  {
+    "screening_unit_id": "derived::029b38048289c4c6::4035::8",
+    "detail": "Re-read full-size pages 4-5. Each internal part is explicitly 5 marks. Revised this new KEEP to BORDERLINE because conceptual usefulness is balanced and the slow-meson approximation is not stated. No original pilot record changed."
+  },
+  {
+    "screening_unit_id": "derived::5207f639dd129efe::4036::5",
+    "detail": "Full-size page 3 review recognizes the displayed gamma*f+v*gamma*f=1 relation. Revised new REJECT to BORDERLINE: the hint supplies much of later algebra while initial physical justification still needs unsupplied relativity."
+  },
+  {
+    "screening_unit_id": "derived::9c8ad5196a91ffd3::4064::48",
+    "detail": "Reconsidered statement and official answer key file 2996 (Q48=E). The key asserts all listed device groups depend on quantum operation but supplies no explanation of semiconductor/device physics. Genuine prerequisite ambiguity remains BORDERLINE."
+  },
+  {
+    "screening_unit_id": "derived::710cea32f2ecf0cc::1679::3",
+    "detail": "Focused supplied-model audit with solution file 1932 pp12-17: escape energy, Newtonian orbits, dimensional radiation scaling, energy-loss differentiation and graph frequency suffice. The source explicitly ignores relativity; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::7b881ebfec008e31::2595::8",
+    "detail": "Rechecked classical crossed-field majority and later explicitly supplied m(v). The extension is self-contained and does not displace the main Lorentz-force task. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::f6fa54a92f5cf48d::2601::7",
+    "detail": "Full-size Q7 page 10: Compton scattering is explicitly in SPhO and the energy-momentum relation is supplied. No unsupplied frame-transformation theory needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::54ba076da23a990e::2605::8",
+    "detail": "Full-size Q8 page 10: diffraction and radio interference dominate; pulsar extension uses rotation and propagation delay in a changed refractive medium. Exotic context does not require neutron-star microphysics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::46b68cb6d10fe17e::2597::4",
+    "detail": "Full-size Q4 page 7 confirms the indentation power law is explicitly supplied. Graph validity, restitution and uncertainty are ordinary experiment/data reasoning. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::68a927f32a6a8f22::4037::6",
+    "detail": "Full-size Q6 page 3 requires fields, charge densities and stream velocities in another relativistically moving frame. Those transformations are not supplied; REJECT confirmed."
+  },
+  {
+    "screening_unit_id": "derived::68a927f32a6a8f22::4037::8",
+    "detail": "Full-size Q8 page 3 actually specifies classical two-particle magnetic/Coulomb circular motion. No quantum filling or quantization is requested. KEEP confirmed, guarding against garbled thumbnail inference."
+  },
+  {
+    "screening_unit_id": "derived::594456a968761128::1695::六",
+    "detail": "Full-size page 2 supplies dissociation fraction versus temperature, dissociation energy and internal-energy law. Thermodynamic energy balance needs no chemical-equilibrium theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::52f8a891d6129bec::1704::六",
+    "detail": "Full-size page 2 and continuation page 3: dynamic mass is merely named, not supplied as a function of velocity. Composite rest mass after absorption needs relativistic dynamics, central throughout. REJECT confirmed."
+  }
+]

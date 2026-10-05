@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-04T03:40:54.581347+00:00",
+  "source_unit": "raw::6174",
+  "attempts": [
+    {
+      "requested_url": "https://www.physik.uni-muenchen.de/sektion/didaktik/Computer/interfer/Interferometer.zip",
+      "final_url": "https://www.physik.lmu.de/sektion/didaktik/Computer/interfer/Interferometer.zip",
+      "status_code": 404,
+      "content_type": "text/html",
+      "byte_size": 16578,
+      "zip_magic": false,
+      "note": "No program executed; HTTP success alone not treated as simulator availability."
+    },
+    {
+      "requested_url": "http://www.physik.uni-muenchen.de/sektion/didaktik/Computer/interfer/Interferometer.zip",
+      "final_url": "https://www.physik.lmu.de/sektion/didaktik/Computer/interfer/Interferometer.zip",
+      "status_code": 404,
+      "content_type": "text/html",
+      "byte_size": 16578,
+      "zip_magic": false,
+      "note": "No program executed; HTTP success alone not treated as simulator availability."
+    }
+  ],
+  "essential_to_core_task": false,
+  "reason": "Interferometer topology/polarizer directions and ordinary wave-polarization model suffice without virtual program. No experiment/program run claimed."
+}

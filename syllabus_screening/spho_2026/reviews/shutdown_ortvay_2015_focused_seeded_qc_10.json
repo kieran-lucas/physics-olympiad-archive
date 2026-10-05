@@ -1,0 +1,42 @@
+[
+  {
+    "screening_unit_id": "raw::5708",
+    "detail": "Focused supplied-principle review: all four Q6 parts p2 reopened. Action integral, endpoint variations and stationarity premise are explicit. Expanding L to second order and integrating its mixed term by parts gives the quadratic form; harmonic sign changes are eigenvalue mathematics. No unsupplied Lagrangian principle is needed because it is already stipulated. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5718",
+    "detail": "Focused supplied-postulate review: complete Q16 p4 reread. Invariant unequal light speeds constrain a cone-preserving matrix group, but full ruler/clock normalization and synchronization conventions are not defined. The request includes physical velocity transformations and equivalence with known relativity. Partial mathematical axioms may suffice under intended conventions, but that remains unresolved without a solution. BORDERLINE confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5721",
+    "detail": "Focused method ambiguity review: complete Q19 p5 reread. Local equivalence is explicitly stated, but a thermometer does not operationally define the proposed diagnostic. Acceleration radiation or gravitational thermal effects would require unsupplied specialized relations; finite apparatus/environment interpretations are different. BORDERLINE retained instead of choosing an undocumented mechanism."
+  },
+  {
+    "screening_unit_id": "raw::5726",
+    "detail": "Focused supplied-model review: complete Q24 p6 reread. Hermitian 2x2 algebra is ordinary mathematics, but the Heisenberg equality condition is not written and different uncertainty formulations have different saturation sets. BORDERLINE confirmed; no reviewer-added quantum variance/commutator law treated as statement-supplied."
+  },
+  {
+    "screening_unit_id": "raw::5727",
+    "detail": "Focused supplied-dynamics review: complete Q25 p6 and intact PDE reopened. Unlike a Hamiltonian-only question, it gives the full time-dependent equation and norm probability interpretation. Stationary separation yields Helmholtz equations; integrating across delta gives the derivative jump, and the PDE continuity balance gives flux/gain/loss. Completeness is spectral mathematics. KEEP confirmed for the whole real/complex coupling task."
+  },
+  {
+    "screening_unit_id": "raw::5728",
+    "detail": "Focused whole-problem review: complete Q26 pp6-7 and five-site graph reopened. Its matrix-action definitions determine eigenvectors/eigenvalues, but the central claimed dynamics and reliable relocation time depend on an unprovided unitary time evolution and probability rule. The separate Q25 equation is not inherited by this question. REJECT confirmed; the solvable finite-matrix opening is not split off."
+  },
+  {
+    "screening_unit_id": "raw::5730",
+    "detail": "Focused supplied stochastic-model review: complete Q28 pp7-8 and all formulas reopened. Gaussian weight fixes finite-step noise variance eta/(2*dt), giving drift F*dt and increment variance eta*dt/2. Taylor expansion of test functions gives diffusion eta/4 and the stated probability PDE. Midpoint update is explicitly defined; additive noise leaves the same generator. All required rules are supplied mathematics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5733",
+    "detail": "Focused supplied-radiation review: full Q31 p9 reread. The stated uniform vapour/attenuation model plus conventional thermal radiation permits integrating emission weighted by absorption along each spherical line of sight and converting to band brightness temperature. Geometry determines curvature error and azimuth symmetry. Missing temperature/band calibration and dimensional wording are recorded source limitations. KEEP physics scope confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5713",
+    "detail": "Seeded KEEP QC (2026100408): complete Q11 p3 reread. A grounded metallic torus with axial charge is a standard equipotential electrostatic boundary problem. Challenging toroidal Green functions do not add a new physical law. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5706",
+    "detail": "Seeded KEEP QC (2026100408): all Q4 p1 reread. Random tangential redirection with unchanged speed is expressly prescribed, so no granular collision model is assumed. Ordinary gravity, sphere-normal contact loss and landing envelope mathematics determine the sand boundary. KEEP confirmed."
+  }
+]

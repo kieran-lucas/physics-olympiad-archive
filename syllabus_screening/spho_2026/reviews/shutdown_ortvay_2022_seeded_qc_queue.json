@@ -1,0 +1,16 @@
+[
+  {
+    "screening_unit_id": "raw::5499",
+    "problem_number": "12",
+    "page_start": 5,
+    "page_end": 5,
+    "decision": "KEEP"
+  },
+  {
+    "screening_unit_id": "raw::5507",
+    "problem_number": "20",
+    "page_start": 7,
+    "page_end": 7,
+    "decision": "REJECT"
+  }
+]

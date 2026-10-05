@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::4287",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3074, registered 37, PDF pp 6-6, all internal parts kept together. Local solution 3076 p17 confirms continuity, Newtonian energy and angular momentum; difficult variational mathematics allowed. KEEP: Geometrical optics; Newtonian energy and angular-momentum conservation with mathematical variational analysis."
+  },
+  {
+    "screening_unit_id": "raw::4289",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3075, registered 39, PDF pp 4-5, all internal parts kept together. KEEP: Dominant independent paradoxes use classical work, fields, gas theory, radiation and rigid-body rotation; GR twin/lensing extensions subordinate."
+  },
+  {
+    "screening_unit_id": "raw::4368",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3084, registered 38, PDF pp 8-10, all internal parts kept together. KEEP: Metric, proper-time relation, geodesic equation and Christoffel terms supplied; remaining work calculus, optics and classical tidal estimates."
+  },
+  {
+    "screening_unit_id": "raw::4409",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3088, registered 40, PDF pp 8-13, all internal parts kept together. Official marking scheme 3090 pp19-20 checked: measurement normalization ambiguous; diagonal evolution plus X/Y implementation remains incompletely specified. BORDERLINE retained in fast pass. BORDERLINE: Most gate algebra and evolution equation supplied; measurement postulate and physical implementation of X/Y from diagonal Hamiltonian insufficiently specified."
+  },
+  {
+    "screening_unit_id": "raw::4507",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3099, registered 57, PDF pp 5-5, all internal parts kept together. Official solution 3100 pp5-6 confirms required unsupplied relativistic Doppler force. REJECT: Dominant later solar-sail work needs unsupplied relativistic radiation force and moving-mirror Doppler transfer."
+  },
+  {
+    "screening_unit_id": "raw::4508",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3099, registered 58, PDF pp 5-5, all internal parts kept together. REJECT: Substantial central electron escape radius requires unsupplied relativistic charged-particle energy and momentum."
+  },
+  {
+    "screening_unit_id": "raw::4512",
+    "detail": "Focused supplied-model/whole-problem scope check. Fast scope pass: complete statement source 3099, registered 62, PDF pp 7-7, all internal parts kept together. KEEP: Dominant Maxwell-Boltzmann averages; small two-particle statistical extension using stated indistinguishability and exclusion."
+  }
+]

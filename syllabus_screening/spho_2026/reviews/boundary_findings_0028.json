@@ -1,0 +1,145 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0028.json",
+  "papers": [
+    {
+      "file_id": 1277,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One Experimental Problem, shared calorimeter with internal tasks. No unregistered additional statement."
+    },
+    {
+      "file_id": 1278,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question1, internal statements and final answer template. No unregistered additional statement."
+    },
+    {
+      "file_id": 1280,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question2 magnetic focusing, internal tasks and final answer template. No unregistered additional statement."
+    },
+    {
+      "file_id": 1283,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question3 moving mirror, internal tasks and final answer templates. No unregistered additional statement."
+    },
+    {
+      "file_id": 1285,
+      "observed_units": 2,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Two separately printed experiments: 1 shape determination pp1-4; 2 magnetic braking pp5-9. Both already registered. No unregistered additional statement."
+    },
+    {
+      "file_id": 1286,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Problem No.1 weightless mass. No unregistered additional statement."
+    },
+    {
+      "file_id": 1288,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Problem No.2 optical fiber. No unregistered additional statement."
+    },
+    {
+      "file_id": 1291,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Problem No.3 two-gas compression/expansion. No unregistered additional statement."
+    },
+    {
+      "file_id": 1294,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Experimental Problem No.1 Hall/magnetoresistivity, internal calibration/measurement stages. No unregistered additional statement."
+    },
+    {
+      "file_id": 1295,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One Theory I problem with internal(a-f). No unregistered additional statement."
+    },
+    {
+      "file_id": 1298,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Experimental Problem No.2 blackbox only. No unregistered additional statement."
+    },
+    {
+      "file_id": 1299,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One Theory II optical gyroscope problem. No unregistered additional statement."
+    },
+    {
+      "file_id": 1300,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One Theory III plasma lens problem. No unregistered additional statement."
+    },
+    {
+      "file_id": 1302,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One experimental electrical question, common instructions and internal tasks. No unregistered additional statement."
+    },
+    {
+      "file_id": 1305,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One experimental cube-inertia question, common instructions and internal tasks. No unregistered additional statement."
+    },
+    {
+      "file_id": 1307,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question1 lattice vibrations. No unregistered additional statement."
+    },
+    {
+      "file_id": 1309,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question2 rail gun, internal numbered tasks. No unregistered additional statement."
+    },
+    {
+      "file_id": 1311,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question3 wafer fabrication. No unregistered additional statement."
+    },
+    {
+      "file_id": 1313,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One experimental Part A reflectance/refractive-index question, common apparatus; Part B is elsewhere source1316. No unregistered additional statement."
+    },
+    {
+      "file_id": 1315,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question1 repeated through3pages. No unregistered additional statement."
+    },
+    {
+      "file_id": 1316,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One tuning-fork experimental Part B question, common stroboscope apparatus, internal Steps1-2. No unregistered additional statement."
+    },
+    {
+      "file_id": 1320,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question2 repeated through2pages. No unregistered additional statement."
+    },
+    {
+      "file_id": 1323,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Theory Question3 repeated through3pages. No unregistered additional statement."
+    },
+    {
+      "file_id": 1328,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. One solar-cell experiment, common apparatus and internal tasks. No unregistered additional statement."
+    },
+    {
+      "file_id": 1332,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Problem1 Jupiter moon eclipses. No unregistered additional statement."
+    },
+    {
+      "file_id": 1334,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Problem2 alpha-particle detection. No unregistered additional statement."
+    },
+    {
+      "file_id": 1335,
+      "observed_units": 1,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. Problem3 Stewart-Tolman effect. No unregistered additional statement."
+    },
+    {
+      "file_id": 1337,
+      "observed_units": 2,
+      "evidence": "Complete previous statement inspection reused; every physical page boundary and printed independent problem sequence manually checked in cached packet. p1 instructions; two separate experiments: Problem1 oil density p2 and Problem2 Stefan-Boltzmann pp3-4. Both registered. No unregistered additional statement."
+    }
+  ]
+}

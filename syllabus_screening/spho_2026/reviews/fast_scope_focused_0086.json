@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::813",
+    "detail": "Rendered pp1-4 recover all omitted equations: shocks are explicitly derived using mass, energy and momentum conservation in a constant-area stream tube. No unsupplied Navier-Stokes or constitutive model needed. KEEP."
+  },
+  {
+    "screening_unit_id": "raw::814",
+    "detail": "Rendered p1 supplies En=-A/n²; B/C account for 7.5/10 and all depend on permitted Bohr/Planck physics. A relativistic aberration (2.5/10) is independent. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::815",
+    "detail": "Statement explicitly sets electron speeds much below c; moving-frame comparison is leading-order classical fields/Lorentz forces. Plasma current profile and ideal-gas state fully specified. KEEP."
+  },
+  {
+    "screening_unit_id": "raw::818",
+    "detail": "Statement supplies spacetime metric, invariant interval hint, radial geodesic equation, Hawking temperature, imaginary-time construction/period rule and Stefan constant. Remaining work is calculus, mass-energy and entropy. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::823",
+    "detail": "Gamma is defined but no length contraction law or Lorentz transformation is supplied. L is explicitly measured with ship at rest; tasks 2-4 depend on converting it to moving length. Classical light-delay task 1 does not dominate. Whole REJECT."
+  },
+  {
+    "screening_unit_id": "raw::828",
+    "detail": "Supplied metric does not supply acceleration transformation or relativistic momentum law required by foundational task a. All later trajectories and Rindler coordinate tasks depend on this step. REJECT."
+  }
+]

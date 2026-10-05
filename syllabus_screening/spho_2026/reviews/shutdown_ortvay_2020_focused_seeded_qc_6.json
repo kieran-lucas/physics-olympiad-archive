@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::5527",
+    "detail": "Focused second review: complete Q12 p5 and full-size render reread. Rigid-core gravity/buoyancy gives restoring work, but finite-density fluid must move too; added inertia requires an unspecified fluid-flow/boundary model. No geometry or approximation excludes it. BORDERLINE retained, consistent with other mixed rigid/fluid mode boundaries."
+  },
+  {
+    "screening_unit_id": "raw::5524",
+    "detail": "Focused supplied-model review: whole Q9 p4 reread. The source explicitly replaces elastic detail by constant time delay and R^-3 deformation amplitude. Gravity-gradient torque and Newtonian angular momentum therefore determine all three parts, including comparable deformable masses. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5529",
+    "detail": "Focused prerequisite review: complete Q14 p5 reopened. The specified contact geometry and charge-sharing rule are the model. Continuity plus local Ohm law and Gauss law yield exponential bulk-charge relaxation with tau=epsilon/conductivity; the duration may remain in material parameters. No microscopic unobtainium law needs invention. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5537",
+    "detail": "Focused prerequisite review: whole Q22 p7 reread and persisted organizer syllabus consulted. Independent dipoles, magnetic energy -mu*B, quantized moment projections and Maxwell-Boltzmann populations give entropy as a function of B/T, hence constant B/T for reversible adiabatic cooling. Spin quantum notation adds no unsupplied operator dynamics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5523",
+    "detail": "Seeded QC (2026100403): whole Q8 p4 reopened. Conservation of total angular momentum determines final circular orbit and locked spins; difference of ordinary rotational/orbital energy is heat. No tidal deformation time law is required by this final-state question. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5520",
+    "detail": "Seeded data-analysis QC (2026100403): all seven Q5 requests and original linked txt data reopened. Both traces contain usable time-temperature pairs with differing external temperatures; standard thermal energy balance and fitting support the requested calibration/cost/phase analysis. Essential original data is locally hashed and associated. KEEP confirmed."
+  }
+]

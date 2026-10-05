@@ -1,0 +1,41 @@
+{
+  "checked_at": "2026-10-04T03:18:55.390879+00:00",
+  "source_url": "https://ortvay.elte.hu/main.html",
+  "year_2005_finding": "2005 row links problem source, PS and PDF only; no worked solution link. Closing organizer statement says earlier solutions unlikely available. Cover publication plan is not proof of an accessible solution volume.",
+  "year_2010_finding": "Uploaded solutions link is a six-page list of contestant usernames, filenames, types and sizes, not worked solution text and not an official solution key.",
+  "catalog": {
+    "url": "https://ortvay.elte.hu/2010/Ortvay_2010_Uploaded_solutions.pdf",
+    "local_path": "reviews\\ortvay_2010_uploaded_solution_catalog.pdf",
+    "sha256": "178bdbaa1ad53256ede895bfcaaf8f124f1808034b2dbd9b72938a1945865f22",
+    "byte_size": 38889,
+    "page_count": 6,
+    "embedded_links": [
+      {
+        "page": 1,
+        "links": []
+      },
+      {
+        "page": 2,
+        "links": []
+      },
+      {
+        "page": 3,
+        "links": []
+      },
+      {
+        "page": 4,
+        "links": []
+      },
+      {
+        "page": 5,
+        "links": []
+      },
+      {
+        "page": 6,
+        "links": []
+      }
+    ]
+  },
+  "prior_scope_decisions_changed": false,
+  "reason": "Actual linked catalog inspected to check whether 2010 ambiguous cases have available source-linked methods; no worked answer is supplied by this catalog."
+}

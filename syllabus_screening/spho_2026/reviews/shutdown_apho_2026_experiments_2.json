@@ -1,0 +1,36 @@
+[
+  {
+    "screening_unit_id": "raw::308",
+    "decision": "KEEP",
+    "confidence": "high",
+    "primary_spho_domains": "I_force_motion",
+    "required_physics": "Continuity, empirical outlet-flow calibration, log fitting, measurement uncertainty and two-tank clock design",
+    "decision_reason": "All A-C tasks concern measuring tank dimensions and fall times, inferring outlet speed from volume conservation, fitting the explicitly given power law and speed ratio, and experimentally finding supply height/refill interval. No unsupplied viscous-flow constitutive law or fluid eigenmode calculation is required.",
+    "external_physics_if_any": "",
+    "format": "experimental",
+    "page_start": 1,
+    "page_end": 6,
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "boundary_status": "content_boundary_verified",
+    "needs_second_review": false,
+    "evidence": "Complete official APhO 2026 Experimental Q1, file 959: all six extracted pages read and all six rendered pages actually inspected, including apparatus photographs, wiring/leveling instructions, every internal task and supplied relation. One whole experimental parent. ADC official solution 956 pp8-13 read, with pp10-12 rendered to resolve input loading."
+  },
+  {
+    "screening_unit_id": "raw::309",
+    "decision": "KEEP",
+    "confidence": "high",
+    "primary_spho_domains": "VI_electric_field",
+    "required_physics": "Resistor networks, voltage-divider calibration, digitization uncertainty and finite input-resistance loading",
+    "decision_reason": "The ADC linear voltage-to-integer map and apparatus operation are supplied. A-C use ordinary circuit laws, uncertainty derivatives, statistics and circuit design. D requires identifying meter loading and eliminating its unknown input resistance by swapping the divider resistors; this is ordinary measurement physics, not semiconductor ADC theory.",
+    "external_physics_if_any": "",
+    "format": "experimental",
+    "page_start": 1,
+    "page_end": 6,
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "boundary_status": "content_boundary_verified",
+    "needs_second_review": true,
+    "evidence": "Complete official APhO 2026 Experimental Q2, file 957: all six extracted pages read and all six rendered pages actually inspected, including apparatus photographs, wiring/leveling instructions, every internal task and supplied relation. One whole experimental parent. ADC official solution 956 pp8-13 read, with pp10-12 rendered to resolve input loading."
+  }
+]

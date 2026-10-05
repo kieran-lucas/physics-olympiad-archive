@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-10-04T05:09:17.922759+00:00",
+  "cause": "Single pinned simulator ZIP associated with two units was represented as two physical reference records, making all-file SHA uniqueness assertion fail. No byte/hash mismatch.",
+  "repair": "Keep all screening_references source/unit records; materialize one deterministic physical record per SHA and preserve every source/unit relationship in reference_associations and its CSV. Each selected unit retains shared path in other_relevant_files. Uniqueness assertion unchanged; new validation checks complete relationship set, endpoints, unit eligibility, URL/purpose, source SHA and per-unit selected metadata.",
+  "affected_units": [
+    "raw::326",
+    "raw::327"
+  ],
+  "verification": "Full checkpoint passed with SQLite integrity, every raw hash, curated hashes/hardlinks, deduplication and both preserved relationships. Existing shared hardlink retained."
+}

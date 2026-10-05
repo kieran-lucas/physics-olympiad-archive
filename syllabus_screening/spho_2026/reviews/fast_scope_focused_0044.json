@@ -1,0 +1,6 @@
+[
+  {
+    "detail": "Focused source/solution conflict check: statement B=2 T and orbit radius 2.4 m imply classical v=eBr/m much greater than c, but official solution uses p=mv and eU=mv^2/2 without a supplied classical approximation or relativistic relation. Retain BORDERLINE because physically necessary SR conflicts with the expected classical method; unresolved source ambiguity explicitly accounted for.",
+    "screening_unit_id": "raw::3536"
+  }
+]

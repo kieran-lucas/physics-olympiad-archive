@@ -1,0 +1,62 @@
+[
+  {
+    "screening_unit_id": "raw::5973",
+    "detail": "Seeded QC (Random 2026100416 first selection): complete long space-jump Q1 p2 reread, including final three return-orbit clauses. Launch velocity is Earth rotation times radius; Newton conic perigee/period and Earth rotation fix return/landing longitude and added push. Atmospheric final sixty miles expressly excluded. All eight clauses are one problem and ordinary orbital mechanics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5974",
+    "detail": "Focused experimental-mechanism review: entire sausage task p2 reread. It asks actual observation and an explanation, not an imposed Navier-Stokes solution. Ordinary thermal expansion, buoyancy, circulation torque or material response may dominate; the statement does not identify the observed mechanism or provide measured data. No cooking observation was fabricated and no official worked solution was acquired. BORDERLINE retained for prerequisite uncertainty, not for experimental format."
+  },
+  {
+    "screening_unit_id": "raw::5978",
+    "detail": "Focused whole-cart/statistics review: full Q6 p3 reread. Known oscillator propagation and elastic-wall reflection define an exact event map, so the numerical collision/energy distributions can be measured from that model rather than importing an ensemble as a law. Ordinary classical Boltzmann comparison and its possible failure are a later model-validity question. The central work remains specified Newton/Hooke dynamics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5982",
+    "detail": "Focused source/whole-model review: complete Q10 p4 reread and actual public YouTube playability response checked. It reports PRIVATE/LOGIN_REQUIRED, so no viewing/copy is claimed. Ballistic two-plane models, drive timing, restitution and requested fixed-point stability are completely printed and dominate the meaningful work. Final video comparison is peripheral, preserved as a source-quality limitation. Whole KEEP confirmed without splitting subparts."
+  },
+  {
+    "screening_unit_id": "raw::5983",
+    "detail": "Focused prerequisite/calibration comparison: complete Q11 p4 and original 2025 Q7 raw::5404 statement reread. Q11 gives arbitrary H=f(p), while Q7 gives r*Phi(p) and demands canonical equations/conserved quantities. They are different printed tasks, not aliases. Both require a missing canonical dynamics/field-coupling interpretation, rather than a recognizable supplied Newtonian quadratic kinetic energy. REJECT confirmed under the existing calibration; original decisions unchanged."
+  },
+  {
+    "screening_unit_id": "raw::5984",
+    "detail": "Focused interferometer review: full Q12 p4 reread. Eruption mass redistribution changes I and hence angular speed at conserved angular momentum. Counter-propagating optical path timing around a rotating loop gives small-v Sagnac sensitivity by ordinary geometric light-path timing, with area/wavelength/noise left as estimate parameters. No Lorentz tensor or proper-time theory is requested. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5986",
+    "detail": "Focused decompression review and seeded QC (Random 2026100416 second selection): complete Q14 p4 reread. Supplied death-pressure thresholds are toy inputs, not a biological prerequisite. But removal of an entire wall at normal density invalidates an automatic isotropic small-aperture effusion assumption; rarefaction/flow fields and moving-wall inertia may determine quantitative pressure at the chair. The necessary intended simplification is not stated. BORDERLINE retained rather than inventing a fluid solution or rejecting the fiction."
+  },
+  {
+    "screening_unit_id": "raw::5988",
+    "detail": "Focused supplied transport model review: full Q16 p5 and actual aligned two-wire-row drawing reopened. Potentials, remote drift fields, mobility and random sqrt(t) spread are explicitly supplied. Standard Laplace potential, streamline integration or Brownian increments solve passage probabilities under declared absorption/initial-flux conventions; Poisson self-charge gives the final qualitative extension. No quantum electron-transport law is needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5989",
+    "detail": "Focused full-wave adequacy review: complete Q17 p5 reread. A signed-index Snell ray construction is possible, but index n alone does not determine epsilon/mu, impedance or the passive negative-index phase branch needed at wavelength-scale R. Both ray and Maxwell tasks are substantial. No source-cited model or official solution resolves the constitutive assumption. BORDERLINE retained for the whole task."
+  },
+  {
+    "screening_unit_id": "raw::5995",
+    "detail": "Focused field-variation review: full intact tensor/invariant equations p6 reopened. F=dA-dA and P/Q scalar forms help define notation, but no field Euler-Lagrange evolution rule, source/component conventions or operational 2+1 tensor reduction is supplied. Deriving dynamics and physical action symmetries is the central task, consistent with existing raw::5582 nonlinear-Lagrangian rejection. This differs from substituting into a fully supplied PDE. REJECT confirmed; supplied definitions are explicitly acknowledged."
+  },
+  {
+    "screening_unit_id": "raw::5996",
+    "detail": "Focused curved-context review: full Q24 p7 reread. Curvature is a stipulated fixed spatial sphere metric, not gravitational spacetime dynamics. Applying Gauss divergence/charge conservation globally forces net neutrality; surface gradient/Laplace inverse with zero mode removed gives a field for permitted charge combinations. The same sphere geometry changes radial area factors and dipole Green function. Bonus conductor interior follows the charge/source partition. All specialized-looking work is geometry atop ordinary E/B equations, so KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5997",
+    "detail": "Focused supplied-model comparison: full Q25 p7 and actual reviewed 2019 Q39 raw::5582 reread. Each gives a formal nonlinear field Lagrangian and asks material equations/waves, without the central field variational prescription. Q25 also does not explicitly inherit Q23 definitions. Neither is an operational Maxwell/PDE model supplied to the contestant. REJECT confirmed under the unchanged previous boundary; these different square-root/sinh models and years are not aliases."
+  },
+  {
+    "screening_unit_id": "raw::5998",
+    "detail": "Focused named-uncertainty review: whole Q26 p7 reread. Merely naming the uncertainty relation does not supply its inequality/variance/operator representation or thermal quantum oscillator floor. These are the entire mass-error task, consistent with earlier named-but-unsupplied Heisenberg cases. REJECT confirmed; ordinary apparatus context does not supply missing quantum physics."
+  },
+  {
+    "screening_unit_id": "raw::6000",
+    "detail": "Focused partial-master-equation review: complete Q28 p7 and double-commutator inspected. It does supply time evolution for rho, but it does not define oscillator ladder action or P coherent-state representation/differential correspondence. Those are needed before obtaining the requested Fokker-Planck/Langevin models and are specialized quantum representation rules. REJECT confirmed on those precise missing prerequisites, not a false claim that the evolution equation is absent."
+  },
+  {
+    "screening_unit_id": "raw::6002",
+    "detail": "Focused whole-conformal-task review: all Q30 p8 equations/clauses reopened. Scalar Laplace equation and inversion give a self-contained Kelvin-transform calculation. Dirac Clifford identities support useful matrix algebra, but its field equation/physical transform and the vector-field prescription are not given to the same operational level; d depends on the combined representations. The mathematical opening is substantial, unlike a wholly unsupplied field task, so BORDERLINE retained rather than either rescuing it or blanket rejecting conformal terminology."
+  }
+]

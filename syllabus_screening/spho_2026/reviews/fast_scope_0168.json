@@ -1,0 +1,232 @@
+[
+  {
+    "screening_unit_id": "derived::e746ca90483ab197::embedded::8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Hooke-law slingshot work/energy and supplied spring stiffness k=EA/L",
+    "decision_reason": "KEEP: Hooke-law slingshot work/energy and supplied spring stiffness k=EA/L.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::0929dee7222e54b0::embedded::C-Bonus",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Spherical-cap droplet geometry, supplied lensmaker formula and contact-angle reasoning",
+    "decision_reason": "KEEP: Spherical-cap droplet geometry, supplied lensmaker formula and contact-angle reasoning.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::4c84bbc28404c200::embedded::E2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied axial/lateral magnet forces, mechanical balance, two measurement methods and uncertainty",
+    "decision_reason": "KEEP: Supplied axial/lateral magnet forces, mechanical balance, two measurement methods and uncertainty.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained. Cached statement renders inspected for supplied equations and apparatus.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electrostatic charge distribution on a conducting sphere",
+    "decision_reason": "KEEP: Electrostatic charge distribution on a conducting sphere.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Dielectric polarization attraction",
+    "decision_reason": "KEEP: Dielectric polarization attraction.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coulomb force scaling",
+    "decision_reason": "KEEP: Coulomb force scaling.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electrostatic conductor shielding and induced charges",
+    "decision_reason": "KEEP: Electrostatic conductor shielding and induced charges.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electric potential and work",
+    "decision_reason": "KEEP: Electric potential and work.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electric field from equipotential spacing",
+    "decision_reason": "KEEP: Electric field from equipotential spacing.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electric force direction from potential",
+    "decision_reason": "KEEP: Electric force direction from potential.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coulomb equilibrium stability",
+    "decision_reason": "KEEP: Coulomb equilibrium stability.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ionic drift current",
+    "decision_reason": "KEEP: Ionic drift current.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B10",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Series/parallel lamp power",
+    "decision_reason": "KEEP: Series/parallel lamp power.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B11",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Applied electric field in a resistive filament",
+    "decision_reason": "KEEP: Applied electric field in a resistive filament.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B12",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic field-line continuity",
+    "decision_reason": "KEEP: Magnetic field-line continuity.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B13",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic dipole force and torque",
+    "decision_reason": "KEEP: Magnetic dipole force and torque.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B14",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Lorentz-force charge separation in a moving metal",
+    "decision_reason": "KEEP: Lorentz-force charge separation in a moving metal.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B15",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic force on a current-carrying wire",
+    "decision_reason": "KEEP: Magnetic force on a current-carrying wire.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B16",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic field of a long wire and Earth-field direction",
+    "decision_reason": "KEEP: Magnetic field of a long wire and Earth-field direction.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B17",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Long-wire field and Lorentz force scaling",
+    "decision_reason": "KEEP: Long-wire field and Lorentz force scaling.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B18",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Faraday induction and changing magnetic flux",
+    "decision_reason": "KEEP: Faraday induction and changing magnetic flux.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B19",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Eddy-current braking at magnetic-region boundaries",
+    "decision_reason": "KEEP: Eddy-current braking at magnetic-region boundaries.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::b0bd2bce9debaf24::embedded::B20",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Induced electric field around a changing solenoid field",
+    "decision_reason": "KEEP: Induced electric field around a changing solenoid field.",
+    "evidence": "Complete actual statement read from SHA-cached text; all internal subparts retained.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  }
+]

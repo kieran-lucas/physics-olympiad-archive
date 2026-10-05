@@ -1,0 +1,42 @@
+[
+  {
+    "screening_unit_id": "raw::5409",
+    "problem_number": "12",
+    "page_start": 4,
+    "page_end": 4,
+    "decision": "KEEP",
+    "source_file_id": 3116
+  },
+  {
+    "screening_unit_id": "raw::5422",
+    "problem_number": "25",
+    "page_start": 11,
+    "page_end": 12,
+    "decision": "REJECT",
+    "source_file_id": 3116
+  },
+  {
+    "screening_unit_id": "raw::4535",
+    "problem_number": "20",
+    "page_start": 18,
+    "page_end": 18,
+    "decision": "KEEP",
+    "source_file_id": 3101
+  },
+  {
+    "screening_unit_id": "raw::4541",
+    "problem_number": "26",
+    "page_start": 26,
+    "page_end": 26,
+    "decision": "KEEP",
+    "source_file_id": 3101
+  },
+  {
+    "screening_unit_id": "raw::4536",
+    "problem_number": "21",
+    "page_start": 19,
+    "page_end": 19,
+    "decision": "REJECT",
+    "source_file_id": 3101
+  }
+]

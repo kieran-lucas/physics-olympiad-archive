@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::314",
+    "detail": "Theory-format seeded QC Random(2026100429) selects raw::314. Full three-page A/B and sprayer diagram reread. Envelope follows derivative with respect to launch angle; coverage follows 2*pi*R*dR and hemisphere annulus area with the stated monotonic branch. Supplied particle-stream assumption excludes nozzle/fluid continuum prerequisites. Whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::316",
+    "detail": "Focused supplied-model/source-quality review: full eight-page A-F and nine-page official key checked. GR redshift and Schwarzschild radius explicitly given; Hubble relation/approximation and jet powers supplied; E2 key uses ordinary -GMm/r, not an unsupplied relativistic accretion law. E1 mass-energy and photon relation within atomic/nuclear and quantum-light domains. MCQ B1/B2 are internal subparts. Rendered key confirms numerical/unit errors in E1 and D1, recorded separately; no raw changes. Qualitative diffraction identification does not require a specialist occultation inverse model. Whole KEEP confirmed with source-quality qualifications."
+  },
+  {
+    "screening_unit_id": "raw::317",
+    "detail": "Experimental-format QC Random(2026100430) selects the only 2024 experiment. All 22 pages including installation photos, motor table, A-G tasks and missing-in-text equations reviewed. B6 has omega_p=m*g*r/(I*omega_s); F2 supplies all three Euler equations, and I1=I2 with tau=0 reduces the transverse components to coupled constant-coefficient harmonic ODEs. Central A-E/G work is torque/angular momentum, inertia and experimental design/data analysis. Idealized torque-free and cross-sign conventions are disclosed rather than repaired; no unsupplied advanced physics controls the whole parent. KEEP confirmed; no fabricated experimental data."
+  }
+]

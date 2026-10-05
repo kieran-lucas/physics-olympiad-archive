@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::1796",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Signal-travel-time apparent motion; no Lorentz transformations required."
+  },
+  {
+    "screening_unit_id": "raw::1715",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Rigid rolling, angular momentum and supplied fictitious forces."
+  },
+  {
+    "screening_unit_id": "raw::1764",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Supplied photon E=pc; collision momentum and gas pressure."
+  },
+  {
+    "screening_unit_id": "raw::1829",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Coupled spring-block and moving wedge oscillation."
+  },
+  {
+    "screening_unit_id": "raw::1816",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Explicit Newtonian light-particle approximation; gravitational impulse and eclipse geometry."
+  },
+  {
+    "screening_unit_id": "raw::813",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Ideal-gas energy, mass and momentum conservation derive compressible-flow and shock relations."
+  },
+  {
+    "screening_unit_id": "raw::2157",
+    "detail": "Seeded fast-pass QC12, seed 20261004554, seven of 440 clear decisions across Russia TST, USA Physics, RMPH, Panpho, WoPhO and OIbF; actual complete unit statement reread on recorded pages. Confirmed KEEP: Diffraction, coherent interference and electromagnetic intensity versus field amplitude."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::1274",
+    "detail": "Seeded QC: full 2018 A Q14 and actual three-mass pivot figure re-read. Both axis periods are determined by rigid-body inertia and gravitational torque; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1307",
+    "detail": "Seeded QC: full 2018 B printed Q22 and actual string diagram re-read. Length constraint, gravitational energy and coupled Newtonian motion explain oscillation/drift; no specialized theoretical machinery is needed. KEEP confirmed."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::681",
+    "detail": "Whole-problem check: part a is 30%, with relativistic energy and gamma explicitly supplied; only independent a2 needs unsupplied time-dilation relation. Parts b-d (70%) use explicit energy-loss and Poisson laws plus Lorentz-force curvature from supplied momentum. Meaningful in-scope work dominates without depending on a2; KEEP confirmed."
+  }
+]

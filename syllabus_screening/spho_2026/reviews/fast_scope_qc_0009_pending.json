@@ -1,0 +1,95 @@
+{
+  "seed": 20261004450,
+  "pool_count": 432,
+  "sample": [
+    {
+      "screening_unit_id": "derived::5759ef1bcc4d0cdb::1687::3",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 2,
+      "page_end": 3,
+      "required_physics": "Explicit two-level probabilities, heat and work definitions; Otto and Carnot thermodynamics",
+      "decision_reason": "KEEP: Explicit two-level probabilities, heat and work definitions; Otto and Carnot thermodynamics.",
+      "visual_inspection_used": 0,
+      "solution_used": 0,
+      "evidence": "Fast complete statement pass: source 2018 all paper pages read; printed Problem 3 pp2-3, including all internal tasks.",
+      "needs_second_review": false
+    },
+    {
+      "screening_unit_id": "derived::59b01e7f1bf3e94a::1692::3",
+      "decision": "REJECT",
+      "confidence": "high",
+      "page_start": 2,
+      "page_end": 2,
+      "required_physics": "Relativistic rocket dynamics and velocity composition are central and unsupplied",
+      "decision_reason": "REJECT: Relativistic rocket dynamics and velocity composition are central and unsupplied.",
+      "evidence": "Complete statement pass: source 2028, all paper pages read; printed Problem 3, pp 2-2, including all internal parts.",
+      "visual_inspection_used": 0,
+      "solution_used": 0,
+      "needs_second_review": false
+    },
+    {
+      "screening_unit_id": "raw::363",
+      "decision": "KEEP",
+      "confidence": "high",
+      "required_physics": "Newtonian damped motion, supplied dipole fields, induction and resistive energy",
+      "decision_reason": "KEEP: Newtonian damped motion, supplied dipole fields, induction and resistive energy.",
+      "page_start": 1,
+      "page_end": 3,
+      "visual_inspection_used": 0,
+      "solution_used": 0,
+      "evidence": "Fast complete statement pass: source 1188, all 3 PDF pages including all internal parts read from SHA-cached text.",
+      "needs_second_review": false
+    },
+    {
+      "screening_unit_id": "raw::388",
+      "decision": "KEEP",
+      "confidence": "high",
+      "required_physics": "Explicit negative-phase optical model; refraction, interference and electrostatic dipole energies",
+      "decision_reason": "KEEP: Explicit negative-phase optical model; refraction, interference and electrostatic dipole energies.",
+      "page_start": 1,
+      "page_end": 6,
+      "visual_inspection_used": 1,
+      "solution_used": 0,
+      "evidence": "Fast complete statement pass: source 1263, all 6 PDF pages including all internal parts read from SHA-cached text. Rendered p1 verifies negative phase-propagation relation explicitly supplied.",
+      "needs_second_review": false
+    },
+    {
+      "screening_unit_id": "derived::e93b019d5bc48cd8::1688::1",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 1,
+      "page_end": 1,
+      "required_physics": "Asymmetric rigid wheel, rolling constraint, inertia, Newtonian forces and torque",
+      "decision_reason": "KEEP: Asymmetric rigid wheel, rolling constraint, inertia, Newtonian forces and torque.",
+      "visual_inspection_used": 0,
+      "solution_used": 0,
+      "evidence": "Fast complete statement pass: source 2020 all pages read; printed Problem 1 pp1-1, including all internal tasks.",
+      "needs_second_review": false
+    },
+    {
+      "screening_unit_id": "raw::2419",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 3,
+      "page_end": 4,
+      "required_physics": "Thermal conduction/radiation with supplied convection relation",
+      "decision_reason": "KEEP: Thermal conduction/radiation with supplied convection relation.",
+      "evidence": "Complete actual statement source 2664, printed problem 4, pp3-4; internal parts kept together.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    },
+    {
+      "screening_unit_id": "derived::2e30b56ab9274363::1700::二",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 1,
+      "page_end": 1,
+      "required_physics": "Newtonian solar transfer ellipse and Earth escape energy",
+      "decision_reason": "KEEP: Newtonian solar transfer ellipse and Earth escape energy.",
+      "evidence": "Complete actual statement read: source 2041 Problem 二 pp1-1, all internal parts.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    }
+  ]
+}

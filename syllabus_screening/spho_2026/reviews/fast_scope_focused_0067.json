@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::164",
+    "detail": "Supplied-versus-unsupplied checked: velocity addition and relativistic contraction are both explicitly printed; individual-bead spacing can be obtained from those supplied relations; remaining torque and energy classical. KEEP."
+  },
+  {
+    "screening_unit_id": "raw::165",
+    "detail": "Whole problem checked: a-e require thermal speed, classical Doppler and photon momentum/recoil; f additionally needs unsupplied linewidth-lifetime uncertainty. Final time/distance extension does not dominate five preceding substantial tasks. KEEP whole unit; original part-a sentence is imperfect but required thermal/resonance physics clear."
+  }
+]

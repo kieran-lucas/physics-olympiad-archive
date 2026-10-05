@@ -1,0 +1,150 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0012.json",
+  "papers": [
+    {
+      "file_id": 640,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Experimental black box with two diodes and resistor; instruments are apparatus, not extra tasks. No additional top-level statement."
+    },
+    {
+      "file_id": 643,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Historical introduction followed by Theoretical Problem 1 mechanics only. No additional top-level statement."
+    },
+    {
+      "file_id": 644,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 2 gas-cylinder molecular physics only. No additional top-level statement."
+    },
+    {
+      "file_id": 647,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 4 optics lens and wavelength only. No additional top-level statement."
+    },
+    {
+      "file_id": 648,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 3 dielectric liquid capacitor only. No additional top-level statement."
+    },
+    {
+      "file_id": 650,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. One experimental cylindrical-bodies mechanics task with multiple proposed methods. No additional top-level statement."
+    },
+    {
+      "file_id": 651,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Introduction and Question 1 mechanics only. No additional top-level statement."
+    },
+    {
+      "file_id": 654,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Question 2 hydrogen and mercury tube only. No additional top-level statement."
+    },
+    {
+      "file_id": 656,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Question 3 batteries and capacitors only. No additional top-level statement."
+    },
+    {
+      "file_id": 658,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Question 4 spherical aquarium and mirror only. No additional top-level statement."
+    },
+    {
+      "file_id": 660,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. One DC-source experiment; six numbered outputs are internal measurements/plots. No additional top-level statement."
+    },
+    {
+      "file_id": 662,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Historical introduction and Problem 1 bar and carriage only. No additional top-level statement."
+    },
+    {
+      "file_id": 665,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 3 concentric metal spheres only. No additional top-level statement."
+    },
+    {
+      "file_id": 666,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 2 NaCl crystal unit cell only. No additional top-level statement."
+    },
+    {
+      "file_id": 668,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 4 spherical telescope mirror only. No additional top-level statement."
+    },
+    {
+      "file_id": 669,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. One experimental focal-length determination; instrument list is not extra problems. No additional top-level statement."
+    },
+    {
+      "file_id": 672,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Reuse complete persisted scan inspection: one Problem 1 with internal 1(a,b), 2(a,b). No additional top-level statement."
+    },
+    {
+      "file_id": 673,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Reuse complete persisted scan inspection: preceding solution tail then one Problem 2. No additional top-level statement."
+    },
+    {
+      "file_id": 675,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Reuse complete persisted scan inspection: one Problem 3 charged rings and its solution. No additional top-level statement."
+    },
+    {
+      "file_id": 678,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Reuse complete persisted scan inspection of both pages: previous Problem 3 solution then one Problem 4 calculation. No additional top-level statement."
+    },
+    {
+      "file_id": 680,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. p1 historical introduction; p2 only Problem 1 inclined plane and cylinder. No additional top-level statement."
+    },
+    {
+      "file_id": 682,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 2 thermal expansion and toluene mixing only. No additional top-level statement."
+    },
+    {
+      "file_id": 684,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 3 glass semicylinder optics only. No additional top-level statement."
+    },
+    {
+      "file_id": 686,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. One experimental three-black-box investigation, shared instruments. No additional top-level statement."
+    },
+    {
+      "file_id": 687,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. p1 historical introduction; p2 introduction continuation then only Problem 1 cart and block. No additional top-level statement."
+    },
+    {
+      "file_id": 691,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 2 infinite resistor network only. No additional top-level statement."
+    },
+    {
+      "file_id": 692,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 3 heating two balls only. No additional top-level statement."
+    },
+    {
+      "file_id": 697,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. Problem 4 gas and added water only; prefatory history explains fourth question. No additional top-level statement."
+    },
+    {
+      "file_id": 700,
+      "observed_units": 1,
+      "evidence": "Entire physical-file boundary packet inspected against existing complete actual-statement evidence. One petroleum specific-heat experiment; twelve numbered items are apparatus, not tasks. No additional top-level statement."
+    }
+  ]
+}

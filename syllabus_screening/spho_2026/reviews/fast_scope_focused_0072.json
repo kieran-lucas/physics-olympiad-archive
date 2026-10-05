@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::2252",
+    "detail": "Local official marking scheme requires Laplace pressure, slow-flow force balance and friction proportional to mean velocity; no Poiseuille coefficient/profile or unsupplied continuum-fluid calculation. Ordinary linear viscous resistance and volume calculus: KEEP."
+  }
+]

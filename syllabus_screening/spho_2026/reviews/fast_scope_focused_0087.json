@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::1709",
+    "detail": "Statement reread: g/h need unsupplied length contraction for 3/30 points, independent of the classical wire-force analysis and 16-point Maxwell skin-effect block. Dominant work is in scope; whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::1722",
+    "detail": "Statement supplies normalized angular momentum/geodesic target, stereographic map, Laplace equation and explicit spherical/cylindrical Laplacians. Remaining coordinate calculus and image-method boundary solution are allowed mathematics/general electrostatics. KEEP."
+  }
+]

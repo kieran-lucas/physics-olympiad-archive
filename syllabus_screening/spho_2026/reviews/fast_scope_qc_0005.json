@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "derived::191160d44983f744::4076::18",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 3016 printed 18. KEEP confirmed: Point-charge electric potential work. No decision change."
+  },
+  {
+    "screening_unit_id": "derived::dbd3ff733f3c8363::4078::8",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 3021 printed 8. KEEP confirmed: Explicitly nonrelativistic observer motion. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3455",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 2853 printed 18. KEEP confirmed: Power and friction limited braking. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3555",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 2855 printed 38. KEEP confirmed: Two-mass spring oscillations. No decision change."
+  },
+  {
+    "screening_unit_id": "derived::4537b37544ee6694::4077::14",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 3017 printed 14. KEEP confirmed: Projectile maximum range from elevated launch. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3572",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 2856 printed 15. KEEP confirmed: Relative motion and minimum separation. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3559",
+    "detail": "Seeded lightweight QC 0005 (seed 20261004469, 7/464 clear decisions): full statement reread at source 2856 printed 2. KEEP confirmed: Balanced resistor bridge. No decision change."
+  }
+]

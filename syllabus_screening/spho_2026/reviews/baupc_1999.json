@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::6a29ec8f38e6f406::6388::1",
+      "KEEP",
+      "VI_electric_field",
+      "Coulomb potential integration and scale symmetry",
+      "Both sphere and cube potential ratios follow electrostatics; internal (a,b) remain one top-level problem.",
+      "BAUPC 1999 Problem 1: complete statement and diagrams visually read on source file 3168, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::6a29ec8f38e6f406::6388::2",
+      "KEEP",
+      "I_force_motion",
+      "Rolling kinematics and instantaneous velocity",
+      "The sharp parts of photographed spokes depend on motion during exposure, not imaging microphysics.",
+      "BAUPC 1999 Problem 2: complete statement and diagrams visually read on source file 3168, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::6a29ec8f38e6f406::6388::3",
+      "KEEP",
+      "I_force_motion",
+      "Combined tangential/radial acceleration and friction-limited optimization",
+      "The motorcycle shortest acceleration path is conventional Newtonian mechanics.",
+      "BAUPC 1999 Problem 3: complete statement and diagrams visually read on source file 3168, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::6a29ec8f38e6f406::6388::4",
+      "KEEP",
+      "I_force_motion",
+      "Relative planar pursuit kinematics",
+      "Both fox/rabbit path rules specify the motion completely; calculus is the additional challenge.",
+      "BAUPC 1999 Problem 4: complete statement and diagrams visually read on source file 3168, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::6a29ec8f38e6f406::6388::5",
+      "KEEP",
+      "I_force_motion",
+      "Accreting mass, momentum and geometry",
+      "The cloud/raindrop model explicitly states sticking droplets and spherical shape; no cloud microphysics is required.",
+      "BAUPC 1999 Problem 5: complete statement and diagrams visually read on source file 3168, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::6a29ec8f38e6f406::6388::6",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Elastic energy and constrained circular winding",
+      "The sticky pole and zero-natural-length spring are specified idealizations; ordinary mechanics determines the time.",
+      "BAUPC 1999 Problem 6: complete statement and diagrams visually read on source file 3168, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

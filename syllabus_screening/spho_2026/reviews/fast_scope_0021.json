@@ -1,0 +1,632 @@
+[
+  {
+    "screening_unit_id": "raw::4850",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Atwood pulley Newton acceleration",
+    "decision_reason": "KEEP: Atwood pulley Newton acceleration within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.1, pp2-2. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4851",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Series and parallel resistance",
+    "decision_reason": "KEEP: Series and parallel resistance within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.2, pp2-2. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4852",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Cone center-of-mass stability",
+    "decision_reason": "KEEP: Cone center-of-mass stability within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.3, pp3-3. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4853",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Newton escape speed",
+    "decision_reason": "KEEP: Newton escape speed within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.4, pp3-3. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4854",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Cuboid gravitational tipping energy",
+    "decision_reason": "KEEP: Cuboid gravitational tipping energy within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.5, pp4-4. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4855",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Fuse-limited circuit power",
+    "decision_reason": "KEEP: Fuse-limited circuit power within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.6, pp4-4. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4856",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Supplied volume-count arithmetic",
+    "decision_reason": "KEEP: Supplied volume-count arithmetic within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.7, pp5-5. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4857",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Constant-deceleration interval",
+    "decision_reason": "KEEP: Constant-deceleration interval within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.8, pp5-5. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4858",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Pump pressure work and electrical efficiency",
+    "decision_reason": "KEEP: Pump pressure work and electrical efficiency within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.9, pp6-6. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4859",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Ideal-gas molecular counts",
+    "decision_reason": "KEEP: Ideal-gas molecular counts within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.10, pp6-6. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4860",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Clock gravitational work and battery efficiency",
+    "decision_reason": "KEEP: Clock gravitational work and battery efficiency within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.11, pp7-7. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4861",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Bayes probability",
+    "decision_reason": "KEEP: Bayes probability within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.12, pp7-7. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4862",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Point-source illuminance geometry",
+    "decision_reason": "KEEP: Point-source illuminance geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.13, pp8-8. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4863",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Static friction and braking",
+    "decision_reason": "KEEP: Static friction and braking within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.14, pp9-9. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4864",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Waterfall momentum flux",
+    "decision_reason": "KEEP: Waterfall momentum flux within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.15, pp9-9. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4865",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Simple combustion molar balance and ideal gas",
+    "decision_reason": "KEEP: Simple combustion molar balance and ideal gas within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.16, pp10-10. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4866",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Heating melting and vaporization",
+    "decision_reason": "KEEP: Heating melting and vaporization within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.17, pp10-10. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4867",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Calorimetry and heating efficiency",
+    "decision_reason": "KEEP: Calorimetry and heating efficiency within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.18, pp11-11. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4868",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Supplied internal-resistance source",
+    "decision_reason": "KEEP: Supplied internal-resistance source within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.19, pp11-11. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4869",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Cylinder-segment raft buoyancy",
+    "decision_reason": "KEEP: Cylinder-segment raft buoyancy within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.20, pp12-12. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4870",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 13,
+    "required_physics": "Buoyancy and Hooke elongation",
+    "decision_reason": "KEEP: Buoyancy and Hooke elongation within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.21, pp13-13. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4871",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 13,
+    "required_physics": "Unsupplied Lorentz proper-time transformation",
+    "decision_reason": "REJECT: Unsupplied Lorentz proper-time transformation is central and not supplied.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.22, pp13-13. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4872",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Unwinding yarn gravitational energy",
+    "decision_reason": "KEEP: Unwinding yarn gravitational energy within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.23, pp14-14. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4873",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Minimum travel-time geometry",
+    "decision_reason": "KEEP: Minimum travel-time geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.24, pp15-15. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4874",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Electrostatic capacitor and grounded plane",
+    "decision_reason": "KEEP: Electrostatic capacitor and grounded plane within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.25, pp15-15. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4875",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 16,
+    "required_physics": "Suspended-ring rotational oscillations",
+    "decision_reason": "KEEP: Suspended-ring rotational oscillations within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.26, pp16-16. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4876",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 17,
+    "page_end": 17,
+    "required_physics": "Physical pendulum inertia optimization",
+    "decision_reason": "KEEP: Physical pendulum inertia optimization within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.27, pp17-17. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4877",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 18,
+    "page_end": 18,
+    "required_physics": "Slipping coupled-block friction",
+    "decision_reason": "KEEP: Slipping coupled-block friction within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.28, pp18-18. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4878",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 18,
+    "page_end": 18,
+    "required_physics": "Static coupled-block friction",
+    "decision_reason": "KEEP: Static coupled-block friction within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.29, pp18-18. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4879",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Supplied elastic-collision mass chain",
+    "decision_reason": "KEEP: Supplied elastic-collision mass chain within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.30, pp19-19. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4880",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 20,
+    "page_end": 20,
+    "required_physics": "Two-stage block friction",
+    "decision_reason": "KEEP: Two-stage block friction within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.31, pp20-20. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4881",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 21,
+    "page_end": 21,
+    "required_physics": "Ideal-gas heating and pressure",
+    "decision_reason": "KEEP: Ideal-gas heating and pressure within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.32, pp21-21. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4882",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 21,
+    "page_end": 21,
+    "required_physics": "Hypercube resistor-network symmetry",
+    "decision_reason": "KEEP: Hypercube resistor-network symmetry within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.33, pp21-21. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4883",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 23,
+    "page_end": 23,
+    "required_physics": "Repeated elastic collision momentum flux",
+    "decision_reason": "KEEP: Repeated elastic collision momentum flux within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.34, pp23-23. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4884",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 23,
+    "page_end": 23,
+    "required_physics": "Combustion gas mole-count balance",
+    "decision_reason": "KEEP: Combustion gas mole-count balance within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.35, pp23-23. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4885",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 24,
+    "page_end": 24,
+    "required_physics": "Supplied DC plus sinusoidal current power",
+    "decision_reason": "KEEP: Supplied DC plus sinusoidal current power within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.36, pp24-24. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4886",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 25,
+    "page_end": 25,
+    "required_physics": "Radiation-pressure braking",
+    "decision_reason": "KEEP: Radiation-pressure braking within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.37, pp25-25. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4887",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 26,
+    "page_end": 26,
+    "required_physics": "Projected-area light absorption",
+    "decision_reason": "KEEP: Projected-area light absorption within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.38, pp26-26. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4888",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 28,
+    "page_end": 28,
+    "required_physics": "Inclined-force friction optimization",
+    "decision_reason": "KEEP: Inclined-force friction optimization within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.39, pp28-28. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4889",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 29,
+    "page_end": 29,
+    "required_physics": "Projectile range optimization",
+    "decision_reason": "KEEP: Projectile range optimization within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.40, pp29-29. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4890",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 30,
+    "page_end": 30,
+    "required_physics": "Unsupplied gravitational frequency shift",
+    "decision_reason": "REJECT: Unsupplied gravitational frequency shift is central and not supplied.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.41, pp30-30. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4891",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 30,
+    "page_end": 30,
+    "required_physics": "Pyramid buoyancy small oscillations",
+    "decision_reason": "KEEP: Pyramid buoyancy small oscillations within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.42, pp30-30. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4892",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 31,
+    "page_end": 31,
+    "required_physics": "Rotating-rod Newton bead motion",
+    "decision_reason": "KEEP: Rotating-rod Newton bead motion within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.43, pp31-31. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4893",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 33,
+    "page_end": 33,
+    "required_physics": "Electrostatic image force and fall time",
+    "decision_reason": "KEEP: Electrostatic image force and fall time within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.44, pp33-33. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4894",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 34,
+    "page_end": 34,
+    "required_physics": "Supplied ray reflection model and power",
+    "decision_reason": "KEEP: Supplied ray reflection model and power within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.45, pp34-34. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4895",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 35,
+    "page_end": 35,
+    "required_physics": "Supplied rocket thrust and exhaust momentum",
+    "decision_reason": "KEEP: Supplied rocket thrust and exhaust momentum within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.46, pp35-35. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4896",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 36,
+    "page_end": 36,
+    "required_physics": "Rigid fluid rotation and hydrostatics",
+    "decision_reason": "KEEP: Rigid fluid rotation and hydrostatics within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.47, pp36-36. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4897",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 37,
+    "page_end": 37,
+    "required_physics": "Rotating ideal-gas hydrostatics",
+    "decision_reason": "KEEP: Rotating ideal-gas hydrostatics within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.48, pp37-37. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4898",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 40,
+    "page_end": 40,
+    "required_physics": "String tension and wave speed",
+    "decision_reason": "KEEP: String tension and wave speed within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.49, pp40-40. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4899",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 41,
+    "page_end": 41,
+    "required_physics": "Electrostatic symmetry",
+    "decision_reason": "KEEP: Electrostatic symmetry within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.50, pp41-41. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4900",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 42,
+    "page_end": 42,
+    "required_physics": "Classical electrostatic boundary-value problem",
+    "decision_reason": "KEEP: Classical electrostatic boundary-value problem within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed FoL.51, pp42-42. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4901",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 47,
+    "page_end": 47,
+    "required_physics": "Relative escalator travel",
+    "decision_reason": "KEEP: Relative escalator travel within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed M.1, pp47-47. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4902",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 48,
+    "page_end": 48,
+    "required_physics": "Moving-walkway relative steps",
+    "decision_reason": "KEEP: Moving-walkway relative steps within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed M.2, pp48-48. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4903",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 48,
+    "page_end": 48,
+    "required_physics": "Escalator force work",
+    "decision_reason": "KEEP: Escalator force work within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed M.3, pp48-48. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4904",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 49,
+    "page_end": 49,
+    "required_physics": "Relative escalator speed",
+    "decision_reason": "KEEP: Relative escalator speed within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed M.4, pp49-49. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4905",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 50,
+    "page_end": 50,
+    "required_physics": "Supplied Boltzmann probabilities",
+    "decision_reason": "KEEP: Supplied Boltzmann probabilities within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed E.1, pp50-50. Complete statement read; FoL1-8 read full cache. Full cached pp50-52 supply Boltzmann law, oscillator spectrum and internal-energy derivative; italic technical terms truncate pack E1/E3, original extraction used."
+  },
+  {
+    "screening_unit_id": "raw::4906",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 50,
+    "page_end": 50,
+    "required_physics": "Supplied two-state Boltzmann distribution",
+    "decision_reason": "KEEP: Supplied two-state Boltzmann distribution within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed E.2, pp50-50. Complete statement read; FoL1-8 read full cache. Full cached pp50-52 supply Boltzmann law, oscillator spectrum and internal-energy derivative; italic technical terms truncate pack E1/E3, original extraction used."
+  },
+  {
+    "screening_unit_id": "raw::4907",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 51,
+    "page_end": 51,
+    "required_physics": "Supplied oscillator levels and Boltzmann sum",
+    "decision_reason": "KEEP: Supplied oscillator levels and Boltzmann sum within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed E.3, pp51-51. Complete statement read; FoL1-8 read full cache. Full cached pp50-52 supply Boltzmann law, oscillator spectrum and internal-energy derivative; italic technical terms truncate pack E1/E3, original extraction used."
+  },
+  {
+    "screening_unit_id": "raw::4908",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 51,
+    "page_end": 52,
+    "required_physics": "Supplied oscillator thermodynamic derivative",
+    "decision_reason": "KEEP: Supplied oscillator thermodynamic derivative within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed E.4, pp51-52. Complete statement read; FoL1-8 read full cache. Full cached pp50-52 supply Boltzmann law, oscillator spectrum and internal-energy derivative; italic technical terms truncate pack E1/E3, original extraction used."
+  },
+  {
+    "screening_unit_id": "raw::4909",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 52,
+    "page_end": 52,
+    "required_physics": "Lever torque",
+    "decision_reason": "KEEP: Lever torque within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed X.1, pp52-52. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4910",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 52,
+    "page_end": 52,
+    "required_physics": "Flow rate and cross section",
+    "decision_reason": "KEEP: Flow rate and cross section within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed X.2, pp52-52. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4911",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 53,
+    "page_end": 53,
+    "required_physics": "Impulse and bone stress",
+    "decision_reason": "KEEP: Impulse and bone stress within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed X.3, pp53-53. Complete statement read; FoL1-8 read full cache."
+  },
+  {
+    "screening_unit_id": "raw::4912",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 53,
+    "page_end": 53,
+    "required_physics": "Supplied water-fraction arithmetic",
+    "decision_reason": "KEEP: Supplied water-fraction arithmetic within operational scope.",
+    "evidence": "Fast statement pass: source 3106, printed X.4, pp53-53. Complete statement read; FoL1-8 read full cache."
+  }
+]

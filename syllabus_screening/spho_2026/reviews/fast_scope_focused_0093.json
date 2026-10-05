@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::735",
+    "detail": "Statement explicitly assumes all distances expand isotropically and supplies Planck/Wien relations. The required broad model is geometric wavelength stretching with density scaling, followed by measured spectral-peak comparison; no relativistic Doppler, Friedmann equation or GR derivation requested. KEEP confirmed under supplied-model rule."
+  }
+]

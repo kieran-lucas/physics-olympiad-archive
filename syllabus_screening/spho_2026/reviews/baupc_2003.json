@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::e4d6f3dca986b3ee::6384::1",
+      "KEEP",
+      "I_force_motion",
+      "Variable-mass momentum flux and rope tension",
+      "The released folded rope requires momentum balance and gravity, with no material constitutive theory.",
+      "BAUPC 2003 Problem 1: complete statement and diagrams visually read on source file 3160, physical pages 1-1.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::e4d6f3dca986b3ee::6384::2",
+      "KEEP",
+      "I_force_motion",
+      "Gravity, tension and constrained unwinding",
+      "The wound string angle follows Newtonian trajectory/energy reasoning.",
+      "BAUPC 2003 Problem 2: complete statement and diagrams visually read on source file 3160, physical pages 1-1.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::e4d6f3dca986b3ee::6384::3",
+      "KEEP",
+      "VI_electric_field",
+      "Ohm law and self-similar resistor reduction",
+      "The nested-square infinite circuit adds geometric recursion, not external physics.",
+      "BAUPC 2003 Problem 3: complete statement and diagrams visually read on source file 3160, physical pages 1-1.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::e4d6f3dca986b3ee::6384::4",
+      "KEEP",
+      "VII_magnetic_field;I_force_motion",
+      "Lorentz force and supplied velocity-proportional friction",
+      "The two spiral stopping displacements determine a classical magnetic/damping ratio; the force law is supplied.",
+      "BAUPC 2003 Problem 4: complete statement and diagrams visually read on source file 3160, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::e4d6f3dca986b3ee::6384::5",
+      "KEEP",
+      "I_force_motion",
+      "Elastic impulses, rotation and repeated projectile bounces",
+      "The no-slip rubber collision law and inertia are supplied; impulse/energy and gravity suffice.",
+      "BAUPC 2003 Problem 5: complete statement and diagrams visually read on source file 3160, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::e4d6f3dca986b3ee::6384::6",
+      "KEEP",
+      "I_force_motion",
+      "Rolling constraints, angular momentum and circular force balance",
+      "The ball on a cone is explicitly rigid-body dynamics; optimizing its speed is mathematical difficulty rather than external theory.",
+      "BAUPC 2003 Problem 6: complete statement and diagrams visually read on source file 3160, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

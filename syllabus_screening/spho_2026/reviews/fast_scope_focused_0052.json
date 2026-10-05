@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "derived::d25b778e9b92642a::4033::5",
+    "detail": "Focused supplied-model check: actual statement explicitly gives the needed Lorentz coordinate relations, beta/gamma, phase invariance and rest-frame reflection hint; rendered p2 confirms equations. KEEP confirmed without external physics."
+  },
+  {
+    "screening_unit_id": "derived::d584f6f779c81cd8::4034::9",
+    "detail": "Focused supplied-model check: actual statement explicitly gives the needed Heisenberg uncertainty inequality and standard-deviation definition; remaining bubble estimate uses classical kinetic energy and surface tension. KEEP confirmed without external physics."
+  }
+]

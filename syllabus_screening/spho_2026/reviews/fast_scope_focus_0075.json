@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::2635",
+    "detail": "Focused actual prerequisite/whole-problem review confirmed KEEP: Light-spot kinematics, nonrelativistic photon-mirror momentum and explicit dimensional analysis."
+  },
+  {
+    "screening_unit_id": "raw::2636",
+    "detail": "Focused actual prerequisite/whole-problem review confirmed KEEP: Finite-light-travel-time apparent motion and radar timing; no Lorentz transformation needed."
+  },
+  {
+    "screening_unit_id": "raw::2639",
+    "detail": "Focused actual prerequisite/whole-problem review confirmed KEEP: Supplied total energy-momentum invariant supports collision thresholds and photon energies; independent meson-speed extension is secondary."
+  },
+  {
+    "screening_unit_id": "raw::2648",
+    "detail": "Focused actual prerequisite/whole-problem review confirmed KEEP: Explicit first-order speed approximation; signal travel times and low-speed reflected Doppler."
+  },
+  {
+    "screening_unit_id": "raw::2650",
+    "detail": "Focused actual prerequisite/whole-problem review confirmed BORDERLINE: Classical interference and unsupplied relativistic flowing-medium velocity addition have comparable independent conceptual weight. Official source2813 pp3-5: independent A5 marks and B4 marks, SR model not supplied in statement; preserve near-boundary judgment."
+  },
+  {
+    "screening_unit_id": "raw::2660",
+    "detail": "Focused actual prerequisite/whole-problem review confirmed KEEP: Explicit vector Lorentz model supplies transformations; velocity and acceleration follow differentiation."
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::15ad6a4f9aa9791b::6386::1",
+      "KEEP",
+      "I_force_motion",
+      "Rolling rigid-body motion and torque",
+      "Keeping the ball centre fixed in an accelerating cylinder uses Newton/Euler equations and the supplied inertia.",
+      "BAUPC 2001 Problem 1: complete statement and diagrams visually read on source file 3164, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::15ad6a4f9aa9791b::6386::2",
+      "KEEP",
+      "X_wave_optics",
+      "Geometrical reflection and isotropic emission",
+      "The reflecting cone collects light through ordinary ray geometry; the solid-angle calculation is a mathematical tool.",
+      "BAUPC 2001 Problem 2: complete statement and diagrams visually read on source file 3164, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::15ad6a4f9aa9791b::6386::3",
+      "KEEP",
+      "I_force_motion",
+      "Inclined-plane Newton equations with velocity-directed friction",
+      "The asymptotic speed is an in-scope friction problem despite its coupled nonlinear algebra.",
+      "BAUPC 2001 Problem 3: complete statement and diagrams visually read on source file 3164, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::15ad6a4f9aa9791b::6386::4",
+      "KEEP",
+      "III_ideal_gas;IV_thermodynamics",
+      "First law, ideal-gas internal energy and cycle efficiency",
+      "The P-V triangular cycle and internal energy are supplied; heat intake/rejection are standard thermodynamics.",
+      "BAUPC 2001 Problem 4: complete statement and diagrams visually read on source file 3164, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::15ad6a4f9aa9791b::6386::5",
+      "KEEP",
+      "I_force_motion",
+      "Relative kinematics on a uniformly stretching support",
+      "The ant and rubber band obey a supplied kinematic stretching assumption; no elasticity theory is needed.",
+      "BAUPC 2001 Problem 5: complete statement and diagrams visually read on source file 3164, physical pages 4-4.",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::15ad6a4f9aa9791b::6386::6",
+      "KEEP",
+      "VI_electric_field",
+      "Kirchhoff laws, superposition and resistor-network linear algebra",
+      "The arbitrary connected network requires circuit physics with a proof; mathematical generality is not an out-of-scope theory.",
+      "BAUPC 2001 Problem 6: complete statement and diagrams visually read on source file 3164, physical pages 4-4.",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

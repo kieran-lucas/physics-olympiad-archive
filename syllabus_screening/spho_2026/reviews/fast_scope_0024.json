@@ -1,0 +1,632 @@
+[
+  {
+    "screening_unit_id": "raw::5035",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Rotating-Earth apparent weight",
+    "decision_reason": "KEEP: Rotating-Earth apparent weight within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.1, pp2-2. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5036",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Supplied dielectric breakdown field",
+    "decision_reason": "KEEP: Supplied dielectric breakdown field within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.2, pp2-2. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5037",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Center-of-mass jump displacement",
+    "decision_reason": "KEEP: Center-of-mass jump displacement within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.3, pp2-2. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5038",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Resistor circuit",
+    "decision_reason": "KEEP: Resistor circuit within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.4, pp3-3. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5039",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Plane-mirror visible geometry",
+    "decision_reason": "KEEP: Plane-mirror visible geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.5, pp3-3. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5040",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Supercooled-water latent heat",
+    "decision_reason": "KEEP: Supercooled-water latent heat within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.6, pp4-4. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5041",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Supplied fuel heating value and electrical energy",
+    "decision_reason": "KEEP: Supplied fuel heating value and electrical energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.7, pp5-5. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5042",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Inelastic projectile impulse and friction",
+    "decision_reason": "KEEP: Inelastic projectile impulse and friction within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.8, pp5-5. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5043",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Supplied quadratic drag and power",
+    "decision_reason": "KEEP: Supplied quadratic drag and power within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.9, pp6-6. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5044",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Parallax geometry",
+    "decision_reason": "KEEP: Parallax geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.10, pp6-6. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5045",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Ideal-gas dissolved carbon dioxide",
+    "decision_reason": "KEEP: Ideal-gas dissolved carbon dioxide within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.11, pp7-7. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5046",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Accelerating segway force balance and power",
+    "decision_reason": "KEEP: Accelerating segway force balance and power within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.12, pp7-7. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5047",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Geometric probability",
+    "decision_reason": "KEEP: Geometric probability within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.13, pp8-8. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5048",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Axial Hooke thermal stress",
+    "decision_reason": "KEEP: Axial Hooke thermal stress within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.14, pp8-8. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5049",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Hooke spring break and ensuing oscillations",
+    "decision_reason": "KEEP: Hooke spring break and ensuing oscillations within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.15, pp9-9. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5050",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Bungee energy",
+    "decision_reason": "KEEP: Bungee energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.16, pp10-10. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5051",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "No-slip ball-bearing motion",
+    "decision_reason": "KEEP: No-slip ball-bearing motion within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.17, pp10-10. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5052",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Refractive apparent depth",
+    "decision_reason": "KEEP: Refractive apparent depth within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.18, pp11-11. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5053",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Rod inertia and gravitational energy",
+    "decision_reason": "KEEP: Rod inertia and gravitational energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.19, pp12-12. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5054",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Inclined-axis physical pendulum",
+    "decision_reason": "KEEP: Inclined-axis physical pendulum within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.20, pp12-12. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5055",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 13,
+    "required_physics": "Elastic slingshot energy",
+    "decision_reason": "KEEP: Elastic slingshot energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.21, pp13-13. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5056",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Parallel-axis rotational energy",
+    "decision_reason": "KEEP: Parallel-axis rotational energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.22, pp14-14. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5057",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Electrostatic force and axial stress",
+    "decision_reason": "KEEP: Electrostatic force and axial stress within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.23, pp14-14. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5058",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Newton inverse-square launch energy",
+    "decision_reason": "KEEP: Newton inverse-square launch energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.24, pp15-15. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5059",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 16,
+    "required_physics": "Supplied Lambert-Beer decay attenuation",
+    "decision_reason": "KEEP: Supplied Lambert-Beer decay attenuation within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.25, pp16-16. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5060",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 17,
+    "required_physics": "Calorimetry and gallium melting",
+    "decision_reason": "KEEP: Calorimetry and gallium melting within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.26, pp16-17. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5061",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 17,
+    "page_end": 17,
+    "required_physics": "Infinite resistor network",
+    "decision_reason": "KEEP: Infinite resistor network within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.27, pp17-17. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5062",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 18,
+    "page_end": 18,
+    "required_physics": "Composite resistivity and heat capacity",
+    "decision_reason": "KEEP: Composite resistivity and heat capacity within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.28, pp18-18. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5063",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Blackbody radiative equilibrium",
+    "decision_reason": "KEEP: Blackbody radiative equilibrium within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.29, pp19-19. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5064",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 20,
+    "page_end": 20,
+    "required_physics": "Coupled rolling cylinders",
+    "decision_reason": "KEEP: Coupled rolling cylinders within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.30, pp20-20. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5065",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 21,
+    "page_end": 21,
+    "required_physics": "Acoustic supersonic Doppler geometry",
+    "decision_reason": "KEEP: Acoustic supersonic Doppler geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.31, pp21-21. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5066",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 22,
+    "page_end": 22,
+    "required_physics": "Unsupplied cosmological Hubble distance law",
+    "decision_reason": "REJECT: Unsupplied cosmological Hubble distance law is central and not supplied.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.32, pp22-22. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5067",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 23,
+    "page_end": 23,
+    "required_physics": "Bohr hydrogen energy and radius",
+    "decision_reason": "KEEP: Bohr hydrogen energy and radius within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.33, pp23-23. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5068",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 24,
+    "page_end": 24,
+    "required_physics": "Acoustic inverse-square intensity geometry",
+    "decision_reason": "KEEP: Acoustic inverse-square intensity geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.34, pp24-24. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5069",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 25,
+    "page_end": 25,
+    "required_physics": "Projectile minimal speed",
+    "decision_reason": "KEEP: Projectile minimal speed within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.35, pp25-25. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5070",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 26,
+    "page_end": 26,
+    "required_physics": "Hydrostatic drawbridge torque",
+    "decision_reason": "KEEP: Hydrostatic drawbridge torque within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.36, pp26-26. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5071",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 26,
+    "page_end": 26,
+    "required_physics": "Buoyancy potential and oscillation",
+    "decision_reason": "KEEP: Buoyancy potential and oscillation within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.37, pp26-26. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5072",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 27,
+    "page_end": 27,
+    "required_physics": "Rolling-wheel projectile",
+    "decision_reason": "KEEP: Rolling-wheel projectile within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.38, pp27-27. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5073",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 28,
+    "page_end": 28,
+    "required_physics": "Classical magnetic dipole field",
+    "decision_reason": "KEEP: Classical magnetic dipole field within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.39, pp28-28. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5074",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 29,
+    "page_end": 29,
+    "required_physics": "Supplied aerodynamic drag and efficiency",
+    "decision_reason": "KEEP: Supplied aerodynamic drag and efficiency within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.40, pp29-29. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5075",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 30,
+    "page_end": 30,
+    "required_physics": "Sunlight projected energy",
+    "decision_reason": "KEEP: Sunlight projected energy within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.41, pp30-30. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5076",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 30,
+    "page_end": 30,
+    "required_physics": "Newton rotating space-elevator weight integral",
+    "decision_reason": "KEEP: Newton rotating space-elevator weight integral within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.42, pp30-30. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5077",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 31,
+    "page_end": 31,
+    "required_physics": "Bernoulli boiler outflow",
+    "decision_reason": "KEEP: Bernoulli boiler outflow within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.43, pp31-31. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5078",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 32,
+    "page_end": 32,
+    "required_physics": "Single-frame travel time including light propagation",
+    "decision_reason": "KEEP: Single-frame travel time including light propagation within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.44, pp32-32. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5079",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 33,
+    "page_end": 33,
+    "required_physics": "Supplied radiative reflection and heat balance",
+    "decision_reason": "KEEP: Supplied radiative reflection and heat balance within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.45, pp33-33. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5080",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 34,
+    "page_end": 34,
+    "required_physics": "Supplied river velocity profile",
+    "decision_reason": "KEEP: Supplied river velocity profile within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.46, pp34-34. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5081",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 34,
+    "page_end": 34,
+    "required_physics": "Heat conduction vaporization and Bernoulli outflow",
+    "decision_reason": "KEEP: Heat conduction vaporization and Bernoulli outflow within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.47, pp34-34. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5082",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 35,
+    "page_end": 35,
+    "required_physics": "Isothermal ideal-gas exchange recurrence",
+    "decision_reason": "KEEP: Isothermal ideal-gas exchange recurrence within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.48, pp35-35. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5083",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 36,
+    "page_end": 36,
+    "required_physics": "Unsupplied relativistic recoil and velocity addition",
+    "decision_reason": "REJECT: Unsupplied relativistic recoil and velocity addition is central and not supplied.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.49, pp36-36. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5084",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 37,
+    "page_end": 37,
+    "required_physics": "Thermal conduction phase equilibrium and vapor pressure",
+    "decision_reason": "KEEP: Thermal conduction phase equilibrium and vapor pressure within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.50, pp37-37. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5085",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 38,
+    "page_end": 38,
+    "required_physics": "Conducting-sphere induced dipoles and Coulomb field",
+    "decision_reason": "KEEP: Conducting-sphere induced dipoles and Coulomb field within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed FoL.51, pp38-38. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5086",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 39,
+    "page_end": 39,
+    "required_physics": "Angular clock distance",
+    "decision_reason": "KEEP: Angular clock distance within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed M.1, pp39-39. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5087",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 40,
+    "page_end": 40,
+    "required_physics": "Piecewise travel-time arithmetic",
+    "decision_reason": "KEEP: Piecewise travel-time arithmetic within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed M.2, pp40-40. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5088",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 40,
+    "page_end": 40,
+    "required_physics": "Surface-tension liquid shape and Newton motion",
+    "decision_reason": "KEEP: Surface-tension liquid shape and Newton motion within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed M.3, pp40-40. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5089",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 41,
+    "page_end": 41,
+    "required_physics": "Center-of-mass rod geometry",
+    "decision_reason": "KEEP: Center-of-mass rod geometry within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed M.4, pp41-41. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5090",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 41,
+    "page_end": 41,
+    "required_physics": "Capacitor cutting and charge conservation",
+    "decision_reason": "KEEP: Capacitor cutting and charge conservation within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed E.1, pp41-41. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5091",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 42,
+    "page_end": 42,
+    "required_physics": "Ideal-voltage resistor power",
+    "decision_reason": "KEEP: Ideal-voltage resistor power within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed E.2, pp42-42. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5092",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 42,
+    "page_end": 42,
+    "required_physics": "Ideal-current resistor power",
+    "decision_reason": "KEEP: Ideal-current resistor power within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed E.3, pp42-42. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5093",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 43,
+    "page_end": 43,
+    "required_physics": "Kirchhoff source currents",
+    "decision_reason": "KEEP: Kirchhoff source currents within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed E.4, pp43-43. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5094",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 43,
+    "page_end": 43,
+    "required_physics": "Radioactive half-life",
+    "decision_reason": "KEEP: Radioactive half-life within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed X.1, pp43-43. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5095",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 43,
+    "page_end": 44,
+    "required_physics": "Timed radioactive mass decay",
+    "decision_reason": "KEEP: Timed radioactive mass decay within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed X.2, pp43-44. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5096",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 44,
+    "page_end": 44,
+    "required_physics": "Periodic intake and radioactive recurrence",
+    "decision_reason": "KEEP: Periodic intake and radioactive recurrence within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed X.3, pp44-44. Complete typography-delimited statement read."
+  },
+  {
+    "screening_unit_id": "raw::5097",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 45,
+    "page_end": 45,
+    "required_physics": "Supplied foam half-life",
+    "decision_reason": "KEEP: Supplied foam half-life within operational scope.",
+    "evidence": "Fast statement pass: source 3109, printed X.4, pp45-45. Complete typography-delimited statement read."
+  }
+]

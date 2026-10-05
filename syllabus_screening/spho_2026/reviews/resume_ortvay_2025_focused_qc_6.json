@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::5408",
+    "detail": "Focused second reading of p4: wave speeds and short-wavelength geometry are given, but polarization conversion rules at bonded elastic interfaces are not. Ray geometry is useful; intended inclusion of converted branches remains ambiguous. BORDERLINE confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5417",
+    "detail": "Focused second reading of p7: neither functional population interaction laws nor their derivatives are specified. A generic implicit equilibrium can be written, but the requested change and critical mortality need model interpretation. Retain BORDERLINE for statement ambiguity, not merely biological context."
+  },
+  {
+    "screening_unit_id": "raw::5409",
+    "detail": "Supplied-model check of p4: the displayed L has identifiable kinetic energy and explicit pair potential. Deriving force by minus potential gradient provides a Newtonian route, so unsupplied canonical Hamiltonian laws from Q7 are not required here. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5419",
+    "detail": "Focused given-model check of pp8-9: link phases, plaquette multiplication, action, e^-S weight, measured observable and periodic boundaries are supplied. Implementing Metropolis sampling and detecting plotted jumps needs no unsupplied gauge theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5420",
+    "detail": "Focused source/reference check: article v2 setup and Figure 10 p14 plus discussion p15 define binary configurations on an N-dimensional cube. The exam explicitly ignores energy selection. Graph search is mathematics; no spin-glass phase or quantum theory controls this task. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5421",
+    "detail": "Focused given-model check of p10: density/reduced matrices and von Neumann entropy are defined; all requested properties reduce to normalized complex arrays, partial traces and singular-value/unitarity constraints. No operator time-evolution law is used. KEEP confirmed."
+  }
+]

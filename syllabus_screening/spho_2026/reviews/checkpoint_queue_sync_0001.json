@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-10-04T15:43:05.782699+00:00",
+  "finding": "Lightweight checkpoint exported remaining.csv but omitted the separate physical-paper ledger exports.",
+  "correction": "Call existing paper_boundary_audit.export during each lightweight checkpoint; assert pending file-ID set in remaining_paper_boundaries.csv equals SQLite.",
+  "sqlite_integrity": "ok full integrity_check and foreign_key_check",
+  "decision_changes": 0
+}

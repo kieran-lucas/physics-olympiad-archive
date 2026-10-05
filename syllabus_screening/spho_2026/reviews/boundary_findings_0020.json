@@ -1,0 +1,130 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0020.json",
+  "papers": [
+    {
+      "file_id": 2194,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Symmetric spinning top, Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2196,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Josephson effect, internal junction/circuit tasks. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2198,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Rising bubbles, internal Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2200,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Membrane potential, internal ion-field/resting-potential/signal sections. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2202,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Horizon photography, internal Parts A-E. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2205,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Wire thermal degradation experiment, common apparatus and Parts A-B. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2206,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Casein titration experiment, common optical apparatus and Parts A-B. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2208,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Heat engines, Parts A-B plus website footer. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2210,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Gaussian beams, internal Parts A-C plus website footer. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2212,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Earnshaw balls, internal Parts A-C. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2214,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Accelerated special-relativity observer, Parts A-C plus website footer. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2216,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Ferrofluid symmetry breaking, internal Parts A-C. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2218,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Electron tube, internal Parts A-C. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2220,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Domino experiment, internal theory/experiment Parts A-B. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2223,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Flexible falling body, internal Parts A-B; p2 website footer only. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2224,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Y25-E2 long line2.0 experiment, internal Parts A-C. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2226,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Heat-engine efficiency, internal A1-A9; p2 website footer only. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2228,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Optical distortion, internal Parts A-B; p2 continuation/footer. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2230,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Raindrops, internal Parts A-B. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2232,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Atmospheric electricity, internal Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2234,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Noncentral ball motion, internal Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2236,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Oil extraction, internal Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2238,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Mercury precession, internal Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2240,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Conductors in magnetic fields, internal Parts A-D. One complete top-level problem; no extra statement."
+    },
+    {
+      "file_id": 2242,
+      "observed_units": 1,
+      "evidence": "Complete previous actual-statement inspection reused; all-page cache boundaries manually checked for independently printed statements. Ferrite transformer experiment, internal Parts A-D. One complete top-level problem; no extra statement."
+    }
+  ]
+}

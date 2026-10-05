@@ -1,0 +1,18 @@
+[
+  {
+    "screening_unit_id": "derived::b94d322b4ad07f49::4014::1",
+    "detail": "Focused whole-problem review: A is Wien scaling; B contains supplied emission rate, temperature relation and heat capacity and dominates the work. C alone needs unsupplied relativistic neutrino speed; independent minority extension does not control A/B."
+  },
+  {
+    "screening_unit_id": "derived::b94d322b4ad07f49::4014::3",
+    "detail": "Focused review confirms genuine boundary: A/B are Lorentz force and explicitly supplied Landau energy/quantization. C/D require unsupplied massive SR momentum and energy; E/F specify E=cp for massless particles but final comparison depends on D. Meaningful work straddles scope with no clear dominant allowed chain."
+  },
+  {
+    "screening_unit_id": "derived::b94d322b4ad07f49::4014::5",
+    "detail": "Focused whole-problem review: A-D are recoil, hf and linewidth; E is low-speed Doppler. F/G add gravitational redshift as an independent final extension. Main recoil/linewidth work remains allowed and dominant."
+  },
+  {
+    "screening_unit_id": "derived::cf284869fd80f953::4018::5",
+    "detail": "Focused supplied-model review: A supplies entropy formula. B expressly asks escape-light estimate, solvable using Newtonian escape speed. C supplies confined photon wavelength <=R; photon energy and blackbody thermodynamic scaling give an order-of-magnitude entropy estimate. No exact GR geometry or Bekenstein-Hawking law is required."
+  }
+]

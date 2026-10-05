@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::385",
+    "detail": "Focused whole-problem check: particle appearance, all apparent velocities and transverse ellipse use classical retarded propagation. Any unsupplied rest-length contraction affects only longitudinal rod questions (0.7/10), independently of dominant work; retain KEEP."
+  },
+  {
+    "screening_unit_id": "raw::389",
+    "detail": "Focused supplied-model and whole-problem check of rendered pp1-4: electron-gas heat capacity is fully model-supplied (5 points), while an independent equally weighted inverse-Compton half centrally requires unsupplied relativistic electron energy-momentum. Neither dominates the complete top-level problem; retain BORDERLINE, no subpart rescue."
+  }
+]

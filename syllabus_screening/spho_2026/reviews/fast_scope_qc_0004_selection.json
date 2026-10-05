@@ -1,0 +1,55 @@
+{
+  "seed": 20261004512,
+  "pool_size": 507,
+  "sample": [
+    {
+      "screening_unit_id": "raw::3187",
+      "source_file_id": 2847,
+      "problem_number": "51",
+      "decision": "REJECT",
+      "required_physics": "Unsupplied relativistic photon Doppler shift"
+    },
+    {
+      "screening_unit_id": "raw::3190",
+      "source_file_id": 2848,
+      "problem_number": "3",
+      "decision": "KEEP",
+      "required_physics": "Planetary separation and light travel time"
+    },
+    {
+      "screening_unit_id": "raw::2952",
+      "source_file_id": 2843,
+      "problem_number": "23",
+      "decision": "KEEP",
+      "required_physics": "Ideal-gas cooling and pressure force"
+    },
+    {
+      "screening_unit_id": "raw::3057",
+      "source_file_id": 2845,
+      "problem_number": "22",
+      "decision": "KEEP",
+      "required_physics": "Inelastic collision heat"
+    },
+    {
+      "screening_unit_id": "raw::2950",
+      "source_file_id": 2843,
+      "problem_number": "21",
+      "decision": "KEEP",
+      "required_physics": "Ideal-gas mixture and heating power"
+    },
+    {
+      "screening_unit_id": "raw::3104",
+      "source_file_id": 2846,
+      "problem_number": "18",
+      "decision": "KEEP",
+      "required_physics": "Battery charge, energy and supplied charger efficiency"
+    },
+    {
+      "screening_unit_id": "raw::2906",
+      "source_file_id": 2842,
+      "problem_number": "28",
+      "decision": "KEEP",
+      "required_physics": "Accumulating snow momentum flux and friction"
+    }
+  ]
+}

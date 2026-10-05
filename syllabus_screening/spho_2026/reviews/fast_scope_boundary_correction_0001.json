@@ -1,0 +1,102 @@
+{
+  "reason": "Hard boundary consistency failure: Section A/B acquisition rows are containers, not top-level problems. Complete physical statement already inspected during fast pass; no completed decisions revised.",
+  "retired_pending_rows": [
+    {
+      "screening_unit_id": "raw::4098",
+      "source_problem_id": 4098,
+      "derived_from_whole_paper": 0,
+      "competition": "AuPhO",
+      "competition_slug": "aupho",
+      "competition_category": "National",
+      "year": "2008",
+      "round_or_section": "Problems",
+      "format": "unknown",
+      "problem_number": "1",
+      "problem_title": "Section A",
+      "title_provenance": "unknown",
+      "source_file": "originals/aupho/2008/AuPhO_2008_Q1-2__15d76dcd54fcd84c.pdf",
+      "source_file_id": 3060,
+      "source_sha256": "15d76dcd54fcd84ccbfde1a3c505f4d3e8bb6f561590c57fbbe5bd4f9b6658a8",
+      "page_start": null,
+      "page_end": null,
+      "location_json": null,
+      "source_url": "https://olimpicos.net/aupho/index.html#2008",
+      "decision": null,
+      "confidence": null,
+      "primary_spho_domains": null,
+      "required_physics": null,
+      "external_physics_if_any": null,
+      "decision_reason": null,
+      "visual_inspection_used": 0,
+      "solution_used": 0,
+      "review_status": "pending_content_review",
+      "screened_at": null,
+      "evidence": null,
+      "boundary_status": "source_individual_boundary",
+      "reviewed_at": null,
+      "source_quality_notes": null
+    },
+    {
+      "screening_unit_id": "raw::4099",
+      "source_problem_id": 4099,
+      "derived_from_whole_paper": 0,
+      "competition": "AuPhO",
+      "competition_slug": "aupho",
+      "competition_category": "National",
+      "year": "2008",
+      "round_or_section": "Problems",
+      "format": "unknown",
+      "problem_number": "2",
+      "problem_title": "Section B",
+      "title_provenance": "unknown",
+      "source_file": "originals/aupho/2008/AuPhO_2008_Q1-2__15d76dcd54fcd84c.pdf",
+      "source_file_id": 3060,
+      "source_sha256": "15d76dcd54fcd84ccbfde1a3c505f4d3e8bb6f561590c57fbbe5bd4f9b6658a8",
+      "page_start": null,
+      "page_end": null,
+      "location_json": null,
+      "source_url": "https://olimpicos.net/aupho/index.html#2008",
+      "decision": null,
+      "confidence": null,
+      "primary_spho_domains": null,
+      "required_physics": null,
+      "external_physics_if_any": null,
+      "decision_reason": null,
+      "visual_inspection_used": 0,
+      "solution_used": 0,
+      "review_status": "pending_content_review",
+      "screened_at": null,
+      "evidence": null,
+      "boundary_status": "source_individual_boundary",
+      "reviewed_at": null,
+      "source_quality_notes": null
+    }
+  ],
+  "relationships": [
+    {
+      "screening_unit_id": "raw::4098",
+      "file_id": 3060,
+      "document_id": 3573,
+      "role": "problem"
+    },
+    {
+      "screening_unit_id": "raw::4098",
+      "file_id": 3062,
+      "document_id": 3574,
+      "role": "solution"
+    },
+    {
+      "screening_unit_id": "raw::4099",
+      "file_id": 3060,
+      "document_id": 3573,
+      "role": "problem"
+    },
+    {
+      "screening_unit_id": "raw::4099",
+      "file_id": 3061,
+      "document_id": 3575,
+      "role": "solution"
+    }
+  ],
+  "corrected_at": "2026-10-04T08:04:13.377393+00:00"
+}

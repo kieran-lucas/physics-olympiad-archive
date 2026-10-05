@@ -1,0 +1,37 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0013.json",
+  "papers": [
+    {
+      "file_id": 510,
+      "observed_units": 3,
+      "evidence": "All three physical pages rendered and inspected. Q3 neutron-star tail p1; Q4 LED efficiency starts p1, continues p2 and completes p3; Q5 magnets introduction starts p3. All three already registered.",
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::169",
+          "start": 1,
+          "end": 1,
+          "evidence": "Neutron-star Q3 tail matches raw169 primary507."
+        },
+        {
+          "screening_unit_id": "raw::171",
+          "start": 3,
+          "end": 3,
+          "evidence": "Printed Q5 magnet-ratio introduction matches raw171 primary511."
+        }
+      ]
+    },
+    {
+      "file_id": 511,
+      "observed_units": 2,
+      "evidence": "All three physical pages rendered and inspected. Q4 LED experiment conclusion p1, then Q5 magnet-ratio experiment p1-2; p3 stopwatch manual only. Both questions already registered.",
+      "existing_sources": [
+        {
+          "screening_unit_id": "raw::170",
+          "start": 1,
+          "end": 1,
+          "evidence": "Complete Q4 experiment concluding instructions match raw170 primary510 p3."
+        }
+      ]
+    }
+  ]
+}

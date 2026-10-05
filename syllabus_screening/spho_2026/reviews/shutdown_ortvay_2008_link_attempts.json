@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-04T02:48:01.981913+00:00",
+  "attempts": [
+    {
+      "url": "http://pkomar.web.elte.hu/Ortvay2008.html",
+      "final_url": "https://error.elte.hu/error/452.html",
+      "status": 200,
+      "byte_size": 304
+    },
+    {
+      "url": "https://pkomar.web.elte.hu/Ortvay2008.html",
+      "final_url": "https://error.elte.hu/error/452.html",
+      "status": 200,
+      "byte_size": 304
+    },
+    {
+      "url": "https://www.heavens-above.com/",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "url": "https://archive.org/wayback/available?url=http%3A%2F%2Fpkomar.web.elte.hu%2FOrtvay2008.html&timestamp=20081022",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "note": "Q19 original HTTP/HTTPS return an ELTEnet-only error page, not contest data; do not treat HTTP 200 as success. Q2 portal is descriptive/example context and no historical pass series was recovered."
+}

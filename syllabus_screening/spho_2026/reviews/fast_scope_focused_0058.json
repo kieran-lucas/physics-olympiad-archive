@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "derived::da656d25ae2d3a47::1685::2",
+    "detail": "Focused whole-problem review: classical momentum, hard-sphere impact geometry and multibranch analysis are independent substantive majority (38/60). Relativistic comparison is a separate minority (22/60). Retain whole KEEP."
+  },
+  {
+    "screening_unit_id": "derived::da656d25ae2d3a47::1685::4",
+    "detail": "Focused supplied-model check: statement supplies EM field transforms only. Official solution 2015 p21 requires relativistic momentum and subsequent Lorentz coordinate/time mapping; central trajectory and voltage work is 36/60. Retain REJECT."
+  }
+]

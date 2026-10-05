@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-04T02:59:57.846420+00:00",
+  "comparisons": [
+    {
+      "new_unit": "raw::5983",
+      "prior_unit": "raw::5404",
+      "source_comparison": "H=f(p) versus H=r*Phi(p), different requested tasks/printed years",
+      "equivalent_alias": false,
+      "prior_decision_changed": false
+    },
+    {
+      "new_unit": "raw::5997",
+      "prior_unit": "raw::5582",
+      "source_comparison": "Square-root nonlinear L versus sinh nonlinear L, distinct printed models/years",
+      "equivalent_alias": false,
+      "prior_decision_changed": false
+    }
+  ],
+  "rubric_changed": false
+}

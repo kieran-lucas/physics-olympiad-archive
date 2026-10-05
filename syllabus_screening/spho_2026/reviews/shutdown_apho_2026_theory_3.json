@@ -1,0 +1,53 @@
+[
+  {
+    "screening_unit_id": "raw::305",
+    "decision": "KEEP",
+    "confidence": "high",
+    "primary_spho_domains": "I_force_motion;II_oscillations_waves",
+    "required_physics": "Beam and Roberval balance torque, linkage inertia, force identifiability and small oscillations",
+    "decision_reason": "All geometry/inertia/CM shifts and rigid-link constraints are given. Newton force/torque, energy and linearization cover the entire A-C parent, including circuit-like force indeterminacy questions and floor reaction. A.4 and B.5 are internal response-format items, not independent MCQ parents.",
+    "external_physics_if_any": "",
+    "format": "theory",
+    "page_start": 1,
+    "page_end": 6,
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "boundary_status": "content_boundary_verified",
+    "needs_second_review": true,
+    "evidence": "Full actual APhO 2026 theory problem, source file 944, all 6 pages read from SHA cache and rendered pages, including every statement/subpart/diagram/equation. One top-level problem per source; all internal A-C/A-E/A-B parts retained. Q2 official S2 pp3-10 read and pp7-9 rendered; Q3 official S3 all six text pages read and pp4/6 rendered for classical model/sign check."
+  },
+  {
+    "screening_unit_id": "raw::306",
+    "decision": "KEEP",
+    "confidence": "high",
+    "primary_spho_domains": "X_wave_optics",
+    "required_physics": "Far-field diffraction with explicitly supplied phase-jump, Gaussian-charge and growing-layer models",
+    "decision_reason": "Complex amplitude/intensity, single-electron scale, scattering vector, independent phase-jump law, Fourier identities, Gaussian thickness average and layer-coverage model are all supplied. Ordinary wave interference and probability/integrals do the meaningful work. Literal versus solution model conflicts in B/D are documented separately and require no outside physics.",
+    "external_physics_if_any": "",
+    "format": "theory",
+    "page_start": 1,
+    "page_end": 4,
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "boundary_status": "content_boundary_verified",
+    "needs_second_review": true,
+    "evidence": "Full actual APhO 2026 theory problem, source file 948, all 4 pages read from SHA cache and rendered pages, including every statement/subpart/diagram/equation. One top-level problem per source; all internal A-C/A-E/A-B parts retained. Q2 official S2 pp3-10 read and pp7-9 rendered; Q3 official S3 all six text pages read and pp4/6 rendered for classical model/sign check."
+  },
+  {
+    "screening_unit_id": "raw::307",
+    "decision": "KEEP",
+    "confidence": "high",
+    "primary_spho_domains": "I_force_motion;II_oscillations_waves;VII_magnetic_field",
+    "required_physics": "Forced-oscillator phase statistics and fully supplied classical magnetic-moment precession",
+    "decision_reason": "Both complete oscillator and classical spin-torque differential equations, rotating-variable definitions, static rotation and ensemble initial means are printed. ODE integration, vector rotations and statistical averaging solve the whole problem. No quantum spin representation, density matrix or microscopic relaxation derivation is required.",
+    "external_physics_if_any": "",
+    "format": "theory",
+    "page_start": 1,
+    "page_end": 4,
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "boundary_status": "content_boundary_verified",
+    "needs_second_review": true,
+    "evidence": "Full actual APhO 2026 theory problem, source file 953, all 4 pages read from SHA cache and rendered pages, including every statement/subpart/diagram/equation. One top-level problem per source; all internal A-C/A-E/A-B parts retained. Q2 official S2 pp3-10 read and pp7-9 rendered; Q3 official S3 all six text pages read and pp4/6 rendered for classical model/sign check."
+  }
+]

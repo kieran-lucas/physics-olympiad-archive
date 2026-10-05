@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::3517",
+    "detail": "Focused supplied-model check: p21 explicitly gives contraction sqrt(1-beta^2); apparent rotation uses remaining light-travel geometry. No additional Lorentz transformation required. KEEP confirmed."
+  }
+]

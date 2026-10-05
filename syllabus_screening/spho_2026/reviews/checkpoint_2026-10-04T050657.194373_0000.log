@@ -1,0 +1,255 @@
+Physical papers: 1396 verified 334 pending 1062
+{
+  "updated_at": "2026-10-04T05:06:58.373801+00:00",
+  "run_status": "INCOMPLETE",
+  "direct_units": 6159,
+  "derived_units": 2313,
+  "identified_units": 8472,
+  "decisions": {
+    "UNRESOLVED_ERROR": 5887,
+    "KEEP": 2215,
+    "REJECT": 289,
+    "BORDERLINE": 81
+  },
+  "screened_formats": {
+    "theory": 1311,
+    "experimental": 125,
+    "mixed": 18,
+    "multiple_choice": 733,
+    "numerical": 351,
+    "data_analysis": 47
+  },
+  "keep_domains": {
+    "I_force_motion": 1522,
+    "III_ideal_gas": 128,
+    "VII_magnetic_field": 135,
+    "II_oscillations_waves": 351,
+    "VI_electric_field": 282,
+    "IX_em_oscillations_waves": 49,
+    "X_wave_optics": 199,
+    "VIII_induction": 47,
+    "IV_thermodynamics": 187,
+    "XI_quantum_light": 62,
+    "XII_atomic_nuclear": 44,
+    "V_real_gas": 7,
+    "XII_nuclear_physics": 2
+  },
+  "pending_content_units": 5887,
+  "remaining_queue_items": 6949,
+  "containers_pending": 0,
+  "containers_expanded": 233,
+  "pdfs_cached": 2984,
+  "source_rows_accounted": 6392,
+  "boundary_inventory_complete": false,
+  "identified_unit_reconciliation": true,
+  "unexplained_identified_units": 0,
+  "awaiting_content_review": 5882,
+  "explicit_statement_unavailable": 5,
+  "focused_reviews_pending": 0,
+  "pending_physical_paper_boundary_audits": 1062,
+  "registered_inventory_is_provisional": true
+}
+{
+  "selected_units": 2215,
+  "verified_distinct_selected_questions": 2211,
+  "unique_physical_files": 548,
+  "raw_acquisition_files": 529,
+  "source_linked_reference_files": 19,
+  "byte_size": 311400674,
+  "hardlinks": 548,
+  "copies": 0,
+  "hash_mismatches": 0,
+  "selection_is_complete": false
+}
+{
+  "checked_at": "2026-10-04T05:07:03.524237+00:00",
+  "run_status": "INCOMPLETE",
+  "source_rows": 6392,
+  "direct_units_in_inventory": 6159,
+  "whole_paper_containers": 233,
+  "identified_top_level_units": 8472,
+  "reviewed_units": 2585,
+  "verified_equivalence_records": 5,
+  "reviewed_units_after_verified_equivalences": 2580,
+  "reviewed_direct_units": 2205,
+  "reviewed_derived_units": 380,
+  "decisions": {
+    "UNRESOLVED_ERROR": 5887,
+    "KEEP": 2215,
+    "REJECT": 289,
+    "BORDERLINE": 81
+  },
+  "decision_percentages_of_reviewed": {
+    "KEEP": 85.687,
+    "BORDERLINE": 3.133,
+    "REJECT": 11.18
+  },
+  "pending_known_units": 5887,
+  "awaiting_content_review": 5882,
+  "statement_unavailable_units": 5,
+  "pending_containers": 0,
+  "full_top_level_inventory_known": false,
+  "embedded_unindexed_units_discovered": 50,
+  "formats": [
+    {
+      "format": "theory",
+      "reviewed": 1311,
+      "KEEP": 999,
+      "BORDERLINE": 67,
+      "REJECT": 245
+    },
+    {
+      "format": "multiple_choice",
+      "reviewed": 733,
+      "KEEP": 731,
+      "BORDERLINE": 1,
+      "REJECT": 1
+    },
+    {
+      "format": "short_answer",
+      "reviewed": 0,
+      "KEEP": 0,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    },
+    {
+      "format": "numerical",
+      "reviewed": 351,
+      "KEEP": 311,
+      "BORDERLINE": 3,
+      "REJECT": 37
+    },
+    {
+      "format": "experimental",
+      "reviewed": 125,
+      "KEEP": 114,
+      "BORDERLINE": 7,
+      "REJECT": 4
+    },
+    {
+      "format": "data_analysis",
+      "reviewed": 47,
+      "KEEP": 43,
+      "BORDERLINE": 3,
+      "REJECT": 1
+    },
+    {
+      "format": "mixed",
+      "reviewed": 18,
+      "KEEP": 17,
+      "BORDERLINE": 0,
+      "REJECT": 1
+    },
+    {
+      "format": "unknown",
+      "reviewed": 0,
+      "KEEP": 0,
+      "BORDERLINE": 0,
+      "REJECT": 0
+    }
+  ],
+  "domains": [
+    {
+      "domain": "I_force_motion",
+      "KEEP": 1522,
+      "BORDERLINE": 33,
+      "REJECT": 5
+    },
+    {
+      "domain": "II_oscillations_waves",
+      "KEEP": 351,
+      "BORDERLINE": 17,
+      "REJECT": 7
+    },
+    {
+      "domain": "III_ideal_gas",
+      "KEEP": 128,
+      "BORDERLINE": 9,
+      "REJECT": 1
+    },
+    {
+      "domain": "IV_thermodynamics",
+      "KEEP": 187,
+      "BORDERLINE": 18,
+      "REJECT": 2
+    },
+    {
+      "domain": "V_real_gas",
+      "KEEP": 7,
+      "BORDERLINE": 2,
+      "REJECT": 0
+    },
+    {
+      "domain": "VI_electric_field",
+      "KEEP": 282,
+      "BORDERLINE": 6,
+      "REJECT": 2
+    },
+    {
+      "domain": "VII_magnetic_field",
+      "KEEP": 135,
+      "BORDERLINE": 8,
+      "REJECT": 3
+    },
+    {
+      "domain": "VIII_induction",
+      "KEEP": 47,
+      "BORDERLINE": 4,
+      "REJECT": 0
+    },
+    {
+      "domain": "IX_em_oscillations_waves",
+      "KEEP": 49,
+      "BORDERLINE": 5,
+      "REJECT": 0
+    },
+    {
+      "domain": "X_wave_optics",
+      "KEEP": 199,
+      "BORDERLINE": 9,
+      "REJECT": 0
+    },
+    {
+      "domain": "XI_quantum_light",
+      "KEEP": 62,
+      "BORDERLINE": 7,
+      "REJECT": 0
+    },
+    {
+      "domain": "XII_atomic_nuclear",
+      "KEEP": 44,
+      "BORDERLINE": 3,
+      "REJECT": 1
+    }
+  ],
+  "selected_statement_physical_files": 208,
+  "selected_all_physical_files": 548,
+  "selected_raw_acquisition_files": 529,
+  "source_linked_reference_files": 19,
+  "curated_byte_size": 311400674,
+  "hardlinks": 548,
+  "copies": 0,
+  "validated_file_types": {
+    "pdf": 421,
+    "zip": 60,
+    "tex": 55,
+    "exe": 1,
+    "other": 11
+  },
+  "pdf_pages_validated": 3756,
+  "visual_inspection_reviewed_units": 2370,
+  "solution_used_reviewed_units": 197,
+  "reviewed_source_sha256_count": 212,
+  "zero_unexplained_identified_units": true,
+  "zero_unexplained_source_rows": true,
+  "whole_corpus_screening_complete": false,
+  "validation_issues": [
+    "all-file SHA deduplication"
+  ],
+  "actual_operational_errors": 0
+}
+Traceback (most recent call last):
+  File "D:\Programming\Github\Main\physics-olympiad-archive\syllabus_screening\spho_2026\_scripts\validate_outputs.py", line 164, in <module>
+    assert not issues,issues
+           ^^^^^^^^^^
+AssertionError: ['all-file SHA deduplication']

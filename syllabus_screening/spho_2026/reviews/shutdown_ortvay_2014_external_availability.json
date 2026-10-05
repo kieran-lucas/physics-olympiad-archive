@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-04T02:02:52.809624+00:00",
+  "statement_file_id": 3126,
+  "q34": {
+    "url": "http://ortvay.elte.hu/2014/abrak/sandstorm.ps",
+    "status": "essential_image_unavailable",
+    "evidence": "HTTP and HTTPS both return 404; original /2014/ index lists E14/H14 statements/rules/results only, no abrak directory. No image embedded on physical PDF p7. Exact-URL Internet Archive CDX attempt returned 503; no replacement image invented.",
+    "retry_url": "https://web.archive.org/cdx/search/cdx?url=ortvay.elte.hu%2F2014%2Fabrak%2Fsandstorm.ps&output=json"
+  },
+  "q35": {
+    "status": "original_DR7_service_verified",
+    "original_portal": "http://skyserver.sdss3.org/",
+    "verified_portal": "https://skyserver.sdss.org/dr7/en/tools/search/sql.asp",
+    "data_reference_id": "ortvay_2014_q35_DR7_statement_sample_100",
+    "source_relation": "Official original survey DR7 archive, same schema/version named in the source. No other release substituted."
+  }
+}

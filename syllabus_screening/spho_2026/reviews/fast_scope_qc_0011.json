@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::2012",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed KEEP: Supplied anisotropic heat-transfer fitting laws and least-squares data analysis."
+  },
+  {
+    "screening_unit_id": "raw::2637",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed KEEP: Young interference hyperbola and geometric approximations."
+  },
+  {
+    "screening_unit_id": "raw::2095",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed KEEP: Supplied nonlinear capacitance and oscillator model; Kirchhoff resonance experiment."
+  },
+  {
+    "screening_unit_id": "raw::1872",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed KEEP: Coulomb cylinder force and levitation oscillation with supplied contact force."
+  },
+  {
+    "screening_unit_id": "raw::2663",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed REJECT: Relativistic oscillator period requires unsupplied relativistic momentum-energy law."
+  },
+  {
+    "screening_unit_id": "raw::1899",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed KEEP: Water-surface reflection and refraction geometry."
+  },
+  {
+    "screening_unit_id": "raw::2613",
+    "detail": "Seeded fast-pass QC11, seed 20261004452, seven of 398 clear decisions across ONF, VOSH and Russia TST; actual complete unit statement reread on recorded pages. Confirmed KEEP: Variable capacitance and RLC/RL circuit transients."
+  }
+]

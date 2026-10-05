@@ -1,0 +1,119 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0008.json",
+  "papers": [
+    {
+      "file_id": 461,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Experimental Question 1 Terminal velocity. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 463,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Experimental Question 2 diffraction/scattering Sections 1-4. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 466,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Theoretical Problem 1 relativistic particle internal 1)-4). No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 468,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Theoretical Problem 3 disc collision then its own solution. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 473,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Experimental Problem 2 black box plus equipment/operation instructions. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 499,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Problem 3 laser cooling then its own solution. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 513,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Problem 1 two immiscible liquids with continuing common setup. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 515,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Problem 2 gravitational three-body configuration. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 518,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Problem 3 electron/proton microscope. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 519,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Experimental Problem 1 acoustic measurement plus synopsis sheet; historical superconductivity note is not a task. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 521,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. THEORY 1 velocity spectrum with internal 1.1/1.2. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 524,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. THEORY 2 Maxwell wheel with internal 2.1 etc. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 525,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. THEORY 3 ion recombination with continuing internal 3.2. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 531,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Problem 1 moist-air ascent and its own solution. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 533,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Starts with previous moist-air SOLUTION only, then Problem 2 electrons in magnetic field and its solution. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 534,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Problem 3 LC grid with internal (a)/(b) and its solution. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 538,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Starts with previous LC-grid SOLUTION only, then Problem 4 experimental refractive indices with internal (a)/(b) and its solution. No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 540,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Q1 grating, continued internal (iii)-(v). No additional top-level statement; repeated solutions/reference data are not new units."
+    },
+    {
+      "file_id": 541,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Reused previously persisted complete-statement inspection covering every physical page; manually compared current SHA-cache page starts, all printed problem headings and page endings. Q2 seismic waves, continued internal (iii)-(iv). No additional top-level statement; repeated solutions/reference data are not new units."
+    }
+  ]
+}

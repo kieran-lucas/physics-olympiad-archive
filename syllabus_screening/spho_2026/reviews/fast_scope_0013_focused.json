@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "derived::6e22d6c865c6dca0::4068::43",
+    "detail": "Focused supplied-model check: rendered p2 supplies both x and t Lorentz transformations. Velocity follows ratio of coordinate increments; moving-clock interval follows fixed comoving position; Q45 is direct formula comparison. No unsupplied SR law needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::6e22d6c865c6dca0::4068::44",
+    "detail": "Focused supplied-model check: rendered p2 supplies both x and t Lorentz transformations. Velocity follows ratio of coordinate increments; moving-clock interval follows fixed comoving position; Q45 is direct formula comparison. No unsupplied SR law needed. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::6e22d6c865c6dca0::4068::45",
+    "detail": "Focused supplied-model check: rendered p2 supplies both x and t Lorentz transformations. Velocity follows ratio of coordinate increments; moving-clock interval follows fixed comoving position; Q45 is direct formula comparison. No unsupplied SR law needed. KEEP confirmed."
+  }
+]

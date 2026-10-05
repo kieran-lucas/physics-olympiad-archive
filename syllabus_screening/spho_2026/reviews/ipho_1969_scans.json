@@ -1,0 +1,73 @@
+{
+  "rows": [
+    [
+      248,
+      "KEEP",
+      "I_force_motion",
+      "Newton second law, tension and relative acceleration",
+      "Both moving-cart equilibrium and the fixed-cart release require ordinary Newtonian constraints.",
+      "Scanned file 672 page 1 visually read in full; one Problem 1 with internal 1(a,b) and 2(a,b), not four independent units.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      249,
+      "KEEP",
+      "IV_thermodynamics",
+      "Calorimetry, sensible heat and melting/freezing energy",
+      "The equilibrium regimes of copper, water and ice use energy conservation and supplied heat capacities/latent heat.",
+      "Scanned file 673 page 1 visually read. Statement begins at Problem 2 below a tail of the preceding solution; both general and numerical parts retained.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      250,
+      "KEEP",
+      "VI_electric_field;I_force_motion",
+      "Axial electric field of a uniformly charged ring and force balance",
+      "The suspended charge requires Coulomb superposition, gravity and string geometry; the adjacent solution confirms this elementary method.",
+      "Scanned file 675 page 1 visually read, including ring geometry and supplied charges. Single Problem 3; displayed solution method also inspected.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      1,
+      "high",
+      ""
+    ],
+    [
+      251,
+      "KEEP",
+      "X_wave_optics;IV_thermodynamics",
+      "Thin-film interference, reflection phase and linear thermal expansion",
+      "The two reflected beams and supplied expansion coefficient require wave optics and ordinary thermal expansion.",
+      "Scanned file 678 pages 1-2 visually read. Problem 4 starts near bottom of page 1 after Problem 3 solution and continues on page 2. Actual task is calculation, not an experimental procedure.",
+      [
+        1,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ],
+  "boundary_note": "The scanned physical page can include unrelated preceding solution text. Select the explicit Problem label, not all text on the page."
+}

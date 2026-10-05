@@ -1,0 +1,102 @@
+[
+  {
+    "screening_unit_id": "raw::6259",
+    "detail": "Focused actual bullet/flight-time review: all Q2 reread. Empirical sphere drag and air state must be declared before integrating Newton and fitting 12.5-second vertical flight. Optimizing another Newton trajectory requires no central viscous-flow derivation; numerical answers depend on drag data. KEEP confirmed with that limitation and no actual launch experiment."
+  },
+  {
+    "screening_unit_id": "raw::6260",
+    "detail": "Focused boundary/geometry review: actual Q3 reread. Fixed floor pivot plus rigid length/contact plane differs from a sliding ladder. Literal geometry can lose contact immediately; do not silently replace it. Newton unilateral reaction and nonuniform inertia parameters suffice to identify that issue or solve a consistent contact model. KEEP confirmed on underlying physics, not a fabricated detachment height."
+  },
+  {
+    "screening_unit_id": "raw::6261",
+    "detail": "Focused actual whole L-tube review: all dimensions, mass relation and negligible viscosity/tension/outflow interference reread. Ideal liquid momentum/energy and pressure balance including discharged mercury close an ordinary Newton model. Carriage force is not simply final jet thrust throughout. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6263",
+    "detail": "Focused supplied artificial-force and seeded QC (Random 2026100424 first selection): all Q6 reread. Zero work gives alpha=m*g dot v/v^2; it is signed and can act as propulsion. Gravity rotates velocity direction, elastic slope reflection defines a stability map. KEEP confirmed; do not reject because the stipulated law is unphysical passive drag."
+  },
+  {
+    "screening_unit_id": "raw::6264",
+    "detail": "Focused exact rendered square-root H: actual Q7 p2 reread. H=sqrt((mu/m)*p^2*(1-r^2/a^2)), not ordinary p^2/(2m)+a supplied positional energy. Canonical equations and p/velocity relation must be imported to obtain any trajectory. REJECT confirmed consistently with earlier nonstandard formal-H cases."
+  },
+  {
+    "screening_unit_id": "raw::6265",
+    "detail": "Focused actual contact-timing experiment: whole Q8 reread. Aligned long-prism axial travel gives an ordinary scalar modulus, but general hung contact may require local Hertz/tensor compliance. No length/orientation/face/contact regime is supplied. Whole BORDERLINE retained, no fabricated measurements or automatic rejection of elastic-wave experiments."
+  },
+  {
+    "screening_unit_id": "raw::6267",
+    "detail": "Focused tidal estimate review: whole Q10 reread. Newton angular momentum relates lunar radius change to Earth-spin torque; a measured day slowdown or estimated lag supplies the numerical scale. Predicting detailed ocean/Earth dissipation is not explicitly demanded. KEEP confirmed with empirical torque/lag dependency disclosed, not a unique constants-only prediction."
+  },
+  {
+    "screening_unit_id": "raw::6268",
+    "detail": "Focused mixer/free-surface idealization: all Q11 reread. Solid-body liquid rotation yields hydrostatic paraboloid by ordinary centrifugal balance. Mixer speed alone need not be the bulk omega in a stationary wall; an exact viscous flow would need more input. KEEP confirmed for the ordinary equilibrium model, with the limitation explicit."
+  },
+  {
+    "screening_unit_id": "raw::6269",
+    "detail": "Focused supplied-model check: actual Q12 reread. Navier-Stokes is only named, not written; initial singular vorticity does not provide viscous transport or point-vortex coupling. Central specialized continuum evolution must be known. REJECT confirmed, unlike a full explicitly supplied fluid PDE."
+  },
+  {
+    "screening_unit_id": "raw::6270",
+    "detail": "Focused actual T-dipole diagram: full Q13 and drawing reread. Local m cross B torques differ, but dipole forces supply compensating lever moments on the ruler; total torque/angular momentum must be counted. Ordinary magnetostatics and rigid dynamics suffice. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6271",
+    "detail": "Focused resistance identifiability review: full Q14 reread. Independent injected currents and accessible potential probes can identify a branch in a known network, with degenerate parallel/hidden-node cases explicitly nonidentifiable. All methods are Kirchhoff/measurement mathematics. KEEP confirmed; no readings invented."
+  },
+  {
+    "screening_unit_id": "raw::6272",
+    "detail": "Focused hidden-capacitor energy review: both Q15 parts reread. Conserved inaccessible conductor charge limits port-accessible work; zero external voltage can coexist with internally stored energy. Compute port equivalence and distinguish capacitances/access assumptions. KEEP confirmed, quoted zero point is not quantum physics."
+  },
+  {
+    "screening_unit_id": "raw::6273",
+    "detail": "Focused field-momentum scope: complete Q16 reread. Gauss electric and Ampere axial magnetic fields give E cross B momentum and its positive angular inertia contribution per unit rod length. Electromagnetic momentum/radiation belongs to operational IX; no specialized relativity transform is needed for this stationary field integral. KEEP confirmed and negative-inertia story critically checked."
+  },
+  {
+    "screening_unit_id": "raw::6274",
+    "detail": "Seeded QC (Random 2026100424 second selection): both complete lattice requests reread. Kirchhoff discrete Laplacian gives logarithmic far-separation resistance; removing one edge is a finite graph correction. All graph data supplied. KEEP confirmed, no new material physics."
+  },
+  {
+    "screening_unit_id": "raw::6275",
+    "detail": "Focused whole multi-stage piston review: full Q18 a-d reread. First law plus ideal-gas adiabatic curve separates piston kinetic energy from external work; staged switching assumptions and entropy with environmental frictional heat must be declared. Entire task is ordinary mechanics/thermodynamics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6276",
+    "detail": "Focused quantitative moving-radiation versus qualitative-recoil distinction: full Q19 reread. It explicitly asks v(t) and reversal/material criterion, not merely a conservation objection. First-order transformed incident angular blackbody intensity and emitted momentum are missing operational relations; small v does not supply them. REJECT confirmed without classifying all thermal radiation outside scope."
+  },
+  {
+    "screening_unit_id": "raw::6277",
+    "detail": "Focused experimental Lyapunov premise: complete Q20 reread. Ordinary rigid free fall is integrable; spin-phase error can grow linearly without a positive Lyapunov exponent. Impact/model and sampled initial conditions can change outcome statistics, so claims must be tested. KEEP confirmed for mechanics and empirical fitting; no trials/results fabricated."
+  },
+  {
+    "screening_unit_id": "raw::6278",
+    "detail": "Focused full transaction model: Q21 timing/rest/zero-cost rules reread. Renewal random times, price walk and extreme broker wealth are probability mathematics. Walk law, positivity convention and broker count remain parameters. KEEP confirmed as a supplied toy-model analysis, not financial guidance."
+  },
+  {
+    "screening_unit_id": "raw::6279",
+    "detail": "Focused full two-page trap model: all Q22 pp4-5 reread. Normalized exponential escape and uniform reset directly give probability flow; stationary weights scale with lifetimes, then the supplied Gibbs form defines free energies. Heavy-tail renewal/ageing is mathematical work with finite-M cutoff cautions. KEEP confirmed, no microscopic macromolecule law required."
+  },
+  {
+    "screening_unit_id": "raw::6280",
+    "detail": "Focused actual full wave PDE and asymptotic supply: Q23 p5 reread. (Laplacian+k^2)psi=U psi and outgoing leading form give the Green integral. Expanding its kernel in 1/r yields angular/finite-radius terms; interpreting wave structure need not require Born detection probabilities. KEEP confirmed, not rejecting the Schrodinger label."
+  },
+  {
+    "screening_unit_id": "raw::6281",
+    "detail": "Focused contrast with preceding supplied PDE: full Q24 actual Airy integral/coordinate ansatz reread. Time-dependent free/potential Schrodinger equation is only named, never operationally written; Q23 stationary form does not provide its time evolution. That missing quantum law controls all a,b,c and potential transforms. REJECT confirmed; Airy normalization discrepancy is peripheral."
+  },
+  {
+    "screening_unit_id": "raw::6284",
+    "detail": "Focused whole lattice-angular operator review: Q27 actual stencil and all requests reread. Chain rule d/dphi=x*d/dy-y*d/dx gives angular operators with finite-difference/interpolation choices; eigenvectors/spectra and commutators are mathematical. Quantum spin analogy is expressly extra and not the dominant prerequisite. KEEP confirmed; boundary prescription must be declared."
+  },
+  {
+    "screening_unit_id": "raw::6287",
+    "detail": "Focused genuine supplied measurement-map limit: all Q30 and actual two-component map reread. Input-output amplitudes alone do not give the Hamiltonian-to-unitary time law, spin component matrices or density/Born interpretation. Those central quantum postulates must still be imported. REJECT confirmed while explicitly crediting the supplied map."
+  },
+  {
+    "screening_unit_id": "raw::6290",
+    "detail": "Focused exact ideal Earth/path comparison: full Q33 reread. Homogeneous sphere gives Newton potential and speed, then time integrals compare optimal path with misplaced uniform-g cycloid family. Variational mathematics supplies optimization; no field-geometrical gravity is required. KEEP confirmed, with rotation/friction and endpoints declared."
+  },
+  {
+    "screening_unit_id": "raw::6291",
+    "detail": "Focused complete fatigue integral and optimization: Q34 p8 all laws/a-c reread. tau*f_dot=P/P0-f follows directly by differentiating the supplied memory integral; Q=P*(1-f) closes constant-output and optimal-work analysis. All model physics supplied, and nonlinear optimal-control difficulty is mathematics. KEEP confirmed without claiming empirical physiology."
+  }
+]

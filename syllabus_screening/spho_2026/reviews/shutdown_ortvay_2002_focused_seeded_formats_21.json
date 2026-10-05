@@ -1,0 +1,86 @@
+[
+  {
+    "screening_unit_id": "raw::6154",
+    "detail": "Focused actual lamp-model review: complete Q1 p2 reread. The source expressly defines the Hollywood story as a bulb indicator, not a real energetic device. Ordinary finite-threshold relay/circuit behaviour can distinguish interruption without precisely matched resistors, and build sequencing is a circuit state problem. Only that actual physical indicator task was evaluated; no device built. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6159",
+    "detail": "Focused experimental/disk model review: full Q6 p2 and actual translation/spin drawing reread. Local Coulomb friction integrated across a level disk supplies both resultant force and torque. Coupled dimensionless speed/spin dynamics gives simultaneous stop in the declared ideal model; real contact nonuniformity can be investigated. No carpet experiment was performed and no empirical theorem asserted universal beyond its model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6160",
+    "detail": "Focused classical-versus-quantum review: entire Q7 p3 reread. It explicitly asks classical electron motion, so a chosen uniform external B and nonrelativistic Newton Coulomb/Lorentz limit is permitted rather than importing Fermi/spin rules. Field/initial geometry and radiation corrections must be declared; orbit stability is ordinary linearized dynamics. KEEP confirmed. Separately numbered Q28 explicitly asks quantization and receives its own prerequisite judgment."
+  },
+  {
+    "screening_unit_id": "raw::6161",
+    "detail": "Focused established canonical boundary review: all Q8 p3 parts reread. H=p*c(r)+U(r) is a function only; canonical equations and the singular Legendre/action recovery are explicit central requests, not supplied rules. In contrast to 2006 Q24, no F=p-dot and operational work/velocity linkage are provided. REJECT confirmed consistently with the original arbitrary-Hamiltonian decisions."
+  },
+  {
+    "screening_unit_id": "raw::6162",
+    "detail": "Focused fixed spatial geometry review: complete Q9 p3 reread. Hyperbolic plane specifies a constant-curvature mathematical space up to a scale. One can choose its metric/embedded constraint, apply local Newton acceleration/potential gradients and obtain isometry conservations by differentiating geometry, without requiring a remembered Noether/canonical law. The task permits constructing gravity/oscillator variants, rather than prescribing an unsupplied gravitational spacetime theory. Whole KEEP confirmed; metric/potential conventions must be stated."
+  },
+  {
+    "screening_unit_id": "raw::6164",
+    "detail": "Focused full supplied-elastic-PDE review: all stress convolution, isotropic C and motion equations Q11 p3 reopened. The actual constitutive kernel and rho*u-double-dot=div(sigma) supply both specialized physical laws. Infinitesimal strain is the symmetric gradient obtained by differentiating displaced line-element lengths, a kinematic calculation. Fourier projections give rho*omega_L^2/k^2=lambda0*alpha_hat+2*mu0*beta_hat and rho*omega_T^2/k^2=mu0*beta_hat; hence both unknown kernels follow the supplied dispersion. KEEP confirmed; this differs from cases naming a tensor while omitting constitutive/dynamical laws."
+  },
+  {
+    "screening_unit_id": "raw::6165",
+    "detail": "Focused membrane-hole review: entire Q12 p4 reread. Scalar tension wave equation and force-free inner edge define membrane eigenfrequencies, with measured/declared outer clamping, radii and density. Off-centre hole is a harder geometric eigenproblem, not an unprovided plate-bending material model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6166",
+    "detail": "Focused small acoustic aperture review: entire Q13 p4 reread. Ordinary pressure standing waves and a declared small-hole inertance/end-correction approximation yield a perturbative boundary loading and frequency shift. The task allows an approximate method before numerics; geometry/end conditions remain parameters. No full viscous or turbulent aperture flow is mandated. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6167",
+    "detail": "Focused incomplete crater model review: complete Q14 p4 reread. Half-space wax and half-axis wick specify geometry but not heat deposited by flame, recession/burn rate or molten-surface boundary conditions. Ordinary conduction/latent-heat moving-boundary model is substantial, while a faithful flame/free-surface transport interpretation could need outside theory. No worked source-linked model resolves the intended approximation. Whole BORDERLINE retained, no unique crater shape fabricated."
+  },
+  {
+    "screening_unit_id": "raw::6168",
+    "detail": "Focused sealed/open thermodynamics review: full Q15 p4 reread. Given dry fraction/c and 600W support sensible heat/phase plateaus; moisture and vapor add standard latent heat/pressure effects. Declared absorbed-power and sealed-volume versus fixed-pressure conventions complete a parametric thermal model. No microwave dielectric mechanism or food chemistry is demanded. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6169",
+    "detail": "Focused experimental-design whole-task review: complete Q16 p4 reread. Transparent insulating cylinder and conducting cold floor/top permit a Fourier thermal-resistance/conduction approximation and measurable geometry optimization. It explicitly asks an adequate approximation; visibility follows the supplied qualitative gradient premise. No microscopic radiation track nucleation law or full buoyant convection is centrally required. KEEP confirmed; no chamber built or measured."
+  },
+  {
+    "screening_unit_id": "raw::6171",
+    "detail": "Seeded QC (Random 2026100421 second selection): all Q18 p4 reread including general angle and off-bisector cases. Long charged rod plus grounded wedge give an electrostatic Poisson problem. Images in discrete angles and conformal/Green mathematics elsewhere use ordinary field laws. KEEP confirmed; r<<L controls the line approximation."
+  },
+  {
+    "screening_unit_id": "raw::6172",
+    "detail": "Focused supplied superconducting idealization review: all Q19 p4 reread. Closed superconducting circuits implement zero resistance/constant linked flux in the provided long-solenoid regime. Changing overlap gives mutual inductance, induced currents and magnetic energy, coupled to gravity. Neither quantum pairing nor a Meissner penetration calculation is requested. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6173",
+    "detail": "Focused experimental diffraction review: complete Q20 p5 reread. Actual radial/linear pitches and hole/bulb/lens placements specify scalar diffraction geometry. Fourier-Bessel radial pattern convolved with straight-grating orders explains screen changes, with aperture/coherence parameters declared. No grating experiment performed; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6174",
+    "detail": "Focused actual optical model/source availability review: entire Q21 p5 reread. Vector amplitudes after two arm polarizers and the output analyzer determine visibility by ordinary Malus projection and intensity addition. Original HTTP/HTTPS simulator links both redirect to migrated official LMU path returning404 HTML, so no ZIP/program/virtual experiment is claimed. The optional simulation adds no missing core physics or data; whole KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::6177",
+    "detail": "Focused partially supplied relativistic hint review: all Q24 p5 including actual arcsin parameter reopened. That expression suggests a conserved geometric variable, but proving its constancy and deriving precession/scattering still need unsupplied relativistic momentum/energy/force laws. REJECT confirmed, acknowledging the exact hint rather than calling all model relations absent."
+  },
+  {
+    "screening_unit_id": "raw::6180",
+    "detail": "Focused temperature versus full black-hole model review: entire Q27 p6 reread. T_H proportional1/M and bath T proportionalt^-2/3 are explicitly provided. They do not determine radiating/capture area, absorption mass flow or the operational mass-energy law/constants required for lifespan/evolution. REJECT confirmed under the previous partial-Hawking-model boundary, not because of black-hole context alone."
+  },
+  {
+    "screening_unit_id": "raw::6183",
+    "detail": "Focused complete PDE and analytic closure review: intact Q30 p6 equation reread. Put psi=A*exp(i*S/hbar) on a continuous phase branch. The printed logarithmic term becomes k*S*psi; imaginary and real parts give continuity and S-dot+|grad S|^2/(2m)+U-(hbar^2/2m)*(Laplacian A/A)+k*S=0. Gradient therefore gives drag -k*grad S. For static U and vanishing boundary flux, integration by parts gives dE/dt=-(k/m)*integral(A^2*|grad S|^2)<=0 for the natural supplied-PDE quadratic energy. Stationary A profiles follow its real eigen-equation with the corresponding phase ODE. All are mathematical consequences of the full operational model; no Born measurement, Pauli/ladder or missing quantum evolution rule is needed. KEEP confirmed, with source phase/global-energy convention disclosed."
+  },
+  {
+    "screening_unit_id": "raw::6184",
+    "detail": "Focused supplied Arrhenius equilibrium review: entire Q31 p6 reread and operational thermal/Boltzmann scope checked. Product n_e*n_h=N_e*N_h*exp(-(E1+E2)/(kT)) supplies the equilibrium population constant; its temperature slope gives pair energy for constant prefactors, with reversed sign for recombination. An alternative kinetic-rate interpretation is underdetermined by equilibrium data, which can be stated rather than adding quantum semiconductor kinetics. Whole KEEP confirmed with reference concentration/prefactor convention explicit."
+  },
+  {
+    "screening_unit_id": "raw::6185",
+    "detail": "Seeded QC (Random 2026100421 first selection): all Q32 p6 through p7 author credit reread. Three given timing laws and three actual target/constraint functions form nine cases of one problem. Acceleration-limited trajectories and conditional probability/control reasoning suffice; no unprovided traffic model or empirical statistics. KEEP confirmed, all nine cases retained."
+  },
+  {
+    "screening_unit_id": "raw::6186",
+    "detail": "Focused full supplied statistical model review: complete Q33 p7 and actual mean/deviation/correlation tables reopened. All phenomenological population laws are printed. Fixed buy-and-hold holdings yield products of independent annual returns; covariance, tail integrals/controlled log approximation and constrained optimization give requested tradeoffs. Gaussian negative-wealth tails and rebalancing differences must be disclosed, but no real financial/market theory is needed. KEEP confirmed as a mathematical historical exercise, no investing advice."
+  }
+]

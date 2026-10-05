@@ -1,0 +1,22 @@
+[
+  {
+    "screening_unit_id": "derived::345dfd46708d6ce1::1697::一",
+    "detail": "Whole registered Problem I has 16/25 marks in ring mechanics, acoustic Doppler and gas thermodynamics, plus a nonrelativistic portion of its 9-mark microscope task. Shared-source answer p7 confirms SR is confined to the latter extension; semantic majority KEEP."
+  },
+  {
+    "screening_unit_id": "derived::344d96439e695649::1698::一",
+    "detail": "Three independent 5-mark fill-ins use elastic mechanics, resistor networks and diffraction. The last 5-mark blank asks for an unsupplied semiconductor diode relation. Whole top-level bundle retains dominant in-scope work."
+  },
+  {
+    "screening_unit_id": "derived::344d96439e695649::1698::七",
+    "detail": "Shared-source solution pp15-16 checked: supplied radiation laws and high-energy effective-mass context support the classical orbit/current calculation; unsupplied gamma-speed relation is needed only in the final arrival-pulse extension. Classical lifetime and explicitly modeled radiation dominate."
+  },
+  {
+    "screening_unit_id": "derived::4e076fb9234683d0::1699::二",
+    "detail": "Full statement pp1-2 gives classical location/timing work in parts1-3 and gravitational clock factor in4II; unsupplied SR time dilation is restricted to4I. Whole-problem majority KEEP."
+  },
+  {
+    "screening_unit_id": "derived::4e076fb9234683d0::1699::七",
+    "detail": "Shared-source official solution pp18-20 inspected. Bohr helium and Coulomb energy form independent part1; track charge, p=qBr and impulse accounting comprise much of part2. Unsupplied massive-particle SR expressions are limited to speed confirmation and final calorimetry; whole problem remains predominantly allowed."
+  }
+]

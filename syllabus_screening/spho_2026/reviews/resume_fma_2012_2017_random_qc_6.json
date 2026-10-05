@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::1334",
+    "detail": "Seeded random QC (seed 20263021): re-read 2017 Q18 actual p8 and the rendered rolling disk. Translation, angular acceleration and centripetal acceleration are entirely Newtonian; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1370",
+    "detail": "Seeded random QC: re-read 2016 Q23 actual p13 and ring geometry. Segment centripetal force balances Hooke tension; no advanced continuum model is required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1401",
+    "detail": "Seeded random QC: re-read 2015 Q23 actual p11. The event separates short-time momentum conservation from subsequent spring/gravity energy and oscillation; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1427",
+    "detail": "Seeded random QC: re-read 2014 Q18 actual p10 with the actual pulley attachments. Static force balance controls both scales; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1446",
+    "detail": "Seeded random QC: re-read 2013 Q6 actual p3 plus scale graph. Newton law followed by time integration gives travel distance; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::1489",
+    "detail": "Seeded random QC: re-read 2012 Q18 actual p7. All required physics is Newtonian spring motion. The unspecified box mass is retained as a source-quality note for later use; it does not introduce external physics. KEEP confirmed."
+  }
+]

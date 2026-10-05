@@ -1,0 +1,582 @@
+[
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Faraday-induced electric field inside and outside a changing flux region",
+    "decision_reason": "KEEP: Faraday-induced electric field inside and outside a changing flux region.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Conservation of energy and linear/angular momentum in beta decay",
+    "decision_reason": "KEEP: Conservation of energy and linear/angular momentum in beta decay.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Elastic one-dimensional collisions and time-averaged force",
+    "decision_reason": "KEEP: Elastic one-dimensional collisions and time-averaged force.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Unequal-amplitude two-slit interference",
+    "decision_reason": "KEEP: Unequal-amplitude two-slit interference.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Refraction through a slab and plane-mirror imaging",
+    "decision_reason": "KEEP: Refraction through a slab and plane-mirror imaging.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Standing transverse string waves and mode selection",
+    "decision_reason": "KEEP: Standing transverse string waves and mode selection.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Point-charge electric flux and solid angle",
+    "decision_reason": "KEEP: Point-charge electric flux and solid angle.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Air-column resonance and end correction",
+    "decision_reason": "KEEP: Air-column resonance and end correction.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A10",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian binary-star orbital period",
+    "decision_reason": "KEEP: Newtonian binary-star orbital period.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A11",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Moment of inertia of a bent uniform rod",
+    "decision_reason": "KEEP: Moment of inertia of a bent uniform rod.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A12",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied travelling pulses, superposition and wave energy",
+    "decision_reason": "KEEP: Supplied travelling pulses, superposition and wave energy.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A13",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Snell refraction through multiple prisms",
+    "decision_reason": "KEEP: Snell refraction through multiple prisms.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A14",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Induction and changing self-inductance in an RL circuit",
+    "decision_reason": "KEEP: Induction and changing self-inductance in an RL circuit.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A15",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian gravitational field superposition for spherical cavities",
+    "decision_reason": "KEEP: Newtonian gravitational field superposition for spherical cavities.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A16",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Momentum and hinge impulse in a rod collision",
+    "decision_reason": "KEEP: Momentum and hinge impulse in a rod collision.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A17",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rigid-body collision and center of percussion",
+    "decision_reason": "KEEP: Rigid-body collision and center of percussion.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A18",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Capacitor charge sharing and repeated equilibration",
+    "decision_reason": "KEEP: Capacitor charge sharing and repeated equilibration.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A19",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Quasistatic work against friction and gravity",
+    "decision_reason": "KEEP: Quasistatic work against friction and gravity.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A20",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electrostatic potential energy and unequal-mass charge motion",
+    "decision_reason": "KEEP: Electrostatic potential energy and unequal-mass charge motion.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A21",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Gauss flux and geometry of a two-charge field line",
+    "decision_reason": "KEEP: Gauss flux and geometry of a two-charge field line.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A22",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Force/torque balance and simple harmonic motion",
+    "decision_reason": "KEEP: Force/torque balance and simple harmonic motion.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A23",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Momentum flux in a moving inextensible rope",
+    "decision_reason": "KEEP: Momentum flux in a moving inextensible rope.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A24",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Restitution and collision impulse vector",
+    "decision_reason": "KEEP: Restitution and collision impulse vector.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A25",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Long-wire magnetic field and force on a planar loop",
+    "decision_reason": "KEEP: Long-wire magnetic field and force on a planar loop.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A26",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electric work and magnetic Lorentz force",
+    "decision_reason": "KEEP: Electric work and magnetic Lorentz force.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A27",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Atmospheric pressure force",
+    "decision_reason": "KEEP: Atmospheric pressure force.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A28",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Linear elastic shear modulus",
+    "decision_reason": "KEEP: Linear elastic shear modulus.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A29",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Moving-coil galvanometer torque sensitivity",
+    "decision_reason": "KEEP: Moving-coil galvanometer torque sensitivity.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A30",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Wave interference and de Broglie waves",
+    "decision_reason": "KEEP: Wave interference and de Broglie waves.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A31",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Steady heat conduction through series rods",
+    "decision_reason": "KEEP: Steady heat conduction through series rods.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A32",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Maxwellian molecular speed at fixed temperature",
+    "decision_reason": "KEEP: Maxwellian molecular speed at fixed temperature.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A33",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "First law of thermodynamics and path-dependent work",
+    "decision_reason": "KEEP: First law of thermodynamics and path-dependent work.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A34",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "String tension, frequency and beats",
+    "decision_reason": "KEEP: String tension, frequency and beats.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A35",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Radioactive half-life, activity and isotope mass",
+    "decision_reason": "KEEP: Radioactive half-life, activity and isotope mass.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A36",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Reflected acoustic Doppler shift",
+    "decision_reason": "KEEP: Reflected acoustic Doppler shift.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A37",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photoelectric current-voltage characteristics; printed withdrawal retained",
+    "decision_reason": "KEEP: Photoelectric current-voltage characteristics; printed withdrawal retained.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::A38",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Hydrogenic Bohr orbital-radius scaling",
+    "decision_reason": "KEEP: Hydrogenic Bohr orbital-radius scaling.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Frictionless sphere translation versus rolling",
+    "decision_reason": "KEEP: Frictionless sphere translation versus rolling.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Frictionless cube motion on an incline",
+    "decision_reason": "KEEP: Frictionless cube motion on an incline.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Cube tipping and static friction",
+    "decision_reason": "KEEP: Cube tipping and static friction.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Instantaneous velocity in rolling without slipping",
+    "decision_reason": "KEEP: Instantaneous velocity in rolling without slipping.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rolling-wheel rim speed comparison",
+    "decision_reason": "KEEP: Rolling-wheel rim speed comparison.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rigid-body torque and angular velocity",
+    "decision_reason": "KEEP: Rigid-body torque and angular velocity.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Gravitational torque of an attached clay mass",
+    "decision_reason": "KEEP: Gravitational torque of an attached clay mass.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Disc/rim moments of inertia and angular acceleration",
+    "decision_reason": "KEEP: Disc/rim moments of inertia and angular acceleration.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rotational energy and maximum angular speed",
+    "decision_reason": "KEEP: Rotational energy and maximum angular speed.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B10",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Static friction in uniform rolling",
+    "decision_reason": "KEEP: Static friction in uniform rolling.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B11",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Gravitational torque independent of axle-centered disk mass",
+    "decision_reason": "KEEP: Gravitational torque independent of axle-centered disk mass.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B12",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Mass-dependent disk inertia and angular acceleration",
+    "decision_reason": "KEEP: Mass-dependent disk inertia and angular acceleration.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B13",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Gravity torque and lever arm",
+    "decision_reason": "KEEP: Gravity torque and lever arm.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B14",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Disk versus wheel rotational kinetic energy",
+    "decision_reason": "KEEP: Disk versus wheel rotational kinetic energy.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B15",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Wheel with off-center mass as a physical pendulum",
+    "decision_reason": "KEEP: Wheel with off-center mass as a physical pendulum.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B16",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Vector torque from oblique forces",
+    "decision_reason": "KEEP: Vector torque from oblique forces.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B17",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Torque and unequal force lever arms",
+    "decision_reason": "KEEP: Torque and unequal force lever arms.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B18",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Radial mass weighting in moment of inertia",
+    "decision_reason": "KEEP: Radial mass weighting in moment of inertia.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B19",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Gravitational torque scaling with radius",
+    "decision_reason": "KEEP: Gravitational torque scaling with radius.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::B20",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Circular rim motion relative to a rolling wheel center",
+    "decision_reason": "KEEP: Circular rim motion relative to a rolling wheel center.",
+    "evidence": "Complete actual MCQ and alternatives read from cached statement text, including shared setup; no solution required.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::103f66f9eb5f0ab0::embedded::C",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas linear PV process, first law, heat capacities and mono/diatomic mixture",
+    "decision_reason": "KEEP: ideal-gas thermodynamics and calculus.",
+    "evidence": "Read complete p19: one common gas process with ten dependent internal tasks and one combined 13-point allocation; retained as ONE top-level problem.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  }
+]

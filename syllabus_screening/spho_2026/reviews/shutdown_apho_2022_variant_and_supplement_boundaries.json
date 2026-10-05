@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-04T05:06:57.034645+00:00",
+  "variant_relationships": [
+    {
+      "unit": "raw::323",
+      "original": 1003,
+      "transcription": 1007,
+      "subtasks": "A1 B1 C1-3 D1 E1 F1 G1 H1"
+    },
+    {
+      "unit": "raw::324",
+      "original": 1010,
+      "transcription": 1014,
+      "subtasks": "A1 B1-9 C1-2"
+    },
+    {
+      "unit": "raw::325",
+      "original": 1016,
+      "transcription": 1019,
+      "subtasks": "A1-4 B1-2 C1-3 D1 E1 F1 G1"
+    }
+  ],
+  "evidence": "Entire original/transcription texts and all rendered pages inspected. Alternate file provenance already belongs to the same unit; no additional logical alias unit or unique-problem count added. Instructions1000/1002 supply general examination directions/constants only, not independently graded problems. Presentation1005 all18 text pages read: repeats the two experiments and sample explanatory methods/data, no extra independent task. No claim all presentation images inspected.",
+  "simulator_validation": "archive_crc_sha_and_local_headless_loading_checked; known_acoustic_moving_detector_defect_disclosed; full_experiment_not_performed"
+}

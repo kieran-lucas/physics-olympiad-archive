@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::1727",
+    "detail": "Statement supplies field equation, energy, natural-unit rest energy, relativistic kinetic energy and full imaginary-time action/nucleation procedure; computation is ordinary calculus of the supplied model. KEEP."
+  },
+  {
+    "screening_unit_id": "raw::1728",
+    "detail": "Statement supplies full coordinate and electric/magnetic Lorentz transforms, current response, surface-current approximation and mirrored dipole ansatz; no unsupplied SR machinery required. KEEP."
+  }
+]

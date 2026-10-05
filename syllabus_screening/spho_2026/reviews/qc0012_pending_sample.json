@@ -1,0 +1,91 @@
+{
+  "seed": 20261004554,
+  "population": 440,
+  "sample": [
+    {
+      "screening_unit_id": "raw::1796",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 3,
+      "page_end": 3,
+      "required_physics": "Signal-travel-time apparent motion; no Lorentz transformations required",
+      "decision_reason": "KEEP: Signal-travel-time apparent motion; no Lorentz transformations required.",
+      "evidence": "Complete actual statement source 2104 pp3-3; every numbered internal task read in cached text.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    },
+    {
+      "screening_unit_id": "raw::1715",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 2,
+      "page_end": 5,
+      "required_physics": "Rigid rolling, angular momentum and supplied fictitious forces",
+      "decision_reason": "KEEP: Rigid rolling, angular momentum and supplied fictitious forces.",
+      "evidence": "Actual complete numbered statement, source 2062 pp2-5, all internal tasks read from cached text.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    },
+    {
+      "screening_unit_id": "raw::1764",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 3,
+      "page_end": 3,
+      "required_physics": "Supplied photon E=pc; collision momentum and gas pressure",
+      "decision_reason": "KEEP: Supplied photon E=pc; collision momentum and gas pressure.",
+      "evidence": "Complete actual numbered statement source 2091 pp3-3; all internal tasks read in cached text.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    },
+    {
+      "screening_unit_id": "raw::1829",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 3,
+      "page_end": 3,
+      "required_physics": "Coupled spring-block and moving wedge oscillation",
+      "decision_reason": "KEEP: Coupled spring-block and moving wedge oscillation.",
+      "evidence": "Complete actual statement source 2112 pp3-3; every internal task read in cached text.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    },
+    {
+      "screening_unit_id": "raw::1816",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 4,
+      "page_end": 5,
+      "required_physics": "Explicit Newtonian light-particle approximation; gravitational impulse and eclipse geometry",
+      "decision_reason": "KEEP: Explicit Newtonian light-particle approximation; gravitational impulse and eclipse geometry.",
+      "evidence": "Complete actual statement source 2109 pp4-5; every internal task read in cached text.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    },
+    {
+      "screening_unit_id": "raw::813",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 1,
+      "page_end": 7,
+      "required_physics": "Ideal-gas energy, mass and momentum conservation derive compressible-flow and shock relations",
+      "decision_reason": "KEEP: Ideal-gas energy, mass and momentum conservation derive compressible-flow and shock relations.",
+      "evidence": "Complete actual source 1700 pp1-7; all internal statement parts read in cached text. Rendered statement pages inspected for omitted equations.",
+      "visual_inspection_used": 1,
+      "solution_used": 0,
+      "needs_second_review": true
+    },
+    {
+      "screening_unit_id": "raw::2157",
+      "decision": "KEEP",
+      "confidence": "high",
+      "page_start": 1,
+      "page_end": 1,
+      "required_physics": "Diffraction, coherent interference and electromagnetic intensity versus field amplitude",
+      "decision_reason": "KEEP: Diffraction, coherent interference and electromagnetic intensity versus field amplitude.",
+      "evidence": "Complete actual statement source 2558, pp1-1, all internal parts read in cached text.",
+      "visual_inspection_used": 0,
+      "solution_used": 0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::f6d033692f222eb4::6385::1",
+      "KEEP",
+      "I_force_motion;IV_thermodynamics",
+      "Hydrostatic pressure and thermal expansion",
+      "Heating either trapezoidal vessel changes density/height; ordinary pressure equilibrium determines flow direction.",
+      "BAUPC 2002 Problem 1: complete statement and diagrams visually read on source file 3161, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::f6d033692f222eb4::6385::2",
+      "KEEP",
+      "I_force_motion",
+      "Tension, circular motion and constrained acceleration",
+      "The pulled string must stay tangent to a pole; the statement explicitly instructs ignoring relativity.",
+      "BAUPC 2002 Problem 2: complete statement and diagrams visually read on source file 3161, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::f6d033692f222eb4::6385::3",
+      "KEEP",
+      "I_force_motion",
+      "Projectile motion, impulsive friction and sliding work",
+      "The brick launch angle is a Newtonian range/stopping-distance optimization.",
+      "BAUPC 2002 Problem 3: complete statement and diagrams visually read on source file 3161, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::f6d033692f222eb4::6385::4",
+      "KEEP",
+      "I_force_motion;IV_thermodynamics",
+      "Thermal expansion and distributed static friction balance",
+      "The metal sheet creeping on a roof uses a supplied expansion relation and ordinary force balance.",
+      "BAUPC 2002 Problem 4: complete statement and diagrams visually read on source file 3161, physical pages 4-4.",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::f6d033692f222eb4::6385::5",
+      "KEEP",
+      "VI_electric_field;I_force_motion",
+      "Image-charge electrostatics and a supplied time-lag dissipation model",
+      "The lag of the image charge is explicitly supplied; Coulomb forces and small-velocity expansion determine damping, not microscopic conductor theory.",
+      "BAUPC 2002 Problem 5: complete statement and diagrams visually read on source file 3161, physical pages 4-4.",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::f6d033692f222eb4::6385::6",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Conical pendulum, energy and slow constraint change",
+      "The gradually winding string is Newtonian circular motion with the stated quasi-static approximation.",
+      "BAUPC 2002 Problem 6: complete statement and diagrams visually read on source file 3161, physical pages 4-4.",
+      [
+        4,
+        4
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

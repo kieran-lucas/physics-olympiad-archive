@@ -1,0 +1,425 @@
+[
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Sliding-friction stopping work",
+    "decision_reason": "KEEP: Sliding-friction stopping work within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q1 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Projectile flight times",
+    "decision_reason": "KEEP: Projectile flight times within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q2 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Spring balance and string constraint",
+    "decision_reason": "KEEP: Spring balance and string constraint within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q3 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coupled-block string tensions",
+    "decision_reason": "KEEP: Coupled-block string tensions within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q4 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rolling energy and transit time",
+    "decision_reason": "KEEP: Rolling energy and transit time within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q5 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Pulley force and power",
+    "decision_reason": "KEEP: Pulley force and power within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q6 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Centripetal acceleration",
+    "decision_reason": "KEEP: Centripetal acceleration within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q7 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Lorentz clock relation",
+    "decision_reason": "KEEP: Supplied Lorentz clock relation within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q8 including shared stems; all 20 pages read. Rendered p2 supplied Lorentz equations and p9 acoustic standing-wave diagram inspected.",
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Lorentz simultaneity",
+    "decision_reason": "KEEP: Supplied Lorentz simultaneity within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q9 including shared stems; all 20 pages read. Rendered p2 supplied Lorentz equations and p9 acoustic standing-wave diagram inspected.",
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::10",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photoelectric stopping potential",
+    "decision_reason": "KEEP: Photoelectric stopping potential within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q10 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::11",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photon absorption",
+    "decision_reason": "KEEP: Photon absorption within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q11 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::12",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Blackbody radiation and calorimetry",
+    "decision_reason": "KEEP: Blackbody radiation and calorimetry within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q12 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::13",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Radiation energy and mass equivalence",
+    "decision_reason": "KEEP: Radiation energy and mass equivalence within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q13 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::14",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Pendulum period",
+    "decision_reason": "KEEP: Pendulum period within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q14 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::15",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Accelerated-cart force equilibrium",
+    "decision_reason": "KEEP: Accelerated-cart force equilibrium within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q15 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::16",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Effective spring oscillations",
+    "decision_reason": "KEEP: Effective spring oscillations within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q16 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::17",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Transverse-wave motion",
+    "decision_reason": "KEEP: Transverse-wave motion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q17 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::21",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Thermal expansion",
+    "decision_reason": "KEEP: Thermal expansion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q21 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::22",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Calorimetry",
+    "decision_reason": "KEEP: Calorimetry within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q22 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::23",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Pressure force on hemispheres",
+    "decision_reason": "KEEP: Pressure force on hemispheres within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q23 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::24",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Hydrostatic pressure",
+    "decision_reason": "KEEP: Hydrostatic pressure within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q24 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::25",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Balance buoyancy correction",
+    "decision_reason": "KEEP: Balance buoyancy correction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q25 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::26",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Pulse photon count",
+    "decision_reason": "KEEP: Pulse photon count within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q26 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::27",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "X-ray cutoff energy",
+    "decision_reason": "KEEP: X-ray cutoff energy within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q27 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::28",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Classical magnetic helical motion and mirroring",
+    "decision_reason": "KEEP: Classical magnetic helical motion and mirroring within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q28 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::29",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Faraday induction",
+    "decision_reason": "KEEP: Faraday induction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q29 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::30",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Malus polarization",
+    "decision_reason": "KEEP: Malus polarization within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q30 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::31",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Battery internal resistance",
+    "decision_reason": "KEEP: Battery internal resistance within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q31 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::32",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Wire resistance and Joule power",
+    "decision_reason": "KEEP: Wire resistance and Joule power within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q32 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::33",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Refractive wavelength and speed",
+    "decision_reason": "KEEP: Refractive wavelength and speed within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q33 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::34",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Critical angle",
+    "decision_reason": "KEEP: Critical angle within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q34 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::35",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Layered ray refraction",
+    "decision_reason": "KEEP: Layered ray refraction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q35 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::36",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Mirror image intensity",
+    "decision_reason": "KEEP: Mirror image intensity within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q36 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::37",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Two-lens ray geometry",
+    "decision_reason": "KEEP: Two-lens ray geometry within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q37 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::38",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Prism dispersion",
+    "decision_reason": "KEEP: Prism dispersion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q38 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::39",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photon momentum pressure",
+    "decision_reason": "KEEP: Photon momentum pressure within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q39 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::40",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Visible photon energy",
+    "decision_reason": "KEEP: Visible photon energy within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q40 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::41",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Hydrogen transitions",
+    "decision_reason": "KEEP: Hydrogen transitions within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q41 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::42",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Nuclear neutron-to-proton trend",
+    "decision_reason": "KEEP: Nuclear neutron-to-proton trend within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q42 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::43",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Basic binding-energy curve",
+    "decision_reason": "KEEP: Basic binding-energy curve within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q43 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::44",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coulomb-force equilibrium",
+    "decision_reason": "KEEP: Coulomb-force equilibrium within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q44 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::45",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Parallel composite resistance",
+    "decision_reason": "KEEP: Parallel composite resistance within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q45 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::46",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Current division and magnetic loop field",
+    "decision_reason": "KEEP: Current division and magnetic loop field within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q46 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::47",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Energy units",
+    "decision_reason": "KEEP: Energy units within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q47 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::48",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Sphere charge sharing",
+    "decision_reason": "KEEP: Sphere charge sharing within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q48 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::49",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coulomb-force ratio",
+    "decision_reason": "KEEP: Coulomb-force ratio within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q49 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "derived::8dfdaee6de87e2da::4070::50",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Crossed-field velocity selector",
+    "decision_reason": "KEEP: Crossed-field velocity selector within operational scope.",
+    "evidence": "Fast statement pass: cached source 3008, complete Q50 including shared stems; all 20 pages read.",
+    "needs_second_review": false
+  }
+]

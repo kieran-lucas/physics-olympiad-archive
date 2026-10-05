@@ -1,0 +1,119 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0005.json",
+  "papers": [
+    {
+      "file_id": 130,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Q3 Scaling laws Parts A-D. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 153,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Q1 Problem mix Parts A-C. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 156,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Q2 Anisotropic friction Parts A-C. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 250,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: T1 Particles from the Sun A1-A10/B1-B4. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 252,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: T2 Extremum Principle Parts A-D. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 254,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: T3 Nuclear Reactor Parts A-C. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 263,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Problem 1 Parts A-C expressly independent INTERNAL parts of one 9-point problem. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 268,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Problem 3 Gas discharge Parts A-B. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 285,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: T1 Focus on sketches Parts A-C. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 287,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: T2 Kelvin dropper Parts A-B. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 289,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: T3 Protostar formation i-vi. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 293,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: E2 Nonlinear Black Box Parts A-B then multimeter manual, not additional experiment. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 297,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Question 2 Electrified soap bubble 2.1-2.8. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 300,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Question 3 Ion scattering 3.1-3.5. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 307,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Experimental problem 2 mechanical black box i-iv then equipment/useful-information page. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 374,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Theoretical Question 1 Ping-Pong Resistor (a)-(f). One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 395,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: I Ground-penetrating radar with four internal questions sharing one model. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 408,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Question 1 internally labelled 1a Klystron /1b Intermolecular distance /1c Sawtooth /1d Atomic beam. One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    },
+    {
+      "file_id": 409,
+      "observed_units": 1,
+      "missing": [],
+      "evidence": "Read complete physical file cached text across all pages: Question 2 Binary Star (a)-(b). One printed top-level unit matches existing row; no separate omitted task. Internal parts remain together. Existing physics decision retained."
+    }
+  ]
+}

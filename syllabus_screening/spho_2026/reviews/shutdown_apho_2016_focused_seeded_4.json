@@ -1,0 +1,18 @@
+[
+  {
+    "screening_unit_id": "raw::346",
+    "detail": "Theory QC seed2026100443 selects346. All3 actual pages include full hinge/rail geometry and single alpha degree of freedom. Official1114p2text gives ordinary energy curvature/kinetic sum, pp8/9text+p9image and appendix14/15text confirm minimum force from work along allowed vertex displacement. No assumed Lagrangian or specialized constitutive lattice law. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::347",
+    "detail": "Focused cosmology prerequisites. Four actual statement pages provide physical=comoving*a and lambda proportional to a. Ordinary photon h*c/lambda obtains radiation density without unsupplied SR E=p*c. Thermal temperature follows standard radiation scaling, D first law, E expansion of physical photon separation plus reduced photon energy, F/G Newtonian spherical-shell energy/force. Official1123all4text andp3image confirms this dependency chain, including two expansion factors in telescope flux. General curved-spacetime Friedmann equation mentioned only in ungraded key appendix; no outside GR machinery required. KEEP."
+  },
+  {
+    "screening_unit_id": "raw::348",
+    "detail": "Focused supplied-QM check. Original1130pp3-5 images supply spin projection, anomalous factor2, pair-energy comparison, F[psi], full normalized Gaussian family, minimization rule and two opposite internal fields. Official1131p4image directly integrates/substitutes and minimizes one scalar lambda; p6image adds fields and minimizes magnetic energy. Hamiltonian spectrum on keyp5 is an OPTIONAL alternate method. No BCS/Pauli response/unsupplied Born-state calculation central. Whole KEEP."
+  },
+  {
+    "screening_unit_id": "raw::349",
+    "detail": "Experiment QC seed2026100444 selects349. All11 actual pages include optical geometry, full diffraction equations, statistical task and calibrated RHEED image plus voltage-wavelength equation WITH relativistic correction. Alignment chart1141actualimage verified/preserved. Official1142pp5-7text uses quadratic inversion and standard error; p14image uses only supplied electron wavelength and grating geometry. No surface diffraction or SR theory needs reconstruction. A-G remain one12-point problem; whole KEEP."
+  }
+]

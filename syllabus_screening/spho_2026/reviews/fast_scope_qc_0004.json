@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::3187",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; REJECT confirmed from Unsupplied relativistic photon Doppler shift. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3190",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; KEEP confirmed from Planetary separation and light travel time. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::2952",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; KEEP confirmed from Ideal-gas cooling and pressure force. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3057",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; KEEP confirmed from Inelastic collision heat. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::2950",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; KEEP confirmed from Ideal-gas mixture and heating power. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::3104",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; KEEP confirmed from Battery charge, energy and supplied charger efficiency. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::2906",
+    "detail": "Seeded fast-pass QC 20261004512: complete statement reread; KEEP confirmed from Accumulating snow momentum flux and friction. No decision change."
+  }
+]

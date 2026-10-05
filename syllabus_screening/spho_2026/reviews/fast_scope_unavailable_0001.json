@@ -1,0 +1,9 @@
+{
+  "screening_unit_id": "raw::4324",
+  "source_file_id": 3077,
+  "solution_file_id": 3078,
+  "page": 11,
+  "solution_page": 29,
+  "status": "unresolved_source_unavailable",
+  "detail": "Q34 explicitly removed from test in both local statement and official solution; no statement remains. Preserve NULL physics decision and provenance."
+}

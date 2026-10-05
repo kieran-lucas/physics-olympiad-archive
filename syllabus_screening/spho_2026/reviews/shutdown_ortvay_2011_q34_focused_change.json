@@ -1,0 +1,6 @@
+{
+  "screening_unit_id": "raw::5862",
+  "old_decision": "REJECT",
+  "new_decision": "BORDERLINE",
+  "source_evidence": "Q34 p6 does not specify a high-speed atom regime or any atom-speed ensemble. Ordinary slow-atom photon Doppler broadening and nuclear energy accounting may suffice; an exact relativistic distribution is a different unprovided model. The pass-one reason had assumed that latter model was necessarily dominant. No rubric change or earlier batch alteration."
+}

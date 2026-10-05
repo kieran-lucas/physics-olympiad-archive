@@ -1,0 +1,354 @@
+[
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rolling acceleration and position",
+    "decision_reason": "KEEP: Rolling acceleration and position within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q1 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Piecewise acceleration travel time",
+    "decision_reason": "KEEP: Piecewise acceleration travel time within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q2 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newton third law",
+    "decision_reason": "KEEP: Newton third law within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q3 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Force-duration work",
+    "decision_reason": "KEEP: Force-duration work within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q4 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Series spring energy",
+    "decision_reason": "KEEP: Series spring energy within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q5 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Internal momentum conservation",
+    "decision_reason": "KEEP: Internal momentum conservation within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q6 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Calorimetry and freezing",
+    "decision_reason": "KEEP: Calorimetry and freezing within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q7 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas approximation",
+    "decision_reason": "KEEP: Ideal-gas approximation within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q8 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied proportional heat-transfer law",
+    "decision_reason": "KEEP: Supplied proportional heat-transfer law within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q9 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::10",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Convex-mirror image",
+    "decision_reason": "KEEP: Convex-mirror image within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q10 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::11",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Diffraction resolution",
+    "decision_reason": "KEEP: Diffraction resolution within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q11 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::12",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Longitudinal sound and polarization",
+    "decision_reason": "KEEP: Longitudinal sound and polarization within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q12 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::13",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Snell refraction and light speed",
+    "decision_reason": "KEEP: Snell refraction and light speed within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q13 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::14",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied seismic speeds and arrival time",
+    "decision_reason": "KEEP: Supplied seismic speeds and arrival time within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q14 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::15",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "String pulse speed",
+    "decision_reason": "KEEP: String pulse speed within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q15 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::19",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic wire interaction and third law",
+    "decision_reason": "KEEP: Magnetic wire interaction and third law within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q19 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::20",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Eddy-current braking",
+    "decision_reason": "KEEP: Eddy-current braking within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q20 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::21",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Bullet kinetic heat and latent heat",
+    "decision_reason": "KEEP: Bullet kinetic heat and latent heat within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q21 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::22",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Boat recoil work",
+    "decision_reason": "KEEP: Boat recoil work within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q22 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::23",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Hydrostatic atmosphere mass estimate",
+    "decision_reason": "KEEP: Hydrostatic atmosphere mass estimate within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q23 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::24",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Projectile energy and momentum",
+    "decision_reason": "KEEP: Projectile energy and momentum within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q24 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::25",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Wire center of mass",
+    "decision_reason": "KEEP: Wire center of mass within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q25 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::26",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Relative river motion",
+    "decision_reason": "KEEP: Relative river motion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q26 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::27",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Elastic collision with moving heavy foot",
+    "decision_reason": "KEEP: Elastic collision with moving heavy foot within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q27 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::31",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Force-time impulse",
+    "decision_reason": "KEEP: Force-time impulse within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q31 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::32",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Vertical throwing interval",
+    "decision_reason": "KEEP: Vertical throwing interval within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q32 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::33",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Projectile velocity geometry",
+    "decision_reason": "KEEP: Projectile velocity geometry within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q33 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::34",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied linear drag Newton motion",
+    "decision_reason": "KEEP: Supplied linear drag Newton motion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q34 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::35",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Momentum vector and force balance",
+    "decision_reason": "KEEP: Momentum vector and force balance within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q35 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::36",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied quadratic drag and power",
+    "decision_reason": "KEEP: Supplied quadratic drag and power within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q36 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::37",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Battery internal resistance and bulbs",
+    "decision_reason": "KEEP: Battery internal resistance and bulbs within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q37 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::38",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Parallel-sheet electric field",
+    "decision_reason": "KEEP: Parallel-sheet electric field within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q38 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::39",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Resistor circuit",
+    "decision_reason": "KEEP: Resistor circuit within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q39 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::40",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electrostatic polarization",
+    "decision_reason": "KEEP: Electrostatic polarization within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q40 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::41",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electron Lorentz-force direction",
+    "decision_reason": "KEEP: Electron Lorentz-force direction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q41 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::42",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied relativistic time dilation",
+    "decision_reason": "REJECT: Unsupplied relativistic time dilation is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q42 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::43",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied photoelectric equation",
+    "decision_reason": "KEEP: Supplied photoelectric equation within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q43 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::44",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photon flux and intensity",
+    "decision_reason": "KEEP: Photon flux and intensity within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q44 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::45",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Nonrelativistic de Broglie wavelength",
+    "decision_reason": "KEEP: Nonrelativistic de Broglie wavelength within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q45 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::46",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Bohr transitions and photon momentum",
+    "decision_reason": "KEEP: Bohr transitions and photon momentum within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q46 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::47",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Alpha-decay nuclear composition",
+    "decision_reason": "KEEP: Alpha-decay nuclear composition within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q47 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::48",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Fusion mass defect",
+    "decision_reason": "KEEP: Fusion mass defect within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q48 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::49",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied special-relativity postulate",
+    "decision_reason": "REJECT: Unsupplied special-relativity postulate is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q49 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::00e82bfde1b28e03::4069::50",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Nuclear recoil momentum and magnetic orbits",
+    "decision_reason": "KEEP: Nuclear recoil momentum and magnetic orbits within operational scope.",
+    "evidence": "Fast statement pass: cached source 3007, complete Q50 and shared instructions; all 19 pages read."
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "decision_batch": "fast_scope_0170.json",
+  "papers": [
+    {
+      "file_id": 1557,
+      "observed_units": 4,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. Printed four theory problems1-4 on pp1-3/4-6/7/8. No additional independent problem."
+    },
+    {
+      "file_id": 1558,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One experimental RC-filter problem with20internal numbered procedures, shared apparatus. No additional independent problem."
+    },
+    {
+      "file_id": 1559,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One mechanics problem, internal(a-f). No additional independent problem."
+    },
+    {
+      "file_id": 1561,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One descending atmospheric air problem. No additional independent problem."
+    },
+    {
+      "file_id": 1563,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One tabular iceberg problem, internal numbered tasks. No additional independent problem."
+    },
+    {
+      "file_id": 1565,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One thermionic-valve problem; internal Preguntas1-7 and final constants. No additional independent problem."
+    },
+    {
+      "file_id": 1567,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One Rutherford-scattering experiment; common simulator and internal tasks. No additional independent problem."
+    },
+    {
+      "file_id": 1569,
+      "observed_units": 3,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. p1 instructions; theory Q1 skipping stones pp2-5, Q2 double oscillator pp6-8, Q3 muons pp9-10, all registered. No additional independent problem."
+    },
+    {
+      "file_id": 1570,
+      "observed_units": 5,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. Printed Problemas1-5: lever pp1-3, drops p4, stellar brightness pp5-6, microtubules pp7-9, bottle-data p10. No additional independent problem."
+    },
+    {
+      "file_id": 1572,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. Theory T1 pp1-3, p4 footer only. No additional independent problem."
+    },
+    {
+      "file_id": 1575,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. Theory T3 pp1-3, p4 footer only. No additional independent problem."
+    },
+    {
+      "file_id": 1576,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. Theory T2 pp1-3, p4 footer only. No additional independent problem."
+    },
+    {
+      "file_id": 1579,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One experimental E-1 capillarity and shared apparatus; final density tables. No additional independent problem."
+    },
+    {
+      "file_id": 1581,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One experimental E-2 LED/photoresistor and shared apparatus; final datasheet references. No additional independent problem."
+    },
+    {
+      "file_id": 1584,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T2 problem; pp3-4 auxiliary sheets only. No additional independent problem."
+    },
+    {
+      "file_id": 1585,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T1 problem. No additional independent problem."
+    },
+    {
+      "file_id": 1587,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T3 problem. No additional independent problem."
+    },
+    {
+      "file_id": 1588,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T4 problem, internal(a-g). No additional independent problem."
+    },
+    {
+      "file_id": 1590,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One tube-spring oscillator experiment; E-1..E-6 are PAGE numbers, cover explicitly explains E task sheets/W response sheets. No additional independent problem."
+    },
+    {
+      "file_id": 1592,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T1 problem. No additional independent problem."
+    },
+    {
+      "file_id": 1594,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T4 problem. No additional independent problem."
+    },
+    {
+      "file_id": 1595,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One T3 problem. No additional independent problem."
+    },
+    {
+      "file_id": 1596,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One experimental E1, three sequential pages. No additional independent problem."
+    },
+    {
+      "file_id": 1597,
+      "observed_units": 1,
+      "evidence": "Complete prior source inspection reused; every physical-page boundary manually checked in cache packet. One experimental E2, two sequential pages. No additional independent problem."
+    },
+    {
+      "file_id": 1571,
+      "observed_units": 2,
+      "evidence": "Hard inventory consistency failure confirmed by complete statement read and rendered pp4-5: E1-1..E1-4 paramagnetic experiment (7 points), followed by E2-1..E2-3 ferromagnetic experiment (13 points), with reset pagination. E2 has independent tasks C-E; shared simulator/model introduction pp1-3. Only raw653 E1 existed. Retain its KEEP/history, correct its page_end to4; deterministically register omitted E2.",
+      "missing": [
+        {
+          "label": "E2",
+          "section": "Experimental E2; shared simulator model pp1-3",
+          "format": "experimental",
+          "start": 5,
+          "end": 7,
+          "title": "Estudio de materiales ferromagneticos",
+          "decision": "KEEP",
+          "physics": "Supplied spin-lattice simulator; magnetization, hysteresis, critical-temperature graphs and uncertainty",
+          "reason": "KEEP: model and simulator calculations supplied; tasks are magnetic measurements and data analysis.",
+          "evidence": "Full actual statement pp5-7 and shared introduction pp1-3 read; rendered E1/E2 headers pp4-5 confirm separate experiments. Includes all C1-C4, D1, E1-E3.",
+          "render": true
+        }
+      ]
+    }
+  ]
+}

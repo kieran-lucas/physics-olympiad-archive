@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "derived::459279444b1352ec::2602::3",
+    "detail": "Seeded fast-pass QC8, seed 20261004397, six of 417; actual statement reread. Confirmed KEEP: clock dilation explicitly supplied; dominant Newtonian orbit and low-speed Doppler."
+  },
+  {
+    "screening_unit_id": "derived::48cda64373c392fa::4020::9",
+    "detail": "Seeded fast-pass QC8, seed 20261004397, six of 417; actual statement reread. Confirmed REJECT: asks for Lorentz four-vector transformation and moving-mirror Doppler without supplying them."
+  },
+  {
+    "screening_unit_id": "derived::f5d0d7eb73d23776::4043::3",
+    "detail": "Seeded fast-pass QC8, seed 20261004397, six of 417; actual statement reread. Confirmed KEEP: resonance, classical collision/angular momentum and pendulum."
+  },
+  {
+    "screening_unit_id": "derived::5c0ca18fcc5c8cbf::2590::2",
+    "detail": "Seeded fast-pass QC8, seed 20261004397, six of 417; actual statement reread. Confirmed KEEP: supplied n^2=1+4a/r model, ray optics and Newtonian shell/galaxy fields; cached render checked."
+  },
+  {
+    "screening_unit_id": "derived::48cda64373c392fa::4020::1",
+    "detail": "Seeded fast-pass QC8, seed 20261004397, six of 417; actual statement reread. Confirmed KEEP: inclined-plane projectile kinematics."
+  },
+  {
+    "screening_unit_id": "derived::72ed95c932cbb390::4041::3",
+    "detail": "Seeded fast-pass QC8, seed 20261004397, six of 417; actual statement reread. Confirmed KEEP: prescribed accreting mass and Newtonian momentum."
+  }
+]

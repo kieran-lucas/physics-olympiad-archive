@@ -1,0 +1,30 @@
+[
+  {
+    "screening_unit_id": "raw::5457",
+    "detail": "Focused second review: complete p2 solar-panel data and models reopened. Temperature law and efficiency slope alone do not specify the angular atmospheric optical depth or absolute detector scale. Many transmission functions fit a chosen K/calibration. BORDERLINE retained for source/model sufficiency, not semiconductor context."
+  },
+  {
+    "screening_unit_id": "raw::5474",
+    "detail": "Focused second review: complete p8 and rendered coexistence equation reopened. Integrating the supplied slopes is elementary, but a mixed ideal liquid needs composition-dependent partial-pressure equilibrium; that relation is only named by ideal solution. Both independent-saturation and solution-coupled readings remain possible. BORDERLINE retained without inventing a missing relation."
+  },
+  {
+    "screening_unit_id": "raw::5485",
+    "detail": "Focused second review: whole p12 and field-jump plot reopened. Classical induction and trajectory work in a is substantial; b independently asks ground-state probability and expected energy requiring Landau states and Born measurement. Neither part is a tiny extension. Whole-problem BORDERLINE confirmed; no subpart rescue."
+  },
+  {
+    "screening_unit_id": "raw::5466",
+    "detail": "Focused prerequisite check: whole p5 reread. The relativistic gourmet section expressly states complete a earns maximal score. Classical radial electric/magnetic fields are defined, and circular force balance fixes main work. KEEP confirmed for the whole printed task including its optional bonus."
+  },
+  {
+    "screening_unit_id": "raw::5479",
+    "detail": "Focused magnetization check: complete p9 reread. Prescribed uniform magnetization plus constant very large permeability defines a magnetostatic image/boundary problem. Classical field energy or equivalent magnetic sources gives force without unsupplied microscopic material response. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5455",
+    "detail": "Seeded QC (2026100401): whole Q1 p1 and frame/rope render reopened. Directional displacements follow initial constrained rigid-body acceleration using the explicitly uniform rods. Construction video is illustrative; the drawing suffices. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5463",
+    "detail": "Seeded QC (2026100401): full Q9 p4 reread. Given F proportional to v or v squared gives a_linear=g exp(-gt/V) and a_quadratic=g sech^2(gt/V). Their equality at 1.2424 s determines V; no unsupplied turbulent theory. KEEP confirmed."
+  }
+]

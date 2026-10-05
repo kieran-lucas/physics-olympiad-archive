@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::483",
+    "detail": "Focused supplied-model check: Fast statement pass: source 1523, printed 3, PDF pp 1-1. All internal statement parts read from column-order cache. Supplied magnetic-flux invariant avoids an external prerequisite. KEEP: Classical Lorentz motion with explicitly supplied magnetic-flux adiabatic invariant."
+  },
+  {
+    "screening_unit_id": "raw::490",
+    "detail": "Focused supplied-model check: Fast statement pass: source 1525, printed 2, PDF pp 1-1. All internal statement parts read from column-order cache. Measured beat frequency is tiny relative to carrier; ordinary leading slow-motion Doppler suffices for dominant work. KEEP: Slow-car reflected-wave Doppler and beat-frequency trigonometry."
+  },
+  {
+    "screening_unit_id": "raw::501",
+    "detail": "Focused supplied-model check: Fast statement pass: source 1527, printed 4, PDF pp 1-1. All internal statement parts read from column-order cache. Gravitational radiation and radius relations explicitly supplied; no GR field equations needed. KEEP: Explicit gravitational-wave power and Schwarzschild radius; Hooke analogy and dimensional analysis."
+  }
+]

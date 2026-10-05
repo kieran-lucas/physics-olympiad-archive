@@ -1,0 +1,197 @@
+[
+  {
+    "screening_unit_id": "derived::aeb3bf3e3eb7330a::907::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Steam heat engine with supplied saturation law, circuit dissipation and lens imaging",
+    "decision_reason": "KEEP: Steam heat engine with supplied saturation law, circuit dissipation and lens imaging.",
+    "evidence": "Complete actual statement source 1859 pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::aeb3bf3e3eb7330a::907::2",
+    "decision": "BORDERLINE",
+    "confidence": "medium",
+    "required_physics": "Comparable classical rocket work and substantial unsupplied relativistic acceleration/rocket dynamics",
+    "decision_reason": "BORDERLINE: Comparable classical rocket work and substantial unsupplied relativistic acceleration/rocket dynamics.",
+    "evidence": "Complete actual statement source 1859 pp2-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0,
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::aeb3bf3e3eb7330a::907::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied conductivity and heat-transfer models; Joule heat, magnetic stress and elasticity",
+    "decision_reason": "KEEP: Supplied conductivity and heat-transfer models; Joule heat, magnetic stress and elasticity.",
+    "evidence": "Complete actual statement source 1859 pp4-5; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::9a11ff701f805b03::908::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic pendulum interaction measurements and inductive damping",
+    "decision_reason": "KEEP: Magnetic pendulum interaction measurements and inductive damping.",
+    "evidence": "Complete actual statement source 1861 pp2-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::1ac01c052414ffb4::909::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Variable-mass rope, ideal-gas evaporation and geometric refraction",
+    "decision_reason": "KEEP: Variable-mass rope, ideal-gas evaporation and geometric refraction.",
+    "evidence": "Complete actual statement source 1863 pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::1ac01c052414ffb4::909::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian conducting-frame motion, Faraday induction and LR dynamics",
+    "decision_reason": "KEEP: Newtonian conducting-frame motion, Faraday induction and LR dynamics.",
+    "evidence": "Complete actual statement source 1863 pp3-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::1ac01c052414ffb4::909::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Bohr quantization and explicitly supplied radiation-power relation",
+    "decision_reason": "KEEP: Bohr quantization and explicitly supplied radiation-power relation.",
+    "evidence": "Complete actual statement source 1863 pp4-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::cf56e25bec03807b::910::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rigid-rod acceleration, provided diode characteristic and graded-index lens context",
+    "decision_reason": "KEEP: Rigid-rod acceleration, provided diode characteristic and graded-index lens context.",
+    "evidence": "Complete actual statement source 1865 pp1-1; all internal tasks read; cached text; rendered pages checked.",
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::cf56e25bec03807b::910::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas piston heat balance, oscillations and molecular effusion",
+    "decision_reason": "KEEP: Ideal-gas piston heat balance, oscillations and molecular effusion.",
+    "evidence": "Complete actual statement source 1865 pp2-3; all internal tasks read; cached text; rendered pages checked.",
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::cf56e25bec03807b::910::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Declared supplied nuclear liquid-drop model; solution confirms electrostatic/surface energy and algebra",
+    "decision_reason": "KEEP: Declared supplied nuclear liquid-drop model; solution confirms electrostatic/surface energy and algebra.",
+    "evidence": "Complete actual statement source 1865 pp4-6; all internal tasks read; cached text; rendered pages checked; local solution 1866 pp9-11 resolves required method.",
+    "visual_inspection_used": 1,
+    "solution_used": 1,
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::f773acd3d287e058::911::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Bulk electrical conduction, resistance measurement and empirical scaling",
+    "decision_reason": "KEEP: Bulk electrical conduction, resistance measurement and empirical scaling.",
+    "evidence": "Complete actual statement source 1867 pp2-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::40aeea9651c28025::912::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian puck-cavity mechanics, infinite source network and lens construction",
+    "decision_reason": "KEEP: Newtonian puck-cavity mechanics, infinite source network and lens construction.",
+    "evidence": "Complete actual statement source 1869 pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::40aeea9651c28025::912::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicit Drude collision model; classical electric/magnetic trajectories and Hall balance",
+    "decision_reason": "KEEP: Explicit Drude collision model; classical electric/magnetic trajectories and Hall balance.",
+    "evidence": "Complete actual statement source 1869 pp2-5; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::40aeea9651c28025::912::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Explicit energy levels and Boltzmann distribution; classical pressure and heat capacity",
+    "decision_reason": "KEEP: Explicit energy levels and Boltzmann distribution; classical pressure and heat capacity.",
+    "evidence": "Complete actual statement source 1869 pp5-6; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::8468c4034aebffcb::913::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Measured elastic hysteresis, statics and supplied bistability relation",
+    "decision_reason": "KEEP: Measured elastic hysteresis, statics and supplied bistability relation.",
+    "evidence": "Complete actual statement source 1871 pp2-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::4d48c5854d0f2180::915::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Viscous terminal-motion measurement, empirical fits and ordinary force balance",
+    "decision_reason": "KEEP: Viscous terminal-motion measurement, empirical fits and ordinary force balance.",
+    "evidence": "Complete actual statement source 1874 pp2-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::c3d309b54a876a0e::914::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rigid-rod dynamics, hydrostatic gas buoyancy and geometric shadows",
+    "decision_reason": "KEEP: Rigid-rod dynamics, hydrostatic gas buoyancy and geometric shadows.",
+    "evidence": "Complete actual statement source 1875 pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::c3d309b54a876a0e::914::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Classical electron inertia, inductance and explicitly supplied Poynting vector",
+    "decision_reason": "KEEP: Classical electron inertia, inductance and explicitly supplied Poynting vector.",
+    "evidence": "Complete actual statement source 1875 pp3-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::c3d309b54a876a0e::914::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rendered statement explicitly supplies relativistic invariant and energy-momentum transformations",
+    "decision_reason": "KEEP: Rendered statement explicitly supplies relativistic invariant and energy-momentum transformations.",
+    "evidence": "Complete actual statement source 1875 pp4-5; all internal tasks read; cached text; rendered pages checked.",
+    "visual_inspection_used": 1,
+    "solution_used": 0,
+    "needs_second_review": true
+  }
+]

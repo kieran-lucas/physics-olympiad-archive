@@ -1,0 +1,89 @@
+[
+  {
+    "screening_unit_id": "raw::2012",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 3,
+    "required_physics": "Supplied anisotropic heat-transfer fitting laws and least-squares data analysis",
+    "decision_reason": "KEEP: Supplied anisotropic heat-transfer fitting laws and least-squares data analysis.",
+    "evidence": "Complete actual statement source 2287, pp1-3; all internal parts read in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::2637",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 1,
+    "required_physics": "Young interference hyperbola and geometric approximations",
+    "decision_reason": "KEEP: Young interference hyperbola and geometric approximations.",
+    "evidence": "Complete actual Romanian statement source 2805, task 1, pp 1-1; all internal subparts read in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0,
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "raw::2095",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 2,
+    "required_physics": "Supplied nonlinear capacitance and oscillator model; Kirchhoff resonance experiment",
+    "decision_reason": "KEEP: Supplied nonlinear capacitance and oscillator model; Kirchhoff resonance experiment.",
+    "evidence": "Complete actual Russian statement source 2454, pp1-2; all internal parts read in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::1872",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 3,
+    "required_physics": "Coulomb cylinder force and levitation oscillation with supplied contact force",
+    "decision_reason": "KEEP: Coulomb cylinder force and levitation oscillation with supplied contact force.",
+    "evidence": "Complete actual Russian statement source 2122, printed task 3, pp 1-3; all internal subparts inspected in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::2663",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Relativistic oscillator period requires unsupplied relativistic momentum-energy law",
+    "decision_reason": "REJECT: Relativistic oscillator period requires unsupplied relativistic momentum-energy law.",
+    "evidence": "Complete actual Romanian statement source 2820, task 3, pp 2-2; all internal subparts read in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0,
+    "needs_second_review": false
+  },
+  {
+    "screening_unit_id": "raw::1899",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 4,
+    "required_physics": "Water-surface reflection and refraction geometry",
+    "decision_reason": "KEEP: Water-surface reflection and refraction geometry.",
+    "evidence": "Complete actual Russian statement source 2132, printed task 5, pp 3-4; all internal subparts inspected in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::2613",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 1,
+    "required_physics": "Variable capacitance and RLC/RL circuit transients",
+    "decision_reason": "KEEP: Variable capacitance and RLC/RL circuit transients.",
+    "evidence": "Complete actual Romanian statement source 2788, task 1, pp 1-1; all internal subparts read in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0,
+    "needs_second_review": false
+  }
+]

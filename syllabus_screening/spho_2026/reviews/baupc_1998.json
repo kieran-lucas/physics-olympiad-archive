@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::39d653a4c39cc891::6389::1",
+      "KEEP",
+      "I_force_motion",
+      "Contact normal forces and translational Newton laws",
+      "The three frictionless cylinders remain in contact according to ordinary force-balance inequalities.",
+      "BAUPC 1998 Problem 1: complete statement and diagrams visually read on source file 3170, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::39d653a4c39cc891::6389::2",
+      "KEEP",
+      "VII_magnetic_field;I_force_motion",
+      "Lorentz-force motion and axisymmetric magnetic flux",
+      "Zero total magnetic flux and the radial field symmetry determine the outgoing direction using classical field/motion laws.",
+      "BAUPC 1998 Problem 2: complete statement and diagrams visually read on source file 3170, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::39d653a4c39cc891::6389::3",
+      "KEEP",
+      "I_force_motion",
+      "Newton laws, pulley constraints and infinite-chain limits",
+      "The infinite Atwood machine is a mechanics recursion, not an external physical theory.",
+      "BAUPC 1998 Problem 3: complete statement and diagrams visually read on source file 3170, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::39d653a4c39cc891::6389::4",
+      "KEEP",
+      "VI_electric_field",
+      "Ohm law, symmetry and resistor-network superposition",
+      "The icosahedron shape is fully defined; circuit physics suffices despite the polyhedral geometry.",
+      "BAUPC 1998 Problem 4: complete statement and diagrams visually read on source file 3170, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::39d653a4c39cc891::6389::5",
+      "KEEP",
+      "I_force_motion",
+      "Angular momentum, torque and slow gyroscopic precession",
+      "The stacked symmetric tops lie within the explicit rigid-body/angular-momentum syllabus; the large-spin approximation is supplied.",
+      "BAUPC 1998 Problem 5: complete statement and diagrams visually read on source file 3170, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::39d653a4c39cc891::6389::6",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Pendulum oscillations and slow coupled Atwood motion",
+      "Averaging the small swings and using energy/constraints determines the slow rise; mathematical multiple timescales do not add external physics.",
+      "BAUPC 1998 Problem 6: complete statement and diagrams visually read on source file 3170, physical pages 3-3.",
+      [
+        3,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

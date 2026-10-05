@@ -1,0 +1,532 @@
+[
+  {
+    "screening_unit_id": "raw::3287",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Average speed and equal-time versus equal-distance travel",
+    "decision_reason": "KEEP: Average speed and equal-time versus equal-distance travel within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AA, pp 2-2. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3288",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Buoyancy and density adjustment",
+    "decision_reason": "KEEP: Buoyancy and density adjustment within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AB, pp 2-2. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3289",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Plane-mirror relative image velocity",
+    "decision_reason": "KEEP: Plane-mirror relative image velocity within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AC, pp 3-3. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3290",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Supplied molecular shape symmetry",
+    "decision_reason": "KEEP: Supplied molecular shape symmetry within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AD, pp 4-4. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3291",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Supplied heat generation and heat capacity",
+    "decision_reason": "KEEP: Supplied heat generation and heat capacity within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AE, pp 4-4. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3292",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "River relative velocity",
+    "decision_reason": "KEEP: River relative velocity within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AF, pp 4-4. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3293",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Supplied fuel consumption and units",
+    "decision_reason": "KEEP: Supplied fuel consumption and units within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AG, pp 5-5. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3294",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Rolling-cylinder step and energy-angular momentum",
+    "decision_reason": "KEEP: Rolling-cylinder step and energy-angular momentum within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed AH, pp 5-5. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3295",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Raft torque and submerged-anchor buoyancy",
+    "decision_reason": "KEEP: Raft torque and submerged-anchor buoyancy within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BA, pp 6-6. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3296",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Sound travel time with supplied temperature dependence",
+    "decision_reason": "KEEP: Sound travel time with supplied temperature dependence within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BB, pp 6-6. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3297",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 7,
+    "required_physics": "Inelastic momentum conservation",
+    "decision_reason": "KEEP: Inelastic momentum conservation within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BC, pp 6-7. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3298",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Relative angular kinematics",
+    "decision_reason": "KEEP: Relative angular kinematics within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BD, pp 7-7. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3299",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Ideal-gas expansion into vacuum",
+    "decision_reason": "KEEP: Ideal-gas expansion into vacuum within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BE, pp 7-7. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3300",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Explicit dimensional analysis of planetary pressure",
+    "decision_reason": "KEEP: Explicit dimensional analysis of planetary pressure within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BF, pp 8-8. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3301",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Projectile targeting",
+    "decision_reason": "KEEP: Projectile targeting within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BG, pp 8-8. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3302",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Supplied reaction and ideal-gas pressure-volume work",
+    "decision_reason": "KEEP: Supplied reaction and ideal-gas pressure-volume work within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed BH, pp 9-9. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3303",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Explicit synchrotron radiation scaling and speed approximately c",
+    "decision_reason": "KEEP: Explicit synchrotron radiation scaling and speed approximately c within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CA, pp 10-10. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3304",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Pendulum energy, centripetal force and breaking tension",
+    "decision_reason": "KEEP: Pendulum energy, centripetal force and breaking tension within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CB, pp 10-10. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3305",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Rolling-ball energy and projectile gap",
+    "decision_reason": "KEEP: Rolling-ball energy and projectile gap within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CC, pp 11-11. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3306",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Explicit nonrelativistic elastic collision",
+    "decision_reason": "KEEP: Explicit nonrelativistic elastic collision within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CD, pp 12-12. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3307",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 13,
+    "required_physics": "Joule heating and calorimetry",
+    "decision_reason": "KEEP: Joule heating and calorimetry within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CE, pp 12-13. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3308",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 13,
+    "required_physics": "Massive-pulley Newton equations",
+    "decision_reason": "KEEP: Massive-pulley Newton equations within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CF, pp 13-13. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3309",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Supplied Newton drag and buoyancy",
+    "decision_reason": "KEEP: Supplied Newton drag and buoyancy within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CG, pp 15-15. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3310",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 16,
+    "required_physics": "Supplied physical-pendulum relation and composite inertia",
+    "decision_reason": "KEEP: Supplied physical-pendulum relation and composite inertia within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed CH, pp 15-16. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3311",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 16,
+    "required_physics": "Growth-rate arithmetic and mean",
+    "decision_reason": "KEEP: Growth-rate arithmetic and mean within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DA, pp 16-16. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3312",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 17,
+    "page_end": 17,
+    "required_physics": "Inelastic impact and spring energy",
+    "decision_reason": "KEEP: Inelastic impact and spring energy within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DB, pp 17-17. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3313",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 18,
+    "page_end": 18,
+    "required_physics": "Sphere volume, charge density and Coulomb force",
+    "decision_reason": "KEEP: Sphere volume, charge density and Coulomb force within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DC, pp 18-18. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3314",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Pendulum energy and elastic floor bounce",
+    "decision_reason": "KEEP: Pendulum energy and elastic floor bounce within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DD, pp 19-19. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3315",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Stacked relative motion",
+    "decision_reason": "KEEP: Stacked relative motion within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DE, pp 19-19. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3316",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 20,
+    "page_end": 20,
+    "required_physics": "Electrostatic capacitor force and lever torque",
+    "decision_reason": "KEEP: Electrostatic capacitor force and lever torque within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DF, pp 20-20. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3317",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 20,
+    "page_end": 20,
+    "required_physics": "LC impedance",
+    "decision_reason": "KEEP: LC impedance within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DG, pp 20-20. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3318",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 21,
+    "page_end": 21,
+    "required_physics": "Pendulum energy and inelastic floor constraint",
+    "decision_reason": "KEEP: Pendulum energy and inelastic floor constraint within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed DH, pp 21-21. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3319",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 22,
+    "page_end": 22,
+    "required_physics": "Geometric-series moment of inertia",
+    "decision_reason": "KEEP: Geometric-series moment of inertia within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EA, pp 22-22. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3320",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 22,
+    "page_end": 22,
+    "required_physics": "Explicit screened Coulomb potential",
+    "decision_reason": "KEEP: Explicit screened Coulomb potential within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EB, pp 22-22. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3321",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 23,
+    "page_end": 23,
+    "required_physics": "Complete resistor graph and symmetry",
+    "decision_reason": "KEEP: Complete resistor graph and symmetry within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EC, pp 23-23. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3322",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 24,
+    "page_end": 24,
+    "required_physics": "Independent-trial probability",
+    "decision_reason": "KEEP: Independent-trial probability within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed ED, pp 24-24. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3323",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 25,
+    "page_end": 25,
+    "required_physics": "Charge current density with supplied mobility ratio",
+    "decision_reason": "KEEP: Charge current density with supplied mobility ratio within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EE, pp 25-25. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3324",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 26,
+    "page_end": 26,
+    "required_physics": "Vector displacement and triangle area",
+    "decision_reason": "KEEP: Vector displacement and triangle area within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EF, pp 26-26. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3325",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 27,
+    "page_end": 27,
+    "required_physics": "Solar photon count",
+    "decision_reason": "KEEP: Solar photon count within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EG, pp 27-27. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3326",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 27,
+    "page_end": 27,
+    "required_physics": "Radioactive production-decay equilibrium",
+    "decision_reason": "KEEP: Radioactive production-decay equilibrium within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed EH, pp 27-27. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3327",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 29,
+    "page_end": 29,
+    "required_physics": "Diffraction grating orders",
+    "decision_reason": "KEEP: Diffraction grating orders within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FA, pp 29-29. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3328",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 29,
+    "page_end": 29,
+    "required_physics": "Coriolis force and liquid surface equilibrium",
+    "decision_reason": "KEEP: Coriolis force and liquid surface equilibrium within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FB, pp 29-29. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3329",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 30,
+    "page_end": 30,
+    "required_physics": "Falling-source acoustic Doppler",
+    "decision_reason": "KEEP: Falling-source acoustic Doppler within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FC, pp 30-30. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3330",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 31,
+    "page_end": 31,
+    "required_physics": "Supplied black-body reentry heating model",
+    "decision_reason": "KEEP: Supplied black-body reentry heating model within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FD, pp 31-31. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3331",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 31,
+    "page_end": 31,
+    "required_physics": "LC resonance and electromagnetic wavelength",
+    "decision_reason": "KEEP: LC resonance and electromagnetic wavelength within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FE, pp 31-31. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3332",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 32,
+    "page_end": 32,
+    "required_physics": "Constrained opening-book kinematics",
+    "decision_reason": "KEEP: Constrained opening-book kinematics within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FF, pp 32-32. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3333",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 33,
+    "page_end": 33,
+    "required_physics": "Rest annihilation, mass-energy conversion and photon momentum",
+    "decision_reason": "KEEP: Rest annihilation, mass-energy conversion and photon momentum within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FG, pp 33-33. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3334",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 33,
+    "page_end": 33,
+    "required_physics": "Soil center of mass and gravitational energy",
+    "decision_reason": "KEEP: Soil center of mass and gravitational energy within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed FH, pp 33-33. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3335",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 34,
+    "page_end": 34,
+    "required_physics": "Unsupplied relativistic kinetic energy",
+    "decision_reason": "REJECT: Unsupplied relativistic kinetic energy is central and not supplied.",
+    "evidence": "Fast statement pass: source 2850, printed GA, pp 34-34. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3336",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 35,
+    "page_end": 35,
+    "required_physics": "Axial Hooke strain and Coulomb force",
+    "decision_reason": "KEEP: Axial Hooke strain and Coulomb force within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed GB, pp 35-35. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3337",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 35,
+    "page_end": 35,
+    "required_physics": "Newtonian binary orbit and thermal radiation",
+    "decision_reason": "KEEP: Newtonian binary orbit and thermal radiation within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed GC, pp 35-35. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3338",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 36,
+    "page_end": 36,
+    "required_physics": "Supplied complex refractive index and wave attenuation",
+    "decision_reason": "KEEP: Supplied complex refractive index and wave attenuation within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed GD, pp 36-36. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3339",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 37,
+    "page_end": 37,
+    "required_physics": "Magnetic susceptibility, field energy and hydrostatic pressure",
+    "decision_reason": "KEEP: Magnetic susceptibility, field energy and hydrostatic pressure within operational scope.",
+    "evidence": "Fast statement pass: source 2850, printed GE, pp 37-37. Complete original Czech statement read."
+  }
+]

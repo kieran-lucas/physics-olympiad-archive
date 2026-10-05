@@ -1,0 +1,233 @@
+[
+  {
+    "screening_unit_id": "derived::97754809daa7dc2b::896::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian tidal pendulum, spherical conduction and geometric mirror projection",
+    "decision_reason": "KEEP: Newtonian tidal pendulum, spherical conduction and geometric mirror projection.",
+    "evidence": "Complete actual English statement source 1837, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::97754809daa7dc2b::896::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Clausius-Clapeyron law, ideal-gas vapor and phase heat balance",
+    "decision_reason": "KEEP: Supplied Clausius-Clapeyron law, ideal-gas vapor and phase heat balance.",
+    "evidence": "Complete actual English statement source 1837, pp3-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::97754809daa7dc2b::896::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Classical charged/conductive rings, Lorentz force and induction",
+    "decision_reason": "KEEP: Classical charged/conductive rings, Lorentz force and induction.",
+    "evidence": "Complete actual English statement source 1837, pp5-5; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::8381cf5d965b41b7::897::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Maxwell-disc rotational dynamics and acceleration measurement",
+    "decision_reason": "KEEP: Maxwell-disc rotational dynamics and acceleration measurement.",
+    "evidence": "Complete actual English statement source 1839, pp2-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::29daec0cb9f759be::898::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Unwinding puck, supplied cooling law and AC load matching",
+    "decision_reason": "KEEP: Unwinding puck, supplied cooling law and AC load matching.",
+    "evidence": "Complete actual English statement source 1840, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::29daec0cb9f759be::898::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electrostatics with explicitly constructed image-charge models",
+    "decision_reason": "KEEP: Electrostatics with explicitly constructed image-charge models.",
+    "evidence": "Complete actual English statement source 1840, pp3-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::29daec0cb9f759be::898::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "All optical pumping, emission and relaxation rates supplied; photon balance",
+    "decision_reason": "KEEP: All optical pumping, emission and relaxation rates supplied; photon balance.",
+    "evidence": "Complete actual English statement source 1840, pp5-8; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::d35406462970a371::899::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photodetector calibration, DC power and supplied optical filter transmission",
+    "decision_reason": "KEEP: Photodetector calibration, DC power and supplied optical filter transmission.",
+    "evidence": "Complete actual English statement source 1843, pp2-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::0782ab2ced4c911c::900::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Buoyant oscillations, ideal-diode RC circuit and paraxial lens geometry",
+    "decision_reason": "KEEP: Buoyant oscillations, ideal-diode RC circuit and paraxial lens geometry.",
+    "evidence": "Complete actual English statement source 1845, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::0782ab2ced4c911c::900::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas hydrostatic/adiabatic atmosphere and supplied vapor-pressure model",
+    "decision_reason": "KEEP: Ideal-gas hydrostatic/adiabatic atmosphere and supplied vapor-pressure model.",
+    "evidence": "Complete actual English statement source 1845, pp3-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::0782ab2ced4c911c::900::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Lorentz transformations and four-vector rule enable dominant Doppler, aberration and moving-medium optics; isolated gravitational-redshift task peripheral",
+    "decision_reason": "KEEP: Supplied Lorentz transformations and four-vector rule enable dominant Doppler, aberration and moving-medium optics; isolated gravitational-redshift task peripheral.",
+    "evidence": "Complete actual English statement source 1845, pp5-6; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0,
+    "needs_second_review": true
+  },
+  {
+    "screening_unit_id": "derived::6b46405f6c59dabb::902::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Torsion pendulum, inertia, tension and empirical elastic-energy measurements",
+    "decision_reason": "KEEP: Torsion pendulum, inertia, tension and empirical elastic-energy measurements.",
+    "evidence": "Complete actual English statement source 1848, pp2-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f5259f9967c78a97::901::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ballistic pendulum, charged soap-bubble equilibrium and wave interference",
+    "decision_reason": "KEEP: Ballistic pendulum, charged soap-bubble equilibrium and wave interference.",
+    "evidence": "Complete actual English statement source 1849, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f5259f9967c78a97::901::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian gravity, arbitrary shapes and orbital scattering",
+    "decision_reason": "KEEP: Newtonian gravity, arbitrary shapes and orbital scattering.",
+    "evidence": "Complete actual English statement source 1849, pp3-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f5259f9967c78a97::901::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Resistor networks and supplied recurrence mathematics",
+    "decision_reason": "KEEP: Resistor networks and supplied recurrence mathematics.",
+    "evidence": "Complete actual English statement source 1849, pp5-7; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::88f5f2c904884d0a::903::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newtonian orbit, ideal-gas heat capacity and spherical electrostatic potential",
+    "decision_reason": "KEEP: Newtonian orbit, ideal-gas heat capacity and spherical electrostatic potential.",
+    "evidence": "Complete actual English statement source 1850, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::88f5f2c904884d0a::903::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Surface energy, capillarity and gravitational equilibrium",
+    "decision_reason": "KEEP: Surface energy, capillarity and gravitational equilibrium.",
+    "evidence": "Complete actual English statement source 1850, pp2-4; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::88f5f2c904884d0a::903::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied nonlinear capacitance graph and RC/AC dynamics",
+    "decision_reason": "KEEP: Supplied nonlinear capacitance graph and RC/AC dynamics.",
+    "evidence": "Complete actual English statement source 1850, pp4-6; all internal tasks read; cached text; rendered pp5-6 capacitance graph and plotting sheet.",
+    "visual_inspection_used": 1,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::16d9eef63b78cb13::904::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Measured coal-tablet I-V and stress response with circuit calibration",
+    "decision_reason": "KEEP: Measured coal-tablet I-V and stress response with circuit calibration.",
+    "evidence": "Complete actual English statement source 1853, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f44e9ad512d9dee3::905::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Centre-of-mass construction, gas-cycle efficiency and thin-lens imaging",
+    "decision_reason": "KEEP: Centre-of-mass construction, gas-cycle efficiency and thin-lens imaging.",
+    "evidence": "Complete actual English statement source 1856, pp2-2; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f44e9ad512d9dee3::905::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Hydrostatic displacement, ideal gas and first law",
+    "decision_reason": "KEEP: Hydrostatic displacement, ideal gas and first law.",
+    "evidence": "Complete actual English statement source 1856, pp2-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::f44e9ad512d9dee3::905::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Dipole fields, induction, resistive relaxation and damped mechanics",
+    "decision_reason": "KEEP: Dipole fields, induction, resistive relaxation and damped mechanics.",
+    "evidence": "Complete actual English statement source 1856, pp3-5; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::ef2440e88167b6fa::906::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Graphite resistance, Joule heating, supplied thermal model and bridge measurement",
+    "decision_reason": "KEEP: Graphite resistance, Joule heating, supplied thermal model and bridge measurement.",
+    "evidence": "Complete actual English statement source 1857, pp2-3; all internal tasks read; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  }
+]

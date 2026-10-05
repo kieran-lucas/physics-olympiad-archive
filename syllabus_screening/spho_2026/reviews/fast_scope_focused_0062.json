@@ -1,0 +1,10 @@
+[
+  {
+    "screening_unit_id": "raw::877",
+    "detail": "Statement rechecked: Tasks i-ix explicitly nonrelativistic and worth 9/11 marks; invariant supplied. Final independent 2-mark relativistic task needs external SR but does not dominate the whole."
+  },
+  {
+    "screening_unit_id": "raw::880",
+    "detail": "Statement rechecked: Dipole expression, quadrupole scaling, strain-flux proportionality and Schwarzschild-radius shortcut supplied. Remaining required work is dimensional analysis, Newtonian binary mechanics and graph measurement, without unsupplied GR field equations."
+  }
+]

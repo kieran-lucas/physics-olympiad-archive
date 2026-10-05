@@ -1,0 +1,51 @@
+Physical papers: 1396 verified 295 pending 1101
+{
+  "updated_at": "2026-10-04T01:41:33.639696+00:00",
+  "run_status": "INCOMPLETE",
+  "direct_units": 6159,
+  "derived_units": 2313,
+  "identified_units": 8472,
+  "decisions": {
+    "UNRESOLVED_ERROR": 6605,
+    "KEEP": 1740,
+    "REJECT": 94,
+    "BORDERLINE": 33
+  },
+  "screened_formats": {
+    "theory": 788,
+    "experimental": 80,
+    "multiple_choice": 733,
+    "mixed": 14,
+    "numerical": 232,
+    "data_analysis": 20
+  },
+  "keep_domains": {
+    "I_force_motion": 1255,
+    "II_oscillations_waves": 255,
+    "VII_magnetic_field": 89,
+    "IV_thermodynamics": 140,
+    "XI_quantum_light": 52,
+    "III_ideal_gas": 94,
+    "X_wave_optics": 150,
+    "VIII_induction": 37,
+    "IX_em_oscillations_waves": 32,
+    "VI_electric_field": 215,
+    "XII_atomic_nuclear": 32,
+    "V_real_gas": 1,
+    "XII_nuclear_physics": 1
+  },
+  "pending_content_units": 6605,
+  "remaining_queue_items": 7706,
+  "containers_pending": 0,
+  "containers_expanded": 233,
+  "pdfs_cached": 2984,
+  "source_rows_accounted": 6392,
+  "boundary_inventory_complete": false,
+  "identified_unit_reconciliation": true,
+  "unexplained_identified_units": 0,
+  "awaiting_content_review": 6603,
+  "explicit_statement_unavailable": 2,
+  "focused_reviews_pending": 0,
+  "pending_physical_paper_boundary_audits": 1101,
+  "registered_inventory_is_provisional": true
+}

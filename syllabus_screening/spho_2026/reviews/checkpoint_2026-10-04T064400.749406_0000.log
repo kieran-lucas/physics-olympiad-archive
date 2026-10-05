@@ -1,0 +1,70 @@
+Physical papers: 1396 verified 357 pending 1039
+{
+  "updated_at": "2026-10-04T06:44:02.102614+00:00",
+  "run_status": "INCOMPLETE",
+  "direct_units": 6159,
+  "derived_units": 2313,
+  "identified_units": 8472,
+  "decisions": {
+    "UNRESOLVED_ERROR": 4867,
+    "KEEP": 3212,
+    "REJECT": 312,
+    "BORDERLINE": 81
+  },
+  "screened_formats": {
+    "theory": 1329,
+    "experimental": 134,
+    "mixed": 18,
+    "multiple_choice": 1460,
+    "numerical": 351,
+    "data_analysis": 47,
+    "unknown": 266
+  },
+  "keep_domains": {
+    "VII_magnetic_field": 174,
+    "VI_electric_field": 350,
+    "III_ideal_gas": 135,
+    "XII_atomic_nuclear": 52,
+    "X_wave_optics": 234,
+    "II_oscillations_waves": 377,
+    "IX_em_oscillations_waves": 57,
+    "I_force_motion": 1683,
+    "IV_thermodynamics": 225,
+    "XI_quantum_light": 67,
+    "VIII_induction": 57,
+    "V_real_gas": 7,
+    "XII_nuclear_physics": 2
+  },
+  "pending_content_units": 4867,
+  "remaining_queue_items": 5906,
+  "containers_pending": 0,
+  "containers_expanded": 233,
+  "pdfs_cached": 2984,
+  "source_rows_accounted": 6392,
+  "boundary_inventory_complete": false,
+  "identified_unit_reconciliation": true,
+  "unexplained_identified_units": 0,
+  "awaiting_content_review": 4862,
+  "explicit_statement_unavailable": 5,
+  "focused_reviews_pending": 0,
+  "pending_physical_paper_boundary_audits": 1039,
+  "registered_inventory_is_provisional": true
+}
+{
+  "selected_units": 3212,
+  "verified_distinct_selected_questions": 3208,
+  "unique_physical_files": 692,
+  "raw_acquisition_files": 674,
+  "source_linked_reference_files": 18,
+  "source_linked_reference_associations": 19,
+  "byte_size": 433851874,
+  "hardlinks": 692,
+  "copies": 0,
+  "hash_mismatches": 0,
+  "selection_is_complete": false
+}
+Traceback (most recent call last):
+  File "D:\Programming\Github\Main\physics-olympiad-archive\syllabus_screening\spho_2026\_scripts\validate_outputs.py", line 37, in <module>
+    check(1<=u['page_start']<=u['page_end']<=f['page_count'],'page bounds '+u['screening_unit_id'])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: '<=' not supported between instances of 'int' and 'NoneType'

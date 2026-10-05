@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-04T03:18:55.590802+00:00",
+  "alias_unit_id": "raw::6070",
+  "canonical_unit_id": "raw::6220",
+  "alias_sha256": "1ba4f1a7e23e2230fca28f71acd34a1a7aed6c0e32def26884f923b46a23fcd2",
+  "canonical_sha256": "1ccc657810f3fb74df61f68b114f6e58e7ecc2d666a1fe410f7ad89d291471e0",
+  "evidence": "Direct full-statement comparison: 2005 Q33 p9 expressly credits S. Katz 2001; 2001 Q34 p8 has identical neutrino/Z/proton 1/100 fraction, 3e20 eV observation, 1+cos^2(theta) and beam proposal. Different physical PDFs, same printed problem. Canonical original 2001; both provenance records retained. Typography and reprint credit only differ.",
+  "original_paper_boundary_remains_pending": true
+}

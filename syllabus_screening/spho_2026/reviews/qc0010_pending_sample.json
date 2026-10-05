@@ -1,0 +1,84 @@
+[
+  {
+    "screening_unit_id": "raw::2304",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 1,
+    "required_physics": "Lorentz force and limiting friction on an inclined rod",
+    "decision_reason": "KEEP: Lorentz force and limiting friction on an inclined rod.",
+    "evidence": "Complete actual Russian statement source 2626, printed task 5, pp 1-1; all internal subparts inspected in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::177",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 2,
+    "required_physics": "Rigid-wheel rotational and translational energy, string tension and changing winding geometry",
+    "decision_reason": "KEEP: Rigid-wheel rotational and translational energy, string tension and changing winding geometry.",
+    "evidence": "Complete actual statement source 524 printed Problem 2 pp1-2; all internal tasks inspected; cached statement text",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::2214",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 3,
+    "required_physics": "Supplied entrained-air model and classical variable-mass momentum",
+    "decision_reason": "KEEP: Supplied entrained-air model and classical variable-mass momentum.",
+    "evidence": "Complete actual Russian statement source 2589, printed task 5, pp2-3; all subparts inspected; cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::2181",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 1,
+    "required_physics": "Induction in resistor grid and capacitors",
+    "decision_reason": "KEEP: Induction in resistor grid and capacitors.",
+    "evidence": "Complete actual Russian statement source 2578, printed task 2, pp1-1; all internal subparts inspected in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::207",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 1,
+    "required_physics": "Ideal-gas density, buoyancy, isothermal hydrostatic atmosphere and restoring motion",
+    "decision_reason": "KEEP: Ideal-gas density, buoyancy, isothermal hydrostatic atmosphere and restoring motion.",
+    "evidence": "Complete actual statement source 589 printed Problem 3 pp1-1; all internal tasks inspected; cached statement text",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "raw::2275",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 1,
+    "page_end": 1,
+    "required_physics": "Linear drag and river kinematics",
+    "decision_reason": "KEEP: Linear drag and river kinematics.",
+    "evidence": "Complete actual Russian statement source 2615, printed task 1, pp 1-1; all internal subparts inspected in cached text.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  },
+  {
+    "screening_unit_id": "derived::c8340cc9bf39be47::889::E",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Mechanical oscillation superposition, beats, fitting and uncertainty",
+    "decision_reason": "KEEP: Mechanical oscillation superposition, beats, fitting and uncertainty.",
+    "evidence": "Complete actual cached English statement source 1823 pp2-4; shared supplied models/instructions and all internal tasks read.",
+    "visual_inspection_used": 0,
+    "solution_used": 0
+  }
+]

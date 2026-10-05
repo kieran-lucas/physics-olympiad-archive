@@ -1,0 +1,422 @@
+[
+  {
+    "screening_unit_id": "raw::3438",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Distance and ordinary walking speed estimate",
+    "decision_reason": "KEEP: Distance and ordinary walking speed estimate within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 1, pp 2-2. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3439",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Mass independent of altitude",
+    "decision_reason": "KEEP: Mass independent of altitude within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 2, pp 2-2. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3440",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Ideal-gas leak accounting",
+    "decision_reason": "KEEP: Ideal-gas leak accounting within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 3, pp 2-2. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3441",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 2,
+    "page_end": 2,
+    "required_physics": "Explicit black-hole-radius dimensional analysis",
+    "decision_reason": "KEEP: Explicit black-hole-radius dimensional analysis within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 4, pp 2-2. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3442",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Straight-wire magnetic-field cancellation",
+    "decision_reason": "KEEP: Straight-wire magnetic-field cancellation within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 5, pp 3-3. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3443",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Rotational speed and unit conversion",
+    "decision_reason": "KEEP: Rotational speed and unit conversion within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 6, pp 3-3. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3444",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 3,
+    "page_end": 3,
+    "required_physics": "Successive plane-mirror images",
+    "decision_reason": "KEEP: Successive plane-mirror images within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 7, pp 3-3. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3445",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Elementary charge counting",
+    "decision_reason": "KEEP: Elementary charge counting within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 8, pp 4-4. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3446",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Newtonian lunar surface gravity",
+    "decision_reason": "KEEP: Newtonian lunar surface gravity within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 9, pp 4-4. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3447",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 4,
+    "page_end": 4,
+    "required_physics": "Buoyancy work and projectile rise",
+    "decision_reason": "KEEP: Buoyancy work and projectile rise within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 10, pp 4-4. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3448",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Supplied metabolic efficiency and gravitational work",
+    "decision_reason": "KEEP: Supplied metabolic efficiency and gravitational work within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 11, pp 5-5. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3449",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 5,
+    "page_end": 5,
+    "required_physics": "Bicycle track kinematics",
+    "decision_reason": "KEEP: Bicycle track kinematics within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 12, pp 5-5. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3450",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Supplied thermal expansion",
+    "decision_reason": "KEEP: Supplied thermal expansion within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 13, pp 6-6. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3451",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 6,
+    "page_end": 6,
+    "required_physics": "Repeated inelastic capture momentum",
+    "decision_reason": "KEEP: Repeated inelastic capture momentum within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 14, pp 6-6. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3452",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Rotational kinetic energy",
+    "decision_reason": "KEEP: Rotational kinetic energy within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 15, pp 7-7. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3453",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 7,
+    "page_end": 7,
+    "required_physics": "Series-parallel spring oscillation periods",
+    "decision_reason": "KEEP: Series-parallel spring oscillation periods within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 16, pp 7-7. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3454",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Free-fall interception kinematics",
+    "decision_reason": "KEEP: Free-fall interception kinematics within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 17, pp 8-8. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3455",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 8,
+    "page_end": 8,
+    "required_physics": "Power and friction limited braking",
+    "decision_reason": "KEEP: Power and friction limited braking within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 18, pp 8-8. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3456",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Supplied latent heat and heater power",
+    "decision_reason": "KEEP: Supplied latent heat and heater power within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 19, pp 9-9. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3457",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 9,
+    "page_end": 9,
+    "required_physics": "Perpendicular centripetal force and work",
+    "decision_reason": "KEEP: Perpendicular centripetal force and work within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 20, pp 9-9. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3458",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Buoyancy of hollow gold sphere",
+    "decision_reason": "KEEP: Buoyancy of hollow gold sphere within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 21, pp 10-10. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3459",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 10,
+    "page_end": 10,
+    "required_physics": "Resistor circuit",
+    "decision_reason": "KEEP: Resistor circuit within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 22, pp 10-10. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3460",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 11,
+    "page_end": 11,
+    "required_physics": "Inelastic collision energy and mass ratio",
+    "decision_reason": "KEEP: Inelastic collision energy and mass ratio within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 23, pp 11-11. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3461",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Pulley Newton equations and friction",
+    "decision_reason": "KEEP: Pulley Newton equations and friction within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 24, pp 12-12. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3462",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 12,
+    "page_end": 12,
+    "required_physics": "Acceleration-limited travel time",
+    "decision_reason": "KEEP: Acceleration-limited travel time within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 25, pp 12-12. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3463",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 13,
+    "page_end": 13,
+    "required_physics": "Coulomb potential zeros",
+    "decision_reason": "KEEP: Coulomb potential zeros within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 26, pp 13-13. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3464",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Supplied breakdown field, resistance and voltage limit",
+    "decision_reason": "KEEP: Supplied breakdown field, resistance and voltage limit within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 27, pp 14-14. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3465",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Supplied sphere packing fraction and mixture volume",
+    "decision_reason": "KEEP: Supplied sphere packing fraction and mixture volume within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 28, pp 14-14. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3466",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 14,
+    "page_end": 14,
+    "required_physics": "Supplied reflectance and solar projected power",
+    "decision_reason": "KEEP: Supplied reflectance and solar projected power within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 29, pp 14-14. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3467",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Centripetal force and tensile strength",
+    "decision_reason": "KEEP: Centripetal force and tensile strength within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 30, pp 15-15. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3468",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 15,
+    "page_end": 15,
+    "required_physics": "Acoustic Doppler and retarded fall time",
+    "decision_reason": "KEEP: Acoustic Doppler and retarded fall time within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 31, pp 15-15. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3469",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 16,
+    "required_physics": "Wind relative velocity from wake geometry",
+    "decision_reason": "KEEP: Wind relative velocity from wake geometry within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 32, pp 16-16. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3470",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 16,
+    "page_end": 16,
+    "required_physics": "Gravitational lifting work",
+    "decision_reason": "KEEP: Gravitational lifting work within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 33, pp 16-16. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3471",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 17,
+    "page_end": 17,
+    "required_physics": "Resistor star network",
+    "decision_reason": "KEEP: Resistor star network within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 34, pp 17-17. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3472",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 18,
+    "page_end": 18,
+    "required_physics": "Mechanical energy and projectile motion",
+    "decision_reason": "KEEP: Mechanical energy and projectile motion within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 35, pp 18-18. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3473",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Surface-tension drop detachment",
+    "decision_reason": "KEEP: Surface-tension drop detachment within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 36, pp 19-19. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3474",
+    "decision": "REJECT",
+    "confidence": "high",
+    "page_start": 19,
+    "page_end": 19,
+    "required_physics": "Unsupplied relativistic kinetic energy-speed relation",
+    "decision_reason": "REJECT: Unsupplied relativistic kinetic energy-speed relation is central and not supplied.",
+    "evidence": "Fast statement pass: source 2853, printed 37, pp 19-19. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3475",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 20,
+    "page_end": 20,
+    "required_physics": "Falling-flow continuity",
+    "decision_reason": "KEEP: Falling-flow continuity within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 38, pp 20-20. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3476",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 20,
+    "page_end": 20,
+    "required_physics": "Moving folded-carpet center-of-mass kinematics",
+    "decision_reason": "KEEP: Moving folded-carpet center-of-mass kinematics within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 39, pp 20-20. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3477",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 21,
+    "page_end": 21,
+    "required_physics": "Explicit perfect-mixing information flow",
+    "decision_reason": "KEEP: Explicit perfect-mixing information flow within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 40, pp 21-21. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3478",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 22,
+    "page_end": 22,
+    "required_physics": "Rod torque and discrete load sums",
+    "decision_reason": "KEEP: Rod torque and discrete load sums within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 41, pp 22-22. Complete original Czech statement read."
+  },
+  {
+    "screening_unit_id": "raw::3479",
+    "decision": "KEEP",
+    "confidence": "high",
+    "page_start": 23,
+    "page_end": 23,
+    "required_physics": "Pulley support force directions",
+    "decision_reason": "KEEP: Pulley support force directions within operational scope.",
+    "evidence": "Fast statement pass: source 2853, printed 42, pp 23-23. Complete original Czech statement read."
+  }
+]

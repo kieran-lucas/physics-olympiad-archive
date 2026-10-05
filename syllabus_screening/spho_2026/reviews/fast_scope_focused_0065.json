@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "raw::118",
+    "detail": "Whole-problem weight checked: three independent classical tasks carry 7.5/10; unsupplied uncertainty estimate only 2.5/10. KEEP under unchanged semantic-majority rule."
+  },
+  {
+    "screening_unit_id": "raw::120",
+    "detail": "Whole-problem dependency checked: MHD tasks a-c carry 7/10 and use classical Lorentz force and Ohm law; independent moving-water optical task d carries 3/10 and requires Fresnel drag. KEEP dominant MHD whole problem."
+  },
+  {
+    "screening_unit_id": "raw::123",
+    "detail": "Official associated solution source 419 confirms v=0.896c, kinetic energy (gamma-1)mc^2 and acceleration divided by gamma*m. These central relations are unsupplied in statement. REJECT confirmed."
+  }
+]

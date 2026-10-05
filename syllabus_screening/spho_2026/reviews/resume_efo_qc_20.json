@@ -1,0 +1,82 @@
+[
+  {
+    "screening_unit_id": "derived::dab2b0c977044fbf::embedded::E2",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read E2: ping-pong ball oscillations and supplied apparatus dimensions permit buoyancy, restoring-force and frequency measurement reasoning; no specialized fluid theory is necessary. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3683",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q4 and rendered physical page 5: the supplied triangle, source A and focus F define a ray-optics lens construction. Both repeated diagrams are copies, not additional questions. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3737",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q8 including page 3 continuation: adding a concave lens to preserve camera field of view requires only thin-lens imaging and geometry. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3741",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q2: braking-distance geometry, frictional deceleration and initial kinetic energy are ordinary mechanics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3775",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q6 and its graph: deep/shallow wave-speed laws are explicitly given; frequency, front spacing and limiting speed determine depth without unsupplied water-wave dispersion theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3789",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q10: the slider requires force balance, contact/friction constraints and mechanical energy; difficulty of the optimization is mathematical. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3810",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q1: blunt shears require torque and friction at contact; the familiar cutting context introduces no material-fracture theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::410b7ab1cbfa83dd::embedded::E2",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read experiment E2: externally measured black-box capacitor/diode responses can be analyzed with basic circuit charge/current laws and qualitative rectification, without semiconductor band theory. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3879",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q10: proton motion in the supplied magnetic field follows Lorentz force, magnetic rigidity and induction; no relativistic or nuclear scattering model is asked. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3876",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q7 and supplied graph: bird-flight power is used as an empirical curve; work, power and energy determine the requested optimum without aerodynamics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3888",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q9 including page 4: cylinder volumes, combustion assumptions and ideal-gas adiabatic exponent are supplied. Cycle energy/efficiency is ordinary thermodynamics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3906",
+    "detail": "Seed 20261004 Estonian batch QC. Re-read Q7 including circuit drawing on page 2: equivalent resistances and load power optimization require Kirchhoff/Ohm laws and algebra only. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3759",
+    "detail": "Focused actual-statement/official-solution check. Official solution pp6-8 uses Kirchhoff load lines and the supplied thyristor I-V characteristic, including instability and branch jumps. Semiconductor microscopic theory is not required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3775",
+    "detail": "Focused actual-statement/official-solution check. Official solution p5 uses the explicitly supplied deep/shallow wave laws and plotted front spacings. No derivation of hydrodynamic dispersion is required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3708",
+    "detail": "Focused actual-statement/official-solution check. Official solution pp8-9 balances hemispheric forces, applies the explicitly supplied stress law and constant rubber volume, then ideal-gas reasoning. No unsupplied elastic continuum theory is required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3798",
+    "detail": "Focused actual-statement/official-solution check. Official solution p5 analyzes the neuron as the statement-specified capacitor and two emf/resistance branches. Kirchhoff steady-state currents suffice; neurochemistry is unnecessary. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3898",
+    "detail": "Focused actual-statement/official-solution check. Official solution p6 derives equal coupling amplitudes by energy conservation and the phase relation by interference. No guided-mode or evanescent-field theory is required. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3889",
+    "detail": "Focused actual-statement/official-solution check. Official solution pp4-5 uses the given coupling intensity ratio, energy conservation and closed-ring optical phase resonance; the source supplies the device model. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::d7794b48b84a87ad::embedded::E1",
+    "detail": "Focused actual-statement/official-solution check. Official solution p6 derives wrap-friction force balance from ordinary Coulomb friction and differential geometry, then compares measured tensions. The mathematics does not constitute external specialized physics. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::3767",
+    "detail": "Focused actual-statement/official-solution check. Official solution p5 treats displaced water mass, geometry and mechanical energy. No unsupplied fluid PDE or constitutive law controls the nested-cylinder motion. KEEP confirmed."
+  }
+]

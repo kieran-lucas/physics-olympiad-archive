@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::a2dc3f4f2c466e77::6392::1",
+      "KEEP",
+      "I_force_motion",
+      "Projectile energy and nonpenetration geometry",
+      "Both touching/avoiding the cylindrical pipe are Newtonian trajectory optimizations.",
+      "Complete scanned BAUPC 1995 Problem 1 text visually read on file 3177 page(s) 1-1; referenced figures checked for actual presence. ",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a2dc3f4f2c466e77::6392::2",
+      "KEEP",
+      "III_ideal_gas;IV_thermodynamics;VII_magnetic_field;I_force_motion",
+      "Ideal-gas free expansion, current magnetic fields and torque",
+      "All three internal short-answer parts are in-scope general physics; do not split them into independent units.",
+      "Complete scanned BAUPC 1995 Problem 2 text visually read on file 3177 page(s) 1-1; referenced figures checked for actual presence. ",
+      [
+        1,
+        1
+      ],
+      "mixed",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a2dc3f4f2c466e77::6392::3",
+      "KEEP",
+      "VI_electric_field",
+      "Ohmic conduction, spherical current flow and resistance integration",
+      "The earth-return telegraph resistance is ordinary electrical conduction in a stated uniform resistivity model.",
+      "Complete scanned BAUPC 1995 Problem 3 text visually read on file 3177 page(s) 1-1; referenced figures checked for actual presence. ",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a2dc3f4f2c466e77::6392::4",
+      "BORDERLINE",
+      "IX_em_oscillations_waves",
+      "Forced response of an infinite LC ladder",
+      "The actual statement lacks the referenced circuit drawing. Solution pages 3-4 show an in-scope impedance recurrence, but the intended physical connections/terminals are not displayed; exclude from the main set pending source-geometry clarification.",
+      "Complete scanned BAUPC 1995 Problem 4 text visually read on file 3177 page(s) 1-2; referenced figures checked for actual presence. Related solution page(s) were visually inspected.",
+      [
+        1,
+        2
+      ],
+      "theory",
+      1,
+      1,
+      "medium",
+      "No external physics established; source geometry incomplete."
+    ],
+    [
+      "derived::a2dc3f4f2c466e77::6392::5",
+      "KEEP",
+      "I_force_motion",
+      "Tension equilibrium and geometry on a frictionless cone",
+      "Fixed/variable lasso loops require only force balance and geometric unfolding; all assumptions are stated.",
+      "Complete scanned BAUPC 1995 Problem 5 text visually read on file 3177 page(s) 2-2; referenced figures checked for actual presence. ",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a2dc3f4f2c466e77::6392::6",
+      "KEEP",
+      "I_force_motion",
+      "Rigid-body rolling, inelastic impacts and terminal energy balance",
+      "The spoke-wheel model, concentrated mass and no-bounce law are explicitly supplied; ordinary rotation and energy determine the whole task.",
+      "Complete scanned BAUPC 1995 Problem 6 text visually read on file 3177 page(s) 2-3; referenced figures checked for actual presence. ",
+      [
+        2,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

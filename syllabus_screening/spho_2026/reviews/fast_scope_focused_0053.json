@@ -1,0 +1,18 @@
+[
+  {
+    "screening_unit_id": "derived::a1139aeb895c26f2::4046::6",
+    "detail": "Whole-problem review: optical refractometry plus neutron gravity/de Broglie path phase constitute the dominant self-contained wave work; moving-gas relativistic extension is independent minority. KEEP."
+  },
+  {
+    "screening_unit_id": "derived::a1139aeb895c26f2::4046::10",
+    "detail": "Whole-problem review: supplied torsional-pendulum model and nonlinear/static wave equations support dominant work without formal QFT. Lorentz moving-kink extension is a limited minority. KEEP."
+  },
+  {
+    "screening_unit_id": "derived::1f2ee4c7c7632a3a::4048::6",
+    "detail": "Focused local solution 2968 pp19-21: ring uses ordinary de Broglie periodic-wave boundary; given effective momentum is generalized to interfering closed path. Dominant ring model is supplied; no formal quantum operator prerequisites. KEEP."
+  },
+  {
+    "screening_unit_id": "derived::1f2ee4c7c7632a3a::4048::9",
+    "detail": "Focused local solution 2968 pp30-33 explicitly invokes unsupplied relativistic energy-momentum formula, gamma-dependent angular momentum and proper-time impulse. These centrally support trajectory calculation despite supplied metric. REJECT."
+  }
+]

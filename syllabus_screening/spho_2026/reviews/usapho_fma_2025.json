@@ -1,0 +1,430 @@
+{
+  "rows": [
+    [
+      962,
+      "KEEP",
+      "I_force_motion",
+      "Velocity components and constant-speed kinematics",
+      "The x(t) and y(t) graphs test ordinary vector kinematics.",
+      "F=ma 2025 Q1: complete statement/options read from file 1914 and actual pages 2-2 visually inspected; shared stems retained.",
+      [
+        2,
+        2
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      963,
+      "KEEP",
+      "I_force_motion",
+      "Momentum and energy in simultaneous elastic collisions",
+      "The symmetric three-disc impact requires only collision conservation laws.",
+      "F=ma 2025 Q2: complete statement/options read from file 1914 and actual pages 3-3 visually inspected; shared stems retained.",
+      [
+        3,
+        3
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      964,
+      "KEEP",
+      "I_force_motion",
+      "Sequential elastic collisions and limiting cases",
+      "The slightly displaced third disc changes collision order, not the required physics.",
+      "F=ma 2025 Q3: complete statement/options read from file 1914 and actual pages 3-3 visually inspected; shared stems retained.",
+      [
+        3,
+        3
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      965,
+      "KEEP",
+      "I_force_motion",
+      "Relative velocity and acceleration in planar pursuit",
+      "The cat/mouse perpendicular configuration is a Newtonian kinematics problem.",
+      "F=ma 2025 Q4: complete statement/options read from file 1914 and actual pages 3-3 visually inspected; shared stems retained.",
+      [
+        3,
+        3
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      966,
+      "KEEP",
+      "I_force_motion",
+      "Contact forces, torque balance and static friction",
+      "The three stacked cylinders require ordinary rigid-body equilibrium.",
+      "F=ma 2025 Q5: complete statement/options read from file 1914 and actual pages 4-4 visually inspected; shared stems retained.",
+      [
+        4,
+        4
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      967,
+      "KEEP",
+      "I_force_motion",
+      "Rolling energy and projectile range",
+      "The ramp, rolling ball and landing points use rotational energy and ballistic motion.",
+      "F=ma 2025 Q6: complete statement/options read from file 1914 and actual pages 4-4 visually inspected; shared stems retained.",
+      [
+        4,
+        4
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      968,
+      "KEEP",
+      "I_force_motion",
+      "Constrained kinematics and elastic potential energy",
+      "The stair-walking spring-hinge energy is supplied; no specialized walking model is required.",
+      "F=ma 2025 Q7: complete statement/options read from file 1914 and actual pages 5-5 visually inspected; shared stems retained.",
+      [
+        5,
+        5
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      969,
+      "KEEP",
+      "I_force_motion",
+      "Relative angular motion",
+      "The vertical spinning top and counterrotating platform require only frame-relative rotation.",
+      "F=ma 2025 Q8: complete statement/options read from file 1914 and actual pages 5-5 visually inspected; shared stems retained.",
+      [
+        5,
+        5
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      970,
+      "KEEP",
+      "I_force_motion",
+      "Vector circular acceleration and geometric series",
+      "The nested circles make the mathematics longer without adding external physics.",
+      "F=ma 2025 Q9: complete statement/options read from file 1914 and actual pages 6-6 visually inspected; shared stems retained.",
+      [
+        6,
+        6
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      971,
+      "KEEP",
+      "I_force_motion",
+      "Elastic-collision energy transfer and mass-ratio limit",
+      "The maximum transfer to a light stationary mass is ordinary two-body collision physics.",
+      "F=ma 2025 Q10: complete statement/options read from file 1914 and actual pages 6-6 visually inspected; shared stems retained.",
+      [
+        6,
+        6
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      972,
+      "KEEP",
+      "I_force_motion",
+      "Elastic-collision energy transfer and mass-ratio limit",
+      "Reversing the incident mass uses the same in-scope conservation laws.",
+      "F=ma 2025 Q11: complete statement/options read from file 1914 and actual pages 6-6 visually inspected; shared stems retained.",
+      [
+        6,
+        6
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      973,
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Inelastic momentum transfer followed by pendulum energy",
+      "The sticking clay and subsequent swing use momentum and mechanical energy.",
+      "F=ma 2025 Q12: complete statement/options read from file 1914 and actual pages 6-6 visually inspected; shared stems retained.",
+      [
+        6,
+        6
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      974,
+      "KEEP",
+      "I_force_motion",
+      "Sliding friction, rigid-body rotation and rolling onset",
+      "The puppy-launcher plots require translation/rotation equations and the no-slip condition.",
+      "F=ma 2025 Q13: complete statement/options read from file 1914 and actual pages 6-7 visually inspected; shared stems retained.",
+      [
+        6,
+        7
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      975,
+      "KEEP",
+      "I_force_motion",
+      "Moment of inertia and friction-driven transition to rolling",
+      "The shell/wood/rubber comparison concerns mass distribution, not material microphysics.",
+      "F=ma 2025 Q14: complete statement/options read from file 1914 and actual pages 6-8 visually inspected; shared stems retained.",
+      [
+        6,
+        8
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      976,
+      "KEEP",
+      "I_force_motion",
+      "Impulsive rigid-body dynamics and hinge constraints",
+      "The articulated rods have supplied inertias; Newtonian impulse/angular momentum suffices.",
+      "F=ma 2025 Q15: complete statement/options read from file 1914 and actual pages 8-8 visually inspected; shared stems retained.",
+      [
+        8,
+        8
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      977,
+      "KEEP",
+      "I_force_motion",
+      "Surface-tension pressure and ordinary pressure equilibrium",
+      "The unequal connected bubbles require elementary interface force balance, an acceptable general-physics foundation.",
+      "F=ma 2025 Q16: complete statement/options read from file 1914 and actual pages 8-8 visually inspected; shared stems retained.",
+      [
+        8,
+        8
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      978,
+      "KEEP",
+      "I_force_motion",
+      "Force from supplied potential and Newtonian trajectories",
+      "The displayed potential is negative quadratic, not an inverse-square force; its trajectory follows ordinary dynamics.",
+      "F=ma 2025 Q17: complete statement/options read from file 1914 and actual pages 9-9 visually inspected; shared stems retained.",
+      [
+        9,
+        9
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      979,
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Force from a saddle potential and coupled linear motion",
+      "The supplied U=kxy/2 reduces to Newtonian motion in rotated coordinates.",
+      "F=ma 2025 Q18: complete statement/options read from file 1914 and actual pages 9-9 visually inspected; shared stems retained.",
+      [
+        9,
+        9
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      980,
+      "KEEP",
+      "I_force_motion",
+      "Kinetic-energy flux, power and a supplied wind-height relation",
+      "The turbine scaling is ordinary energy/power reasoning with the stated wind model.",
+      "F=ma 2025 Q19: complete statement/options read from file 1914 and actual pages 9-9 visually inspected; shared stems retained.",
+      [
+        9,
+        9
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      981,
+      "KEEP",
+      "I_force_motion",
+      "Newtonian near-circular orbital motion",
+      "The ISS/spanner return question needs gravitation and small orbital perturbations, not spaceflight theory.",
+      "F=ma 2025 Q20: complete statement/options read from file 1914 and actual pages 9-9 visually inspected; shared stems retained.",
+      [
+        9,
+        9
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      982,
+      "KEEP",
+      "I_force_motion",
+      "Conservation of volume flow",
+      "The pipe-area change uses elementary continuity, a general-physics foundation.",
+      "F=ma 2025 Q21: complete statement/options read from file 1914 and actual pages 10-10 visually inspected; shared stems retained.",
+      [
+        10,
+        10
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      983,
+      "KEEP",
+      "I_force_motion",
+      "Mechanical energy of ideal flow and hydrostatic pressure",
+      "The piezometer heights require ordinary Bernoulli/pressure reasoning, not advanced fluid dynamics.",
+      "F=ma 2025 Q22: complete statement/options read from file 1914 and actual pages 10-10 visually inspected; shared stems retained.",
+      [
+        10,
+        10
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      984,
+      "KEEP",
+      "I_force_motion",
+      "Static spring calibration and measurement uncertainty",
+      "The scales, ruler and uncertain g test force balance with standard error propagation.",
+      "F=ma 2025 Q23: complete statement/options read from file 1914 and actual pages 10-10 visually inspected; shared stems retained.",
+      [
+        10,
+        10
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      985,
+      "KEEP",
+      "I_force_motion",
+      "Impulse, constrained circular motion and rotation geometry",
+      "The free-pivot rod response is rigid-body mechanics despite three-dimensional geometry.",
+      "F=ma 2025 Q24: complete statement/options read from file 1914 and actual pages 11-11 visually inspected; shared stems retained.",
+      [
+        11,
+        11
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      986,
+      "KEEP",
+      "I_force_motion",
+      "Moving constraints, relative velocity and mechanical energy",
+      "The translating prism approximation is explicitly stated; Newtonian energy suffices.",
+      "F=ma 2025 Q25: complete statement/options read from file 1914 and actual pages 11-11 visually inspected; shared stems retained.",
+      [
+        11,
+        11
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ],
+  "boundary_note": "Each numbered MCQ is one unit; options are not units. Q2/Q3 and Q10/Q11 share stems; Q13/Q14 additionally use the launcher context on page 6."
+}

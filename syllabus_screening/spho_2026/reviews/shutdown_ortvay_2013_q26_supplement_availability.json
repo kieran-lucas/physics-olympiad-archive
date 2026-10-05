@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-04T02:09:49.958362+00:00",
+  "screening_unit_id": "raw::5794",
+  "url": "http://www-personal.umich.edu/~jbourj/cm/homework%203.pdf",
+  "status": "source_linked_quantum_reference_unavailable",
+  "checks": [
+    "Original HTTP:403",
+    "Original HTTPS:certificate-chain failure",
+    "Public-byte-only no-credentials HTTPS fallback:403",
+    "Web open: inaccessible"
+  ],
+  "effect": "Keep complete statement screening as BORDERLINE; quantum model cannot be assumed supplied by an unseen reference. Reference retry remains explicit."
+}

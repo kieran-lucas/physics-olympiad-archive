@@ -1,0 +1,26 @@
+[
+  {
+    "screening_unit_id": "raw::4922",
+    "detail": "Seeded fast-pass QC 20261004524; complete cached statement reread. KEEP confirmed: Path geometry and average speed. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::5251",
+    "detail": "Seeded fast-pass QC 20261004524; complete cached statement reread. KEEP confirmed: Dimensional analysis and group velocity. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4946",
+    "detail": "Seeded fast-pass QC 20261004524; complete cached statement reread. REJECT confirmed: Unsupplied relativistic mass and velocity addition. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4918",
+    "detail": "Seeded fast-pass QC 20261004524; complete cached statement reread. KEEP confirmed: Projectile angles. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::4935",
+    "detail": "Seeded fast-pass QC 20261004524; complete cached statement reread. KEEP confirmed: Geometric spring equilibrium. No decision change."
+  },
+  {
+    "screening_unit_id": "raw::5160",
+    "detail": "Seeded fast-pass QC 20261004524; complete cached statement reread. KEEP confirmed: Joule heating. No decision change."
+  }
+]

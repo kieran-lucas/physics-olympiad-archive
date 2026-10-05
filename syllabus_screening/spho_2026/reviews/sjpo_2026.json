@@ -1,0 +1,855 @@
+{
+  "rows": [
+    [
+      "derived::d086c64af4c00eac::4055::1",
+      "KEEP",
+      "",
+      "Vector dot/cross products and orthonormal bases",
+      "This is foundational vector mathematics useful across the syllabus; no external physics is tested.",
+      "SJPO 2026 provided transcription Q1: complete stem/options and diagrams on page(s) 1-1 read and visually inspected; no topic tags used.",
+      [
+        1,
+        1
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::2",
+      "KEEP",
+      "I_force_motion;X_wave_optics",
+      "Reflection and relative kinematics",
+      "Stationary image of a moving man requires ordinary moving-mirror geometry.",
+      "SJPO 2026 provided transcription Q2: complete stem/options and diagrams on page(s) 1-1 read and visually inspected; no topic tags used.",
+      [
+        1,
+        1
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::3",
+      "KEEP",
+      "I_force_motion",
+      "Planar kinematics and geometric optimization",
+      "The runners on opposite rectangle paths require only velocities and distances.",
+      "SJPO 2026 provided transcription Q3: complete stem/options and diagrams on page(s) 2-2 read and visually inspected; no topic tags used.",
+      [
+        2,
+        2
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::4",
+      "KEEP",
+      "X_wave_optics",
+      "Straight-ray geometry",
+      "Solar elevation from a shadow is foundational ray optics, not excluded by the wave-optics heading.",
+      "SJPO 2026 provided transcription Q4: complete stem/options and diagrams on page(s) 2-2 read and visually inspected; no topic tags used.",
+      [
+        2,
+        2
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::5",
+      "KEEP",
+      "I_force_motion",
+      "Buoyancy, gravity and work-energy",
+      "The rising bubble requires accounting for displaced liquid gravitational energy.",
+      "SJPO 2026 provided transcription Q5: complete stem/options and diagrams on page(s) 3-3 read and visually inspected; no topic tags used.",
+      [
+        3,
+        3
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::6",
+      "KEEP",
+      "I_force_motion",
+      "Inclined-plane forces and static/kinetic friction",
+      "The smallest nonzero acceleration follows friction thresholds and Newton laws.",
+      "SJPO 2026 provided transcription Q6: complete stem/options and diagrams on page(s) 3-3 read and visually inspected; no topic tags used.",
+      [
+        3,
+        3
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::7",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Momentum and elastic energy",
+      "Two equal blocks coupled by a spring require conservation laws.",
+      "SJPO 2026 provided transcription Q7: complete stem/options and diagrams on page(s) 4-4 read and visually inspected; no topic tags used.",
+      [
+        4,
+        4
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::8",
+      "KEEP",
+      "I_force_motion",
+      "Gravity and collisions under a supplied speed-loss rule",
+      "The repeated leaf impacts supply the unfamiliar model; energy/kinematics determines the limiting motion.",
+      "SJPO 2026 provided transcription Q8: complete stem/options and diagrams on page(s) 4-4 read and visually inspected; no topic tags used.",
+      [
+        4,
+        4
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::9",
+      "KEEP",
+      "I_force_motion",
+      "Torque balance and support tension",
+      "The loaded suspended rod tests static equilibrium and the onset of a slack string.",
+      "SJPO 2026 provided transcription Q9: complete stem/options and diagrams on page(s) 5-5 read and visually inspected; no topic tags used.",
+      [
+        5,
+        5
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::10",
+      "KEEP",
+      "II_oscillations_waves",
+      "Damped harmonic motion and critical damping",
+      "The differential equation is supplied; its damping and period interpretations are in scope.",
+      "SJPO 2026 provided transcription Q10: complete stem/options and diagrams on page(s) 6-6 read and visually inspected; no topic tags used.",
+      [
+        6,
+        6
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::11",
+      "KEEP",
+      "I_force_motion",
+      "Contact-force equilibrium and geometry",
+      "The two balls in a narrow box require ordinary normal forces and weight balance.",
+      "SJPO 2026 provided transcription Q11: complete stem/options and diagrams on page(s) 7-7 read and visually inspected; no topic tags used.",
+      [
+        7,
+        7
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::12",
+      "KEEP",
+      "I_force_motion",
+      "Newtonian constrained motion and geometric limiting events",
+      "The table/pulley geometry is unusual, but the essential physics is string constraints and force balance.",
+      "SJPO 2026 provided transcription Q12: complete stem/options and diagrams on page(s) 8-8 read and visually inspected; no topic tags used.",
+      [
+        8,
+        8
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::13",
+      "KEEP",
+      "I_force_motion",
+      "Projectile motion and elastic reflection",
+      "The bouncing particle in a cone requires gravity and collision geometry.",
+      "SJPO 2026 provided transcription Q13: complete stem/options and diagrams on page(s) 9-9 read and visually inspected; no topic tags used.",
+      [
+        9,
+        9
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::14",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Pendulum energy and centripetal tension",
+      "Catching the string on a peg changes circular radius without introducing external physics.",
+      "SJPO 2026 provided transcription Q14: complete stem/options and diagrams on page(s) 10-10 read and visually inspected; no topic tags used.",
+      [
+        10,
+        10
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::15",
+      "KEEP",
+      "II_oscillations_waves",
+      "Coupled small oscillations and normal modes",
+      "In-phase pendulum motion with a spring is standard oscillation physics.",
+      "SJPO 2026 provided transcription Q15: complete stem/options and diagrams on page(s) 11-11 read and visually inspected; no topic tags used.",
+      [
+        11,
+        11
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::16",
+      "KEEP",
+      "I_force_motion",
+      "Momentum and kinetic energy in elastic collisions",
+      "Equal-mass billiard scattering is directly within the collisions syllabus.",
+      "SJPO 2026 provided transcription Q16: complete stem/options and diagrams on page(s) 12-12 read and visually inspected; no topic tags used.",
+      [
+        12,
+        12
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::17",
+      "KEEP",
+      "I_force_motion",
+      "Rolling dynamics and friction",
+      "The cylinder inertia is supplied; force and torque equations establish the contact friction.",
+      "SJPO 2026 provided transcription Q17: complete stem/options and diagrams on page(s) 13-13 read and visually inspected; no topic tags used.",
+      [
+        13,
+        13
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::18",
+      "KEEP",
+      "I_force_motion",
+      "Work at a moving point of force application",
+      "The top-pulled rolling cylinder tests work-energy with its actual string displacement.",
+      "SJPO 2026 provided transcription Q18: complete stem/options and diagrams on page(s) 13-13 read and visually inspected; no topic tags used.",
+      [
+        13,
+        13
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::19",
+      "KEEP",
+      "I_force_motion",
+      "Vector angular momentum of a rigid body",
+      "The tilted rotating stick tests angular velocity versus angular momentum directions; no specialist rigid-body theory is required.",
+      "SJPO 2026 provided transcription Q19: complete stem/options and diagrams on page(s) 14-14 read and visually inspected; no topic tags used.",
+      [
+        14,
+        14
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::20",
+      "KEEP",
+      "I_force_motion",
+      "Tangential/radial acceleration and friction limit",
+      "The accelerating turntable slip criterion is ordinary circular dynamics.",
+      "SJPO 2026 provided transcription Q20: complete stem/options and diagrams on page(s) 15-15 read and visually inspected; no topic tags used.",
+      [
+        15,
+        15
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::21",
+      "KEEP",
+      "I_force_motion",
+      "Pressure, ideal-flow energy and hydrostatics",
+      "The siphon needs ordinary Bernoulli/pressure reasoning; advanced continuum-fluid theory is unnecessary.",
+      "SJPO 2026 provided transcription Q21: complete stem/options and diagrams on page(s) 16-16 read and visually inspected; no topic tags used.",
+      [
+        16,
+        16
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::22",
+      "KEEP",
+      "I_force_motion",
+      "Gravitational potential, energy and fall-time integration",
+      "The far-away dust particle uses explicitly listed Newtonian gravitation; the integration difficulty is not a scope exclusion.",
+      "SJPO 2026 provided transcription Q22: complete stem/options and diagrams on page(s) 17-17 read and visually inspected; no topic tags used.",
+      [
+        17,
+        17
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::23",
+      "KEEP",
+      "I_force_motion",
+      "Superposition of Newtonian gravitational forces",
+      "The Earth/Sun height question requires ordinary gravitational force balance, not astrophysical machinery.",
+      "SJPO 2026 provided transcription Q23: complete stem/options and diagrams on page(s) 17-17 read and visually inspected; no topic tags used.",
+      [
+        17,
+        17
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::24",
+      "KEEP",
+      "I_force_motion",
+      "Orbital energy and dissipative motion",
+      "The statement supplies circular-orbit energies; changing radius/speed uses mechanical energy.",
+      "SJPO 2026 provided transcription Q24: complete stem/options and diagrams on page(s) 18-18 read and visually inspected; no topic tags used.",
+      [
+        18,
+        18
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::25",
+      "KEEP",
+      "VII_magnetic_field;VIII_induction",
+      "Magnetic flux continuity in an ideal transformer core",
+      "The unequal core areas test flux conservation and magnetic induction.",
+      "SJPO 2026 provided transcription Q25: complete stem/options and diagrams on page(s) 19-19 read and visually inspected; no topic tags used.",
+      [
+        19,
+        19
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::26",
+      "KEEP",
+      "VI_electric_field",
+      "Ohmic circuits and meter loading",
+      "The nonideal voltmeter/ammeter problem is foundational circuit reasoning for electrical physics.",
+      "SJPO 2026 provided transcription Q26: complete stem/options and diagrams on page(s) 20-20 read and visually inspected; no topic tags used.",
+      [
+        20,
+        20
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::27",
+      "KEEP",
+      "VI_electric_field",
+      "Capacitance, voltage and conservation of conductor charge",
+      "Initially charged capacitors in series require electrostatics and charge bookkeeping.",
+      "SJPO 2026 provided transcription Q27: complete stem/options and diagrams on page(s) 20-20 read and visually inspected; no topic tags used.",
+      [
+        20,
+        20
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::28",
+      "KEEP",
+      "VI_electric_field",
+      "Electrostatic shielding and induced conductor charge",
+      "The central charge and external charge test conductor equilibrium.",
+      "SJPO 2026 provided transcription Q28: complete stem/options and diagrams on page(s) 21-21 read and visually inspected; no topic tags used.",
+      [
+        21,
+        21
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::29",
+      "KEEP",
+      "VI_electric_field",
+      "Gauss law for a spherically symmetric volume charge",
+      "The hollow charged sphere is explicitly in electric-field scope.",
+      "SJPO 2026 provided transcription Q29: complete stem/options and diagrams on page(s) 21-21 read and visually inspected; no topic tags used.",
+      [
+        21,
+        21
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::30",
+      "KEEP",
+      "VI_electric_field",
+      "Coulomb-field vector superposition",
+      "The three charges at square corners require ordinary electric-field addition.",
+      "SJPO 2026 provided transcription Q30: complete stem/options and diagrams on page(s) 22-22 read and visually inspected; no topic tags used.",
+      [
+        22,
+        22
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::31",
+      "KEEP",
+      "VI_electric_field",
+      "Electric potential and work of charge assembly",
+      "The fourth-charge work uses the shared square-charge stem and electrostatic potential.",
+      "SJPO 2026 provided transcription Q31: complete stem/options and diagrams on page(s) 22-23 read and visually inspected; no topic tags used.",
+      [
+        22,
+        23
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::32",
+      "KEEP",
+      "VI_electric_field;VII_magnetic_field;IX_em_oscillations_waves",
+      "Lorentz force and electric/magnetic fields of a plane wave",
+      "The counterpropagating charge requires q(E+v cross B) and E=cB; unsupplied special relativity is not required.",
+      "SJPO 2026 provided transcription Q32: complete stem/options and diagrams on page(s) 23-23 read and visually inspected; no topic tags used.",
+      [
+        23,
+        23
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::33",
+      "KEEP",
+      "VII_magnetic_field",
+      "Solenoid fields and superposition",
+      "The end-field question explicitly hints at superposition of magnetic fields.",
+      "SJPO 2026 provided transcription Q33: complete stem/options and diagrams on page(s) 24-24 read and visually inspected; no topic tags used.",
+      [
+        24,
+        24
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::34",
+      "KEEP",
+      "VI_electric_field;I_force_motion",
+      "Near-sheet electric field and Newton third law",
+      "The charged plate acceleration follows electrostatic field and reaction-force reasoning.",
+      "SJPO 2026 provided transcription Q34: complete stem/options and diagrams on page(s) 24-24 read and visually inspected; no topic tags used.",
+      [
+        24,
+        24
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::35",
+      "KEEP",
+      "VIII_induction;VII_magnetic_field;I_force_motion",
+      "Motional induction, Ohm law and magnetic force",
+      "The rod dividing two resistive loops is directly within induction and Newtonian force balance.",
+      "SJPO 2026 provided transcription Q35: complete stem/options and diagrams on page(s) 25-25 read and visually inspected; no topic tags used.",
+      [
+        25,
+        25
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::36",
+      "KEEP",
+      "VII_magnetic_field;I_force_motion",
+      "Magnetic-force balance using a supplied power law",
+      "F proportional to r^-n is supplied; the levitating magnets require equilibrium and estimation of n, not a prior magnet model.",
+      "SJPO 2026 provided transcription Q36: complete stem/options and diagrams on page(s) 26-26 read and visually inspected; no topic tags used.",
+      [
+        26,
+        26
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::37",
+      "KEEP",
+      "VI_electric_field",
+      "Kirchhoff laws, superposition and network symmetry",
+      "The infinite hexagonal resistor network is mathematically unusual but uses foundational circuit physics.",
+      "SJPO 2026 provided transcription Q37: complete stem/options and diagrams on page(s) 27-27 read and visually inspected; no topic tags used.",
+      [
+        27,
+        27
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::38",
+      "KEEP",
+      "X_wave_optics",
+      "Two-slit path differences and phase",
+      "Misalignment shifts the interference maximum through ordinary wave-optics geometry.",
+      "SJPO 2026 provided transcription Q38: complete stem/options and diagrams on page(s) 28-28 read and visually inspected; no topic tags used.",
+      [
+        28,
+        28
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::39",
+      "KEEP",
+      "II_oscillations_waves",
+      "Wave superposition and phase evolution",
+      "The counterpropagating displacement graph must be inspected; the required physics is ordinary interference.",
+      "SJPO 2026 provided transcription Q39: complete stem/options and diagrams on page(s) 29-29 read and visually inspected; no topic tags used.",
+      [
+        29,
+        29
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::40",
+      "KEEP",
+      "X_wave_optics",
+      "Thin-lens image formation",
+      "The two-lens real-image threshold is ordinary prerequisite ray optics.",
+      "SJPO 2026 provided transcription Q40: complete stem/options and diagrams on page(s) 30-30 read and visually inspected; no topic tags used.",
+      [
+        30,
+        30
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::41",
+      "KEEP",
+      "II_oscillations_waves",
+      "Standing waves in an air column",
+      "The bottle pitch follows acoustic standing-wave boundary conditions.",
+      "SJPO 2026 provided transcription Q41: complete stem/options and diagrams on page(s) 30-30 read and visually inspected; no topic tags used.",
+      [
+        30,
+        30
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::42",
+      "KEEP",
+      "X_wave_optics",
+      "Two-source interference and path-difference geometry",
+      "Hyperbolic fringes require wave phase and geometry, not an external theory.",
+      "SJPO 2026 provided transcription Q42: complete stem/options and diagrams on page(s) 31-31 read and visually inspected; no topic tags used.",
+      [
+        31,
+        31
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::43",
+      "KEEP",
+      "X_wave_optics",
+      "Refraction and total internal reflection",
+      "The cylinder ray diagram tests elementary optics at both side and end surfaces.",
+      "SJPO 2026 provided transcription Q43: complete stem/options and diagrams on page(s) 32-32 read and visually inspected; no topic tags used.",
+      [
+        32,
+        32
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::44",
+      "KEEP",
+      "II_oscillations_waves",
+      "Spherical-wave energy spreading and propagation phase",
+      "Amplitude scaling and the sign of omega are standard wave characteristics.",
+      "SJPO 2026 provided transcription Q44: complete stem/options and diagrams on page(s) 32-32 read and visually inspected; no topic tags used.",
+      [
+        32,
+        32
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::45",
+      "KEEP",
+      "III_ideal_gas;IV_thermodynamics",
+      "Ideal-gas internal energy and first-law heat flow",
+      "The P-V line and monatomic heat capacity are explicitly in scope.",
+      "SJPO 2026 provided transcription Q45: complete stem/options and diagrams on page(s) 33-33 read and visually inspected; no topic tags used.",
+      [
+        33,
+        33
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::46",
+      "KEEP",
+      "IV_thermodynamics",
+      "First/second laws and Carnot efficiency bound",
+      "The claimed heat engine is assessed by conservation and temperature-based efficiency.",
+      "SJPO 2026 provided transcription Q46: complete stem/options and diagrams on page(s) 33-33 read and visually inspected; no topic tags used.",
+      [
+        33,
+        33
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::47",
+      "KEEP",
+      "III_ideal_gas",
+      "Molecular kinetic theory and wall-collision flux",
+      "Oxygen collision frequency is ordinary ideal-gas kinetic reasoning.",
+      "SJPO 2026 provided transcription Q47: complete stem/options and diagrams on page(s) 34-34 read and visually inspected; no topic tags used.",
+      [
+        34,
+        34
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::48",
+      "KEEP",
+      "III_ideal_gas;IV_thermodynamics",
+      "Molecular degrees of freedom and adiabatic mixing energy",
+      "Monatomic/diatomic gases require ideal-gas heat capacities and conservation of internal energy.",
+      "SJPO 2026 provided transcription Q48: complete stem/options and diagrams on page(s) 34-34 read and visually inspected; no topic tags used.",
+      [
+        34,
+        34
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::49",
+      "KEEP",
+      "XI_quantum_light;IV_thermodynamics",
+      "Stefan-Boltzmann balance and inverse-square radiation flux",
+      "The Earth/Sun context reduces to listed black-body radiation and energy balance.",
+      "SJPO 2026 provided transcription Q49: complete stem/options and diagrams on page(s) 35-35 read and visually inspected; no topic tags used.",
+      [
+        35,
+        35
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::d086c64af4c00eac::4055::50",
+      "KEEP",
+      "III_ideal_gas;IV_thermodynamics;I_force_motion",
+      "Adiabatic ideal gas and droplet force balance",
+      "The insulating capillary and final 3L/4 column use ordinary thermodynamics and pressure forces.",
+      "SJPO 2026 provided transcription Q50: complete stem/options and diagrams on page(s) 35-35 read and visually inspected; no topic tags used.",
+      [
+        35,
+        35
+      ],
+      "multiple_choice",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ],
+  "boundary_note": "Separate explicit top-level MCQ; retain all options and supplied/shared context. Provided transcription numbering is authoritative for this file."
+}

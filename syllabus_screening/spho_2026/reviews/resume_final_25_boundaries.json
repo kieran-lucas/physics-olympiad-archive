@@ -1,0 +1,1617 @@
+[
+  {
+    "source_problem_id": 1695,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "七",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      },
+      {
+        "number": "八",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            20
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1703,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            18
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            18
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            18
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            18
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            18
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            5,
+            18
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 1704,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "一",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            10
+          ]
+        }
+      },
+      {
+        "number": "二",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            10
+          ]
+        }
+      },
+      {
+        "number": "三",
+        "page_start": 1,
+        "page_end": 1,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            10
+          ]
+        }
+      },
+      {
+        "number": "四",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            10
+          ]
+        }
+      },
+      {
+        "number": "五",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            10
+          ]
+        }
+      },
+      {
+        "number": "六",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review",
+          "combined_source_solution_section": [
+            4,
+            10
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4003,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4004,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4005,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4006,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 8,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4007,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4008,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4009,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 9,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4010,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4011,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4012,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4013,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 8,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4014,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4015,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4016,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4017,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4018,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4019,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 1,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 3998,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 3999,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4000,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 3,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 4,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4001,
+    "boundary_evidence": "Source cover counts and printed first-level question labels verified visually. Repeated bold versions of a Chinese question and reference solutions are not additional units.",
+    "units": [
+      {
+        "number": "1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "2",
+        "page_start": 2,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "4",
+        "page_start": 5,
+        "page_end": 5,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "5",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      },
+      {
+        "number": "6",
+        "page_start": 6,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "boundary_note": "All rendered statement pages inspected for source grand-question headings. Internal lettered/numbered parts kept; conservative inclusive page ranges retain shared pages.",
+          "page_range_precision": "conservative_until_content_review"
+        }
+      }
+    ]
+  },
+  {
+    "source_problem_id": 4002,
+    "boundary_evidence": "All 31 rendered pages inspected: five distinct exam covers, five plus five written problems, three theory-simulation problems, and two experiments. Repeated page labels within each experiment retained as one top-level experiment.",
+    "units": [
+      {
+        "number": "W1P1",
+        "page_start": 2,
+        "page_end": 2,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(一)",
+          "source_date": "2024-03-30",
+          "printed_problem_number": "1",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W1P2",
+        "page_start": 3,
+        "page_end": 3,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(一)",
+          "source_date": "2024-03-30",
+          "printed_problem_number": "2",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W1P3",
+        "page_start": 4,
+        "page_end": 4,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(一)",
+          "source_date": "2024-03-30",
+          "printed_problem_number": "3",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W1P4",
+        "page_start": 5,
+        "page_end": 6,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(一)",
+          "source_date": "2024-03-30",
+          "printed_problem_number": "4",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W1P5",
+        "page_start": 7,
+        "page_end": 7,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(一)",
+          "source_date": "2024-03-30",
+          "printed_problem_number": "5",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W2P1",
+        "page_start": 9,
+        "page_end": 9,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(二)",
+          "source_date": "2024-04-02",
+          "printed_problem_number": "1",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W2P2",
+        "page_start": 10,
+        "page_end": 10,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(二)",
+          "source_date": "2024-04-02",
+          "printed_problem_number": "2",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W2P3",
+        "page_start": 11,
+        "page_end": 11,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(二)",
+          "source_date": "2024-04-02",
+          "printed_problem_number": "3",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W2P4",
+        "page_start": 12,
+        "page_end": 12,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(二)",
+          "source_date": "2024-04-02",
+          "printed_problem_number": "4",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "W2P5",
+        "page_start": 13,
+        "page_end": 13,
+        "format": "theory",
+        "location": {
+          "source_session": "筆試(二)",
+          "source_date": "2024-04-02",
+          "printed_problem_number": "5",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "TP1",
+        "page_start": 15,
+        "page_end": 16,
+        "format": "theory",
+        "location": {
+          "source_session": "理論模擬",
+          "source_date": "2024-04-03",
+          "printed_problem_number": "1",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "TP2",
+        "page_start": 16,
+        "page_end": 17,
+        "format": "theory",
+        "location": {
+          "source_session": "理論模擬",
+          "source_date": "2024-04-03",
+          "printed_problem_number": "2",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "TP3",
+        "page_start": 18,
+        "page_end": 20,
+        "format": "theory",
+        "location": {
+          "source_session": "理論模擬",
+          "source_date": "2024-04-03",
+          "printed_problem_number": "3",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "E1",
+        "page_start": 22,
+        "page_end": 24,
+        "format": "experimental",
+        "location": {
+          "source_session": "實驗模擬(一)",
+          "source_date": "2024-04-01",
+          "printed_problem_number": "1",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      },
+      {
+        "number": "E2",
+        "page_start": 26,
+        "page_end": 31,
+        "format": "experimental",
+        "location": {
+          "source_session": "實驗模擬(二)",
+          "source_date": "2024-04-01",
+          "printed_problem_number": "2",
+          "page_range_precision": "conservative_until_content_review",
+          "boundary_note": "Separate exam cover verified. Experimental Q1-1/Q1-2 and Q2-1/Q2-2 labels are pages of one experiment, not separate tasks."
+        }
+      }
+    ]
+  }
+]

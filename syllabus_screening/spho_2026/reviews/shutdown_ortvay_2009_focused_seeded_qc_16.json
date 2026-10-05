@@ -1,0 +1,66 @@
+[
+  {
+    "screening_unit_id": "raw::5909",
+    "detail": "Focused axial-spring prerequisite review: whole Q4 p2 reread. A chain of masses linked by ordinary Hooke springs has c=l*sqrt(D/m); end-mass momentum and displacement continuity determine bounce, including pulse/transit behaviour for M small. The necessary material law is the given axial spring stiffness, rather than an unprovided plate/bending/tensor elasticity. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5912",
+    "detail": "Focused exotic-context review: complete Q7 p3 reread. A Euclidean periodic coordinate supplies the geometry. Surface-area/Gauss-flux generalization and a sum over images derive higher-dimensional Newton potential and limits; normalization stays a declared constant. The named extra dimension does not force GR or a quantum field law. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5914",
+    "detail": "Focused supplied-law review: complete two-part Q9 and both edge sketches p3 reread. The source actually defines moment proportional to curvature and abrasion speed proportional to pressure. Local moment balance plus force equilibrium constructs the shape; contact forces feed the stated wear law. KEEP confirmed without supplying a reviewer-invented flexural constitutive relation."
+  },
+  {
+    "screening_unit_id": "raw::5917",
+    "detail": "Focused visual/depth review and seeded QC (Random 2026100414 second selection): original embedded smoke-ring image p4 reopened. It is not a missing-source scan. However its visible roll cannot uniquely establish the full ambient velocity field, and a quantitative self-induced vortex translation law is not supplied. A qualitative momentum account might be foundational. BORDERLINE retained rather than assuming a specialist fluid solution or inventing circulation direction."
+  },
+  {
+    "screening_unit_id": "raw::5918",
+    "detail": "Focused melting-rate review: entire Q13 p4 reopened. Fresh melt can mix/sink differently in fresh and saline water, while dissolution heat and liquid/ice properties matter. Ordinary calorimetry and buoyancy explain qualitative changes, but time-to-melt ratio requires an intended heat-transfer/mixing approximation absent here. No acquired official solution resolves that dependency. BORDERLINE retained for the whole question."
+  },
+  {
+    "screening_unit_id": "raw::5920",
+    "detail": "Focused mathematical supplied-model review: full matrix/noise equations p4 reopened. v(t)=exp(M*t)*v(0)+integral exp(M*(t-s))*q(s) ds. With conventional independent initial state and zero-mean noise, the printed delta covariance reduces the double integral explicitly. No unprovided physical fluctuation-dissipation relation is needed. KEEP confirmed; initial correlation convention recorded."
+  },
+  {
+    "screening_unit_id": "raw::5923",
+    "detail": "Focused wave-optics review: full Q18 p5 reread. Specified slow index variation permits Maxwell normal-incidence wave-equation asymptotics and interface matching; those are syllabus EM/waves. No unsupplied semiconductor, quantum or fluid law is required. Outside-index and transparency assumptions stay declared. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5925",
+    "detail": "Focused supplied-theory/whole-task review: complete Q20 pp5-6 reread. Homogeneous linear coordinates, t-prime=t and the stated positive light ray fix x-prime=(x+V*t)/(1+V/c). Inverses, velocity composition, contraction and group parametrization are algebra. This does not preserve the negative light ray, and its final Lorentz/Galilei theorem discussion is a peripheral comparison to the main constructed group. KEEP confirmed without silently supplying Lorentz transformations."
+  },
+  {
+    "screening_unit_id": "raw::5926",
+    "detail": "Focused model-construction boundary review: all Q21 p6 and explicitly referenced Q20 read together. A log-velocity free Lagrangian can reproduce the toy scaling up to endpoint terms and a small-v quadratic kinetic term, so unfamiliar notation alone is not a rejection. However a nondegenerate invariant metric is not furnished, and what counts as gravitational/EM coupling is not specified by the group/correspondence alone. Those are meaningful requested tasks. BORDERLINE retained; no arbitrary coupling used to fabricate a unique solution."
+  },
+  {
+    "screening_unit_id": "raw::5929",
+    "detail": "Focused complete-model review: all Q24 pp6-7 reopened. Both spatial forcing/complex wave number and radial no-flux boundary are explicit. Green functions or Bessel expansions and finite-electrode voltage averages solve the given model; off-centre geometry is numerical PDE mathematics. Rendered Reff is |U|/(J*pi*rL^2), checked against broken extraction. Harmonic superposition covers chopped drive. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5930",
+    "detail": "Focused whole-billiard review: all three Q25 requests p7 reopened. Specular-reflection return maps and classical stability form substantial work, but local quantum-state energy quantization is an equally meaningful dependent conclusion with no supplied phase/quantization condition. Neither rescuing the two classical subparts nor rejecting their eligibility resolves the whole-task balance. BORDERLINE retained."
+  },
+  {
+    "screening_unit_id": "raw::5933",
+    "detail": "Focused source/formula review: complete Q28 p8 reopened with alternate PDFium render, because MuPDF omitted matrix entries and the complete gamma/anticommutator lines. PDFium visibly restores A, barred A, gamma(A)(phi,psi)=(A*psi,barA*phi), and {gamma(A),gamma(B)}=2g(A,B)*1, agreeing with text. These definitions supply the model; determinant polarization and algebraic group representations construct spinor bilinears. Lorentz/Dirac labels add no dynamical physical law. Octonion nonassociativity is mathematical. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5935",
+    "detail": "Focused supplied-operator rejection QC: full Q30 p8 reopened in intact PDFium render. The initial wave packet and epsilon/alpha are supplied, but no differential/time-evolution equation or spectral phase rule is. Quantum time evolution is a central missing prerequisite for packet spreading, consistent with prior Hamiltonian-only decisions. REJECT confirmed. The root in alpha is present; its questionable use in exp(i*alpha) is a source notation concern, not a substitute for the prerequisite test."
+  },
+  {
+    "screening_unit_id": "raw::5910",
+    "detail": "Seeded QC (Random 2026100414 first selection): complete mass-law Q5 p2 reread. Comoving increment has intake velocity equal to particle velocity, so the mass flux cancels from m*dv/dt=-m*g. Apex at tau and mass e*m0 follow; treating increment as stationary would be a changed problem. KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "raw::5916",
+    "detail": "Experimental format QC: complete slow-draining task p4 reopened. Recording drop frequency is explicitly an experiment and is not excluded by format. Nevertheless the requested prediction depends on unsupplied viscous-film velocity/stress law and boundary assumptions. REJECT confirmed for physical prerequisite, not because an experiment is involved."
+  },
+  {
+    "screening_unit_id": "raw::5919",
+    "detail": "Data-analysis format QC: full low-pressure Brown-particle task p4 reread. Collision impulse squares and impact-angle averages connect measured momentum changes to gas momentum flux over known area/time. Elastic hard-sphere/thermal isotropy is the ordinary kinetic-gas idealization. Specialized stochastic dynamics need not be supplied. KEEP confirmed."
+  }
+]

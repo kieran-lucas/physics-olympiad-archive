@@ -1,0 +1,402 @@
+[
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::1",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Buoyancy and melting",
+    "decision_reason": "KEEP: Buoyancy and melting within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q1 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::2",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newton third law",
+    "decision_reason": "KEEP: Newton third law within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q2 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::3",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "General-physics fundamental-force ordering",
+    "decision_reason": "KEEP: General-physics fundamental-force ordering within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q3 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::4",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Elevator apparent weight",
+    "decision_reason": "KEEP: Elevator apparent weight within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q4 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::5",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Inclined pulling force and friction",
+    "decision_reason": "KEEP: Inclined pulling force and friction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q5 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::6",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Newton action and reaction",
+    "decision_reason": "KEEP: Newton action and reaction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q6 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::7",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Momentum direction",
+    "decision_reason": "KEEP: Momentum direction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q7 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::8",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied linear drag and Newton acceleration",
+    "decision_reason": "KEEP: Supplied linear drag and Newton acceleration within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q8 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::9",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Buoyancy and liquid density",
+    "decision_reason": "KEEP: Buoyancy and liquid density within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q9 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::10",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Collision impulse",
+    "decision_reason": "KEEP: Collision impulse within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q10 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::11",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Rolling spool kinematics",
+    "decision_reason": "KEEP: Rolling spool kinematics within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q11 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::12",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Centripetal acceleration",
+    "decision_reason": "KEEP: Centripetal acceleration within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q12 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::13",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied constant drag and projectile motion",
+    "decision_reason": "KEEP: Supplied constant drag and projectile motion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q13 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::14",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Constant-acceleration distance",
+    "decision_reason": "KEEP: Constant-acceleration distance within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q14 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::15",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Point-mass moment of inertia",
+    "decision_reason": "KEEP: Point-mass moment of inertia within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q15 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::16",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Right-angle mirror images",
+    "decision_reason": "KEEP: Right-angle mirror images within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q16 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::17",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Triple-point molecular energy",
+    "decision_reason": "KEEP: Triple-point molecular energy within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q17 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::18",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Heat-engine efficiency and latent heat",
+    "decision_reason": "KEEP: Heat-engine efficiency and latent heat within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q18 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::19",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Resistor circuit",
+    "decision_reason": "KEEP: Resistor circuit within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q19 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::20",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electrical power and resistance",
+    "decision_reason": "KEEP: Electrical power and resistance within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q20 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::21",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Current magnetic force",
+    "decision_reason": "KEEP: Current magnetic force within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q21 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::22",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic cyclotron period",
+    "decision_reason": "KEEP: Magnetic cyclotron period within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q22 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::23",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Battery internal resistance and power",
+    "decision_reason": "KEEP: Battery internal resistance and power within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q23 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::24",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Resistance combinations",
+    "decision_reason": "KEEP: Resistance combinations within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q24 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::25",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coulomb energy and Newton motion",
+    "decision_reason": "KEEP: Coulomb energy and Newton motion within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q25 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::26",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Battery-connected capacitor",
+    "decision_reason": "KEEP: Battery-connected capacitor within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q26 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::27",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Isolated capacitor charge",
+    "decision_reason": "KEEP: Isolated capacitor charge within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q27 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::28",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Sphere sharing and Coulomb force",
+    "decision_reason": "KEEP: Sphere sharing and Coulomb force within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q28 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::29",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Solenoid Faraday induction",
+    "decision_reason": "KEEP: Solenoid Faraday induction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q29 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::30",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Magnetic force and Hooke extension",
+    "decision_reason": "KEEP: Magnetic force and Hooke extension within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q30 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::31",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Electron electrostatic deflection",
+    "decision_reason": "KEEP: Electron electrostatic deflection within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q31 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::32",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Charge-carrier current density",
+    "decision_reason": "KEEP: Charge-carrier current density within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q32 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::33",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied quantum uncertainty relation",
+    "decision_reason": "REJECT: Unsupplied quantum uncertainty relation is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q33 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::34",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photon energy momentum and flux",
+    "decision_reason": "KEEP: Photon energy momentum and flux within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q34 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::35",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Fission chain reaction",
+    "decision_reason": "KEEP: Fission chain reaction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q35 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::36",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Nuclear charge and mass-number conservation",
+    "decision_reason": "KEEP: Nuclear charge and mass-number conservation within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q36 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::37",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Fission mass defect and efficiency",
+    "decision_reason": "KEEP: Fission mass defect and efficiency within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q37 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::38",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Photoelectric current and stopping potential",
+    "decision_reason": "KEEP: Photoelectric current and stopping potential within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q38 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::39",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Supplied Wien relation",
+    "decision_reason": "KEEP: Supplied Wien relation within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q39 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::40",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied tunneling and quantum uncertainty",
+    "decision_reason": "REJECT: Unsupplied tunneling and quantum uncertainty is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q40 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::41",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied quantum-well energy spectrum",
+    "decision_reason": "REJECT: Unsupplied quantum-well energy spectrum is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q41 and shared instructions; all 19 pages read. Rendered p16 confirms energy diagram supplies labels only, no well-spectrum relation."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::42",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Driven damped oscillations",
+    "decision_reason": "KEEP: Driven damped oscillations within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q42 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::43",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Ideal-gas PV cycle",
+    "decision_reason": "KEEP: Ideal-gas PV cycle within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q43 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::44",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Gas pressure and mercury hydrostatics",
+    "decision_reason": "KEEP: Gas pressure and mercury hydrostatics within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q44 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::45",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Open-room ideal-gas internal energy",
+    "decision_reason": "KEEP: Open-room ideal-gas internal energy within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q45 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::46",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied relativistic total energy",
+    "decision_reason": "REJECT: Unsupplied relativistic total energy is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q46 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::47",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Malus polarization",
+    "decision_reason": "KEEP: Malus polarization within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q47 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::48",
+    "decision": "REJECT",
+    "confidence": "high",
+    "required_physics": "Unsupplied Lorentz length contraction",
+    "decision_reason": "REJECT: Unsupplied Lorentz length contraction is central and not supplied.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q48 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::49",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Two-slit interference",
+    "decision_reason": "KEEP: Two-slit interference within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q49 and shared instructions; all 19 pages read."
+  },
+  {
+    "screening_unit_id": "derived::e03f75b12d2ca0e4::4071::50",
+    "decision": "KEEP",
+    "confidence": "high",
+    "required_physics": "Coupled blocks and static friction",
+    "decision_reason": "KEEP: Coupled blocks and static friction within operational scope.",
+    "evidence": "Fast statement pass: cached source 3009, complete Q50 and shared instructions; all 19 pages read."
+  }
+]

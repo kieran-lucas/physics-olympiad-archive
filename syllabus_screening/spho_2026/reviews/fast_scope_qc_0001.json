@@ -1,0 +1,14 @@
+[
+  {
+    "screening_unit_id": "derived::aba8e8ab3fec5437::4058::32",
+    "detail": "Lightweight 3/195 sample, seed2026100450. Reread complete Q32: constant-temperature bubble, hydrostatic pressure plus Boyle law; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::aba8e8ab3fec5437::4058::33",
+    "detail": "Lightweight 3/195 sample, seed2026100450. Reread complete Q33: lower temperature limit at absolute zero; no quantum-state computation requested; KEEP confirmed."
+  },
+  {
+    "screening_unit_id": "derived::e9e3a200664db03d::4056::11",
+    "detail": "Lightweight 3/195 sample, seed2026100450. Reread complete Q11: explicitly perfectly inelastic identical-mass collisions, ordinary momentum and energy loss; KEEP confirmed."
+  }
+]

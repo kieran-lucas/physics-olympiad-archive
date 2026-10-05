@@ -1,0 +1,85 @@
+{
+  "decision_batch": "fast_scope_boundary_only_0045.json",
+  "papers": [
+    {
+      "file_id": 3074,
+      "observed_units": 3,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 3 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3075,
+      "observed_units": 2,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 2 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3077,
+      "observed_units": 35,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 35 printed top-level units represented. Withdrawn labels remain explicitly registered/source-unavailable, not silently discarded. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3079,
+      "observed_units": 4,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 4 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3081,
+      "observed_units": 1,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 1 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3083,
+      "observed_units": 35,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 35 printed top-level units represented. Withdrawn labels remain explicitly registered/source-unavailable, not silently discarded. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3084,
+      "observed_units": 3,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 3 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3087,
+      "observed_units": 1,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 1 printed top-level units represented. Instructions explicitly state one long experimental question; Problems1-5 are internal common Lorenz-simulator tasks. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3088,
+      "observed_units": 5,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 5 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3089,
+      "observed_units": 35,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 35 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3091,
+      "observed_units": 35,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 35 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3092,
+      "observed_units": 1,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 1 printed top-level units represented. Single fluid simulation experiment; sections2-3 are internal mass flow and boundary-layer measurements. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3094,
+      "observed_units": 4,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 4 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3096,
+      "observed_units": 55,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 55 printed top-level units represented. Withdrawn labels remain explicitly registered/source-unavailable, not silently discarded. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3097,
+      "observed_units": 1,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 1 printed top-level units represented. Single diffraction simulator experiment; Problems1.1-3.3 are internal parts and pp7-12 its solutions. No omitted independent statement; covers/constants/solutions excluded."
+    },
+    {
+      "file_id": 3099,
+      "observed_units": 10,
+      "evidence": "Every cached physical page boundary and printed problem sequence manually inspected; prior complete actual statement inspection reused. 10 printed top-level units represented. No omitted independent statement; covers/constants/solutions excluded."
+    }
+  ]
+}

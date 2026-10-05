@@ -1,0 +1,6 @@
+[
+  {
+    "screening_unit_id": "raw::1109",
+    "detail": "Focused supplied-model check: full moving-charge E field, gamma and p=gamma mv are supplied. Restoring-force gradient plus dp/dt yields oscillator period; no independent unsupplied Lorentz transformation needed. KEEP retained."
+  }
+]

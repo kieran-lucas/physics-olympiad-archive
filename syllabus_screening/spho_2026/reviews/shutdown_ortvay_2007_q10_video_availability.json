@@ -1,0 +1,11 @@
+{
+  "checked_at": "2026-10-04T02:56:07.389223+00:00",
+  "result": {
+    "url": "https://www.youtube.com/watch?v=sBHGzRxfeJY",
+    "status": 200,
+    "byte_size": 797782,
+    "playabilityStatus": "\"playabilityStatus\":{\"status\":\"LOGIN_REQUIRED\",\"reason\":\"Video riêng tư\",\"messages\":[\"Đây là video riêng tư. Vui lòng đăng nhập để xác minh rằng bạn có thể xem video này.\"],\"errorScreen\":{\"playerInterstitialRenderer\":{\"content\":{\"interstitialViewModel\":{\"title\":{\"content\":\"Video riêng tư\"},\"description\":{\"content\":\"Nếu chủ sở hữu video này đã cấp quyền truy cập cho bạn, vui lòng đăng nhập.\"},\"primaryButton\":{\"buttonViewModel\":{\"title\":\"Đăng nhập\",\"onTap\":{\"innertubeCommand\":{\"clickTrackingParams\":\"CAIQ8FsiEwjBtIzCrp-XAxVjvOkFHfTfNe0yDXByaXZhdGVfdmlkZW_KAQRHiHxI\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"https://accounts.google.com/ServiceLogin?service=youtube\\u0026uilel=3\\u0026passive=true\\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dvi%26next%3D%252Fwatch%253Fv%253DsBHGzRxfeJY\\u0026hl=vi\",\"webPageType\":\"WEB_PAGE_TYPE_UNKNOWN\",\"rootVe\":83769}},\"signInEndpoint\":{\"nextEndpoint\":{\"clickTrackingParams\":\"CAIQ8FsiEwjBtIzCrp-XAxVjvOkFHfTfNe3KAQRHiHxI\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/watch?v=sBHGzRxfeJY\",\"webPageType\":\"WEB_PAGE_TYPE_UNKNOWN\",\"rootVe\":83769}},\"urlEndpoint\":{\"url\":\"/watch?v=sBHGzRxfeJY\"}}}}},\"style\":\"BUTTON_VIEW_MODEL_STYLE_OVERLAY\",\"trackingParams\":\"CAIQ8FsiEwjBtIzCrp-XAxVjvOkFHfTfNe0=\",\"type\":\"BUTTON_VIEW_MODEL_TYPE_FILLED\"}},\"loggingDirectives\":{\"trackingParams\":\"CAEQ4NYUIhMIwbSMwq6flwMVY7zpBR303zXt\",\"visibility\":{\"types\":\"12\"}}}}}},\"contextParams\":\"Q0FBU0FnZ0E=\"},\"trackingParams\":\"CAAQu2kiEwjBtIzCrp-XAxVjvOkFHfTfNe3KAQRHiHxI\",\"frameworkUpdates\":{\"entityBatchUpdate\":{\"mutations\":[{\"entityKey\":\"Eg0KC3NCSEd6UnhmZUpZIPYBKAE%3D\",\"type\":\"ENTITY_MUTATION_TYPE_REPLACE\",\"payload\":{\"offlineabilityEntity\":{\"key\":\"Eg0KC3NCSEd6UnhmZUpZIPYBKAE%3D\",\"addToOfflineButtonState\":\"ADD_TO_OFFLINE_B",
+    "videoDetails": "not found"
+  },
+  "note": "Supplemental final construction comparison only; full two juggling models are printed. No claim of watching video from metadata."
+}

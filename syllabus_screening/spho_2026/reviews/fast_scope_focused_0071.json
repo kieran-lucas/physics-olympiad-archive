@@ -1,0 +1,22 @@
+[
+  {
+    "screening_unit_id": "derived::aeb3bf3e3eb7330a::907::2",
+    "detail": "Comparable classical rocket work and substantial unsupplied relativistic acceleration/rocket dynamics. Classical block 5.5/10 and independent relativistic block 4.5/10 have comparable conceptual weight; acceleration transformation and relativistic rocket exponent are unsupplied. Neither block is peripheral: retain BORDERLINE whole unit."
+  },
+  {
+    "screening_unit_id": "derived::cf56e25bec03807b::910::1",
+    "detail": "Rigid-rod acceleration, provided diode characteristic and graded-index lens context. Original English PDF omits displayed equations even in render. Broad prerequisites remain clear from complete task wording; nuclear solution confirms use only of the advertised supplied drop model plus general electrostatics/surface energy. Source repair deferred separately; no missing law invented."
+  },
+  {
+    "screening_unit_id": "derived::cf56e25bec03807b::910::2",
+    "detail": "Ideal-gas piston heat balance, oscillations and molecular effusion. Original English PDF omits displayed equations even in render. Broad prerequisites remain clear from complete task wording; nuclear solution confirms use only of the advertised supplied drop model plus general electrostatics/surface energy. Source repair deferred separately; no missing law invented."
+  },
+  {
+    "screening_unit_id": "derived::cf56e25bec03807b::910::3",
+    "detail": "Declared supplied nuclear liquid-drop model; solution confirms electrostatic/surface energy and algebra. Original English PDF omits displayed equations even in render. Broad prerequisites remain clear from complete task wording; nuclear solution confirms use only of the advertised supplied drop model plus general electrostatics/surface energy. Source repair deferred separately; no missing law invented."
+  },
+  {
+    "screening_unit_id": "derived::c3d309b54a876a0e::914::3",
+    "detail": "Rendered statement explicitly supplies relativistic invariant and energy-momentum transformations. Rendered pp4-5 recover all invariant and transformation equations lost in text; no unsupplied Lorentz law is required. KEEP."
+  }
+]

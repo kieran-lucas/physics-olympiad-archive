@@ -1,0 +1,106 @@
+{
+  "rows": [
+    [
+      "derived::a4f633140fd3956b::6387::1",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Physical-pendulum energy and pivot optimization",
+      "The fastest falling uniform stick requires rigid-body inertia and gravity.",
+      "BAUPC 2000 Problem 1: complete statement and diagrams visually read on source file 3166, physical pages 1-1.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a4f633140fd3956b::6387::2",
+      "KEEP",
+      "VI_electric_field",
+      "Induced conductor charge, potential and field energy",
+      "Changing the right-angle plates to insulators fixes their induced charge; ordinary electrostatics determines all three work/energy parts.",
+      "BAUPC 2000 Problem 2: complete statement and diagrams visually read on source file 3166, physical pages 1-1.",
+      [
+        1,
+        1
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a4f633140fd3956b::6387::3",
+      "KEEP",
+      "I_force_motion;III_ideal_gas;X_wave_optics",
+      "Hydrostatic ideal-gas atmosphere and refraction",
+      "The refractive-index/density law is supplied; Newtonian gravity, pressure balance and Snell-law geometry suffice for the circular ray.",
+      "BAUPC 2000 Problem 3: complete statement and diagrams visually read on source file 3166, physical pages 1-2.",
+      [
+        1,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a4f633140fd3956b::6387::4",
+      "KEEP",
+      "I_force_motion",
+      "Sequential elastic collisions and continuum limiting mathematics",
+      "The semicircle of masses involves only momentum/energy transfers despite the infinite-N limit.",
+      "BAUPC 2000 Problem 4: complete statement and diagrams visually read on source file 3166, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a4f633140fd3956b::6387::5",
+      "KEEP",
+      "I_force_motion",
+      "Rolling constraints and rotation on a moving surface",
+      "The sphere on the turntable requires rigid-body dynamics and supplied inertia, not a specialized material model.",
+      "BAUPC 2000 Problem 5: complete statement and diagrams visually read on source file 3166, physical pages 2-2.",
+      [
+        2,
+        2
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ],
+    [
+      "derived::a4f633140fd3956b::6387::6",
+      "KEEP",
+      "I_force_motion;II_oscillations_waves",
+      "Variable-mass momentum and damped spring oscillations",
+      "The rope entering/leaving a floor heap loses energy through ordinary momentum transfer; the geometric approximations are specified.",
+      "BAUPC 2000 Problem 6: complete statement and diagrams visually read on source file 3166, physical pages 2-3.",
+      [
+        2,
+        3
+      ],
+      "theory",
+      1,
+      0,
+      "high",
+      ""
+    ]
+  ]
+}

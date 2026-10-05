@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-10-04T03:21:56.965671+00:00",
+  "source_unit": "raw::6080",
+  "original_statement_url": "http://ortvay.elte.hu/2004/budapest.jpg",
+  "attempt": {
+    "requested_url": "https://ortvay.elte.hu/2004/budapest.jpg",
+    "final_url": "https://ortvay.elte.hu/2004/budapest.jpg",
+    "status_code": 200,
+    "content_type": "image/jpeg",
+    "byte_size": 1230848,
+    "dimensions": [
+      3032,
+      2000
+    ],
+    "local_path": "references\\ortvay_2004_q1_budapest_original.jpg",
+    "sha256": "6a703e3b852946fc1978359c93dc97568b504353a80a1cd3ceaa1b4e76a8b5ab",
+    "validation_status": "original JPEG decoded and verified"
+  }
+}

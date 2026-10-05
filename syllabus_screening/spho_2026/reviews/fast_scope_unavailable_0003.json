@@ -1,0 +1,23 @@
+[
+  {
+    "screening_unit_id": "raw::4453",
+    "source_file_id": 3096,
+    "page": 4,
+    "status": "unresolved_source_unavailable",
+    "detail": "Printed Q3 explicitly removed from this exam; local source 3096 PDF p 4 contains no physical statement. NULL scope decision preserved."
+  },
+  {
+    "screening_unit_id": "raw::4485",
+    "source_file_id": 3096,
+    "page": 16,
+    "status": "unresolved_source_unavailable",
+    "detail": "Printed Q35 explicitly removed from this exam; local source 3096 PDF p 16 contains no physical statement. NULL scope decision preserved."
+  },
+  {
+    "screening_unit_id": "raw::4495",
+    "source_file_id": 3096,
+    "page": 20,
+    "status": "unresolved_source_unavailable",
+    "detail": "Printed Q45 explicitly removed from this exam; local source 3096 PDF p 20 contains no physical statement. NULL scope decision preserved."
+  }
+]
