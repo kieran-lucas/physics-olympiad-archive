@@ -1,0 +1,67 @@
+{
+  "file_id": 1527,
+  "sha256": "74408ff21e092ffa01b2a21add1859951edcbeccf0b7580a1230999346bf5a6d",
+  "method": "whole text lines assigned to four printed columns by center; no clipping or OCR",
+  "columns": [
+    {
+      "page": 1,
+      "column": 1,
+      "text": "Nordic-Baltic Physics Olympiad 2017\n1. DRAGON (5 points) — Aigar Vaigu. Here\nis a photo of a dragon under water (there is a\nlarger photo on a separate sheet). The length of\nthe dragon is l = 8cm and its height is h = 3cm.\nThe diameter of the bottom of the bowl is d =\n10cm and the angle between the table and the\nside of the bowl is α = 60°. The refractive in-\ndex of water is n = 1.33. The photo has been\ntaken so that the camera was pointing directly\nalong the water surface. In the following ques-\ntions the angle between the horizon when look-\ning at some point on the image of the dragon is\ndeﬁned as the angle between the horizontal wa-\nter surface (or any other horizontal surface) and\nthe straight line from the eye to that point on\nthe image.\ni) (2 points)What is the largest angle below the\nhorizon from which the reﬂection of the dragon\nfrom the water surface can be seen?\nii) (3 points)What is the highest angle above the\nhorizon from which this reﬂection can be seen?\n2.\nCOMET (8 points)\n— Jaan Kalda.\ncomet’s orbit intersects the Earth’s orbit (which\ncan be assumed to be circular of radius R0 =\n1.5×108 km) at an angle α = 45°. The comet’s\nand the Earth’s orbits lie on the same plane.\ni) (3 points)Find the distance Rmin of the comet’s\nperihelion P from the Sun (i.e.\nits shortest\ndistance).\nThe distance Rmax of the comet’s\naphelion A from the Sun (i.e. its longest dis-\ntance) can be assumed to be much larger than\nR0."
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "text": "ii) (5 points) For how many days t will the\ncomet’s distance to the Sun be less that R0?\n3. RESISTORS AND CAPACITORS (5 points)\n— Mihkel Heidelberg.\nA circuit is made out of a battery, a switch, res-\nistors and capacitors as shown in the image. The\nresistors all have a resistance of R, the capacitors\nall have a capacitance of C and the battery has\na voltage of U. The point A is connected to the\nground and so it has a potential of 0V. In the be-\nginning the switch is open and all the capacitors\nhave no charge.\ni) (2 points)What is the potential at points B and\nC after we have closed the switch and waited for\nall the potentials to stabilize?\nii) (3 points) What is the potential at point D\nafter we have closed the switch and waited for\nall the potentials to stabilize?\nA\n4. GRAVITATIONAL WAVES (7 points) —\nArtūrs Bērziņš.\nThe power radiated in gravit-\national waves by an orbiting binary system is\n(m1m2)2(m1+m2)\nG4\ngiven by P(r,m1,m2) = 32\n,\nc5\nr5\n5\nwhere r is the distance between the centers of\nthe two orbiting masses m1 and m2. It is known\nthat the most compact object is a black hole. The\nsize of a black hole is deﬁned by its Schwarz-\nschild radius rs = 2Gm\nc2 , where m is the mass of"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "text": "the black hole.\ni) (2 points) Estimate the upper limit of the\npower that can ever be emitted in gravitational\nwaves by an orbiting binary system.\nThe gravitational wave detectors on Earth\nfunction by measuring the so called gravity wave\nstrain ε(t) over time, which characterizes the de-\nformation of spacetime. Data processing then\nyields the maximum strain ε and its correspond-\ning wave frequency f . With the help of a theor-\netical spacetime model, the energy density u as-\nsociated with the wave can then be determined.\nWe will use the analogy of linear elasticity to ex-\namine this model.\nii) (1.5 points) Derive the energy density u =\nu(ε,E) in a uniformly stretched elastic band in\nterms of the strain ε and the Elastic (Young’s)\nmodulus E.\niii) (1.5 points) Use dimensional analysis to es-\ntimate the frequency-dependent elastic modu-\nlus of spacetime E(f ) in terms of the universal\ngravitational constant G, speed of light c and\ngravitational wave frequency f .\niv) (2 points) Estimate the maximum distance\nz = z(ε,f ) from the Earth to the gravitational\nwave source as a function of the strain ε and fre-\nquency f . Use the models derived previously in\nthis problem.\n5. VIRTUAL MASS (10 points) — Jaan Kalda.\nWhen a body moves in a ﬂuid, the eﬀective in-\nertial mass appears to be larger than the mass of\nthe body itself, because to accelerate the body\nsome of the ﬂuid needs to be accelerated as well.\nThis increase is called added mass or virtual mass.\nMeasure the amount of virtual mass mv that is\nadded to the ball as it moves through water. The\ndiameter of the ball is d = 72.0mm. You don’t\nhave to calculate the uncertainty of your results,\nhowever the accuracy of your methods and res-\nults is important and will be graded.\nEquipment: Ball ﬁxed to a spring, stand,\nstopwatch, ruler, container with water."
+    },
+    {
+      "page": 1,
+      "column": 4,
+      "text": "6. LOOP (6 points) — Lasse Franti. A wire\nloop is hovering in outer space (weightless va-\ncuum) with its plane parallel to the xy-plane. In\nx < 0 there is a homogeneous magnetic ﬁeld par-\nallel to the z-axis. The rigid rectangular loop is\nl = 10cm wide and h = 30cm long. The loop is\nmade of copper wire with a circular cross sec-\ntion (radius r = 1.0mm).\nAt t = 0s the ex-\nternal magnetic ﬁeld starts to decrease at a rate\nof 0.025 T/s.\ni) (3 points) Find the acceleration of the loop\nright after t = 0s. The magnetic ﬂux density\nis initially B = 2.0T and the loop is immersed\nd = 12cm into the external ﬁeld with its shorter\nside parallel to the y-axis.\nii) (3 points) We can try to increase the acceler-\nation in many ways. How does the result in i)\nchange if\na) the loop is made with twice thicker copper\nwire (r = 2.0mm)?\nb) the original wire is wound three times in-\nstead of one (giving a short-circuited coil with\nthree windings, the dimensions of the rectangle\nstay the same)?\nc) the mass of the coil is kept constant by us-\ning a wire with half the cross section which is\nthen wound two times (the dimensions of the\nrectangle stay the same)?\nd) the loop is made of a diﬀerent metal?\nWhich of the metals given in the table gives the\nbest result?\nMetal\nResistivity\nDensity\n10−8 m\n103 kg/m3\nIron\n9.71\n7.87\nCopper\n1.67\n8.96\nAluminum\n2.65\n2.70\nLithium\n8.55\n0.53\ne) What if we use the thicker copper wire\nto make a twice bigger loop (r = 2.0mm, l =\n20cm, h = 60cm) and immerse it 24 cm into\nthe external ﬁeld?"
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "text": "7. ZENER (7 points) — Jaan Kalda. A Zener\ndiode is connected to a source of alternating cur-\nrent as shown in the ﬁgure. The current is sinus-\noidal I = I0 cosωt with a constant amplitude.\nThe inductance L of the inductor is such that\nLωI0 ≫V1,V2, where V1 and V2 are the break-\ndown voltages (V1 > V2). The current-voltage\ncharacteristic of the Zener diode is shown in the\nﬁgure. In the following assume that a very long\ntime has passed since the current source was ﬁrst\nturned on.\ni) (5 points)Find the average current 〈I〉through\nthe inductor.\nii) (2 points)Find the peak-to-peak amplitude of\nthe current changes ∆I in the inductor.\nI\nL\nω\nt\nI0cos\n-\nV1\nV\nV2\n8. BEAMS (6 points) — Andres Põldaru. There\nare three beams between two absolutely rigid\nplates. The weight of the plates and the beams\ncan be neglected. The coeﬃcient of thermal ex-"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "text": "pansion of the beams is α = 1.0×10−5 K−1. The\nmaximum strain (relative length change com-\npared to the no load case) before permanent in-\nelastic deformations of the material of the beam\nis β = 0.40%. The beams can support a max-\nimum amount of weight on the top plate, at\nwhich point permanent deformations start tak-\ning place in some of the beams.\ni) (2 points)Initially all the beams are at the same\ntemperature. Then the temperature of the beam\nin the middle is increased by ∆T = 100K. Com-\npared to the case when the beams were at equal\ntemperatures, what fraction of the original max-\nimal weight can the beams now support on the\ntop plate? Assume that the properties of the ma-\nterials (speciﬁcally the maximum strain and the\nelastic modulus) don’t change during the heat-\ning.\nii) (4 points) All of the beams are originally at\ntemperature T0 = 0◦C. A load of 20% of the"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "text": "maximal load is placed on the top plate. Keep-\ning the same load on, to what temperature can\nthe beam in the middle be heated such that no\npermanent deformations occur? This time the\nelastic modulus of the material changes depend-\ning on the temperature as shown in the ﬁgure\nbelow (a larger ﬁgure is given on an extra sheet).\nHint (added during the competition):\nthe\nelastic modulus or Young modulus E is deﬁned by\nthe formula F/A = E∆l/l, where F is the force, A\nis the area and ∆l/l is the relative lengthening.\n200\n160\nE/GPa\n120\n80\n40\n0\n0\n100\n200\n300\n400\n500\n600\n700\n800\nT/◦C\n9. SPACECRAFT PRESSURE (6 points) — Jo-\nhan Runeson. Consider a spacecraft shaped as\na homogeneous pipe, which is closed at both\nends. The spacecraft is rotating around its cen-\nter of mass with angular velocity ω, around an\naxis perpendicular to the pipe, in order to sim-\nulate gravity. The spacecraft is ﬁlled with air of\nmolar mass µ, which has pressure p0 at the rota-"
+    },
+    {
+      "page": 2,
+      "column": 4,
+      "text": "tion axis. The diameter of the spacecraft is much\nsmaller than its length. Added during the compet-\nition: the temperature is T.\ni) (4 points) Calculate the pressure p as a func-\ntion of the distance r from the rotation axis.\nii) (2 points) As a comparison, consider a (non-\nrotating) tower in a constant gravitational ﬁeld\nof strength g, ﬁlled with the same gas. If the\nground level pressure is p0, what is the pressure\np as a function of height h above the ground in\nsuch a tower?\n10. BLACK BOX (10 points) — Jaan Kalda,\nSiim Ainsaar. In a black box with three termin-\nals (A, B and C) there is a resistor (resistance\nR1), a capacitor (capacitance C), and a series\nconnection of a battery (electromotive force E)\nwith another resistor (R2).\ni) (3 points)Determine the circuit diagram of the\nblack box.\nii) (7 points)Measure the electromotive force of\nthe battery, the resistances of the resistors, and\nthe capacitance of the capacitor. Estimate the\nuncertainties. Always indicate the circuit dia-\ngram and the multimeter settings you used for\nthe measurements!\nEquipment:\nblack box, multimeter, stop-\nwatch, wires, graph paper."
+    },
+    {
+      "page": 3,
+      "column": 1,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 3,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 4,
+      "text": ""
+    }
+  ]
+}

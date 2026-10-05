@@ -1,0 +1,3894 @@
+{
+  "file_id": 3112,
+  "statements": [
+    {
+      "number": "FoL.1",
+      "heading": "Problem FoL.1 . . . thoughtful",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "While sitting and thinking deeply, Aleš was throwing a little ball against a wall. Each time, he\nthrew the ball with an initial speed v0 = 10 m·s−1 at an angle α = 60◦from the vertical axis.\nSince he was sitting in a narrow corridor with width d = 1.5 m, the ball always bounced back\nand forth between the walls a couple of times. What is the maximum height (measured relative\nto ball’s initial position) that the ball will reach along its trajectory? Consider all collisions to\nbe perfectly elastic. The acceleration due to gravity is g = 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6666259765625,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            61.08340072631836,
+            399.6744079589844,
+            75.06878662109375
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            75.79340362548828,
+            399.6822509765625,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839981079101562,
+            86.70340728759766,
+            399.6755676269531,
+            95.66940307617188
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839981079101562,
+            97.6134033203125,
+            399.6665344238281,
+            106.57939910888672
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839981079101562,
+            107.15760040283203,
+            301.5542297363281,
+            117.70878601074219
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.2",
+      "heading": "Problem FoL.2 . . . Ded Moroz",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Consider Mr Spherical (whose shape, incidentally, happens to be perfectly spherical) that likes\nto wear a tight-fitting jacket of negligible thickness (compared to his radius). Wearing his jacket,\nMr Spherical went outside for a walk. Once the thermal equilibrium between Mr Spherical\nand his surroundings was established, the temperatures at the inner and outer surfaces of his\njacket could be measured to be 25 ◦C and −5 ◦C, respectively. Find the temperature (in degrees\nCelsius), which is measured exactly in the middle of the layer of Mr Spherical’s jacket (i.e. half-\nway through the bulk of the layer).",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            325.2134094238281,
+            399.675537109375,
+            334.1794128417969
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            336.1234130859375,
+            399.6755676269531,
+            345.08941650390625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            347.0334167480469,
+            399.6666564941406,
+            355.9994201660156
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            357.94342041015625,
+            399.6666564941406,
+            366.909423828125
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            367.48760986328125,
+            399.66912841796875,
+            378.038818359375
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            379.763427734375,
+            399.6666259765625,
+            388.72943115234375
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            390.6734313964844,
+            161.72694396972656,
+            399.6394348144531
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.3",
+      "heading": "Problem FoL.3 . . . fiat nox",
+      "page_start": 2,
+      "page_end": 3,
+      "text": "Consider a short-circuited two-conductor copper wire. At one end of the wire, a resistance\nof R = 65.3 mΩwas measured using an ohmmeter. What is the distance (along the wire) to\nthe short-circuited section of the wire from the end where the measurement was performed?\nThe resistivity of copper is ϱ = 1.71 · 10−8 Ω·m, the cross-sectional diameter of one conductor\nis d = 1.50 mm.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            516.5033569335938,
+            399.6665954589844,
+            525.4693603515625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            527.4133911132812,
+            399.6705017089844,
+            536.5988159179688
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            538.3234252929688,
+            399.6666564941406,
+            547.2894287109375
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            35.61279296875,
+            399.66876220703125,
+            48.388790130615234
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            50.1134033203125,
+            82.05427551269531,
+            59.298789978027344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.4",
+      "heading": "Problem FoL.4 . . . the runnier, the better",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Dominika is secretly preparing homeopathics at home. She uses a cup filled with a solution\nof volume V0 = 200 ml and concentration of the active agent c0 = 0.001 M. She then pours\naway a half of this volume and fills the cup with water to the original volume V0. She repeats\nthis process 70 times. Statistically speaking, how many molecules of the active agent are left\nin the cup at the end? Assume that the solution and water are always perfectly mixed.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            244.2934112548828,
+            399.6665344238281,
+            253.25941467285156
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            255.20339965820312,
+            399.6785583496094,
+            265.3788146972656
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.8399658203125,
+            266.1134338378906,
+            399.6766357421875,
+            275.6360168457031
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.8399658203125,
+            277.0234069824219,
+            399.66656494140625,
+            285.9894104003906
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.8399658203125,
+            287.9334411621094,
+            370.88568115234375,
+            296.8994445800781
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.5",
+      "heading": "Problem FoL.5 . . . brake failure",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "A truck experiences brake failure and needs to make an emergency stop. Luckily enough, it’s\njust driving through a flood zone with lots of sand-filled bags. Assume that the mass of the\ntruck is M = 6 t and that one bag filled with sand weighs m = 60 kg. How many sand bags will\nthe truck need to collide with until it slows down to 75 % of its initial speed v0 = 50 km·h−1?\nAssume that the collisions are perfectly inelastic and that after colliding with the truck, the\nbags are pushed in front of it without friction.",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.66656494140625,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6665954589844,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.67852783203125,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            85.34760284423828,
+            399.68853759765625,
+            96.88878631591797
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84002685546875,
+            97.6134033203125,
+            399.6666564941406,
+            106.57939910888672
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84002685546875,
+            108.52340698242188,
+            206.4224853515625,
+            117.4894027709961
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.6",
+      "heading": "Problem FoL.6 . . . fungus librariensis",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "In order to protect books from becoming damp, some libraries choose to keep the relative\nhumidity at φ0 = 25 %. Find the mass of water which would (after complete evaporation)\nturn such a library into a suitable environment for mould growth. You can assume that the\nideal value of relative humidity for mould growth is φp = 60 %. The total volume of air in\nthis particular library is V = 180 m3, the (constant) ambient temperature is t = 24 ◦C and the\nsaturated vapour density at 24 ◦C is 21.8 g·m−3.",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            318.93341064453125,
+            399.6756286621094,
+            327.8994140625
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            329.8434143066406,
+            399.67303466796875,
+            340.02880859375
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.840003967285156,
+            340.75341796875,
+            399.6666564941406,
+            349.71942138671875
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.840003967285156,
+            351.6634216308594,
+            399.6763000488281,
+            361.84881591796875
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84002685546875,
+            361.2076110839844,
+            399.6776428222656,
+            371.7588195800781
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.840087890625,
+            372.11761474609375,
+            213.1343536376953,
+            382.6688232421875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.7",
+      "heading": "Problem FoL.7 . . . server not found",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Consider computer X, which is connected by two optical fibres to two other computers A and B.\nThe total length of these optical fibres together is l = 3.0 km. A signal from computer A,\nbearing a message that it was sent at the time 1 413 753 899.213 575 3 s (Unix timestamp of\nthe time counter at computer A) reached computer X at the time 1 413 753 899.213 592 1 s\n(Unix timestamp of the time counter at computer X). Similarly, a signal from computer B was\nreceived by computer X at time 1 413 753 906.459 900 4 s, bearing the message that it was sent\nat the time 1 413 753 906.459 892 5 s. Assume that the time counters of computers A and B are\nsynchronized, but that the time counter of computer X is either gaining or lagging behind.\nLuckily, this deviation stays constant in time. Also, do not take into account either the effects\nof relativity or the time to process the signals. Assuming that the speed of propagation of\nsignals along the fibres is c = 2.0 · 108 m·s−1, find the length of the fibre between A and X.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            174.38340759277344,
+            399.6842956542969,
+            183.56878662109375
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            185.2934112548828,
+            399.6842956542969,
+            194.47879028320312
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            196.2034149169922,
+            399.6740417480469,
+            205.3887939453125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            207.10340881347656,
+            399.680419921875,
+            216.28878784179688
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            218.01341247558594,
+            399.6914978027344,
+            227.19879150390625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            228.9234161376953,
+            399.6820068359375,
+            238.10879516601562
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.840042114257812,
+            239.8334197998047,
+            399.68035888671875,
+            249.018798828125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            250.74343872070312,
+            399.67919921875,
+            259.9288330078125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            261.6534118652344,
+            399.6666564941406,
+            270.6194152832031
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            272.5634460449219,
+            399.6666564941406,
+            281.5294494628906
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84002685546875,
+            279.8828125,
+            399.68426513671875,
+            292.6588134765625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.8",
+      "heading": "Problem FoL.8 . . . Archimedes drowned",
+      "page_start": 5,
+      "page_end": 6,
+      "text": "The diagram below shows schematically two situations dealing with an aluminium sphere,\ncylindrical flask with water and a holding apparatus from which the sphere can be suspended.\nIn the two situations, we have that\na) the holder is placed on top of the scales with the sphere suspended from it. The sphere is\nfully submerged in the flask which is held off the scales,\nb) the same as a), except in this case, the flask rests on the scales.\nFind the difference ∆m = mb −ma of the readings mb and ma shown by the scales in the si-\ntuation b) and a) respectively.\nThe radius of the (homogeneous) sphere is r = 1.03 cm, the inner radius of the flask is\nR = 3.01 cm. The height of the water column in the flask with the sphere fully submerged\nin it is h = 5.10 cm. The densities of water and aluminium are ϱ = 996 kg·m−3 and ϱAl =\n= 2 700 kg·m−3, respectively. The mass of an empty flask is mn = 124.5 g. Assume that the\nsuspension part of the holding apparatus is of negligible mass and volume. The rest of the\napparatus has a mass of md = 523.5 g. The range of values that the scales can measure is\nsufficient for it to show both readings with accuracy up to 0.1 g. The density of air should be\nregarded as negligible. State your answer in kilograms.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            494.68341064453125,
+            399.6666564941406,
+            503.6494140625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            505.5934143066406,
+            399.6666259765625,
+            514.5593872070312
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            516.5033569335938,
+            161.0096435546875,
+            525.4693603515625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            527.4133911132812,
+            399.6641845703125,
+            536.37939453125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            32.650001525878906,
+            538.3234252929688,
+            257.472412109375,
+            547.2894287109375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            39.20340347290039,
+            289.6861572265625,
+            48.169403076171875
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            50.1134033203125,
+            399.6750183105469,
+            60.19320297241211
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.8399658203125,
+            61.02340316772461,
+            142.06448364257812,
+            69.9894027709961
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            33.78996658325195,
+            71.93341064453125,
+            399.67474365234375,
+            81.11878967285156
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.8399658203125,
+            82.8434066772461,
+            399.663818359375,
+            92.0287857055664
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.8399658203125,
+            89.94340515136719,
+            399.683837890625,
+            104.11878967285156
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            103.29759979248047,
+            399.6809387207031,
+            114.83879089355469
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            115.57341003417969,
+            399.6666259765625,
+            124.5394058227539
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            126.4833984375,
+            399.673828125,
+            136.72879028320312
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            137.38340759277344,
+            399.67236328125,
+            146.56878662109375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839981079101562,
+            148.2934112548828,
+            240.29595947265625,
+            157.25941467285156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.9",
+      "heading": "Problem FoL.9 . . . carriage on a blind track",
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Consider a railway carriage with mass M = 20 t, which moves on the tracks without friction.\nInside the carriage, there is an elephant with mass m = 4 t, initially at rest. Find the distance\nby which the carriage moves, if the elephant walks a distance of l = 12 m and then stops again.\n(The elephant can move only parallel to the tracks, because the carriage is quite narrow.)",
+      "locations": [
+        {
+          "page": 7,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.676025390625,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839981079101562,
+            64.8934097290039,
+            399.673828125,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839981079101562,
+            75.79340362548828,
+            399.67742919921875,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839981079101562,
+            86.70340728759766,
+            381.67181396484375,
+            95.66940307617188
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.10",
+      "heading": "Problem FoL.10 . . . driving in rain",
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Find the total volume of water (in litres) that falls down on a Karosa 700 type bus as it travels for\nan hour at a speed of vb = 50 km·h−1. Assume the bus to be of a cuboid shape with height h =\n= 4 m, width w = 2.5 m and length l = 12 m. The rain falls vertically downwards with speed vr =\n= 10 m·s−1 and flux (that is, the volume of water crossing a unit area perpendicular to the\nvelocity of the falling rain, per unit time) Q = 5 mm·h−1.",
+      "locations": [
+        {
+          "page": 7,
+          "bbox": [
+            19.84000015258789,
+            224.02340698242188,
+            399.6792297363281,
+            232.98941040039062
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839996337890625,
+            233.56761169433594,
+            399.683837890625,
+            245.1787872314453
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839996337890625,
+            245.84341430664062,
+            399.6838684082031,
+            256.018798828125
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.84002685546875,
+            252.94342041015625,
+            399.6671447753906,
+            265.9388122558594
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.84002685546875,
+            266.297607421875,
+            249.00428771972656,
+            276.84881591796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.11",
+      "heading": "Problem FoL.11 . . . on your own drive",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Find the efficiency (in %) of a thermodynamic cycle consisting of two isothermal processes and\ntwo isochoric processes (see the figure). Assume that the cycle works between temperatures\nT1 = 373 K and T2 = 273 K and that the heat released during the isochoric process 2 →3 is\nfed into the isochoric process 4 →1.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6678466796875,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.66668701171875,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.68548583984375,
+            85.9787826538086
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            86.70340728759766,
+            165.7342529296875,
+            95.88878631591797
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.12",
+      "heading": "Problem FoL.12 . . . the most important letter’s centre of mass",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Has it ever occurred to you that F might actually be the most important letter of the alphabet?\nFind the y coordinate of the centre of mass of the shape of the letter F. You can assume that\nthe shape is built up from 10 identical homogeneous square-shaped laminae with side length a.\nExpress your answer to three significant figures as a multiple of a in the coordinate grid indicated\nin the figure.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            356.0133972167969,
+            399.66851806640625,
+            364.9794006347656
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.840003967285156,
+            366.92340087890625,
+            399.6772766113281,
+            376.1087951660156
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            377.8334045410156,
+            399.68426513671875,
+            387.018798828125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            388.743408203125,
+            399.6797790527344,
+            397.9288024902344
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            399.6534118652344,
+            71.59175109863281,
+            408.6194152832031
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.13",
+      "heading": "Problem FoL.13 . . . sulphuring the barrels",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Sulphur dioxide was and still is used as a preservative for wine casks. One of the sulphuring\ntechniques involves burning sulphur discs directly inside the casks. Consider a cask with volu-\nme 200 l, inside which two sulphur discs are placed, each containing 2 g of sulphur. The discs\nare then ignited and the cask is closed hermetically. What is the fraction of cask’s volume\nthat SO2 will occupy after both discs burn down completely? Assume that when all burning\nstops, the temperature inside the cask decreases immediately back to T = 20 ◦C, the same as it\nwas initially. Molar mass of sulphur is M = 32 g·mol−1 and the ambient atmospheric pressure\nis p = 101 kPa.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            115.83340454101562,
+            399.6756896972656,
+            124.79940032958984
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            126.743408203125,
+            399.6755676269531,
+            135.70941162109375
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            137.65341186523438,
+            399.6784973144531,
+            146.8387908935547
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            148.55340576171875,
+            399.675537109375,
+            157.5194091796875
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            159.46340942382812,
+            399.6661682128906,
+            170.78941345214844
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.83999252319336,
+            169.0076141357422,
+            399.67913818359375,
+            179.5587921142578
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84002685546875,
+            177.47341918945312,
+            399.6718444824219,
+            190.4687957763672
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.840042114257812,
+            192.19342041015625,
+            79.14431762695312,
+            201.37879943847656
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.14",
+      "heading": "Problem FoL.14 . . . to jump, or not to jump",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "A horizontal plate performs simple harmonic motion with period T = 0.5 s in the vertical\ndirection. Find the maximum value of the amplitude of oscillations A (in centimetres) such\nthat a body lying on the plate would remain in contact with the plate throughout the motion.\nThe acceleration due to gravity is g = 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            467.29339599609375,
+            399.68560791015625,
+            476.4787902832031
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            478.2033996582031,
+            399.68817138671875,
+            487.3887939453125
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            489.1134033203125,
+            399.66656494140625,
+            498.07940673828125
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            498.6575927734375,
+            220.02426147460938,
+            509.20880126953125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.15",
+      "heading": "Problem FoL.15 . . . tea at five",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Náry decided to make himself a cup of mint tea. Reading the instructions „Place the teabag into\nboiling water.“ on the side of the box made him think about the following question: How much\nenergy could be saved, if only he could prepare his tea at the summit of Triglav, the highest\npeak in Slovenia (2 864 meters above the sea level) instead of doing it at his home in Boskovice?\nYou can assume that the ambient pressure and temperature in Boskovice are pB = 101 325 Pa\nand tB = 25 ◦C respectively. The temperature at Triglav is tT = 13 ◦C and ideal gases there\noccupy 1.44 times the volume they occupy in Boskovice. Also, the boiling point of water tv and\nthe ambient pressure p are related (over a suitable range of values of p) as\ntv = τ + kp ,\nwhere τ = 71.6 ◦C and k = 2.8 · 10−4 K·Pa−1. In order to prepare his tea, Náry needs to\nbring m = 600 g of water with initial temperature t0 = 20 ◦C (assumed to be the same in\nboth cases) to a boil. All energy losses should be neglected. The specific heat capacity of water\nis c = 4 180 J·kg−1·K−1.",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            284.9234313964844,
+            399.6755676269531,
+            293.8894348144531
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            295.8334045410156,
+            399.6755676269531,
+            304.7994079589844
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            306.7434387207031,
+            399.6666564941406,
+            315.7094421386719
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            317.6534118652344,
+            399.6739196777344,
+            326.83880615234375
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.840003967285156,
+            328.56341552734375,
+            399.58721923828125,
+            338.7488098144531
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.8399658203125,
+            338.10760498046875,
+            399.6729736328125,
+            349.6488037109375
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            350.3834228515625,
+            399.68768310546875,
+            360.33941650390625
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.8399658203125,
+            361.2934265136719,
+            319.322509765625,
+            370.47882080078125
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            184.969970703125,
+            379.0128173828125,
+            234.5607147216797,
+            388.97882080078125
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839981079101562,
+            392.71282958984375,
+            399.67724609375,
+            405.48883056640625
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839981079101562,
+            405.8476257324219,
+            399.67523193359375,
+            417.3888244628906
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839981079101562,
+            418.1234436035156,
+            399.6755676269531,
+            427.0894470214844
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839981079101562,
+            427.6676330566406,
+            115.65425872802734,
+            438.2188415527344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.16",
+      "heading": "Problem FoL.16 . . . scary shopping",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Kiki set off to London (which lies s = 1 500 km from her home) to buy some 18F. Knowing that\nthe half-life of this poor quality stuff was only 1.8 h, she decided to buy 32 g right away. Find the\nspeed (in km·h−1) with which she had to fly back in order to bring home 10 g of 18F more than\nif she had opted for a 24 hour journey by bus.",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            246.27801513671875,
+            399.6826477050781,
+            256.71881103515625
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84002685546875,
+            258.44342041015625,
+            399.6794738769531,
+            267.6288146972656
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.840042114257812,
+            267.98760986328125,
+            399.6819152832031,
+            278.538818359375
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.839996337890625,
+            280.263427734375,
+            205.8844757080078,
+            289.22943115234375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.17",
+      "heading": "Problem FoL.17 . . . feed a castle",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "In their time (i.e. at the turn of the 19th and 20th century), the owners of the Kokořín castle\nwere progressively thinking people – they introduced gas heating based on burning acetylene\ncreated by reacting calcium carbide with water\nCaC2 + 2 H2O −−→C2H2 + Ca(OH)2 .\nCompare the energetic efficiency of this carbide-fuelled heating to that of a wood-fuelled alter-\nnative, i.e. find the ratio of energies gained from a unit mass of wood and a unit mass of carbide.\nUse the following data: density of calcium carbide ϱ(CaC2) = 2 200 kg·m−3, molar mass of calci-\num carbide M(CaC2) = 64 g·mol−1, heating value of acetylene H(C2H2) = 48 MJ·kg−1, molar\nmass of acetylene M(C2H2) = 26 g·mol−1, heating value of wood Hd = 14 MJ·kg−1, density of\nwood ϱ = 520 kg·m−3. Assume that the castle has a sufficiently large water reservoir. The fact\nthat the fuel needs to be transported over an altitude difference h = 50 m from a nearby lying\nvillage uphill should be included in your energy balance considerations. The acceleration due\nto gravity is g = 9.8 m·s−2.",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            114.21340942382812,
+            399.6665954589844,
+            123.17940521240234
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            125.1234130859375,
+            399.6756286621094,
+            134.08941650390625
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            136.0334014892578,
+            209.66815185546875,
+            144.99940490722656
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            132.38999938964844,
+            154.9571990966797,
+            287.13427734375,
+            166.0587921142578
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            173.7834014892578,
+            399.6666564941406,
+            182.74940490722656
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            184.6934051513672,
+            399.6666259765625,
+            193.65940856933594
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            194.23760986328125,
+            399.6744689941406,
+            206.49600219726562
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.8399658203125,
+            205.14761352539062,
+            399.677001953125,
+            217.406005859375
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.8399658203125,
+            216.0576171875,
+            399.675537109375,
+            228.31600952148438
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.8399658203125,
+            226.96762084960938,
+            399.66949462890625,
+            237.518798828125
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.83995819091797,
+            239.24342346191406,
+            399.6804504394531,
+            248.42880249023438
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.8399658203125,
+            250.15341186523438,
+            399.6665954589844,
+            259.1194152832031
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.8399658203125,
+            259.6976318359375,
+            128.33424377441406,
+            270.24884033203125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.18",
+      "heading": "Problem FoL.18 . . . bullet",
+      "page_start": 12,
+      "page_end": 13,
+      "text": "In a dark abandoned hall, there are a robber and a policeman standing against each other by\nthe opposite sides of the hall. Having heard steps echoing in the darkness, the criminal points\nhis gun horizontally on the unsuspecting cop and is about to shoot. What he doesn’t know\nis that a potential difference U = 10 kV was brought between the floor and the ceiling of the\nhall, thus creating a homogeneous field acting (vertically downwards) on the fired bullet, since\nthe bullet acquires a charge q as it travels through the muzzle. Find the least charge-to-mass\nratio q/m of the bullet such that it hits the floor before it reaches the policeman (where by m,\nwe denote the mass of the bullet). The robber and the policemen are separated by a distance\nof D = 100 m, the ceiling is d = 8 m above the floor and the bullet is fired horizontally with\nmuzzle velocity v0 = 400 m·s−1. Assume that the robber holds his gun h = 1.5 m above the\nfloor and that the acceleration due to gravity is g = 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            525.6333618164062,
+            399.67559814453125,
+            534.599365234375
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            536.5433959960938,
+            399.6755676269531,
+            545.5093994140625
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            39.20340347290039,
+            399.67559814453125,
+            48.169403076171875
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            50.1134033203125,
+            399.673583984375,
+            59.298789978027344
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.840003967285156,
+            61.02340316772461,
+            399.66668701171875,
+            69.9894027709961
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.840003967285156,
+            71.93341064453125,
+            399.6792907714844,
+            81.11878967285156
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.840003967285156,
+            82.8434066772461,
+            399.6842956542969,
+            92.0287857055664
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84002685546875,
+            93.75340270996094,
+            399.6666564941406,
+            102.71939849853516
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84002685546875,
+            104.66340637207031,
+            399.671142578125,
+            113.84878540039062
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84001922607422,
+            114.20759582519531,
+            399.68182373046875,
+            125.74878692626953
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.839996337890625,
+            125.11759185791016,
+            276.1442565917969,
+            135.6687774658203
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.19",
+      "heading": "Problem FoL.19 . . . watermelon",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Náry was sitting on a swing, which was at rest. Suddenly, he felt like eating a watermelon,\nso other FYKOS guys immediately threw him one with mass mm = 20 kg. Assuming that the\nspeed of the watermelon was vm = 10 m·s−1, find the angle by which the swing with Náry moves.\nNáry (approximated by a point particle) weighs mn = 80 kg and the swing rope is L = 4 m\nlong. Also, assume that the watermelon hit Náry (who managed to catch it) horizontally in\nthe plane of rotation of the swing. State your answer in degrees. Gravitational acceleration is\ng = 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            462.67340087890625,
+            399.67559814453125,
+            471.639404296875
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            473.5834045410156,
+            399.6778564453125,
+            483.768798828125
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.839996337890625,
+            483.1275939941406,
+            399.6800537109375,
+            494.6788024902344
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.839988708496094,
+            495.4034118652344,
+            399.6371765136719,
+            505.58880615234375
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.8399658203125,
+            506.3134460449219,
+            399.66656494140625,
+            515.2794189453125
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.8399658203125,
+            517.223388671875,
+            399.66656494140625,
+            526.1893920898438
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.8399658203125,
+            526.7676391601562,
+            81.14424133300781,
+            537.3187866210938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.20",
+      "heading": "Problem FoL.20 . . . a superconducting one",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Consider two superconducting capacitors with capacitances C1 = 10 μF, C2 = 5.0 μF and\na superconducting DC power supply with voltage U = 10 V. All these components are connected\nby superconducting wires. The superconductors are perfect, hence there is no resistance and\ntherefore, Joule heating will not occur. First, let us connect the first capacitor to the DC supply\nand wait until the charge builds up. When it is fully charged, we disconnect the DC power supply\nand connect the second capacitor to the first one instead. Find the difference between the energy\nstored in the first capacitor alone and the total energy of the two connected capacitors.",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            301.6134338378906,
+            399.6876220703125,
+            311.798828125
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.83990478515625,
+            312.5234069824219,
+            399.6708984375,
+            321.70880126953125
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.83990478515625,
+            323.43341064453125,
+            399.66656494140625,
+            332.3994140625
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.83990478515625,
+            334.3434143066406,
+            399.66644287109375,
+            343.3094177246094
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.83990478515625,
+            345.25341796875,
+            399.66650390625,
+            354.21942138671875
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.83990478515625,
+            356.1634216308594,
+            399.6665954589844,
+            365.1294250488281
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.83990478515625,
+            367.07342529296875,
+            372.4456787109375,
+            376.0394287109375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.21",
+      "heading": "Problem FoL.21 . . . buoyant swings with a pulley",
+      "page_start": 15,
+      "page_end": 15,
+      "text": "Consider two identical cylinders (base radius 5 cm, height 10 cm and density ϱ0 = 2.2 g·cm−3)\nin equilibrium, partially submerged in two containers filled with liquids of densities ϱ1 =\n= 1.0 g·cm−3 and ϱ2 = 0.8 g·cm−3 (see the diagram below). Find the period of small vertical\noscillations of this system about its equilibrium. Neglect the changes in the level of liquids in\nthe containers. Neglect also the mass of the strings. The acceleration due to gravity is g =\n= 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.84000015258789,
+            125.53760528564453,
+            399.6864013671875,
+            137.0887908935547
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            137.81341552734375,
+            399.683837890625,
+            147.99879455566406
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            144.9134063720703,
+            399.6802673339844,
+            158.90878295898438
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            159.63340759277344,
+            399.6665954589844,
+            168.5994110107422
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            170.5434112548828,
+            399.683837890625,
+            179.72879028320312
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            180.08761596679688,
+            73.87427520751953,
+            190.6387939453125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.22",
+      "heading": "Problem FoL.22 . . . on the head",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "A new notice board needs a new nail (with length l = 80 mm), with which it should be nailed\nto the wall using our hammer with mass m = 0.4 kg. Five hits in total were needed to do\nthis. During each hit, the speed of the hammer just before it hit the head of the nail was v =\n= 8.0 m·s−1 (assume that upon hitting the nail, the hammer transfers all its kinetic energy into\nthe nail). However, having nailed it down, we noticed that the board hangs askew. What is\nthe magnitude of the force, with which we will need to pull the nail out of the wall? Assume\nthat the mass of the nail is negligible. Also, assume that the magnitude of the frictional force\nis directly proportional to the length of the part of the nail, which is inside the board, and that\nit is the same during both pulling the nail out and nailing it in.",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            126.90341186523438,
+            399.6763916015625,
+            136.0887908935547
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839981079101562,
+            137.81341552734375,
+            399.67510986328125,
+            146.99879455566406
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            148.72340393066406,
+            399.6838073730469,
+            157.90878295898438
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            155.8234100341797,
+            399.6773986816406,
+            168.81878662109375
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            170.5434112548828,
+            399.6665344238281,
+            179.50941467285156
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            181.4534149169922,
+            399.66656494140625,
+            190.41941833496094
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            192.36341857910156,
+            399.6666564941406,
+            201.3294219970703
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            203.27342224121094,
+            399.6665344238281,
+            212.2394256591797
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            214.1834259033203,
+            276.84130859375,
+            223.14942932128906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.23",
+      "heading": "Problem FoL.23 . . . an infinite circuit",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "Find the resistance between the terminals A and B as shown on the diagram below. Put R =\n= 5 Ω, r = 1.5 Ωand neglect the resistance of leads.",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            485.3233947753906,
+            399.6838684082031,
+            494.5087890625
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.84002685546875,
+            496.2333984375,
+            227.9872283935547,
+            505.4187927246094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.24",
+      "heading": "Problem FoL.24 . . . bowling with a physicist",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "Once, when Olda went to play bowling, an intriguing thing happened. He threw the bowling\nball of mass 7.25 kg and radius 0.108 m with speed 12 m·s−1 and gave it such a spin that\nthe ball stopped and stayed put at rest before reaching the skittles. What was the angular\nspeed (in radians per second) which Olda had to give the ball for this to occur? Gravitational\nacceleration is 9.81 m·s−2. Air resistance and rolling friction can be neglected.",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            260.4134216308594,
+            399.6756286621094,
+            269.3794250488281
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            267.5133972167969,
+            399.676513671875,
+            280.5087890625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839981079101562,
+            282.2334289550781,
+            399.6665954589844,
+            291.1994323730469
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839981079101562,
+            293.1434020996094,
+            399.675537109375,
+            302.1094055175781
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839981079101562,
+            302.6876220703125,
+            333.56298828125,
+            313.23883056640625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.25",
+      "heading": "Problem FoL.25 . . . waves and wavelets",
+      "page_start": 18,
+      "page_end": 18,
+      "text": "As it known, propagation of surface waves on a lake is not significantly influenced by gravity in\nthe short-wavelength limit. Nevertheless there is a strong effect of surface tension which needs\nto be considered. Using dimensional analysis, determine the angular frequency of surface waves\nas a function of surface tension σ, water density ϱ and the wave number k = 2π/λ, where λ\nis the wavelength. Assume that the dimensionless coefficient is equal to one in this case. Also,\nderive an expression for the group velocity and substitute the values σ = 73 mN·m−1, ϱ =\n= 1 000 kg·m−3, λ = 2 cm.",
+      "locations": [
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            162.4434051513672,
+            399.6665344238281,
+            171.40940856933594
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            173.35340881347656,
+            399.66668701171875,
+            182.3194122314453
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            184.26341247558594,
+            399.6756286621094,
+            193.2294158935547
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            195.1734161376953,
+            399.6896057128906,
+            204.35879516601562
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.839996337890625,
+            206.0834197998047,
+            399.66656494140625,
+            215.04942321777344
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.839996337890625,
+            215.6276092529297,
+            399.6838684082031,
+            226.16879272460938
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84002685546875,
+            226.52761840820312,
+            124.664306640625,
+            237.07879638671875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.26",
+      "heading": "Problem FoL.26 . . . rolling cylinder",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "As a proper engineer, Dominika often indulges herself with rolling homogeneous cylinders down\na hill. At one such occasion (having a moment of clarity) she came up with an alternative method\nof determining the number of turns the cylinder completes before it falls off an inclined plane.\nFirst, she measured its mass (m = 123.8 g) and also its moment of inertia J = 1.807·10−5 kg·m2.\nIt is widely known that Dominika’s inclined plane is l = 1.02 m long and that it makes an arbit-\nrary angle α with horizontal. How many turns (real number, to three significant figures) does\nthe cylinder complete before it reaches the end of the inclined plane? Assume that the cylinder\nrolls precisely from one end of the plane to the other and that it moves without slipping in the\ndirection of maximum slope.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6755676269531,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6665954589844,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.6665954589844,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            83.12279510498047,
+            399.6842346191406,
+            95.88878631591797
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.8399658203125,
+            97.6134033203125,
+            399.6788330078125,
+            106.79878234863281
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.839950561523438,
+            108.52340698242188,
+            399.66339111328125,
+            117.70878601074219
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.839950561523438,
+            119.43341064453125,
+            399.6665954589844,
+            128.3994140625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.839950561523438,
+            130.34341430664062,
+            399.6665954589844,
+            139.30941772460938
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.839950561523438,
+            141.25340270996094,
+            134.61370849609375,
+            150.2194061279297
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.27",
+      "heading": "Problem FoL.27 . . . Zdeněk’s sphere",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "As a proper soon-to-be-engineer, Zdeněk (like Dominika) likes to roll various objects down an inc-\nlined plane. Nevertheless, unlike Dominika, who is rather more into cylinders, Zdeněk prefers\nto play with his sphere. He is not a fan of ordinary experimental methods, so in order to find\nout the density of his sphere, he decided to measure its mass m = 123.8 g (which is incidentally\nthe same as that of Dominika’s cylinder) and its moment of inertia J = 3.48 · 10−5 kg·m2. Your\ntask is to help Zdeněk with his calculation and determine the density of his solid homogeneous\nsphere.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            336.28338623046875,
+            401.58538818359375,
+            345.2493896484375
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            347.1933898925781,
+            399.6667175292969,
+            356.1593933105469
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            358.1033935546875,
+            399.6665954589844,
+            367.06939697265625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            369.0133972167969,
+            399.6822204589844,
+            378.19879150390625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.840011596679688,
+            376.3327941894531,
+            399.6878967285156,
+            389.1087951660156
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.839996337890625,
+            390.8233947753906,
+            399.6666259765625,
+            399.7893981933594
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.839996337890625,
+            401.7333984375,
+            48.07393264770508,
+            410.69940185546875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.28",
+      "heading": "Problem FoL.28 . . . energetic surface",
+      "page_start": 20,
+      "page_end": 20,
+      "text": "What is the contact angle (in degrees) of the interface of air, water (surface tension γl =\n= 74 mN·m−1) and an unknown solid with surface energy (sc. the solid-air interfacial ener-\ngy) γs = 53 mN·m−1? The solid-water interfacial energy is γsl = 25 mN·m−1.",
+      "locations": [
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.683837890625,
+            64.22879028320312
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.839996337890625,
+            63.52759552001953,
+            399.6673278808594,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.839996337890625,
+            74.4375991821289,
+            326.53424072265625,
+            86.04878234863281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.29",
+      "heading": "Problem FoL.29 . . . pyramid’s circuits vol. 2",
+      "page_start": 20,
+      "page_end": 20,
+      "text": "In the circuit shown below we first put the switch on and wait for the currents to come to\na steady state. Then we put the switch back off. What is the magnitude of the potential\ndifference (in volts) measured by the voltmeter immediately after the switch was turned off?\nTake the capacitors and coils to be ideal and assume that the voltmeter provides an infinite\nresistance. Put ε = 1 V and R1 = 3R2.",
+      "locations": [
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            398.4533996582031,
+            399.6666259765625,
+            407.4194030761719
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            409.3634033203125,
+            399.67559814453125,
+            418.32940673828125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            420.2734069824219,
+            399.6666259765625,
+            429.2394104003906
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            431.18341064453125,
+            399.6666259765625,
+            440.1494140625
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            442.0934143066406,
+            174.9642791748047,
+            452.268798828125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.30",
+      "heading": "Problem FoL.30 . . . gassed joules",
+      "page_start": 21,
+      "page_end": 21,
+      "text": "Náry once passed by a pressure vessel containing sulphur dioxide to which a number of meters\nwere attached and some data were printed on its mantle. Namely, he managed to read off that\nthe volume of the vessel was V = 1 m3 and that the mass of an empty vessel would be m =\n= 100 kg. The meters were showing the temperature of the gas inside, its pressure p = 5.3 MPa\nas well as the combined mass of the gas and the vessel M = 152 kg. However, being myopic, Náry\nwas unable to read off the value of the temperature. Luckily, he had 4 hours of free time so he\nset off to calculate the temperature assuming there was an ideal gas inside the vessel. Deeming\nthe value he obtained too low and having another 6 hours free, he decided to recalculate the\ntemperature under the assumptions of van der Waals theory. What is the magnitude of the\ndifference of the two results he got (in kelvins)?",
+      "locations": [
+        {
+          "page": 21,
+          "bbox": [
+            19.84000015258789,
+            174.6934051513672,
+            399.66668701171875,
+            183.65940856933594
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.84000015258789,
+            185.60340881347656,
+            399.6666259765625,
+            194.5694122314453
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.84000015258789,
+            192.7034149169922,
+            399.6838684082031,
+            205.69879150390625
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.84002685546875,
+            207.4234161376953,
+            399.59136962890625,
+            216.60879516601562
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.84002685546875,
+            218.3234100341797,
+            399.6785583496094,
+            227.5087890625
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.840042114257812,
+            229.23341369628906,
+            399.6666564941406,
+            238.1994171142578
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.840042114257812,
+            240.14341735839844,
+            399.6665954589844,
+            249.1094207763672
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.840042114257812,
+            251.05343627929688,
+            399.6666564941406,
+            260.0194396972656
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.840042114257812,
+            261.9634094238281,
+            399.6666564941406,
+            270.9294128417969
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.840042114257812,
+            272.8734436035156,
+            212.08006286621094,
+            281.8394470214844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.31",
+      "heading": "Problem FoL.31 . . . elusive lens",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "During a clean-up day in the FYKOS room, a thin lens together with a circular-aperture light\nsource with diameter d = 5 mm were found. First consider placing the lens in a distance s1 =\n= 12 cm from a screen. If we then put the source in a large distance from both the screen and\nthe lens, we will observe a point-like image on the screen. If on the other hand we place the\nlens and the source in a distance s2 and l2 respectively from the screen, we will observe a sharp\ncircular image with diameter d2 = 2 cm. Find the distance l2 (in cm).",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.84000015258789,
+            196.5434112548828,
+            399.67559814453125,
+            205.50941467285156
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.84000015258789,
+            207.4534149169922,
+            399.683837890625,
+            217.6387939453125
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            218.36341857910156,
+            399.6702575683594,
+            227.54879760742188
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            229.27342224121094,
+            399.66668701171875,
+            238.2394256591797
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            240.1834259033203,
+            399.6763916015625,
+            250.14942932128906
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839988708496094,
+            251.09341430664062,
+            300.0106506347656,
+            261.27880859375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.32",
+      "heading": "Problem FoL.32 . . . playing in the field",
+      "page_start": 23,
+      "page_end": 23,
+      "text": "Maťko and Kubko, two neon isotopes with mass numbers AM = 20 and AK = 22, came up with\na new game, where Maťko simply tries to copy all moves of Kubko. Carrying a charge of +e,\nKubko entered a homogeneous magnetic field with magnitude B = 0.24 T in the direction\nperpendicular to the field lines. Maťko, who also carries a charge of +e, entered the field\nat the same point and in the same direction as Kubko did. Find the distance d of the points where\nthe respective isotopes left the field, provided they both have the same kinetic energy EK =\n= 6.2 · 10−16 J. Take the values of the atomic mass unit and the elementary charge to be mu =\n= 1.660 57 · 10−27 kg and e = 1.602 · 10−19 C.",
+      "locations": [
+        {
+          "page": 23,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6739501953125,
+            64.1587905883789
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            64.8934097290039,
+            399.68426513671875,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            75.79340362548828,
+            399.6773376464844,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.84002685546875,
+            86.70340728759766,
+            399.6773376464844,
+            95.88878631591797
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.840042114257812,
+            97.6134033203125,
+            399.67523193359375,
+            106.79878234863281
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.840042114257812,
+            108.52340698242188,
+            399.68389892578125,
+            118.70878601074219
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.840057373046875,
+            115.84278869628906,
+            399.68389892578125,
+            129.61878967285156
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.840057373046875,
+            126.7527847290039,
+            200.6143341064453,
+            139.52879333496094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.33",
+      "heading": "Problem FoL.33 . . . planet Fykosia",
+      "page_start": 23,
+      "page_end": 23,
+      "text": "Fykosia is an as yet undiscovered planet of our Solar System. Find the ratio a/r (where r is\nthe radius of Fykosia and a is its distance from the Sun) and submit your answer as a multiple\nof π. Assume that the trajectories along which the planets orbit the Sun are circles and that the\nSun lies in their common centre. The orbital period of Fykosia is T = 3\n√\n3 yr and its density\nis ϱ = 5 000 kg·m−3. Also, assume that the magnitude of the force due to gravity acting on a\nbody with mass m = 1 kg placed on the surface of Fykosia is FG = 69 N. The gravitational\nconstant is G = 6.67 · 10−11 N·m2·kg−2.",
+      "locations": [
+        {
+          "page": 23,
+          "bbox": [
+            19.84000015258789,
+            460.28338623046875,
+            399.68548583984375,
+            469.4687805175781
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            471.1933898925781,
+            399.6806335449219,
+            480.3787841796875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            482.1033935546875,
+            399.6675109863281,
+            491.1231994628906
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            493.0133972167969,
+            313.65423583984375,
+            502.19879150390625
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            313.65997314453125,
+            485.68719482421875,
+            321.3438415527344,
+            494.6531982421875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            321.3399963378906,
+            493.0133972167969,
+            399.689453125,
+            502.19879150390625
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            502.5575866699219,
+            399.6654052734375,
+            513.1087646484375
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            514.8233642578125,
+            399.6875915527344,
+            525.1287841796875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            522.142822265625,
+            179.09426879882812,
+            534.9187622070312
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.34",
+      "heading": "Problem FoL.34 . . . feather-light",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "Imagine yourself in the role of an observer situated in the direction of north pole of a galaxy\ncalled Fykopaedia, which you observe rotating clockwise. Once you have managed to identify\nwhat appears to be the galactic centre, you also spot a star orbiting the centre along a circular\ntrajectory with radius r = 7 500 pc at the very edge of the galaxy. Having obtained a spectrum\nof this star, you notice that a hydrogen line with laboratory wavelength λemit = 587.49 nm is\ntransverse Doppler-shifted to λobs = 589.89 nm. Your task is now to find the mass of Fykopaedia\nin the units of solar mass. You should disregard any effects due to possible presence of dark\nmatter or dark energy. Also, assume that the observed spectral shift is solely due to transverse\nDoppler effect and that the mass distribution in the galaxy is spherically symmetric.",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            328.17340087890625,
+            399.6665344238281,
+            337.139404296875
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            339.0834045410156,
+            399.67559814453125,
+            348.0494079589844
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            349.993408203125,
+            399.6665954589844,
+            358.95941162109375
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            360.9034118652344,
+            399.67352294921875,
+            370.08880615234375
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            371.81341552734375,
+            399.68548583984375,
+            381.9988098144531
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            382.7234191894531,
+            399.6803283691406,
+            392.96881103515625
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839981079101562,
+            393.6334228515625,
+            399.6666259765625,
+            402.59942626953125
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839981079101562,
+            404.5434265136719,
+            399.6755676269531,
+            413.5094299316406
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839981079101562,
+            415.45343017578125,
+            361.4175720214844,
+            424.41943359375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.35",
+      "heading": "Problem FoL.35 . . . an accelerated one",
+      "page_start": 25,
+      "page_end": 25,
+      "text": "Consider a proton travelling inside a synchrotron with a total energy of Ep = 1.00 GeV. The pro-\nton collides with an alpha particle with a total energy of Eα = 3.75 GeV. Given the rest masses\nof a proton and an alpha particle mp = 0.938 GeV/c2 and mα = 3.727 GeV/c2, respectively,\ndetermine the ratio vp/vα of the speeds of the particles before they collide.",
+      "locations": [
+        {
+          "page": 25,
+          "bbox": [
+            19.84000015258789,
+            225.1734161376953,
+            399.67486572265625,
+            235.35879516601562
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.8399658203125,
+            236.0834197998047,
+            399.6766357421875,
+            246.268798828125
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.8399658203125,
+            243.1834259033203,
+            399.6833190917969,
+            257.1788024902344
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.839996337890625,
+            257.9034118652344,
+            322.10418701171875,
+            267.8694152832031
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.36",
+      "heading": "Problem FoL.36 . . . resistance upside down",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "We want to build a circuit with total resistance R = (57 688/1 807) Ω, but we only have resistors\nwith resistance r = 1 Ωat our disposal. On top of that, we want to build our circuit so that\nin each step (starting with one resistor) we connect only one resistor to an already existing part\nof the circuit, either in series or in parallel. What is the smallest number of resistors we need\nto reach our goal?",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6764831542969,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            64.8934097290039,
+            399.66888427734375,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.6665954589844,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            86.70340728759766,
+            399.6666259765625,
+            95.66940307617188
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            97.6134033203125,
+            92.59909057617188,
+            106.57939910888672
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.37",
+      "heading": "Problem FoL.37 . . . nomen omen",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "During a meeting of the greatest villains of all time, The Emperor was laughed at: his Death\nStar has a word “star” in its name, yet it does not shine. He could not possibly let such\ninsolence pass and decided to fix the problem. His Death Star now emits light as if it was\na gray body with emissivity ε = 0.8 across all wavelengths. (Emissivity of a body is defined\nto be the ratio of intensity of radiation emitted by the body to the intensity of radiation\nemitted by a black body at the same temperature.) The radius of the Death Star is r =\n= 450 km and an inspecting spaceship, being at a distance of d = 10 000 km from the Star,\nmeasured intensity I = 33 kW·m−2 of radiation coming from the Star. What is the wavelength\n(in nanometres) at which the Death Star radiates most of its energy? Stefan-Boltzmann constant\nis σ = 5.67 · 10−8 W·m−2·K−4, Wien’s displacement constant is b = 2.90 · 10−3 m·K.",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            330.16339111328125,
+            399.6665954589844,
+            339.12939453125
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            341.0733947753906,
+            399.6755676269531,
+            350.0393981933594
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            351.9833984375,
+            399.6755065917969,
+            360.94940185546875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            362.8934020996094,
+            399.6739196777344,
+            372.07879638671875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            373.79339599609375,
+            399.6665344238281,
+            382.7593994140625
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            384.7033996582031,
+            399.683837890625,
+            393.8887939453125
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            395.6134033203125,
+            399.6821594238281,
+            404.7987976074219
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            402.7134094238281,
+            399.6813049316406,
+            415.70880126953125
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            417.43341064453125,
+            399.67559814453125,
+            426.3994140625
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            424.7528076171875,
+            357.69427490234375,
+            437.52880859375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.38",
+      "heading": "Problem FoL.38 . . . pendulum",
+      "page_start": 27,
+      "page_end": 27,
+      "text": "Once upon a time there lived an infinite superconducting horizontal plane with surface mass\ndensity σ = 2 · 1010 kg·m−2 and a pivot placed d = 5 m above the plane. And so it came to\npass that somebody came up with the idea to suspend an electron on a string with length l =\n= 1 m from the pivot. Find the period of small oscillations (in seconds) of the electron about\nits equilibrium.\nAssume that charge is free to move within the plane arbitrarily fast. Neglect any effects due\nto magnetic field.",
+      "locations": [
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            104.44340515136719,
+            399.6665954589844,
+            113.4094009399414
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            111.54340362548828,
+            399.6709289550781,
+            124.53878784179688
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.839996337890625,
+            126.26339721679688,
+            399.683837890625,
+            135.4487762451172
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.839996337890625,
+            137.1634063720703,
+            399.66790771484375,
+            146.34878540039062
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.839996337890625,
+            148.0734100341797,
+            81.11363983154297,
+            157.03941345214844
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            33.78999710083008,
+            158.98341369628906,
+            399.6655578613281,
+            167.9494171142578
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.839996337890625,
+            169.89341735839844,
+            90.0079116821289,
+            178.8594207763672
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.39",
+      "heading": "Problem FoL.39 . . . magnetic focusing",
+      "page_start": 28,
+      "page_end": 28,
+      "text": "Assume that we fire a beam of protons from a given location on the x axis. In the beam,\nevery proton has a speed of v = 105 m·s−1, whose direction deviates from that of the x axis\nby at most ∆α = 1◦. Assume that there is an electric field pointing in the x direction with\nmagnitude E = 12 N·C−1, together with a magnetic field with magnitude B = 1 mT, also\npointing in the x direction. The protons will first come back to the x axis at a distance from\nthe firing point which lies in an interval of the form (L, L + ∆L). Find the ratio (∆L)/L. Do\nnot take into account the protons fired precisely along the x axis.",
+      "locations": [
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6796569824219,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.840011596679688,
+            61.30278778076172,
+            399.68359375,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84002685546875,
+            74.4375991821289,
+            399.6796875,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84002685546875,
+            85.34760284423828,
+            399.6836242675781,
+            95.88878631591797
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84002685546875,
+            97.6134033203125,
+            399.6730041503906,
+            106.79878234863281
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.840042114257812,
+            108.52340698242188,
+            399.676513671875,
+            117.70878601074219
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.840057373046875,
+            119.43341064453125,
+            278.7679138183594,
+            128.61878967285156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.40",
+      "heading": "Problem FoL.40 . . . slingshooty",
+      "page_start": 28,
+      "page_end": 29,
+      "text": "The Czech mythical genius Jára Cimrman is fabled for his construction of the so called Čakovice\nslingshot. Being curious, we loaded the slingshot with a projectile and fired. Having grossly\nunderestimated its power, not only did we find that the projectile did not land in Čakovice\n(now a district of Prague), we discovered that it basically did not land at all. It went through\nthe Earth’s atmosphere, across the Solar system, all the way out of the Galaxy, even escaping\nthe local group, passing through the Virgo cluster. . . until it reached the very borders of the\nvisible universe and ended up in an alternative one.\nThe physical laws of this alternative universe are quite similar to those of our universe, except\nthat the gravitational force between the projectile and rest of the matter in this alternative\nuniverse, while still derived from the Newton’s law, acts repulsively. Consider the projectile\napproaching one of local stars. If there was no interaction between the projectile and the star,\nthe projectile would miss the star at distance b = 1010 m. However, as a result of the above\ndescribed interaction, the trajectory of the projectile will be deflected. Assuming that the mass\nof the projectile is m = 1 kg, that the mass of the star is M = 1030 kg and that the speed\nof the projectile far away from the star is v0 = 105 m·s−1, find the minimum separation of\nthe projectile and the star (both of which are to be regarded as point particles) during their\ninteraction. The gravitational constant is G = 6.67 · 10−11 m3·kg−1·s−2.",
+      "locations": [
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            505.5934143066406,
+            399.6755676269531,
+            514.5593872070312
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            516.5033569335938,
+            399.66650390625,
+            525.4693603515625
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            527.4133911132812,
+            399.6755676269531,
+            536.37939453125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            538.3234252929688,
+            399.6666259765625,
+            547.2894287109375
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            39.20340347290039,
+            399.6665954589844,
+            48.169403076171875
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            50.1134033203125,
+            399.6665954589844,
+            59.079402923583984
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            61.02340316772461,
+            228.15603637695312,
+            69.9894027709961
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            33.790000915527344,
+            71.93341064453125,
+            399.6655578613281,
+            80.89940643310547
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            82.8434066772461,
+            399.67559814453125,
+            91.80940246582031
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            93.75340270996094,
+            399.6666564941406,
+            102.71939849853516
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            104.66340637207031,
+            399.6666259765625,
+            113.62940216064453
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.84000015258789,
+            111.9827880859375,
+            399.6881103515625,
+            124.7587890625
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.839996337890625,
+            126.4833984375,
+            399.66656494140625,
+            135.44940185546875
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.839996337890625,
+            133.8027801513672,
+            399.6815185546875,
+            146.56878662109375
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.839981079101562,
+            144.71278381347656,
+            399.6747131347656,
+            158.47879028320312
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.839981079101562,
+            159.2034149169922,
+            399.6665954589844,
+            168.16941833496094
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.839981079101562,
+            166.52279663085938,
+            307.9242248535156,
+            179.29879760742188
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.41",
+      "heading": "Problem FoL.41 . . . little gifts",
+      "page_start": 30,
+      "page_end": 30,
+      "text": "Having left the student housing, Mirek’s roommate left behind a number of interesting objects,\namongst them a 10 m long rope, 170 cm long iron rod and a bag full of cobble stones. Now, let’s\nconsider the following situation: first, let’s tie the rope to one end of the rod and fix the bag\nwith cobble stones to the same end. Then throw the rod with the bag out of the window, while\nholding the other end of the rope firmly. The rod lands on the pavement (which is d = 11 m\nbelow the window) in such a way that its free end rests on the pavement exactly below the point\nwhere the other end of the rope is held. Assuming that the rod can rotate freely about the end\non which it rests, but that the end itself cannot move (there is an infinite friction between the\npavement and the rod), find the tension in the rope in equilibrium. The bag with cobble stones\nhas mass mk = 8 kg, the rod weighs mt = 5 kg and the stiffness of the rope is k = 200 kg·s−2.\nNeglect the mass of the rope.",
+      "locations": [
+        {
+          "page": 30,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6665954589844,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6693115234375,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.839996337890625,
+            75.79340362548828,
+            399.66668701171875,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.839996337890625,
+            86.70340728759766,
+            399.6666259765625,
+            95.66940307617188
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.839996337890625,
+            97.6134033203125,
+            399.63330078125,
+            106.79878234863281
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            108.52340698242188,
+            399.67559814453125,
+            117.4894027709961
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            119.43341064453125,
+            399.66668701171875,
+            128.3994140625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            130.34341430664062,
+            399.66668701171875,
+            139.30941772460938
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            141.25340270996094,
+            399.6666564941406,
+            150.2194061279297
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            150.797607421875,
+            399.6842956542969,
+            162.40878295898438
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            163.0734100341797,
+            138.01190185546875,
+            172.03941345214844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FoL.42",
+      "heading": "Problem FoL.42 . . . van de Graaff",
+      "page_start": 30,
+      "page_end": 30,
+      "text": "Consider a conducting sphere with radius R = 7 cm charged to a potential φ = −5 V (taken\nrelative to a point at infinity) and covered with a thin layer of dielectric. The sphere is placed\ninto a chamber with ionised helium He+ where we assume that only the ions with negligible\nkinetic energy stick to the surface of the sphere. Finally, the sphere is moved into an evacuated\nchamber with volume V = 10 m3 and quickly discharged. Find the equilibrium temperature\n(in kelvins) of the ion gas thus created in the chamber.",
+      "locations": [
+        {
+          "page": 30,
+          "bbox": [
+            19.84000015258789,
+            483.7734069824219,
+            399.6878967285156,
+            492.95880126953125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.8399658203125,
+            494.68341064453125,
+            399.6666259765625,
+            503.6494140625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.8399658203125,
+            501.7834167480469,
+            399.67022705078125,
+            514.77880859375
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.83995819091797,
+            516.5033569335938,
+            399.675537109375,
+            525.4693603515625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.83995819091797,
+            523.6033935546875,
+            399.6710205078125,
+            536.5988159179688
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.839950561523438,
+            538.3234252929688,
+            241.77532958984375,
+            547.2894287109375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "M.1",
+      "heading": "Problem M.1 . . . electrical shopping cart",
+      "page_start": 32,
+      "page_end": 32,
+      "text": "Being incredibly lazy, the organisers of FYKOS decided to construct a small self-propelled cargo\nvehicle. It remains to fine tune the engine. Having a total mass of m = 70 kg, the vehicle is\nknown to accelerate with a = 1 m·s−2 when it moves horizontally. Find the vehicle’s (uniform)\nacceleration on a 10% grade slope assuming that the same thrust is applied in both cases. The\nacceleration due to gravity is g = 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6666564941406,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6788024902344,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            71.993408203125,
+            399.67559814453125,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            86.70340728759766,
+            399.67034912109375,
+            95.88878631591797
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            96.24759674072266,
+            201.08425903320312,
+            106.79878234863281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "M.2",
+      "heading": "Problem M.2 . . . Náry’s academic quarter",
+      "page_start": 32,
+      "page_end": 32,
+      "text": "Most people’s reactions can be virtually immediate but not in the case of Náry. Even when it\ncomes to mere releasing of things to fall freely under gravity, it takes him τ = 6 s to react on\na signal. Find the time (in seconds) which elapses until the distance between a body released\nby Náry and a body released immediately on signal grows to l = 200 m. The acceleration due\nto gravity is g = 9.81 m·s−2 and we start measuring time at the exact moment when the first\nbody is released.",
+      "locations": [
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            374.6933898925781,
+            399.6666259765625,
+            383.6593933105469
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            385.6033935546875,
+            399.6806945800781,
+            394.7887878417969
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            396.5133972167969,
+            399.6665344238281,
+            405.4794006347656
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            407.42340087890625,
+            399.67974853515625,
+            416.6087951660156
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            414.5234069824219,
+            399.6704406738281,
+            427.518798828125
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.839996337890625,
+            429.243408203125,
+            86.79808807373047,
+            438.20941162109375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "M.3",
+      "heading": "Problem M.3 . . . truly solid lecture notes",
+      "page_start": 33,
+      "page_end": 33,
+      "text": "As we all know, some books do not really count as light-weights, so instead of carrying them\nin a bag let’s try and drag them on the floor on a string. Consider a book lying on the floor\nand a string with length l = 2.0 m whose one end is attached to the centre of the upper side\nof book’s cover. The other end of the string is held in height h = 1.2 m above the floor. Find\nthe coefficient of friction between the book and the floor knowing that the book which is of\nmass m = 1 kg is dragged at constant speed with force of magnitude F = 5 N. Assume that the\nbook does not open. The acceleration due to gravity is g = 9.81 m·s−2.",
+      "locations": [
+        {
+          "page": 33,
+          "bbox": [
+            19.84000015258789,
+            194.92340087890625,
+            399.6666259765625,
+            203.889404296875
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.84000015258789,
+            205.83340454101562,
+            399.6666259765625,
+            214.79940795898438
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.84000015258789,
+            216.743408203125,
+            399.6671447753906,
+            225.9287872314453
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.840003967285156,
+            227.65341186523438,
+            399.6753234863281,
+            236.8387908935547
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.840011596679688,
+            238.56341552734375,
+            399.6665954589844,
+            247.5294189453125
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.840011596679688,
+            249.47341918945312,
+            399.6804504394531,
+            258.6588134765625
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.839996337890625,
+            259.0176086425781,
+            304.854248046875,
+            269.5688171386719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "M.4",
+      "heading": "Problem M.4 . . . all in vain",
+      "page_start": 34,
+      "page_end": 34,
+      "text": "Consider a long pipe whose one end is plunged into water. Inside the pipe, there is a piston\nwhich perfectly fits between the walls. Having squeezed the air out, we start pulling the piston\nup, thus lifting a column of water in the pipe under the piston head. What is the maximum\nheight h in which we can lift the water assuming that the ambient atmospheric pressure is pa =\n= 760 mmHg?",
+      "locations": [
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6666259765625,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6666259765625,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.67559814453125,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            86.70340728759766,
+            399.6838684082031,
+            96.88878631591797
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84002685546875,
+            97.6134033203125,
+            76.26853942871094,
+            106.79878234863281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "E.1",
+      "heading": "Problem E.1 . . . the long one and the wide one",
+      "page_start": 34,
+      "page_end": 34,
+      "text": "Consider two homogeneous cylindrical copper wires of equal mass, one of them being thrice\nas long as the other. Find the ratio of electrical resistances along the two wires, longer to the\nshorter.",
+      "locations": [
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            244.09339904785156,
+            399.6667175292969,
+            253.0594024658203
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            255.00338745117188,
+            399.6666259765625,
+            263.9693908691406
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            265.9134216308594,
+            50.65614318847656,
+            274.8794250488281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "E.2",
+      "heading": "Problem E.2 . . . one, two, three,...",
+      "page_start": 34,
+      "page_end": 34,
+      "text": "Náry was asked to find out the number of turns in his brand new copper coil. Too lazy to\ncount them one by one, he resorted to his multimeter and good old data tables. Having brought\na potential difference U = 7.8 V across the coil, he measured a current I = 2 A flowing in the\ncoil. Also, he measured the cross-sectional diameter of the wire to be S = 1 mm2. He then\nused his data tables to find the electrical resistance of copper to be ϱ = 1.8 · 10−7 Ω·m. He also\nmeasured the diameter of the turns and obtained an average value d = 6 cm. Assuming that\nthe total length of leads is l0 = 18 cm, find the number of turns in Náry’s coil.",
+      "locations": [
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            445.68341064453125,
+            399.6664733886719,
+            454.6494140625
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            456.5934143066406,
+            399.675537109375,
+            465.5594177246094
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            467.50341796875,
+            399.6744079589844,
+            476.6888122558594
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.839996337890625,
+            477.15802001953125,
+            399.6749267578125,
+            487.59881591796875
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.839996337890625,
+            485.7328186035156,
+            399.677734375,
+            498.5088195800781
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.839996337890625,
+            500.2334289550781,
+            399.6770324707031,
+            509.4188232421875
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.84002685546875,
+            511.1434020996094,
+            335.0939636230469,
+            521.3187866210938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "E.3",
+      "heading": "Problem E.3 . . . experimental afternoon",
+      "page_start": 35,
+      "page_end": 35,
+      "text": "The power outlets in a building where a FYKOS camp was held provide voltage U0 = 230 V.\nHowever, some of the experiments had to be performed outside, especially those which involved\nshooting with an air gun. To this end, an extension lead of length l = 101 m and resistance R0 =\n= 1.4 Ωwas used to bring the power supply where it was needed. Consider connecting a load to\nthe extension lead. The properties of the load are such that if we bring a potential difference Us =\n= U0 to it, the load provides power Ps = 1 000 W to an appliance (e.g. a heating spiral).\nAssuming that voltage Us = U0 is brought to the other end of the lead, find the potential drop\nacross the load.",
+      "locations": [
+        {
+          "page": 35,
+          "bbox": [
+            19.84000015258789,
+            192.33340454101562,
+            399.68426513671875,
+            202.51878356933594
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            203.243408203125,
+            399.6755676269531,
+            212.20941162109375
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            214.15341186523438,
+            399.6838684082031,
+            224.32879638671875
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.84002685546875,
+            225.06341552734375,
+            399.6683044433594,
+            234.24879455566406
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.84002685546875,
+            235.97341918945312,
+            399.68389892578125,
+            246.1488037109375
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.840057373046875,
+            246.8734130859375,
+            399.6763000488281,
+            257.0588073730469
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.840057373046875,
+            257.7834167480469,
+            399.6725769042969,
+            267.96881103515625
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.840065002441406,
+            268.69342041015625,
+            82.440673828125,
+            277.659423828125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "E.4",
+      "heading": "Problem E.4 . . . pyramid’s circuits",
+      "page_start": 36,
+      "page_end": 36,
+      "text": "In the circuit shown below we first put the switch on and wait for the currents to come to\na steady state. Find the magnitude of the potential difference (in volts) measured by the\nvoltmeter. Take the capacitors and coils to be ideal and assume that the voltmeter provides an\ninfinite resistance. Put ε = 1 V. The resistance R1 = 3R2.",
+      "locations": [
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6666259765625,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6665954589844,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.6666259765625,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            86.70340728759766,
+            251.90426635742188,
+            96.88878631591797
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "X.1",
+      "heading": "Problem X.1 . . . uncertain bacteria",
+      "page_start": 36,
+      "page_end": 36,
+      "text": "Use a quantum uncertainty principle to find the uncertainty ∆vx in the component vx of the\nvelocity of a bacterium with mass m = 1.0·10−15 kg and linear size l = 1.0·10−6 m. Assume that\nthe position of the bacterium can be determined with uncertainty ∆x = l/100 and that vx =\n= 3.0 · 10−5 m·s−1. Submit your answer as log10(∆vx/vx).",
+      "locations": [
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            294.9834289550781,
+            399.6754150390625,
+            304.9494323730469
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.839996337890625,
+            302.30279541015625,
+            399.6767883300781,
+            315.07879638671875
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.839996337890625,
+            316.8034362792969,
+            399.6838684082031,
+            326.98883056640625
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.84002685546875,
+            324.122802734375,
+            253.23428344726562,
+            338.4859924316406
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "X.2",
+      "heading": "Problem X.2 . . . a lecture on relativity",
+      "page_start": 37,
+      "page_end": 37,
+      "text": "Two professors pass each other in a corridor at the Institute of Theoretical Physics, going in\nopposite directions. One is coming back from a lecture about special theory of relativity and\nhis speed is vs = 1 m·s−1, while the second one is going to a lecture about general relativity\nand his speed is vg = 2 m·s−1. Determine the error that we will make by using classical physics\ninstead of relativity to calculate the speed of the second professor in the reference frame of the\nfirst professor.",
+      "locations": [
+        {
+          "page": 37,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6665954589844,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6665344238281,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.84000015258789,
+            74.4375991821289,
+            399.675537109375,
+            85.9787826538086
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.840003967285156,
+            85.34760284423828,
+            399.67791748046875,
+            96.88878631591797
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.840003967285156,
+            97.6134033203125,
+            399.66668701171875,
+            106.57939910888672
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.840003967285156,
+            108.52340698242188,
+            77.14170837402344,
+            117.4894027709961
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "X.3",
+      "heading": "Problem X.3 . . . hot grating",
+      "page_start": 37,
+      "page_end": 37,
+      "text": "Determine the temperature needed to observe diffraction of a mono-energetic 20Ne beam (pro-\nduced by an energy filter) on a grating with slit spacing d = 0.5 nm. The condition for diffraction\nto be observed is taken to be λ = d where λ is the de Broglie wavelength of the atoms in the\nbeam.",
+      "locations": [
+        {
+          "page": 37,
+          "bbox": [
+            19.84000015258789,
+            335.9679870605469,
+            399.6766052246094,
+            346.4087829589844
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.84002685546875,
+            348.1333923339844,
+            399.6732482910156,
+            357.31878662109375
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.84002685546875,
+            359.04339599609375,
+            399.67462158203125,
+            368.2287902832031
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.840011596679688,
+            369.9533996582031,
+            44.164772033691406,
+            378.9194030761719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "X.4",
+      "heading": "Problem X.4 . . . beta decay",
+      "page_start": 38,
+      "page_end": 38,
+      "text": "Consider a beam of neutrons, where every neutron in the beam has kinetic energy Ek = 0.05 eV.\nTake the half-life and the rest energy of a neutron to be T1/2 = 640 s and mnc2 = 940 MeV,\nrespectively. Find the fraction of the number of neutrons which will decay before the beam\ntravels a distance of d = 10 m.",
+      "locations": [
+        {
+          "page": 38,
+          "bbox": [
+            19.84000015258789,
+            104.98340606689453,
+            399.68426513671875,
+            115.22879028320312
+          ]
+        },
+        {
+          "page": 38,
+          "bbox": [
+            19.839996337890625,
+            112.30278778076172,
+            399.68426513671875,
+            126.46878051757812
+          ]
+        },
+        {
+          "page": 38,
+          "bbox": [
+            19.839996337890625,
+            126.80340576171875,
+            399.6666259765625,
+            135.7694091796875
+          ]
+        },
+        {
+          "page": 38,
+          "bbox": [
+            19.839996337890625,
+            137.71340942382812,
+            141.53427124023438,
+            146.89878845214844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    }
+  ],
+  "warnings": []
+}

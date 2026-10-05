@@ -1,0 +1,3270 @@
+{
+  "file_id": 2847,
+  "statements": [
+    {
+      "number": "AA",
+      "heading": "Problem AA . . . wouldn’t steal a car",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "We’re downloading (legally) a film of size 2.1 GB; the download speed is 350 kB·s−1. The length\nof the film is 90 min. How long after the download begins can we start watching the film to be\nable to watch it without pausing?",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            52.61759948730469,
+            399.67645263671875,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            64.89340209960938,
+            399.6661071777344,
+            74.07878112792969
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            75.79340362548828,
+            155.67489624023438,
+            84.7593994140625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AB",
+      "heading": "Problem AB . . . simple conveyor belt",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "We have a conveyor belt of mass M (by itself, without any load). Initially (at time 0 s), there\nis some sand with mass m lying on the conveyor belt; the sand gradually falls off the belt with\na constant rate µ (mass of sand falling per unit time, in kilograms per second), from time 0 s\nuntil there is no sand left on the belt. What should be the force exerted on the conveyor belt\nat any time t (between 0 s and the moment when all sand falls off) so that it’d move with\nconstant acceleration a?",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            180.42340087890625,
+            399.68267822265625,
+            189.60877990722656
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            191.33340454101562,
+            399.6683349609375,
+            200.51878356933594
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839988708496094,
+            202.243408203125,
+            399.6739807128906,
+            211.4287872314453
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            213.15341186523438,
+            399.6666564941406,
+            222.11941528320312
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            224.06341552734375,
+            399.66900634765625,
+            233.24879455566406
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.83999252319336,
+            234.97341918945312,
+            127.0885009765625,
+            244.15879821777344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AC",
+      "heading": "Problem AC . . . dropped banknote",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Would it be worth it for Bill Gates to pick up a $100 banknote from the ground? Let’s say\nthat his annual income is 30,000,000,000 Czech crowns and that by picking up the note, his\naverage income would be stopped for 3 seconds. How much money (in Czech crowns) could\nhe earn by picking up the banknote? In case he’d be losing money that way, give the result\nas a negative number. Use the exchange rate 1 CZK = $0.046. His income is continuous and\nconstant.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            361.81341552734375,
+            399.6756286621094,
+            370.7794189453125
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            372.7234191894531,
+            399.67059326171875,
+            381.9088134765625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.840003967285156,
+            383.6334228515625,
+            399.66668701171875,
+            392.59942626953125
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.840003967285156,
+            394.5334167480469,
+            399.66656494140625,
+            403.4994201660156
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.840003967285156,
+            405.44342041015625,
+            399.67236328125,
+            414.6288146972656
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            416.3534240722656,
+            56.51094055175781,
+            425.3194274902344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AD",
+      "heading": "Problem AD . . . zero to hundred",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "One of the performance characteristics of a car is the time needed to accelerate from 0 km·h−1\nto 100 km·h−1. Consider a car that can do it in 4.0 s. Find the distance travelled by the car\nwhile accelerating. Suppose that the acceleration of the car is constant.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            52.61759948730469,
+            399.18255615234375,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            63.52759552001953,
+            399.67047119140625,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            75.79340362548828,
+            307.64849853515625,
+            84.7593994140625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AE",
+      "heading": "Problem AE . . . bathing",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "When Dano fills his bathtub, he first turns on the hot water with temperature t1 = 52 ◦C.\nBecause the hot water is too hot, he then mixes in some cold water with temperature t2 =\n= 18 ◦C. He wants to achieve a temperature t = 42 ◦C (which is not ideal, but some people like\nit hot). What is the ratio of water volumes K = V2/V1 needed to achieve this temperature?\nNeglect the heat capacity of the bathtub and any thermal exchange with the surroundings.\nVolume V1 labels the water with temperature t1.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            247.9676055908203,
+            399.68426513671875,
+            259.5087890625
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            260.2333984375,
+            399.683837890625,
+            270.4187927246094
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            269.777587890625,
+            399.6800231933594,
+            280.32879638671875
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839981079101562,
+            282.05340576171875,
+            399.6779479980469,
+            292.0194091796875
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.8399658203125,
+            292.9634094238281,
+            399.66656494140625,
+            301.9294128417969
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.8399658203125,
+            303.8734130859375,
+            216.4742431640625,
+            313.83941650390625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AF",
+      "heading": "Problem AF . . . comparison of the calorific value",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "What is the difference between heat of combustion of one litre of diesel fuel and one litre of\npetrol (gasoline)? The heat of combustion of diesel is Hd = 42.6 MJ·kg−1 and that of petrol\nis Hp = 43.6 MJ·kg−1. The density of petrol is ϱp = 740 kg·m−3, the density of diesel is ϱd =\n= 840 kg·m−3. The answer must contain two information: which fuel has the higher heat of\ncombustion per litre and by how much.",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6665954589844,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            61.08340072631836,
+            399.6812744140625,
+            75.13878631591797
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.840011596679688,
+            74.4375991821289,
+            399.6838684082031,
+            86.04878234863281
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84002685546875,
+            85.34760284423828,
+            399.6805114746094,
+            95.88878631591797
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.840042114257812,
+            97.6134033203125,
+            183.26431274414062,
+            106.57939910888672
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AG",
+      "heading": "Problem AG . . . conveyor belt travelling problem",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "At the Dubai airport, there are conveyor belts for walking; the velocity of a conveyor belt is v.\nMatěj needs to get to the terminal B27. He can either go directly to the terminal without using\nconveyor belts or take an alternative path where he gets to walk on conveyor belts. The second\npath is 1/3 longer, but half of its length is covered by conveyor belts. After a few minutes of\nhard calculations, he finds out that both paths take the same time, so he decides to take the\nmoving walkway because it is more fun. Your task is to find Matěj’s walking speed u (assume\nthat this speed is constant).",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            268.1333923339844,
+            399.68426513671875,
+            277.31878662109375
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            279.0434265136719,
+            399.6665344238281,
+            288.0094299316406
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            289.9533996582031,
+            399.6666259765625,
+            298.9194030761719
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            300.8634338378906,
+            399.6665954589844,
+            309.8294372558594
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            311.7734069824219,
+            399.6666259765625,
+            320.7394104003906
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            322.68341064453125,
+            399.6793212890625,
+            331.8688049316406
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.839996337890625,
+            333.5934143066406,
+            132.721923828125,
+            342.5594177246094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AH",
+      "heading": "Problem AH . . . crossed mirrors",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "φ\nδ\nA ray of light is being reflected by two planar mirrors (see figure).\nThe angle between the mirrors is φ. How does the angle δ (see\nfigure) depend on the angle φ?",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            291.0589599609375,
+            91.76901245117188,
+            293.86370849609375,
+            95.94895935058594
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            328.27105712890625,
+            77.07905578613281,
+            330.1771240234375,
+            81.25900268554688
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            278.03387451171875,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            278.05255126953125,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.839996337890625,
+            75.79340362548828,
+            144.18850708007812,
+            84.9787826538086
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BA",
+      "heading": "Problem BA . . . antimatterianism",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Perhaps you’ve heard stories of so-called breatharians and pranists, who only need to breath to\n“suck out” the life energy from their surroundings. However, what if someone wanted to survive\nonly on antimatter? That is, it’s apparently impossible, but we’re looking for an estimate of the\nminimum mass of antimatter such a human would have to carry inside to survive until natural\ndeath. Consider a 20-year-old adult who’s expected to die in 60 years (i.e. at the age of 80). The\npower he needs to survive is P = 100 W. He has plenty of matter available; also let’s assume\nthat he consumes the energy with 100 % efficiency.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            235.67340087890625,
+            399.6666564941406,
+            244.639404296875
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            246.57339477539062,
+            399.675537109375,
+            255.53939819335938
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            257.4833984375,
+            399.6666564941406,
+            266.44940185546875
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            268.3934020996094,
+            399.6666259765625,
+            277.3594055175781
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            279.30340576171875,
+            399.6665954589844,
+            288.2694091796875
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            290.2134094238281,
+            399.6708068847656,
+            299.3988037109375
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.840011596679688,
+            301.1234130859375,
+            224.0313720703125,
+            310.3088073730469
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BB",
+      "heading": "Problem BB . . . interplanetary pendulum",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Let’s denote the ratio of Earth’s mass to Moon’s mass by a. Next, let’s denote the respective\nratio of radii by b. a > 1& b > 1. Find the ratio of periods of the same pendulum on Earth’s\nsurface and on Moon’s surface (in terms of a and b only).",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6825256347656,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            64.8934097290039,
+            399.6674499511719,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.840003967285156,
+            75.79340362548828,
+            251.71261596679688,
+            84.9787826538086
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BC",
+      "heading": "Problem BC . . . charged balls",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "There are two rigid (inelastic) strings of negligible weight with lengths l = 1.0 m attached to the\nsame point at height h = 3.0 m above the ground. First, we connect one small metal ball with\nmass m at the free end of one string. The charge of the ball is Q = 2.8 μC. Then, we attach an\nidentical ball with the same charge at the free end of the other string. The balls electrically repel\neach other; they reach an equilibrium position when their height above the ground increases by\n∆h = 3.0 cm. What is the mass of one ball?",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            361.93341064453125,
+            399.6746826171875,
+            371.1188049316406
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            372.8434143066406,
+            399.66998291015625,
+            382.02880859375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            383.75341796875,
+            399.6783752441406,
+            392.9388122558594
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.8399658203125,
+            394.6634216308594,
+            399.6665954589844,
+            403.6294250488281
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.8399658203125,
+            405.57342529296875,
+            399.6756286621094,
+            414.5394287109375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.8399658203125,
+            416.4734191894531,
+            196.1136474609375,
+            425.6588134765625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BD",
+      "heading": "Problem BD . . . the new dimension",
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Use dimensional analysis to determine the formula for dynamic viscosity η of a material using\nonly the Boltzmann constant kB, absolute temperature T, collision radius r and molecular\nmass m; let’s denote the dimensionless constant of the formula by C.\nHint:\nThe SI unit of dynamic viscosity is Pa·s.",
+      "locations": [
+        {
+          "page": 7,
+          "bbox": [
+            19.84000015258789,
+            435.7834167480469,
+            399.6748046875,
+            444.96881103515625
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839981079101562,
+            446.68341064453125,
+            399.6797180175781,
+            456.0697326660156
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.839996337890625,
+            457.5934143066406,
+            298.7742919921875,
+            466.77880859375
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.840011596679688,
+            468.50341796875,
+            40.33628845214844,
+            477.46942138671875
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            49.300010681152344,
+            468.50341796875,
+            212.8242645263672,
+            477.6888122558594
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BE",
+      "heading": "Problem BE . . . repulsive cube",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Consider a solid homogeneous metal cube with side of length a. The electrical resistance between\ntwo opposite faces of the cube is R. What will be the resistance of a cube from the same material\nin the same configuration, but with sides of length b? The cube is connected to the circuit using\ntwo perfectly conducting plates in perfect contact with the two opposite faces of the cube.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            262.8934020996094,
+            399.68798828125,
+            272.07879638671875
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.840011596679688,
+            273.8034362792969,
+            399.67449951171875,
+            282.98883056640625
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.840003967285156,
+            284.7134094238281,
+            399.66937255859375,
+            293.8988037109375
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.840011596679688,
+            295.6234436035156,
+            384.1644592285156,
+            304.5894470214844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BF",
+      "heading": "Problem BF . . . bubble bath for Janap",
+      "page_start": 8,
+      "page_end": 9,
+      "text": "Janap wanted to dive into a bubble bath with temperature at least T2 = 35◦C. However, the\nmaximum temperature of tap water was only T1 = 18◦C. Janap thought that it would be inter-\nesting to heat some water by dropping it from an airplane at certain altitude h and converting\nits kinetic energy to heat. Assume that the water is at rest when dropped from the airplane and\nthat all the kinetic energy acquired during the fall is used to heat up the water. What should\nthe altitude of the airplane be to heat the water just right? Assume that the gravitational\nacceleration is g = 9.81 kg·m−2. You can also make use of some of these constants: specific heat\nof water c = 4,200 J·kg−1·K−1, and gravitational constant G = 6.67 · 10−11 N·kg−2·m2, Earth’s\nradius RZ = 6378 km, Earth’s mass MZ = 5.97 · 1024 kg. Volume and mass of the bath and\nJanap will not be disclosed.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            493.3175964355469,
+            399.6786804199219,
+            504.8688049316406
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.8399658203125,
+            504.22760009765625,
+            399.6842346191406,
+            515.768798828125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.8399658203125,
+            516.5033569335938,
+            399.6852722167969,
+            525.6887817382812
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839935302734375,
+            527.4133911132812,
+            399.6665344238281,
+            536.37939453125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839935302734375,
+            538.3234252929688,
+            399.66650390625,
+            547.2894287109375
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            39.20340347290039,
+            399.6755065917969,
+            48.169403076171875
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            48.747596740722656,
+            399.6685791015625,
+            59.298789978027344
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.840011596679688,
+            57.43279266357422,
+            399.677734375,
+            70.20878601074219
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            68.34278869628906,
+            399.6766357421875,
+            82.11878967285156
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            82.8434066772461,
+            131.46669006347656,
+            91.80940246582031
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BG",
+      "heading": "Problem BG . . . mercury column",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "A thin cylindrical tube with length l = 1.00 m is half-way submerged (vertically) in a basin\nwith mercury of density ϱ = 13.6 · 103 kg·m−3. We close the top end of the tube and lift it\nupwards. Part of the mercury spills out of the tube. What will be the height of the column of\nmercury remaining in the tube? The atmospheric pressure is pa = 101 kPa.\nHint:\nConsider an isothermal expansion.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            338.92340087890625,
+            399.6687316894531,
+            348.1087951660156
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839996337890625,
+            346.2427978515625,
+            399.6728515625,
+            359.018798828125
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839981079101562,
+            360.743408203125,
+            399.66656494140625,
+            369.70941162109375
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839981079101562,
+            371.6434020996094,
+            321.82427978515625,
+            381.82879638671875
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.839981079101562,
+            382.55340576171875,
+            40.33625793457031,
+            391.5194091796875
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            49.29998016357422,
+            382.55340576171875,
+            187.99502563476562,
+            391.5194091796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BH",
+      "heading": "Problem BH . . . sunken",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "We place an empty cylindrical thin-walled container into a water channel. The height of the\ncontainer is h = 15 cm, the radius of its base is r = 5.0 cm and its mass is m = 0.5 kg. The\nstream in the channel carries the container with constant velocity v = 2.0 m·s−1. There is a hole\nat the bottom of the container, so V0 = 25 ml of water flows inside it each second. Calculate\nthe length in metres travelled by the container before it sinks under the water surface.",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            312.1434020996094,
+            399.6666564941406,
+            321.1094055175781
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            323.05340576171875,
+            399.67913818359375,
+            332.2388000488281
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            332.59759521484375,
+            399.6779479980469,
+            343.1488037109375
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            344.8734130859375,
+            399.6756286621094,
+            355.0487976074219
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            355.7834167480469,
+            368.671142578125,
+            364.7494201660156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CA",
+      "heading": "Problem CA . . . walk on a boat à la Dan",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Daniel, just like a proper rich man, owns a yacht. The yacht isn’t the most luxurious and largest,\nbut it’s still pretty large. Its displacement is M = 40 tons (of water) and it’s D = 20 m long.\nLet’s imagine that the yacht is in a tank with calm water and at rest with respect to the edge of\nthe water tank; Daniel is standing at rest at its front. By how much does the yacht move with\nrespect to the water tank if Daniel slowly walks from its front to back? Daniel didn’t want to\ntell us his exact weight but assume it’s m = 70 kg. Compute the result to at least two decimal\nplaces.",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.6666259765625,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6851501464844,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            75.79340362548828,
+            399.66656494140625,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            86.70340728759766,
+            399.6665954589844,
+            95.66940307617188
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            97.6134033203125,
+            399.6665954589844,
+            106.57939910888672
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            108.52340698242188,
+            399.6778564453125,
+            117.70878601074219
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            119.43341064453125,
+            46.52278518676758,
+            128.3994140625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CB",
+      "heading": "Problem CB . . . perpetuum mobile of the second kind",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Let’s assume that the 2nd law of thermodynamics doesn’t hold (so heat can flow from a colder\nbody to a warmer one). Consider a boat that, to run, draws water with temperature T1 = 3.2 ◦C\nfrom the sea, cools it down and drops out an ice cube with temperature T2 = −5.0 ◦C each\nminute. How long should an edge of the cube be if the power consumption of the ship’s motor\nis P = 0.8 MW?",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            320.5133972167969,
+            399.6666259765625,
+            329.4794006347656
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            330.0575866699219,
+            399.6827392578125,
+            341.6087951660156
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            340.96759033203125,
+            399.6919860839844,
+            352.518798828125
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            353.243408203125,
+            399.6666259765625,
+            362.20941162109375
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.8399658203125,
+            364.1534118652344,
+            84.2084732055664,
+            373.33880615234375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CC",
+      "heading": "Problem CC . . . asteroids",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "There is an asteroid orbiting a star. Far away, there is another asteroid orbiting another star.\nThe orbital radius and orbital period of the second asteroid are three times larger. Determine\nthe ratio of stellar masses (the mass of the first star to the mass of the second star).",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            105.5934066772461,
+            399.66656494140625,
+            114.55940246582031
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            116.50340270996094,
+            399.6665954589844,
+            125.46939849853516
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            127.41340637207031,
+            359.8126525878906,
+            136.37940979003906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CD",
+      "heading": "Problem CD . . . a complex network",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "What will be the total resistance between nodes A and B in the circuit depicted in the figure\nif each resistor has the same resistance R?\nA\nB",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            363.7134094238281,
+            399.66668701171875,
+            372.6794128417969
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            374.6234130859375,
+            190.3485107421875,
+            383.8088073730469
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            134.2848663330078,
+            397.72662353515625,
+            137.57476806640625,
+            402.1131591796875
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            282.22564697265625,
+            397.72662353515625,
+            285.331298828125,
+            402.1131591796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CE",
+      "heading": "Problem CE . . . small data",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Matěj decided to test a die. He started throwing it and writing down the numbers that came\nup. After nine throws, he started analysing the gained data. He found out that the minimum\nnumber was 1 and the maximum was 6. The median of the set was 4, the (unique) mode was 2\nand the arithmetic mean was 3.4 when rounded to one decimal place. What was the geometric\nmean?",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            266.2533874511719,
+            399.6666259765625,
+            275.2193908691406
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            277.1634216308594,
+            399.67559814453125,
+            286.1294250488281
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            288.0733947753906,
+            399.6666259765625,
+            297.0393981933594
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            298.9834289550781,
+            399.6683044433594,
+            308.1688232421875
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.840003967285156,
+            309.8833923339844,
+            45.68898391723633,
+            318.8493957519531
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CF",
+      "heading": "Problem CF . . . hard-working heart",
+      "page_start": 13,
+      "page_end": 14,
+      "text": "How much work does the human heart do in a lifetime? The pressure amplitude (the difference\nbetween systolic and diastolic pressure) is about ∆p = 40 mmHg (mm of mercury column).\nAssume that a human lives on average T = 82 years and the average volumetric flow rate\nthrough the heart is roughly Q = 6 l·min−1.",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            516.5033569335938,
+            399.66668701171875,
+            525.4693603515625
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            527.4133911132812,
+            399.674560546875,
+            536.5988159179688
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.840011596679688,
+            538.3234252929688,
+            399.677978515625,
+            547.5088500976562
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            37.83760070800781,
+            196.20428466796875,
+            48.388790130615234
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CG",
+      "heading": "Problem CG . . . I’m just all right",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "What would be the temperature of the Earth if we considered it a perfect black body which\ngains energy from solar radiation and doesn’t contain any heat source of its own? The power\nradiated by the Sun is 3.827 · 1026 W, and its distance from the Earth is 1.5 · 1011 m. Assume\nthat Earth is a perfect sphere with constant temperature on its entire surface. Calculate the\nresult in degrees Celsius.",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            176.4434051513672,
+            399.6755676269531,
+            185.40940856933594
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            187.34341430664062,
+            399.67559814453125,
+            196.30941772460938
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            194.66278076171875,
+            399.67681884765625,
+            207.43878173828125
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            209.1634063720703,
+            399.6666259765625,
+            218.12940979003906
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            220.0734100341797,
+            119.43433380126953,
+            229.03941345214844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CH",
+      "heading": "Problem CH . . . lighthouse",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "There’s an isotropic light source with luminous intensity I1 = 100 cd located in the focal point\nof a parabolic mirror. The edge of the mirror (a cut through a paraboloid, perpendicular to its\naxis of symmetry) is circular, contains the focal point in its centre and has radius R = 1 m.\nAt a distance L = 1 km from the mirror (measured along the axis of the paraboloid), there’s\na circular target with radius R. How many times does the effective brightness of the lighthouse\n(as measured by the target) increase when the mirror is added?",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            419.05340576171875,
+            399.6882629394531,
+            429.2388000488281
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            429.9634094238281,
+            399.6666259765625,
+            438.9294128417969
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            440.8734130859375,
+            399.68426513671875,
+            450.0588073730469
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            451.7834167480469,
+            399.6681213378906,
+            460.96881103515625
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            462.69342041015625,
+            399.6758728027344,
+            471.8788146972656
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.840003967285156,
+            473.6034240722656,
+            276.4558410644531,
+            482.5694274902344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DA",
+      "heading": "Problem DA . . . Bernoulli in real life",
+      "page_start": 15,
+      "page_end": 15,
+      "text": "Water flows from a tap with a nozzle of radius R = 0.005 m at a (volumetric) flow rate Q0 =\n= 2·10−5 m3 · s−1. At what distance below the nozzle does the continuous stream start breaking\ninto droplets? Consider water to be an ideal liquid. Droplets start forming when the stream has\nradius smaller than r = 0.003 m.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.84000015258789,
+            162.58340454101562,
+            399.683837890625,
+            172.75877380371094
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            169.73719787597656,
+            399.6654968261719,
+            182.6787872314453
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            184.39340209960938,
+            399.6666564941406,
+            193.35940551757812
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            195.30340576171875,
+            150.40426635742188,
+            204.48878479003906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DB",
+      "heading": "Problem DB . . . thunderstorm",
+      "page_start": 15,
+      "page_end": 16,
+      "text": "You’re casually running on train tracks in the evening with velocity v = 15 km·h−1 when you\nsuddenly notice the dark shape of a train on the horizon. The train is moving right towards you\nwith velocity u = 160 km·h−1. The conductor has already noticed you and sounded the horn,\nwhich emits a sound signal with frequency f = 1,000 Hz. What will be the frequency f ′ you\nhear, if you’re also running against the wind (the wind velocity is w = 100 km·h−1)? The speed\nof sound is c = 340 m·s−1.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.84000015258789,
+            491.8233947753906,
+            399.6924743652344,
+            504.81878662109375
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            506.5334167480469,
+            399.675537109375,
+            515.4993896484375
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            516.0775756835938,
+            399.6740417480469,
+            526.6287841796875
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            524.5433959960938,
+            399.6876525878906,
+            537.5387573242188
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            37.83760070800781,
+            399.6783447265625,
+            48.388790130615234
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            48.747596740722656,
+            124.30427551269531,
+            59.298789978027344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DC",
+      "heading": "Problem DC . . . football problem",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "A football player (European football, soccer in the USA) is standing d = 15.0 m in front of a goal\nwith height h = 2.50 m. He kicks the ball directly towards the target at an angle α = 30.0◦with\nrespect to the horizontal plane. How fast should he kick the ball so that it would hit the goal\ndirectly without bouncing? (The answer is a range of velocities.) Neglect air resistance and the\nsize of the ball.",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            297.8334045410156,
+            399.6762390136719,
+            307.018798828125
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            307.3775939941406,
+            399.6830139160156,
+            317.9288024902344
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            319.6534118652344,
+            399.66656494140625,
+            328.6194152832031
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            330.56341552734375,
+            399.6665954589844,
+            339.5294189453125
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.8399658203125,
+            341.4734191894531,
+            81.10464477539062,
+            350.4394226074219
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DD",
+      "heading": "Problem DD . . . lens and mirror",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "In a room with height h = 3 m, we place a mirror on the floor underneath a light source.\nThe light source is exactly at the ceiling level. At the height 5 cm above the mirror, we place\nhorizontally a thin, positive (converging) lens with focal length f = 30 cm. How high above the\nground will the image of the light source be?",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.66949462890625,
+            63.16878890991211
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            64.8934097290039,
+            399.6731262207031,
+            74.07878875732422
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.840011596679688,
+            75.79340362548828,
+            399.68115234375,
+            84.9787826538086
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84002685546875,
+            86.70340728759766,
+            200.72012329101562,
+            95.66940307617188
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DE",
+      "heading": "Problem DE . . . cleaning glasses",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "The tap of the kitchen sink has a turnable head, which is currently tilted at the angle α = 30◦\nwith respect to the vertical. The head is h = 30 cm above the bottom of the sink. The tap is set\nto form a single continuous stream with the diameter of the opening in the tap d = 5 mm, the\nvolumetric flow then is Q = 100 ml·s−1. In this setting, the stream from the tap hits the bottom\nof the sink at horizontal distance l1 (from the point right below the tap). If we set the tap to\n“shower” mode, where water exits through ten holes with diameters d2 = 1 mm, the streams\nhit the bottom of the sink at horizontal distance l2. Determine the ratio l2/l1. Assume that the\ndistance between openings in the tap is negligibly small.",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            355.6275939941406,
+            399.18994140625,
+            366.1788024902344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            367.9034118652344,
+            399.674560546875,
+            377.08880615234375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            378.81341552734375,
+            399.6799621582031,
+            387.9988098144531
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            388.35760498046875,
+            399.67144775390625,
+            398.8988037109375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            400.6234130859375,
+            399.6710510253906,
+            410.58941650390625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.840003967285156,
+            411.5334167480469,
+            399.6777038574219,
+            421.71881103515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            422.44342041015625,
+            399.67864990234375,
+            431.97601318359375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.8399658203125,
+            433.3534240722656,
+            243.0305938720703,
+            442.3194274902344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DF",
+      "heading": "Problem DF . . . four body problem",
+      "page_start": 18,
+      "page_end": 18,
+      "text": "Four planets, each with the mass equal to the Moon’s mass, orbit their common centre of\ngravity. The planets move with a stable circular orbit in such a way that they always form the\nvertices of a square with side length 384,400 km. Find their orbital period. The Moon has mass\n7.35 · 1022 kg.",
+      "locations": [
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            272.1933898925781,
+            399.6665954589844,
+            281.1593933105469
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            283.1034240722656,
+            399.6666259765625,
+            292.0694274902344
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            294.0033874511719,
+            399.6759338378906,
+            303.18878173828125
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.839996337890625,
+            301.32281494140625,
+            73.58427429199219,
+            314.09881591796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DG",
+      "heading": "Problem DG . . . Why is it smoking?",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "Lukáš built a full-wave rectifier and decided to test it (see figure). He took two oscilloscopes\n(since he knows the negative poles of one oscilloscope are connected. . . ), connected one of them\nto the AC input and the other to the DC output. Unfortunately, the negative poles of both\noscilloscopes were connected to the ground pin in the electrical socket. Which diode started\nsmoking?\nA\nB\nC\nD\nUIN ∼\nUOUT =\nV\nV",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            399.66656494140625,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            399.6666259765625,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            399.6665954589844,
+            84.7593994140625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            86.70340728759766,
+            399.6666259765625,
+            95.66940307617188
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            97.6134033203125,
+            57.25511932373047,
+            106.57939910888672
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            204.57093811035156,
+            134.60047912597656,
+            206.89031982421875,
+            137.6929931640625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            218.6506805419922,
+            120.52383422851562,
+            220.84017944335938,
+            123.61634826660156
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            212.49855041503906,
+            134.60047912597656,
+            214.73135375976562,
+            137.6929931640625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            198.2915496826172,
+            120.52383422851562,
+            200.65423583984375,
+            123.61634826660156
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            154.27061462402344,
+            130.50741577148438,
+            162.54396057128906,
+            133.59776306152344
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            254.70675659179688,
+            141.1155242919922,
+            265.0318603515625,
+            144.20896911621094
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            178.70530700683594,
+            158.74960327148438,
+            180.7680206298828,
+            161.8421173095703
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            242.05795288085938,
+            165.7894744873047,
+            244.12066650390625,
+            168.88198852539062
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DH",
+      "heading": "Problem DH . . . solar sniper",
+      "page_start": 19,
+      "page_end": 20,
+      "text": "Matěj suddenly finds himself on the equator at noon of the equinox, and he’s sweating terri-\nbly. The sun is making him angry, so he pulls out his house-made weapon, which can shoot\nlightweight bullets at almost the speed of light, and fires a projectile directly towards the centre\nof the Sun. However, he forgot about the movement of celestial bodies. Find the minimum\nvelocity the bullet needs to have so that Matěj could hit the Sun.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            505.5934143066406,
+            399.66656494140625,
+            514.5593872070312
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            516.5033569335938,
+            399.6665954589844,
+            525.4693603515625
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            527.4133911132812,
+            399.6756591796875,
+            536.37939453125
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            538.3234252929688,
+            399.67559814453125,
+            547.2894287109375
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            39.20340347290039,
+            284.2024230957031,
+            48.169403076171875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EA",
+      "heading": "Problem EA . . . those resistors again",
+      "page_start": 21,
+      "page_end": 21,
+      "text": "R\nR\nR\nR\nR\nA\nB\nFind the total electrical resistance between nodes A and B of the\ncircuit shown in the figure. Each resistor has resistance R.",
+      "locations": [
+        {
+          "page": 21,
+          "bbox": [
+            300.1461486816406,
+            74.90736389160156,
+            303.8861083984375,
+            79.83486938476562
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            339.7141418457031,
+            59.08015441894531,
+            343.4541015625,
+            64.00765991210938
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            339.7141418457031,
+            74.90736389160156,
+            343.4541015625,
+            79.83486938476562
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            339.7141418457031,
+            90.73457336425781,
+            343.4541015625,
+            95.66207885742188
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            379.2821350097656,
+            74.90736389160156,
+            383.0220947265625,
+            79.83486938476562
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            288.2757568359375,
+            55.12336730957031,
+            291.97137451171875,
+            60.05086898803711
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            391.15252685546875,
+            55.12336730957031,
+            394.6412048339844,
+            60.05086898803711
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            278.0339050292969,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            254.7942657470703,
+            74.07878875732422
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EB",
+      "heading": "Problem EB . . . typical problem of a commuter",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Matěj is walking to a bus stop along a straight road with velocity v = 4 km·h−1. He sees a bus\narriving from the opposite direction to the bus stop with velocity u = 36 km·h−1, but doesn’t\nknow if it’s bus number 201, which he needs to catch. At the moment when he can read number\n201 on the bus, he immediately starts running with velocity 3v. Will he make it? The resolution\nof the human eye is one arcminute and the display of the bus is readable if one can distinguish\ntwo pixels with distance 2 cm. The deceleration of the bus is constant and it waits at the bus\nstop for 10 s. Compute the time margin (how much time he can lose and still catch the bus; if\nhe can’t make it, this time should be negative). Initially, Matěj and the bus are both 50 m from\nthe bus stop.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.84000015258789,
+            102.03759765625,
+            399.68255615234375,
+            112.58879089355469
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            112.94759368896484,
+            399.68212890625,
+            123.49878692626953
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            125.22340393066406,
+            399.6666564941406,
+            134.1894073486328
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            136.1234130859375,
+            399.67840576171875,
+            145.3087921142578
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            147.0334014892578,
+            399.66656494140625,
+            155.99940490722656
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            157.9434051513672,
+            399.67425537109375,
+            167.1287841796875
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            168.85340881347656,
+            399.66607666015625,
+            178.03878784179688
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            179.76341247558594,
+            399.68310546875,
+            188.94879150390625
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            190.6734161376953,
+            72.1745376586914,
+            199.63941955566406
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EC",
+      "heading": "Problem EC . . . merry-go-flat",
+      "page_start": 23,
+      "page_end": 23,
+      "text": "Matěj (with mass m) discovered a new equipment at a playground. It is a massive flat merry-\ngo-round in the shape of a homogeneous disc with radius R and mass 2m, which can rotate\naround its vertical axis without friction. Matěj stands on its edge and speeds up to velocity v\n(the velocity of the edge and Matěj with respect to the ground; Matěj is at rest with respect\nto the merry-go-round). Find the amount of work done by Matěj to move to the centre of the\ndisc. Matěj can be approximated by a point mass.",
+      "locations": [
+        {
+          "page": 23,
+          "bbox": [
+            19.84000015258789,
+            244.93341064453125,
+            399.66839599609375,
+            254.11878967285156
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            255.83340454101562,
+            399.6809997558594,
+            265.018798828125
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.840011596679688,
+            266.743408203125,
+            399.3640441894531,
+            275.9288024902344
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.84002685546875,
+            277.6534118652344,
+            399.6666564941406,
+            286.6194152832031
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.84002685546875,
+            288.56341552734375,
+            399.6667175292969,
+            297.5294189453125
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.84002685546875,
+            299.4734191894531,
+            222.0233154296875,
+            308.4394226074219
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "ED",
+      "heading": "Problem ED . . . finally a pleasant temperature",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "A planet orbits around a star with orbital velocity v = 1.0 km·s−1 on a circular trajectory. The\nmass of the star is M· = 5.0 · 1030 kg and its radius is R· = 1.0 · 107 km. The temperature of\nthe planet is T = 100 K. Suppose that the planet and the star are both perfect black bodies.\nWhat is the temperature of the star in Kelvins?",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            145.5434112548828,
+            399.675048828125,
+            158.53878784179688
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            156.67279052734375,
+            399.67779541015625,
+            170.4387969970703
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.840011596679688,
+            171.1734161376953,
+            399.6658935546875,
+            180.35879516601562
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.840011596679688,
+            182.0834197998047,
+            213.37112426757812,
+            191.04942321777344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EE",
+      "heading": "Problem EE . . . repulsive",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "There are 1,000 point masses in an otherwise empty plane. For each k = 0, . . . , 999, the\ncoordinates of the kth point are xk = (k/1,000)5 km and yk = (k/1,000)3 m. Each point has\nmass M = 300 kg. Find the value of the positive electric charge of every particle (each point\nshould have this charge) required for the system to be in equilibrium. The point masses are\ninitially at rest.",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            439.05340576171875,
+            399.6817626953125,
+            448.2388000488281
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            446.372802734375,
+            399.6771545410156,
+            460.20880126953125
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            460.8734130859375,
+            399.6829833984375,
+            470.0588073730469
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            471.7734069824219,
+            399.6665954589844,
+            480.7394104003906
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.839996337890625,
+            482.68341064453125,
+            82.66476440429688,
+            491.6494140625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EF",
+      "heading": "Problem EF . . . hang up that pendulum!",
+      "page_start": 25,
+      "page_end": 25,
+      "text": "Consider a thin, rigid, homogeneous rod. At a certain distance along the length of the rod,\nwe drill in a small hole in such a way that the period of small oscillations of the rod around\na perpendicular axis passing through that hole is the minimum possible. The hole separates the\nrod into two segments. What is the ratio of lengths of these segments?",
+      "locations": [
+        {
+          "page": 25,
+          "bbox": [
+            19.84000015258789,
+            188.55340576171875,
+            399.6666259765625,
+            197.5194091796875
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.84000015258789,
+            199.46340942382812,
+            399.66668701171875,
+            208.42941284179688
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.84000015258789,
+            210.3734130859375,
+            399.66656494140625,
+            219.33941650390625
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.84000015258789,
+            221.28341674804688,
+            304.4386901855469,
+            230.24942016601562
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EG",
+      "heading": "Problem EG . . . triangular network",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "A\nB\nConsider an infinite network of resistive wire depicted in the fig-\nure. What will be the resistance between adjacent points A and\nB if the wire with length |AB| has resistance R1?",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            325.75714111328125,
+            96.20115661621094,
+            332.0614929199219,
+            104.60693359375
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            349.84478759765625,
+            96.20115661621094,
+            355.79608154296875,
+            104.60693359375
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            53.983402252197266,
+            278.03387451171875,
+            62.94940185546875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            64.8934097290039,
+            278.0338439941406,
+            73.85940551757812
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            75.79340362548828,
+            217.468505859375,
+            85.32600402832031
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EH",
+      "heading": "Problem EH . . . zero to hundred for the third time",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "One of the performance characteristics of a car is the time needed to accelerate from 0 km·h−1\nto 100 km·h−1. Consider a car that can do it in 4.0 s. Find the distance travelled by the car\nwhile accelerating under the assumption of constant jerk of the car. Jerk (often denoted by j)\nis the rate of change (time derivative) of acceleration, just like acceleration is the rate of change\nof velocity.",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            343.1075744628906,
+            399.18255615234375,
+            353.6587829589844
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            354.017578125,
+            399.67047119140625,
+            364.56878662109375
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            366.29339599609375,
+            399.6864013671875,
+            375.4787902832031
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            377.2033996582031,
+            399.6755676269531,
+            386.1694030761719
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.839996337890625,
+            388.1134033203125,
+            63.11887741088867,
+            397.07940673828125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FA",
+      "heading": "Problem FA . . . stretched",
+      "page_start": 27,
+      "page_end": 27,
+      "text": "Consider a rubber band (not a loop, just a single strip) with density ϱ made of a material with\nYoung modulus E. Its rest length (for example when lying freely on a table) is L. We suspend\nthe rubber band from one of its ends. What length will it have now?",
+      "locations": [
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            169.4134063720703,
+            399.6755065917969,
+            178.59878540039062
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.839996337890625,
+            180.31341552734375,
+            399.6791687011719,
+            189.49879455566406
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84002685546875,
+            191.22340393066406,
+            296.7996826171875,
+            200.1894073486328
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FB",
+      "heading": "Problem FB . . . procrastination",
+      "page_start": 27,
+      "page_end": 28,
+      "text": "Matěj likes to spend time watching videos on YouTube instead of working. YouTube uses\na sophisticated algorithm to suggest videos that you might be interested in after you finish\nwatching the current one. This algorithm is so good that with probability p = 80%, Matěj likes\none of the suggested videos and starts watching it. The average length of one video is t = 7 min.\nHow long will it take on average for Matěj to stop watching videos and start working on this\nproblem?\nThe following formulas can be handy:\n∞\n∑\ni=1\nixi =\nx\n(x−1)2 for |x| < 1, ∫∞\n−∞e−x2dx = √π.",
+      "locations": [
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            511.3934020996094,
+            399.6665954589844,
+            520.359375
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            522.3034057617188,
+            399.6666564941406,
+            531.2694091796875
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            533.21337890625,
+            399.685791015625,
+            542.3988037109375
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            39.20340347290039,
+            399.6842956542969,
+            48.388790130615234
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84002685546875,
+            50.1134033203125,
+            399.66656494140625,
+            59.079402923583984
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84002685546875,
+            61.02340316772461,
+            56.977203369140625,
+            69.9894027709961
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            33.7900276184082,
+            76.54341125488281,
+            185.9430389404297,
+            85.50940704345703
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            191.33001708984375,
+            69.77759552001953,
+            198.6351318359375,
+            75.75559997558594
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            189.7200164794922,
+            68.57960510253906,
+            200.24095153808594,
+            78.5426025390625
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            189.03001403808594,
+            87.81653594970703,
+            200.9320068359375,
+            93.79600524902344
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            202.4700164794922,
+            72.95278930664062,
+            223.7338409423828,
+            85.7287826538086
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            237.02000427246094,
+            75.4265365600586,
+            241.19264221191406,
+            81.40453338623047
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            227.49000549316406,
+            68.02960205078125,
+            315.91510009765625,
+            88.59600830078125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            306.66998291015625,
+            70.12720489501953,
+            377.9942626953125,
+            88.75559997558594
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FC",
+      "heading": "Problem FC . . . a lot of computations",
+      "page_start": 28,
+      "page_end": 28,
+      "text": "Matěj bought a digital clock which displays time in the 24-hour format. Each digit is formed\nby up to seven lit diodes (28 diodes in total). Each diode consumes 0.1 mW of power. Matěj\nplaced four new AAA batteries in the clock, set the time to 12:00 immediately and hung the\nclock on the wall. Some time later, he looked at the clock and saw the time for a moment, but\nsuddenly, the clock discharged and switched off. Determine the time Matěj saw. The capacity of\none AAA battery is 2.5 Wh; energy is only used to power the diodes, there are no other losses.\nNote:\nDigits six and nine are formed by six diodes each, there’s no separator on the clock and\nall four digits are displayed all the time. All the values are perfectly exact.",
+      "locations": [
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            342.2734069824219,
+            399.66668701171875,
+            351.2394104003906
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84000015258789,
+            353.18341064453125,
+            399.6749267578125,
+            362.3688049316406
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.839996337890625,
+            364.0934143066406,
+            399.6666259765625,
+            373.0594177246094
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.839996337890625,
+            375.00341796875,
+            399.6665954589844,
+            383.96942138671875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.839996337890625,
+            385.9134216308594,
+            399.6666564941406,
+            394.8794250488281
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.839996337890625,
+            396.82342529296875,
+            399.6717224121094,
+            406.0088195800781
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.839996337890625,
+            407.7334289550781,
+            41.60944366455078,
+            416.6994323730469
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            50.579994201660156,
+            407.7334289550781,
+            399.6712341308594,
+            416.6994323730469
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.839996337890625,
+            418.6434326171875,
+            320.7209777832031,
+            427.60943603515625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FD",
+      "heading": "Problem FD . . . roof and cylinder",
+      "page_start": 30,
+      "page_end": 30,
+      "text": "m1\nm2\nr\nα\nα\nI\nThere are two objects placed on a roof, a cuboid and a homoge-\nneous cylinder, connected by a rope. The roof is formed by two\ninclined planes with inclination angle α = 30.0◦with respect to\nthe horizontal plane. The rope passes through a pulley with the\nmoment of inertia I = 0.100 kg·m2 and radius rk = 0.100 m. The\nmass of the cuboid is m1 = 5.00 kg, the radius of the cylinder’s\nbase is rv = 0.30 m and its mass is m2 = 10.0 kg. What will be the acceleration of the cuboid\n(including its direction)? The coefficient of friction between either object and the roof is f =\n= 0.50. Neglect the rolling resistance.",
+      "locations": [
+        {
+          "page": 30,
+          "bbox": [
+            306.6213684082031,
+            183.34896850585938,
+            311.89849853515625,
+            187.83033752441406
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            374.4258117675781,
+            176.971435546875,
+            379.70294189453125,
+            181.4528045654297
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            369.89410400390625,
+            177.97979736328125,
+            371.7578430175781,
+            182.11228942871094
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            295.0410461425781,
+            198.45559692382812,
+            297.68585205078125,
+            202.5880889892578
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            382.48162841796875,
+            198.12002563476562,
+            385.1264343261719,
+            202.2525177001953
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            339.85223388671875,
+            160.18984985351562,
+            341.6705322265625,
+            164.3223419189453
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84000015258789,
+            158.96340942382812,
+            278.0338439941406,
+            167.92941284179688
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84000015258789,
+            169.8734130859375,
+            278.0428161621094,
+            178.83941650390625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84000015258789,
+            179.41761779785156,
+            278.0380859375,
+            189.9687957763672
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.840011596679688,
+            191.69342041015625,
+            278.0339050292969,
+            200.659423828125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.840011596679688,
+            198.79342651367188,
+            278.04150390625,
+            212.8488006591797
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            213.513427734375,
+            278.0365295410156,
+            223.68881225585938
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            224.42343139648438,
+            399.67706298828125,
+            234.59881591796875
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.840011596679688,
+            235.33343505859375,
+            399.6838684082031,
+            244.51881408691406
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84002685546875,
+            246.23342895507812,
+            170.810546875,
+            255.41880798339844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FE",
+      "heading": "Problem FE . . . zero to hundred for the second time",
+      "page_start": 31,
+      "page_end": 31,
+      "text": "One of the performance characteristics of a car is the time needed to accelerate from 0 km·h−1\nto 100 km·h−1. Consider a car that can do it in 4.0 s. Find the distance travelled by the car\nwhile accelerating. Assume that the power of the car’s motor is constant.",
+      "locations": [
+        {
+          "page": 31,
+          "bbox": [
+            22.630001068115234,
+            103.16759490966797,
+            399.18255615234375,
+            113.71878814697266
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.839996337890625,
+            114.07759857177734,
+            399.67047119140625,
+            124.6287841796875
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.839996337890625,
+            126.35340881347656,
+            315.1619873046875,
+            135.3194122314453
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FF",
+      "heading": "Problem FF . . . a ring",
+      "page_start": 31,
+      "page_end": 31,
+      "text": "Consider a non-homogeneous rod with length L and weight M suspended from one of its\nends. The distance of the centre of mass of the rod from the point of suspension is l and the\ncorresponding moment of inertia with respect to that point of suspension is J. We place a small\nring of negligible dimensions on the rod so that the frequency of oscillations of the rod with\nthe ring is twice the frequency of oscillations of the original rod. Let’s denote the weight of the\nring by m and its distance from the point of suspension by x. Find the weight m such that the\ndistance x is unambiguous and express this value of x.",
+      "locations": [
+        {
+          "page": 31,
+          "bbox": [
+            19.84000015258789,
+            407.43341064453125,
+            399.67657470703125,
+            416.6188049316406
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84002685546875,
+            418.3434143066406,
+            399.68310546875,
+            427.52880859375
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84002685546875,
+            429.25341796875,
+            399.68182373046875,
+            438.4388122558594
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84002685546875,
+            440.1634216308594,
+            399.6666564941406,
+            449.1294250488281
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84002685546875,
+            451.07342529296875,
+            399.6666564941406,
+            460.0394287109375
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84002685546875,
+            461.9834289550781,
+            399.67535400390625,
+            471.1688232421875
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.839996337890625,
+            472.8934326171875,
+            239.5442657470703,
+            482.0788269042969
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FG",
+      "heading": "Problem FG . . . Matěj’s four spheres",
+      "page_start": 32,
+      "page_end": 32,
+      "text": "Four identical homogeneous spheres are piled up on a horizontal surface made from the same\nmaterial as are the spheres. The centres of the spheres form a regular tetrahedron (three spheres\nare lying on the surface and form an equilateral triangle, the fourth is placed on top of them).\nFind the minimum possible value of the coefficient of static friction between the surfaces nec-\nessary for the spheres to remain at rest.",
+      "locations": [
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            375.75341796875,
+            399.6666259765625,
+            384.71942138671875
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            386.6634216308594,
+            399.66668701171875,
+            395.6294250488281
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            397.56341552734375,
+            399.66656494140625,
+            406.5294189453125
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            408.4734191894531,
+            399.6666259765625,
+            417.4394226074219
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.84000015258789,
+            419.3834228515625,
+            180.474853515625,
+            428.34942626953125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FH",
+      "heading": "Problem FH . . . spinning container",
+      "page_start": 33,
+      "page_end": 33,
+      "text": "Consider a cylindrical container with base radius R = 10 cm containing V = 2 l of water.\nCalculate the minimum height of the container such that we avoid spilling any water when we\nspin it around its axis for a long time with angular velocity ω = 5 rad·s−1.",
+      "locations": [
+        {
+          "page": 33,
+          "bbox": [
+            19.84000015258789,
+            278.0434265136719,
+            399.6840515136719,
+            287.22882080078125
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.8399658203125,
+            288.9533996582031,
+            399.675537109375,
+            297.9194030761719
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.8399658203125,
+            298.49761962890625,
+            319.0442199707031,
+            309.048828125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GA",
+      "heading": "Problem GA . . . rope",
+      "page_start": 34,
+      "page_end": 34,
+      "text": "There’s a coil of rope with linear density ϱ lying on the ground. We pick up one end of the\nrope and lift it upwards to height h with constant velocity v. What’s the difference between the\nwork we need to perform to do this and the sum of potential and kinetic energy of the ordered\nmotion of the rope at the end of the process?\nHint:\nIt really isn’t zero!",
+      "locations": [
+        {
+          "page": 34,
+          "bbox": [
+            19.84000015258789,
+            284.9034118652344,
+            399.67108154296875,
+            294.08880615234375
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.839996337890625,
+            295.81341552734375,
+            399.6732482910156,
+            304.9988098144531
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.840011596679688,
+            306.7234191894531,
+            399.6666259765625,
+            315.6894226074219
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.840011596679688,
+            317.6334228515625,
+            202.55813598632812,
+            326.59942626953125
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.840011596679688,
+            328.5334167480469,
+            40.33628845214844,
+            337.4994201660156
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            49.300010681152344,
+            328.5334167480469,
+            124.1661148071289,
+            337.4994201660156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GB",
+      "heading": "Problem GB . . . solar rod",
+      "page_start": 35,
+      "page_end": 35,
+      "text": "Consider an infinitely long, thin semiconducting strip with width 1 cm. The area conductivity\nof the semiconducting material is directly proportional to illuminance with proportionality\nconstant α = 0.03 S·lx−1. We place a point source of light with luminous intensity 2 cd at\nheight 1 m above the axis of the semiconductor. Then, we connect two perfectly conductive\ninfinitely long electrodes to the two infinite edges of the strip. The voltage difference between\nthe electrodes is 7 V. What current (in Amperes) will flow between the electrodes?",
+      "locations": [
+        {
+          "page": 35,
+          "bbox": [
+            19.84000015258789,
+            244.743408203125,
+            399.68408203125,
+            253.9287872314453
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            255.65341186523438,
+            399.675537109375,
+            264.6194152832031
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            265.1976013183594,
+            399.6849060058594,
+            275.7488098144531
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            277.4734191894531,
+            399.6755065917969,
+            286.6588134765625
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            288.3734130859375,
+            399.6756896972656,
+            297.33941650390625
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.839996337890625,
+            299.2834167480469,
+            353.09173583984375,
+            308.46881103515625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GC",
+      "heading": "Problem GC . . . fireworks",
+      "page_start": 36,
+      "page_end": 36,
+      "text": "The organisers forgot to buy fireworks for the New Year’s Eve, so they decided to build a copy of\nthe Tsar bomba. Let’s assume that 2 % of the energy released in the reaction 2\n1D + 3\n1T −−→4\n2He + n0+γ\nis emitted as electromagnetic radiation in the form of one photon per reaction. How fast should\nthe organisers run away in order to be able to watch the “fireworks” as visible light (550 nm)?\nCompute the difference c −v between the speed of light and this velocity. The rest masses are\nm(2\n1D) = 1,876.1 MeV·c−2, m(3\n1T) = 2,809.4 MeV·c−2, m(4\n2He) = 3,728.4 MeV·c−2, m(n0) =\n= 939.6 MeV·c−2.",
+      "locations": [
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            200.9134063720703,
+            399.6666259765625,
+            209.87940979003906
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.84000015258789,
+            210.4580078125,
+            323.2725524902344,
+            221.0087890625
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            319.6199951171875,
+            210.4580078125,
+            345.7225341796875,
+            222.71600341796875
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            342.0699768066406,
+            210.4580078125,
+            379.58251953125,
+            222.71600341796875
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            375.9299621582031,
+            210.56800842285156,
+            423.0909118652344,
+            222.71600341796875
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.8399658203125,
+            222.73341369628906,
+            399.6666259765625,
+            231.6994171142578
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.8399658203125,
+            233.64341735839844,
+            399.68487548828125,
+            242.82879638671875
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.8399658203125,
+            244.5534210205078,
+            399.67181396484375,
+            253.73880004882812
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.8399658203125,
+            254.0980224609375,
+            35.69252014160156,
+            264.6387939453125
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            32.03996276855469,
+            254.0976104736328,
+            149.15252685546875,
+            266.34600830078125
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            145.49996948242188,
+            254.0976104736328,
+            262.2325134277344,
+            266.34600830078125
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            258.5799560546875,
+            254.0976104736328,
+            399.67657470703125,
+            266.34600830078125
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.83990478515625,
+            265.0075988769531,
+            89.97418212890625,
+            275.548828125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    }
+  ],
+  "warnings": []
+}

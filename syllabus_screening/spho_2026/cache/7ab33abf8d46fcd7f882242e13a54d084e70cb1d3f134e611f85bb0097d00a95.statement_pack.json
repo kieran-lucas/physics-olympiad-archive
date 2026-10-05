@@ -1,0 +1,215 @@
+{
+  "statements": [
+    {
+      "number": 1,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "1. Two Projectiles A player throws two tennis balls on a level ground at v = 20 m/s in the same\ndirection, once at an angle of α = 35◦and once at an angle β = 55◦to the horizontal. The distance\nbetween the landing spots of the two balls is d. Find d in meters.\n\nAssume the height of the player is negligble and ignore air resistance.\n\n\n"
+    },
+    {
+      "number": 2,
+      "page_start": 4,
+      "page_end": 4,
+      "text": "2. Bow and Arrow Consider the following simple model of a bow and arrow. An ideal elastic string\nhas a spring constant k = 10 N/m and relaxed length L = 1 m which is attached to the ends of an\ninflexible fixed steel rod of the same length L as shown below. A small ball of mass m = 2 kg and the\nthread are pulled by its midpoint away from the rod until each individual part of the thread have the\nsame length of the rod, as shown below. What is the speed of the ball in meters per seconds right after\nit stops accelerating? Assume the whole setup is carried out in zero gravity.\n\n\n                                 L\n\n                            L      m\n\n                                 L\n\n\n\n"
+    },
+    {
+      "number": 3,
+      "page_start": 4,
+      "page_end": 5,
+      "text": "3. City Lights A truck (denoted by S) is driving at a speed v = 2 m/s in the opposite direction of a\ncar driving at a speed u = 3 m/s, which is equipped with a rear-view mirror. Both v and u are measured\nfrom an observer on the ground. Relative to this observer, what is the speed (in m/s) of the truck’s image\nS′ through the car’s mirror? Car’s mirror is a plane mirror.\n\n\n\n\n\n                                                                                  Page 3\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n                                    u\n\n\n                                      S′             S\n                                          v′                       v\n\n\n\n\n\n"
+    },
+    {
+      "number": 4,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "4. Springing Earth For this problem, assume the Earth moves in a perfect circle around the sun in\nthe xy plane, with a radius of r = 1.496 × 1011 m, and the Earth has a mass m = 5.972 × 1024 kg. An\nalien stands far away from our solar system on the x axis such that it appears the Earth is moving along\na one dimensional line, as if there was a zero-length spring connecting the Earth and the Sun.\n\nFor the alien at this location, it is impossible to tell just from the motion if it’s 2D motion via gravity\nor 1D motion via a spring. Let Ug be the gravitational potential energy ignoring its self energy if Earth\nmoves via gravity, taking potential energy at infinity to be 0 and Us be the maximum spring potential\nenergy if Earth moves in 1D via a spring. Compute Ug/Us.\n\n\n"
+    },
+    {
+      "number": 5,
+      "page_start": 5,
+      "page_end": 6,
+      "text": "5. Battle Ropes Battle ropes can be used as a full body workout (see photo).  It consists of a long\npiece of thick rope (ranging from 35 mm to 50 mm in diameter), wrapped around a stationary pole. The\nathlete grabs on to both ends, leans back, and moves their arms up and down in order to create waves,\nas shown in the photo.\n\n\n                                                                                  Page 4\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n\n\nThe athlete wishes to upgrade from using a 35 mm diameter rope to a 50 mm diameter rope, while keeping\neverything else the same (rope material, rope tension, amplitude, and speed at which her arms move back\nand forth). By doing so, the power she needs to exert changes from P0 to P1. Compute P1/P0.\n\n\n"
+    },
+    {
+      "number": 6,
+      "page_start": 6,
+      "page_end": 6,
+      "text": "6. Polarizers Given vertically polarized light, you’re given the task of changing it to horizontally\npolarized light by passing it through a series of N = 5 linear polarizers. What is the maximum possible\nefficiency of this process? (Here, efficiency is defined as the ratio between output light intensity and input\nlight intensity.)\n\n\n"
+    },
+    {
+      "number": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "text": "7. Fatal Frame These days, there are so many stylish rectangular home-designs (see figure A). It\nis possible from the outline of those houses in their picture to estimate with good precision where the\ncamera was. Consider an outline in one photograph of a rectangular house which has height H = 3 meters\n(see figure B for square-grid coordinates). Assume that the camera size is negligible, how high above the\nground (in meters) was the camera at the moment this picture was taken?\n\n\n\n\n\n"
+    },
+    {
+      "number": 8,
+      "page_start": 8,
+      "page_end": 9,
+      "text": "8. The Wire Consider a thin rigid wire-frame MNPP’N’M’ in which MNN’M’ and NPP’N’ are two\nsquares of side L with resistance per unit-length λ and their planes are perpendicular. The frame is\nrotated with a constant angular velocity ω around an axis passing through NN’ and put in a region with\nconstant magnetic field B pointing perpendicular to NN’. What is the total heat released on the frame\nper revolution (in Joules)? Use L = 1m, λ = 1Ω/m, ω = 2πrad/s and B = 1T.\n\n\n\n\n\n                                                                                  Page 7\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n"
+    },
+    {
+      "number": 9,
+      "page_start": 9,
+      "page_end": 10,
+      "text": "9. Melting Iceberg In this problem, we explore how fast an iceberg can melt, through the dominant\nmode of forced convection. For simplicity, consider a very thin iceberg in the form of a square with side\nlengths L = 100 m and a height of 1 m, moving in the arctic ocean at a speed of 0.2 m/s with one pair of\nedges parallel to the direction of motion (Other than the height, these numbers are typical of an average\niceberg). The temperature of the surrounding water and air is 2◦C, and the temperature of the iceberg is\n0◦C. The density of ice is 917 kg/m3 and the latent heat of melting is Lw = 334 × 103 J/kg.\n\nThe heat transfer rate ˙Q between a surface and the surrounding fluid is dependent on the heat transfer\ncoefficient h, the surface area in contact with the fluid A, and the temperature difference between the\nsurface and the fluid ∆T, via ˙Q = hA∆T.\n\nIn heat transfer, three useful quantities are the Reynold’s number, the Nusselt number, and the Prandtl\nnumber. Assume they are constant through and given by (assuming laminar flow):\n\n                       ρv∞L            hL              cpµ\n                    Re =           ,      Nu =      ,        Pr =\n                         µ                k               k\n\nwhere:\n\n\n   • ρ: density of the fluid\n\n   • v∞: speed of the fluid with respect to the object (at a very far distance)\n\n   • L: length of the object in the direction of motion\n\n\n                                                                                  Page 8\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n   • µ: dynamic viscosity of the fluid\n\n   • k: thermal conductivity of the fluid\n\n   • cp : the specific heat capacity of the fluid\n\n\nThrough experiments, the relationship between the three dimensionless numbers is, for a flat plate:\n\n                            Nu = 0.664Re1/2Pr1/3.\n\nUse the following values for calculations:\n\n\n                                           Air          Water\n                         ρ (kg/m3)       1.29          1000\n                      µ (kg/(m · s))   1.729 × 10−5   1.792 × 10−3\n                                cp (J/(kg · K))  1004         4220\n                         k (W/(m · K))  0.025          0.556\n\n\nThe initial rate of heat transfer is ˙Q. Assuming this rate is constant (this is not true, but will allow us to\nobtain an estimate), how long (in days) would it take for the ice to melt completely? Assume convection\nis only happening on the top and bottom faces. Round to the nearest day.\n\n\n"
+    },
+    {
+      "number": 10,
+      "page_start": 10,
+      "page_end": 11,
+      "text": "10. Scale A scale of uniform mass M = 3 kg of length L = 4 m is kept on a rough table (infinite friction)\nwith l = 1 m hanging out of the table as shown in the figure below. A small ball of mass m = 1 kg is\nreleased from rest from a height of h = 5 m above the end of the scale. Find the maximum angle (in\ndegrees) that the scale rotates by in the subsequent motion if ball sticks to the scale after collision. Take\ngravity g = 10 m/s2.\n\n\n\n\n\n                                                                                  Page 9\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n\n\n                                                     5 m\n\n\n\n\n                                      3 m      1 m\n\n\n\n\n\n"
+    },
+    {
+      "number": 11,
+      "page_start": 11,
+      "page_end": 11,
+      "text": "11. Levitating In a galaxy far, far away, there is a planet of mass M = 6 · 1027 kg which is a sphere\nof radius R and charge Q = 103 C uniformly distributed. Aliens on this planet have devised a device for\ntransportation, which is an insulating rectangular plate with mass m = 1 kg and charge q = 104 C. This\ntransportation device moves in a circular orbit at a distance r = 8 · 106 m from the center of the planet.\nThe aliens have designated this precise elevation for the device, and do not want the device to deviate at\nall. In order to maintain its orbit, the device contains a relatively small energy supply. Find the power\n(in Watts) that the energy supply must release in order to sustain this orbit.\n\nThe velocity of the device can be assumed to be much smaller than the speed of light, so that relativistic\neffects can be ignored. The device can also be assumed to be small in comparison to the size of the planet.\n\n\n"
+    },
+    {
+      "number": 12,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "12. Singing in the Rain A raindrop of mass M = 0.035 g is at height H = 2 km above a large\nlake. The raindrop then falls down (without initial velocity), mixing and coming to equilibrium with the\nlake. Assume that the raindrop, lake, air, and surrounding environment are at the same temperature\nT = 300 K. Determine the magnitude of entropy change associated with this process (in J/K).\n\n\n"
+    },
+    {
+      "number": 13,
+      "page_start": 12,
+      "page_end": 12,
+      "text": "13. Rocket Launch A rocket with mass of 563.17 (not including the mass of fuel) metric tons sits\non the launchpad of the Kennedy Space Center (latitude 28◦31′27”N, longitude 80◦39′03”W), pointing\ndirectly upwards. Two solid fuel boosters, each with a mass of 68415kg and providing 3421kN of thrust\nare pointed directly downwards.\n\nThe rocket also has a liquid fuel engine, that can be throttled to produce different amounts of thrust and\ngimbaled to point in various directions. What is the minimum amount of thrust, in kN, that this engine\nneeds to provide for the rocket to lift vertically (to accelerate directly upwards) off the launchpad?\n\n\n                            N·m2Assume G = 6.674 × 10−11        , and that the Earth is a perfect sphere of radius 6370km and mass                                         s3\n5.972×1024kg that completes one revolution every 86164s and that the rocket is negligibly small compared\nto the Earth. Ignore buoyancy forces.\n\n\n"
+    },
+    {
+      "number": 14,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "14. LC-Diode 1 How much time (in seconds) has elapsed before the voltage across the capacitor\nbecomes constant?\n\n\n"
+    },
+    {
+      "number": 15,
+      "page_start": 14,
+      "page_end": 14,
+      "text": "15. LC-Diode 2 What is the magnitude of final voltage (in volts) across the capacitor?\n\n\n"
+    },
+    {
+      "number": 16,
+      "page_start": 14,
+      "page_end": 14,
+      "text": "16. Raging Loop At Hanoi-Amsterdam High School in Vietnam, every subject has its own flag (see\nFigure A, taken by Tung X. Tran). While the flags differ in color, they share the same central figure.\nConsider a planar conducting frame of that figure rotating at a constant angular velocity in a uniform\nmagnetic field (see Figure B). The frame is made of thin rigid wires with same uniform curvature and\nsame resistance per unit length. What fraction of the total heat released is released by the outermost\nwires?\n\n\n\n\n\n"
+    },
+    {
+      "number": 17,
+      "page_start": 15,
+      "page_end": 16,
+      "text": "17. Moon Landing A spacecraft is orbiting in a very low circular orbit at a velocity v0 over the\nequator of a perfectly spherical moon with uniform density. Relative to a stationary frame, the spacecraft\ncompletes a revolution of the moon every 90 minutes, while the moon revolves in the same direction once\nevery 24 hours. The pilot of the spacecraft would like to land on the moon using the following process:\n\n\n   1. Start by firing the engine directly against the direction of motion.\n\n   2. Orient the engine over time such that the vertical velocity of the craft remains 0, while the horizontal\n     speed continues to decrease.\n\n\n                                                                                 Page 14\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n   3. Once the velocity of the craft relative to the ground is also 0, turn off the engine.\n\n\nAssume that the engine of the craft can be oriented instantly in any direction, and the craft has a TWR\n(thrust-to-weight ratio, where weight refers to the weight at the moon’s surface) of 2, which remains\nconstant throughout the burn. If the craft starts at v0 = 500 m/s, compute the delta-v expended to land,\nminus the initial velocity, i.e. ∆v −v0.\n\n\n"
+    },
+    {
+      "number": 18,
+      "page_start": 16,
+      "page_end": 17,
+      "text": "18. Tesseract Oscillations A tesseract is a 4 dimensional example of cube. It can be drawn in 3\ndimensions by drawing two cubes and connecting their vertices together as shown in the picture below:\n\n\n\n\n\n                                                                                 Page 15\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n\n\nNow for the 3D equivalent. The lines connecting the vertices are replaced with ideal springs of constant\nk = 10 N/m (in blue in the figure). Now, suppose the setup is placed in zero-gravity and the outer cube\nis fixed in place with a sidelength of b = 2 m. The geometric center of the inner cube is placed in the\ngeometric center of the outer cube, and the inner cube has a side-length a = 1 m and mass m = 1.5 kg.\nThe inner cube is slightly displaced from equilibrium. Consider the period of oscillations\n\n\n   • T1: when the springs have a relaxed length of 0;\n\n   • T2: when the springs are initially relaxed before the inner cube is displaced.\n\n\nWhat is T1 + T2?\n\n\n"
+    },
+    {
+      "number": 19,
+      "page_start": 18,
+      "page_end": 19,
+      "text": "19. The Room Consider two points S and S′ randomly placed inside a D-dimensional hyper-rectangular\nroom with walls that are perfect-reflecting (D −1)-dimensional hyper-plane mirrors. How many different\n\n\n                                                                                 Page 17\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\nlight-rays that start from S, reflect N times on one of the walls and N −1 times on each of the rest, then\ngo to S′? Use D = 7 and N = 3.\n\n\n"
+    },
+    {
+      "number": 20,
+      "page_start": 20,
+      "page_end": 20,
+      "text": "20. Two Rings Two concentric isolated rings of radius a = 1 m and b = 2 m of mass ma = 1 kg and\nmb = 2 kg are kept in a gravity free region. A soap film of surface tension σ = 0.05Nm−1 with negligible\nmass is spread over the rings such that it occupies the region between the rings. The smaller ring is pulled\nslightly along the axis of the rings. Find the time period of small oscillation in seconds.\n\n\n"
+    },
+    {
+      "number": 21,
+      "page_start": 21,
+      "page_end": 21,
+      "text": "21. Pendulum Circuit An open electrical circuit contains a wire loop in the shape of a semi-circle,\nthat contains a resistor of resistance R = 0.2Ω. The circuit is completed by a conducting pendulum in the\nform of a uniform rod with length ℓ= 0.1 m and mass m = 0.05 kg, has no resistance, and stays in contact\nwith the other wires at all times. All electrical components are oriented in the yz plane, and gravity acts\nin the z direction. A constant magnetic field of strength B = 2 T is applied in the +x direction.\n\n\n                               R\n\n            ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙\n                            α                             g\n             ⊙ ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙ ⊙\n                                      ℓ\n               ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙  ⊙\n\n                 ⊙  ⊙  ⊙  ⊙  ⊙  ⊙\n\n                                        ⊙⃗       ⊙                      ⊙  ⊙\n\n\n\nIgnoring self inductance and assuming that α ≪1, the general equation of motion is in the form of\nθ(t) = A(t) cos(ωt + φ), where A(t) ≥0. Find ω2.\n\n\n"
+    },
+    {
+      "number": 22,
+      "page_start": 22,
+      "page_end": 22,
+      "text": "22. Broken Table A table of unknown material has a mass M = 100 kg, width w = 4 m, length\nℓ= 3 m, and 4 legs of length L = 0.5 m with a Young’s modulus of Y = 1.02 MPa at each of the\ncorners. The cross-sectional area of a table leg is approximately A = 1 cm2. The surface of the table has\na coefficient of friction of µ = 0.1. A point body with the same mass as the table is put at some position\nfrom the geometric center of the table. What is the minimum distance the body must be placed from the\ncenter such that it slips on the table surface immediately after? Report your answer in centimeters.\n\nThe table surface and floor are non-deformable.\n\n\n"
+    },
+    {
+      "number": 23,
+      "page_start": 22,
+      "page_end": 23,
+      "text": "23. Resistance box In the figure below, the resistance of each wire (side and diagonal) is 1Ω. Find\nthe value of p + q if lim RAB = p where p and q are co-prime integers.\n             n→∞  n      q\n\n\n\n                              1       2            n\n                                      B\n\n\n                 A\n\n\n\n\n                                                                                 Page 21\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n"
+    },
+    {
+      "number": 24,
+      "page_start": 23,
+      "page_end": 23,
+      "text": "24. Dipole Conductor An (ideal) electric dipole of magnitude p = 1 × 10−6 C·m is placed at\na distance a = 0.05 m away from the center of an uncharged, isolated spherical conductor of radius\nR = 0.02 m. Suppose the angle formed by the dipole vector and the radial vector (the vector pointing\nfrom the sphere’s center to the dipole’s position) is θ = 20o. Find the (electrostatic) interaction energy\nbetween the dipole and the charge induced on the spherical conductor.\n\n\n"
+    },
+    {
+      "number": 25,
+      "page_start": 24,
+      "page_end": 24,
+      "text": "25. Dying Light Consider an optical system made of many identical ideal (negligible-thickness) half-\nlenses with focal length f > 0, organized so that they share the same center and are angular-separated\nequally at density n (number of lenses per unit-radian). Define the length-scale λ = f/n. A light-ray\narrives perpendicular to the first lens at distance λ/2 away from the center, then leaves from the last lens\nat distance 2λ away from the center. Estimate the total deflection angle (in rad) of the light-ray by this\nsystem in the limit n →∞.\n\n\n\n\n\n"
+    },
+    {
+      "number": 26,
+      "page_start": 26,
+      "page_end": 27,
+      "text": "26. Tungsten For black body radiation, Wien’s Displacement Law states that its spectral radiance\nwill peak at\n                                                        b\n                                               λpeak =    .\n                                         T\nwhere b = 2.89777 × 10−3 mK, and T is the temperature of the object. When QiLin tried to reproduce\nthis in a lab, by working with a tungsten-filament lightbulb at 2800 K, he computed a different value\nfor b by measuring the peak wavelength using a spectrometer and multiplying it with the temperature.\nHe hypothesizes that this discrepancy is because tungsten is not an ideal black body. The graph below,\ncourtesy of the CRC Handbook of Chemistry and Physics, shows the emissivity of tungsten at various\nconditions (the units for wavelength is nm).\n\n\n\n\n\n                                                                                 Page 25\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n\n\nAssuming QiLin’s hypothesis is correct, and assuming there were no other errors in the experiment, how\n                                          |btheory−bexperiment|\noff was his value for b? Submit                 as a decimal number, to one significant digit (giving you                                                   btheory\nroom to estimate where the points are).\n\n\n"
+    },
+    {
+      "number": 27,
+      "page_start": 27,
+      "page_end": 28,
+      "text": "27. Bioshock Infinite The equivalent resistance (in Ω) between points A and B of the following\ninfinite resistance network made of 1Ωand 2Ωresistors is 0.abcdefgh... in decimal form. Enter efg into\nthe answer box (It should be an integer in the range of 0-999).\n\n\n                                                                                 Page 26\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\n\n\n\n"
+    },
+    {
+      "number": 28,
+      "page_start": 30,
+      "page_end": 30,
+      "text": "28. Magnetic Ball A uniform spherical metallic ball of mass m, resistivity ρ, and radius R is kept\non a smooth friction-less horizontal ground. A horizontal uniform, constant magnetic field B exists in the\nspace parallel to the surface of ground. The ball was suddenly given an impulse perpendicular to magnetic\nfield such that ball begin to move with velocity v without losing the contact with ground. Find the time\nin seconds required to reduce its velocity by half.\n\nNumerical Quantities: m = 2 kg, 4πϵ0R3B2 = 3 kg, ρ = 109Ωm, v = π m/s.\n\n\n"
+    },
+    {
+      "number": 29,
+      "page_start": 32,
+      "page_end": 32,
+      "text": "29. Magical Balloon 1  If the minimum radius of the hoop such that the balloon falls completely\nthrough the hula hoop without touching it is r, compute the difference between r and the largest multiple\nof 5cm less than or equal to r. Answer in centimeters; your answer should be in the range [0, 5).\n\n"
+    },
+    {
+      "number": 30,
+      "page_start": 32,
+      "page_end": 32,
+      "text": "30. Magical Balloon 2 Consider the horizontal plane passing through the center of the balloon at\nthe start. If the total volume above this plane that the balloon falls through after it is thrown downwards\nis V , compute the difference between V and half the original volume of the balloon. Answer in milliliters;\nyour answer should be nonnegative.\n\nNote that when refer to the “volume an object falls through”, it refers to the volume of the union of all\npoints in space which the object occupies as it falls.\n\n\n"
+    },
+    {
+      "number": 31,
+      "page_start": 34,
+      "page_end": 34,
+      "text": "31. Hydrogen Magnetism In quantum mechanics, when calculating the interaction between the\nelectron with the proton in a hydrogen atom, it is necessary to compute the following volume integral\n(over all space):\n                                    Z\n                                          I =   B(r)|Ψ(r)|2dV\n\nwhere Ψ(r) is the spatial wavefunction of the electron as a function of position r and B(r) is the (boldface\ndenotes vector) magnetic field produced by the proton at position r. Suppose the proton is located at\nthe origin and it acts like a finite-sized magnetic dipole (but much smaller than a0) with dipole moment\nµp = 1.41 × 10−26 J/T. Let the hydrogen atom be in the ground state, meaning Ψ(r) = e−r/a0√     , where\n                                                                                                    πa30\na0 = 5.29 × 10−11 m is the Bohr radius. Evaluate the magnitude of the integral |I| (in SI units).\n\n\n"
+    },
+    {
+      "number": 32,
+      "page_start": 35,
+      "page_end": 35,
+      "text": "32. Relativistic Collision Zed is trying to model the repulsive interaction between 2 objects, A\nand B (with masses mA and mB, respectively), in a relativistic setting. He knows that in relativity, forces\ncannot act at a distance, so he models the repulsive force with a small particle of mass m that bounces\nelastically between A and B. Throughout this problem, assume everything moves on the x-axis. Suppose\nthat initially, A and B have positions and velocities xA, vA and xB, vB, respectively, where xA < xB and\nvA > vB. The particle has an initial (relativistic) speed v.\n\nFor simplicity, assume that the system has no total momentum. You may also assume that vA, vB ≪v,\nand that pm ≪pA, pB, where pm, pA, pB are the momenta of the particle, A, and B, respectively. Do\nNOT assume v ≪c, where c is the speed of light.\n\nFind the position (in m) of A when its velocity is 0, given that mA = 1 kg, mB = 2 kg, vA = 0.001c,\nm = 1 × 10−6 kg, v = 0.6c, xA = 0 m, xB = 1000 m.\n\nNote: Answers will be tolerated within 0.5%, unlike other problems.\n\n\n"
+    },
+    {
+      "number": 33,
+      "page_start": 35,
+      "page_end": 36,
+      "text": "33. Microscope Consider an optical system consisting of two thin lenses sharing the same optical axis.\nWhen a cuboid with a side parallel to the optical axis is placed to the left of the left lens, its final image\nformed by the optical system is also a cuboid but with 500 times the original volume. Assume the two\n\n\n                                                                                 Page 34\nJune 10 - 12, 2022                                     Online Physics Olympiad 2022 - Open Round\n\n\nlenses are 10 cm apart and such a cuboid of volume 1 cm3 is placed such that its right face is 2 cm to the\nleft of the left lens. What’s the maximum possible volume of the intermediate image (i.e., image formed\nby just the left lens) of the cuboid? Answer in cm3.\n\n\n"
+    },
+    {
+      "number": 34,
+      "page_start": 37,
+      "page_end": 37,
+      "text": "34. Resistor grid Consider an infinite square grid of equal resistors where the nodes are exactly the\nlattice points in the 2D Cartesian plane. A current I = 2.7 A enters the grid at the origin (0, 0). Find\nthe current in Amps through the resistor connecting the nodes (N, 0) and (N, 1), where N = 38 can be\nassumed to be much larger than 1.\n\n\n"
+    },
+    {
+      "number": 35,
+      "page_start": 38,
+      "page_end": 38,
+      "text": "35. Strange Gas Suppose we have a non-ideal gas, and in a certain volume range and temperature\nrange, it is found to satisfy the state relation\n\n\n                                        p = AV αT β\n\nwhere A is a constant, α = −4 and β = 3 and the other variables have their usual meanings. Throughout                                 5           2,\nthe problem, we will assume to be always in that volume and temperature range.\n\n\n                 Cp\nAssume that γ =      is found to be constant for this gas (γ is independent of the state of the gas), where                CV\nCp and Cv are the heat capacities at constant pressure and volume, respectively. What is the minimum\npossible value for γ?\n\n\n"
+    }
+  ],
+  "method": "Actual numbered statements stopped at printed Solution headers"
+}

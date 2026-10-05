@@ -1,0 +1,2213 @@
+{
+  "file_id": 2852,
+  "statements": [
+    {
+      "number": "AA",
+      "heading": "Úloha AA . . . zpátečník",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Která část kola se při jízdě vlaku pohybuje i v protisměru?",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            257.2058410644531,
+            63.03940200805664
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AB",
+      "heading": "Úloha AB . . . písky času",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Přesun písku v přesýpacích hodinách je velmi komplexní záležitost, pokud se má popisovat\npomocí interakcí jednotlivých zrnek. Z pozorování ale víme, že hlavními parametry, které tento\njev ovlivňují, jsou hustota zrn písku ϱ, průřez otvoru S, kterým zrnka propadávají, a samozřejmě\ni tíhové zrychlení g. Pomocí rozměrové analýzy určete, čemu bude úměrná změna hmotnosti\npísku v horní části nádoby v čase ∆m/∆t. Rozměrovou analýzou se myslí to, že máte nalézt\ntakovou kombinaci zadaných veličin, která bude mít stejnou jednotku jako hledaná veličina.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            320.5934143066406,
+            399.675537109375,
+            329.5594177246094
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            331.50341796875,
+            399.675537109375,
+            340.46942138671875
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84000015258789,
+            342.4134216308594,
+            399.6716613769531,
+            351.59881591796875
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            353.32342529296875,
+            399.669921875,
+            362.5088195800781
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839996337890625,
+            364.2334289550781,
+            399.6756591796875,
+            373.4188232421875
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.839988708496094,
+            375.1434326171875,
+            390.1178283691406,
+            384.10943603515625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AC",
+      "heading": "Úloha AC . . . těžký život se vzduchem",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Pokud by Země přišla o atmosféru, jak těžké závaží byste si museli položit na ramena, abyste,\nalespoň co se tlaku týče, nepocítili žádný rozdíl? Člověka si představte jako kvádr o rozmě-\nrech a × b × c = 2 m × 0,4 m × 0,2 m. Uvažujte g = 9,81 m·s−2 a p = 101 kPa.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            185.993408203125,
+            399.6755676269531,
+            194.95941162109375
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            196.90341186523438,
+            399.6665954589844,
+            205.86941528320312
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            204.00341796875,
+            329.8842468261719,
+            216.99879455566406
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AD",
+      "heading": "Úloha AD . . . jezdkyně vysává",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Internet je plný videí koček jezdících na robotických vysavačích, jiné kočky doma na robotovi\nvytírají podlahu. Jenže taková kočka z domácího prostředí nemá dostatečně nabroušené drápy\na ty neodolají náporu více jak 100 N. Pokud má kočka hmotnost m = 3 kg, jaké je maximální\nzrychlení cat-friendly/katzenfreundlich vysavače?",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            371.3233947753906,
+            399.67559814453125,
+            380.2893981933594
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            382.223388671875,
+            399.6756286621094,
+            391.18939208984375
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            393.1333923339844,
+            399.6734924316406,
+            402.31878662109375
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            404.04339599609375,
+            218.11412048339844,
+            413.0093994140625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AE",
+      "heading": "Úloha AE . . . ozubená kolečka",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "Kolečkem A točíme ve vyznačeném směru úhlovou rychlostí ωA. Jakou úhlovou rychlostí ωB se\nbude točit kolečko B? Uvažujte, že jsou-li dvě kolečka na jedné osičce, tak jsou pevně spojena.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.84000015258789,
+            500.2633972167969,
+            399.6886901855469,
+            510.2193908691406
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.839996337890625,
+            511.1734313964844,
+            399.67010498046875,
+            520.3588256835938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AF",
+      "heading": "Úloha AF . . . zasypaný Měsíc",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Kdyby jeden mikrometeorit (těleso, které si můžeme představit zhruba jako kuličku o průměru\nřádově d = 10−6 m) dopadl na každý metr čtvereční povrchu Měsíce jednou za sekundu, kolik",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            321.743408203125,
+            399.66668701171875,
+            330.70941162109375
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84000015258789,
+            329.06280517578125,
+            399.6884765625,
+            341.83880615234375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AG",
+      "heading": "Úloha AG . . . brzdící",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Řidič jedoucí v autě rychlostí 10 m·s−1 se probudí z mikrospánku a zjistí, že míří přímo proti\nbetonové stěně. Začne brzdit ve chvíli, kdy je od ní 10 m daleko. Jaké nejmenší maximální\nzrychlení mohou zažít cestující v autě? Stěnu i auto považujte za dokonale tuhé.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            136.0434112548828,
+            399.67242431640625,
+            149.03878784179688
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.839988708496094,
+            150.76341247558594,
+            399.67523193359375,
+            159.94879150390625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.839981079101562,
+            161.6734161376953,
+            344.0773620605469,
+            170.63941955566406
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AH",
+      "heading": "Úloha AH . . . WiFi",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Kolik fotonů vyzařovaných typickou WiFi (fW = 2,4 GHz) je potřeba k dodání stejné energie\njako jedním fotonem viditelného světla o vlnové délce λz = 550 nm?",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.84000015258789,
+            370.2134094238281,
+            399.67132568359375,
+            380.3887939453125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.839996337890625,
+            381.1234130859375,
+            292.0785217285156,
+            391.2987976074219
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BA",
+      "heading": "Úloha BA . . . Peking",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "V Pekingu nedávno naměřili 800 μg částic smogu na metr kubický vzduchu. Jaká hmotnost\nčástic zůstane člověku v plicích za jeden den, pokud předpokládáme, že poměr hmotnosti usa-\nzených částic ku vdechnutým je p? Člověk za minutu prodýchá 14 l vzduchu. Výsledek udejte\njako násobek faktoru p.",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.67022705078125,
+            63.2587890625
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.840003967285156,
+            64.98340606689453,
+            399.6666259765625,
+            73.94940185546875
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.840003967285156,
+            75.88340759277344,
+            399.6769104003906,
+            85.06878662109375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            86.79341125488281,
+            114.4042739868164,
+            95.97879028320312
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BB",
+      "heading": "Úloha BB . . . Tom a Jerry",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Jako hrom se mají rádi Jerry a Tom, ale občas Tom pustí Jerrymu na hlavu kovadlinu. Tentokrát\npředpokládejme, že kovadlina váží m = 150 kg a je upuštěna z výšky h = 2 m. Nebohý Jerry\nnedokáže vyvinout sílu větší než F = 10 kN, ale přes jeho veškerou snahu sice kovadlinu úplně\nzbrzdí, ta jej však zarazí do země celého. Jak je Jerry vysoký? Jerry se při takových nárazech,\njak známo, vůbec nedeformuje. Velikost tíhového zrychlení můžete uvažovat g = 10 m·s−2. Dále\nuvažujte, že Jerry si při vzpažení tak akorát dosáhne na vršek hlavy.",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            182.51339721679688,
+            399.6755676269531,
+            191.47940063476562
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            193.42340087890625,
+            399.6826171875,
+            202.60877990722656
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            204.33340454101562,
+            399.6726989746094,
+            213.51878356933594
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            215.243408203125,
+            399.6756286621094,
+            224.20941162109375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            224.78761291503906,
+            399.680908203125,
+            235.3387908935547
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            237.06341552734375,
+            296.4768981933594,
+            246.0294189453125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BC",
+      "heading": "Úloha BC . . . dobrodružství ledové kostky",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Do kádinky s vodou o poloměru 5 cm je vhozena kostka ledu o hraně délky 2 cm, 10 % ledu\nvyčnívá nad hladinu vody, která dosahuje výšky 25 cm. O kolik procent se hladina vody zvýší\npo úplném roztátí kostky ledu? Vliv změny teploty zanedbejte.",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            365.5934143066406,
+            399.6809387207031,
+            374.77880859375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            376.50341796875,
+            399.67572021484375,
+            385.6888122558594
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            387.4134216308594,
+            274.41156005859375,
+            396.3794250488281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BD",
+      "heading": "Úloha BD . . . tužtička",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "Tužka udělala během pádu ze stolu vysokého l = 1,25 m dvě otáčky. Za předpokladu, že je\npo dobu celého pádu úhlová rychlost konstantní, určete její velikost. Tíhové zrychlení je g =\n= 9,81 m·s−2.",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.84000015258789,
+            515.953369140625,
+            399.6785888671875,
+            525.1387939453125
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839981079101562,
+            526.8633422851562,
+            399.683837890625,
+            536.0487670898438
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.839996337890625,
+            536.4075927734375,
+            73.87427520751953,
+            546.9588012695312
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BE",
+      "heading": "Úloha BE . . . pátrání po předcích",
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Jak stará je kostra praprapra. . . dědečka ptáka FYKOSáka, pokud měl tento tvor v kostře těsně\npřed smrtí 3,2 kg uhlíku, z čehož 10−6 % tvořil uhlík 14\n6C, a dnes obsahuje pouhých 8,4·10−11 %\nzmíněného izotopu z původního množství uhlíku? Poločas rozpadu uhlíku 14\n6C je 5 730 let.",
+      "locations": [
+        {
+          "page": 7,
+          "bbox": [
+            19.84000015258789,
+            194.0634002685547,
+            399.66656494140625,
+            203.02940368652344
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.84000015258789,
+            201.38278198242188,
+            236.89511108398438,
+            214.15878295898438
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            233.25,
+            201.38278198242188,
+            399.68487548828125,
+            215.14599609375
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.8399658203125,
+            214.6280059814453,
+            327.2250671386719,
+            224.8494110107422
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            323.5699462890625,
+            215.88340759277344,
+            381.75421142578125,
+            226.05599975585938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BF",
+      "heading": "Úloha BF . . . kotva",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Železná kotva se ve vodě jeví o 200 N lehčí než ve vzduchu. Hustota železa je ϱFe = 7 870 kg·m−3,\nhustota vody ϱvo = 1 000 kg·m−3, hustota vzduchu ϱvz = 1,29 kg·m−3. Jakou silou působí kotva\nna podložku, je-li na vzduchu?",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            52.70759582519531,
+            399.68426513671875,
+            64.24878692626953
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            63.61759948730469,
+            399.68353271484375,
+            75.15878295898438
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839981079101562,
+            75.88340759277344,
+            143.26593017578125,
+            84.84940338134766
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BG",
+      "heading": "Úloha BG . . . home sweet home",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Dominika se nesmírně těší na víkend domů za svým štěnětem, takže cestou od vlaku počítá\nsvé kroky, aby jí to rychleji uteklo. Protože by se nerada dostala do zbytečně vysokých čísel,\npočítá je tak, že vždy napočítá o krok víc než v předchozím případě, přičemž začíná od jedničky\n(čili počítá způsobem: jedna; jedna, dva; jedna, dva, tři . . . ). Za jak dlouho se dostane domů,\npokud své počítání skončí číslem 67 a nejvyšší číslo, kterého za celé počítání dosáhla, bylo 104?\nV rámci svého nadšení jde s rovnoměrným zrychlením a = 0,002 m·s−2, její krok je dlouhý\n70 cm a její počáteční rychlost je v0 = 4 m·s−1.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            285.8634033203125,
+            399.66656494140625,
+            294.82940673828125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            296.7734069824219,
+            399.6665344238281,
+            305.7394104003906
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            307.68341064453125,
+            399.67559814453125,
+            316.6494140625
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            318.5834045410156,
+            399.6830749511719,
+            327.768798828125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            329.493408203125,
+            399.66656494140625,
+            338.45941162109375
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.839996337890625,
+            339.03759765625,
+            399.6838684082031,
+            349.58880615234375
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.840011596679688,
+            349.9476013183594,
+            208.35427856445312,
+            361.4988098144531
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BH",
+      "heading": "Úloha BH . . . vodečka",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Odhadněte, kolik molekul ethanolu je v jedné plné půllitrové láhvi vodky s 40 % obsahem\nethanolu. Tato úloha bude opravována s cca 25% tolerancí.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.84000015258789,
+            478.2134094238281,
+            399.6798095703125,
+            487.3988037109375
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.8399658203125,
+            489.1234130859375,
+            258.0650329589844,
+            498.3088073730469
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CA",
+      "heading": "Úloha CA . . . křivý úsměv",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Horizontální kruhová trubice průřezu S1 s poloměrem r1 = 1 cm je v jednom místě zúžená na\nprůřez S2 a poloměr r2 = 0,2 cm, odkud je svisle dolů vedená U-trubice do místa s průřezem S1.\nTato U-trubice je naplněná rtutí o hustotě ϱ = 13 500 kg·m−3. Jaký výškový rozdíl hladin\nrtuti ∆h se v U-trubici ustálí, pokud do širší části proudí vzduch rychlostí v1 = 5 m·s−1?\nHustota vzduchu je ϱv = 1,3 kg·m−3. Tíhové zrychlení uvažujte jako g = 9,81 m·s−2.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.84000015258789,
+            232.25340270996094,
+            399.672119140625,
+            242.43878173828125
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.840011596679688,
+            243.1634063720703,
+            399.6842956542969,
+            253.34878540039062
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84002685546875,
+            252.7075958251953,
+            399.6740417480469,
+            263.2587890625
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.84002685546875,
+            263.61761474609375,
+            399.6885681152344,
+            275.1588134765625
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.840057373046875,
+            274.527587890625,
+            357.9443054199219,
+            286.0688171386719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CB",
+      "heading": "Úloha CB . . . chyba",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Představte si, že máte za úkol změřit tíhové zrychlení tak, že budete pouštět nějaký předmět\nvolným pádem z výšky 10 m a měřit jeho dobu pádu. Jak přesně musíme změřit dobu pádu,\nabychom získali tíhové zrychlení s relativní chybou 0,01, tj. 1 %?",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            158.6934051513672,
+            399.6666259765625,
+            167.65940856933594
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            169.60340881347656,
+            399.67333984375,
+            178.78878784179688
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            180.51341247558594,
+            280.1184997558594,
+            189.69879150390625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CC",
+      "heading": "Úloha CC . . . skokan mostní obecný",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Skokan o hmotnosti m = 70 kg na bungee jumpingovém laně skočí z mostu. Po chvíli pozo-\nrujeme, jak docela pěkně harmonicky kmitá. Mezi osmi dosaženími nejnižšího bodu v rámci\njeho dráhy jsme naměřili čas t = 36 s. Po jisté době se kmity utlumí a skokan zůstane viset\nv hloubce h = 28 m pod mostem. Jaká je tuhost lana (analogická tuhosti pružiny) a jeho délka\nv nenataženém stavu?",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.84000015258789,
+            375.0133972167969,
+            399.6715393066406,
+            384.19879150390625
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            385.92340087890625,
+            399.66656494140625,
+            394.889404296875
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.839996337890625,
+            396.8334045410156,
+            399.6696472167969,
+            406.018798828125
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.840003967285156,
+            407.743408203125,
+            399.6670837402344,
+            416.9288024902344
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.840007781982422,
+            418.6534118652344,
+            108.97998046875,
+            427.6194152832031
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CD",
+      "heading": "Úloha CD . . . elektrizující naviják",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Na rumpál s poloměrem R = 10 cm navíjíme vodivý drát rychlostí N = 5 závitů za sekundu.\nRumpál je v homogenním magnetickém poli s magnetickou indukcí B = 1 T ve směru jeho osy.\nJaké napětí naměříme na koncích drátu?",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            192.8234100341797,
+            399.67376708984375,
+            202.0087890625
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.840011596679688,
+            203.73341369628906,
+            399.6881408691406,
+            212.91879272460938
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.840011596679688,
+            214.63340759277344,
+            184.1150665283203,
+            223.5994110107422
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CE",
+      "heading": "Úloha CE . . . anihilační žárovka",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Kolik párů proton-antiproton by muselo anihilovat za vteřinu, aby energie z anihilace mohla\npohánět 100 W žárovku? Předpokládejte, že gama záření z anihilace se nám daří přeměňovat na\nelektrickou energii s účinností η = 10 %. Kinetickou energii částic považujte v okamžiku srážky\nza zanedbatelnou.",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            450.7134094238281,
+            399.6665954589844,
+            459.6794128417969
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84000015258789,
+            461.6234130859375,
+            399.6663818359375,
+            470.8088073730469
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.839996337890625,
+            472.5334167480469,
+            399.67083740234375,
+            481.71881103515625
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.840003967285156,
+            483.44342041015625,
+            92.05216979980469,
+            492.409423828125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CF",
+      "heading": "Úloha CF . . . vaření vody",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Dominika dala do hrnce V = 3 l destilované vody. Voda měla teplotu t0 = 15 ◦C a hustotu ϱ0 =\n= 999,1 kg·m−3. Zapnula vařič a chtěla přivést vodu k varu. V okamžiku, kdy bude vypínat\nvařič, bude mít voda teplotu t1 = 100 ◦C a hustotu ϱ1 = 958,4 kg·m−3 Dominika chce, aby\nvoda zabírala stejný objem jako před ohřátím, a proto nechá nějakou vodu vypařit. Můžete\npředpokládat, že měrná tepelná kapacita vody je při zahřívání konstantní s hodnotou cp =\n= 4 180 J·kg−1·K−1. Měrné skupenské teplo varu vody je l = 2,26 MJ·kg−1. Kolik energie\nDominika spotřebovala, pokud má její vařič účinnost η = 75 %?",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.84000015258789,
+            228.8776092529297,
+            399.683837890625,
+            240.4287872314453
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            239.78761291503906,
+            399.66632080078125,
+            250.3387908935547
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            248.25341796875,
+            399.68853759765625,
+            262.2488098144531
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839981079101562,
+            262.9734191894531,
+            399.6665954589844,
+            271.9394226074219
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839981079101562,
+            273.8834228515625,
+            399.683837890625,
+            284.058837890625
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            283.4276123046875,
+            399.680908203125,
+            293.97882080078125
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.839996337890625,
+            295.70343017578125,
+            276.468505859375,
+            304.8888244628906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CG",
+      "heading": "Úloha CG . . . zaseknutá koule",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Kutil Pikoš vyhloubil do skály jámu tvaru pravidelného čtyřbokého jehlanu tak, že jeho osa\nbyla svisle a jeho protilehlé boční stěny svíraly úhel α = 30◦. Do této jámy poté vložil kuličku\nhmotnosti m = 250 g tak, že se skály dotýkala právě v jednom bodě každé stěny jehlanu. Jak\nvelkou silou působí každá ze stěn jehlanu na kuličku?",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.6666259765625,
+            63.03940200805664
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            63.61759948730469,
+            399.68450927734375,
+            74.16878509521484
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.839996337890625,
+            75.88340759277344,
+            399.672607421875,
+            85.06878662109375
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.83999252319336,
+            86.79341125488281,
+            234.79981994628906,
+            95.75940704345703
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CH",
+      "heading": "Úloha CH . . . váhavé napětí",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Mějme nekonečný drát zahnutý do tvaru U ve svislé rovině. Kolmo na rovinu drátu prochází\nmagnetické pole velikosti B = 0,025 T. Drátu se dotýká vodič dlouhý l = 1 m a o hmotnosti m =\n= 100 g tak, že vytváří uzavřený obvod. Vodič má velmi velký konečný odpor a je uchycen ve\nstředu na pružince tuhosti k = 100 N·m−1 a kmitá s amplitudou A = 10 cm. Jaká je velikost\nmaximálního napětí vytvořeného v obvodu?",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            294.9634094238281,
+            399.6756591796875,
+            303.9294128417969
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84000015258789,
+            305.8734130859375,
+            399.683837890625,
+            315.0588073730469
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.839996337890625,
+            316.7834167480469,
+            399.674560546875,
+            325.96881103515625
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.839996337890625,
+            323.8834228515625,
+            399.68994140625,
+            336.8788146972656
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84002685546875,
+            338.6034240722656,
+            197.0081787109375,
+            347.5694274902344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DA",
+      "heading": "Úloha DA . . . Mercurial",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Chcete si postavit teploměr ze skleněné trubičky o vnitřním průměru d = 1 mm s kulovou baň-\nkou na konci. Naplníte soustavu V0 = 8,63 cm3 rtuti (baňka je zcela plná a něco je i v trubičce).\nV jaké vzdálenosti od sebe máte vyznačit rysky pro ◦C? Koeﬁcient objemové roztažnosti rtuti\nje β = 1,82 · 10−4 K−1.",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            148.46340942382812,
+            399.68212890625,
+            157.64878845214844
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            155.56341552734375,
+            399.6719665527344,
+            169.5587921142578
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839981079101562,
+            168.91761779785156,
+            399.6781005859375,
+            179.4687957763672
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839981079101562,
+            177.60279846191406,
+            111.1142578125,
+            190.37879943847656
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DB",
+      "heading": "Úloha DB . . . pták narcisák",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Pták narcisák stojí na optické lavici, kde je také spojná čočka s ohniskovou vzdáleností 10 cm.\nJak daleko od čočky si má stoupnout, aby mu byl jeho reálný obraz co nejblíže a zároveň nestál\npřímo v čočce?",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.84000015258789,
+            314.8833923339844,
+            399.68426513671875,
+            324.06878662109375
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            325.79339599609375,
+            399.6666564941406,
+            334.7593994140625
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.839996337890625,
+            336.7033996582031,
+            80.02875518798828,
+            345.6694030761719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DC",
+      "heading": "Úloha DC . . . kostečky",
+      "page_start": 15,
+      "page_end": 15,
+      "text": "Malý Jarda se rozhodl postavit věž z kostek, ale bohužel začal poněkud nešťastně – viz obrázek.\nKostky s průřezem rovnoramenného trojúhelníku mají hmotnost m, krychle má hmotnost M\na součinitel klidového tření mezi kostkami a podložkou je f. Jaké je nejvyšší možné M, aby se\ntrojúhelníkové kostky už po přidání krychle nerozjely? Uvažujte, že kostky mezi sebou kloužou\nbez tření.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.84000015258789,
+            185.06341552734375,
+            399.6666564941406,
+            194.0294189453125
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.84000015258789,
+            195.97340393066406,
+            398.7132263183594,
+            205.15878295898438
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.839996337890625,
+            206.88340759277344,
+            399.6784973144531,
+            216.06878662109375
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.8399658203125,
+            217.7934112548828,
+            399.6666259765625,
+            226.75941467285156
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.8399658203125,
+            228.7034149169922,
+            58.026161193847656,
+            237.66941833496094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DD",
+      "heading": "Úloha DD . . . rande s fykosákem",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "Úspěšný řešitel FYKOSu Květoslav Citlivý sedí se svojí slečnou Kamilou v kánoi na jezeře.\nKvětoslav váží mm = 80 kg, Kamila o něco méně. Hmotnost kánoe je ml = 30 kg. Květoslav\ns Kamilou sedí ve vzdálenosti l = 3 m od sebe, ve stejné vzdálenosti od středu prázdné kánoe.\nVoda je klidná, kánoe je vůči ní také v klidu. Květoslav navrhne Kamile, že by si mohli vyměnit\nmísta, aby Kamila lépe viděla na jezero. Když tak učiní, všimne si Květoslav, že kánoe se\nposunula o d = 40 cm vzhledem ke kůlu ponořenému ve vodě. Z toho se mu podařilo vypočítat\nhmotnost Kamily. Kolik mu vyšlo?",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.6665954589844,
+            63.03940200805664
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            64.98340606689453,
+            399.6920471191406,
+            75.2287826538086
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            75.88340759277344,
+            399.6734619140625,
+            85.06878662109375
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            86.79341125488281,
+            399.66656494140625,
+            95.75940704345703
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            97.70340728759766,
+            399.6665954589844,
+            106.66940307617188
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            108.6134033203125,
+            399.6717529296875,
+            117.79878234863281
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            119.52340698242188,
+            160.21170043945312,
+            128.48941040039062
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DE",
+      "heading": "Úloha DE . . . audioﬁlská",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "Mějme diodu připojenou ke zdroji harmonického střídavého napětí s amplitudou U0 = 5 V.\nPrahové napětí diody je UD = 0,5 V, jinak ji považujeme za dokonale nepropustnou pro nižší\na dokonale propustnou pro vyšší napětí. Vypočtěte, jakou procentuální část periody zdroje\ndioda pracuje, tj. kdy jí teče proud.",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.84000015258789,
+            376.493408203125,
+            399.68426513671875,
+            386.6788024902344
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.839996337890625,
+            387.4034118652344,
+            399.6694030761719,
+            397.58880615234375
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.840003967285156,
+            398.31341552734375,
+            399.6665954589844,
+            407.2794189453125
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.840003967285156,
+            409.2234191894531,
+            163.798095703125,
+            418.1894226074219
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DF",
+      "heading": "Úloha DF . . . netopýří šampionát",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "Při netopýřím šampionátu v letu na 5 km místní favorit neočekávaně nedokončil závod, jelikož\ntragicky zemřel po nárazu do sloupu. Jakou minimální rychlostí musel letět, aby tento sloup\n„neviděl“? Tento konkrétní netopýr se orientoval pomocí ultrazvuku o f = 45 kHz, nejvyšší frek-\nvence, kterou byl schopen slyšet, byla fh = 200 kHz. Počítejte s rychlostí zvuku v = 343 m·s−1.",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.6788024902344,
+            63.2587890625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            64.98340606689453,
+            399.66656494140625,
+            73.94940185546875
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.839996337890625,
+            75.88340759277344,
+            399.67718505859375,
+            85.06878662109375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.8399658203125,
+            85.42759704589844,
+            399.68426513671875,
+            97.03878784179688
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DG",
+      "heading": "Úloha DG . . . vlnitý elektron na baterku",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "Jaká by byla de Broglieho vlnová délka elektronu, který bychom urychlili z klidu napětím\nobyčejné baterie, tedy U = 1,50 V? Náboj elektronu je e = 1,602 · 10−10 nC, hmotnost elektro-\nnu me = 9,11 · 10−28 g a Planckova konstanta h = 6,62 · 10−34 J·s.",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            425.4833984375,
+            399.6665954589844,
+            434.44940185546875
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84000015258789,
+            432.80279541015625,
+            399.6741943359375,
+            445.57879638671875
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84002685546875,
+            443.7127990722656,
+            283.56427001953125,
+            457.4888000488281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DH",
+      "heading": "Úloha DH . . . lomivka",
+      "page_start": 18,
+      "page_end": 18,
+      "text": "Optický prvek je složený z deseti rovnoběžných stejně širokých destiček o různých indexech\nlomu. Indexy lomu jsou dány posloupností ni = 1 + i/10, kde i = 1, . . . , 10 určuje, kolikátá je\ndestička v pořadí. Celý prvek je umístěný ve vzduchu, o kterém předpokládejte, že má index\nlomu n = 1. Paprsek světla na prvek dopadá pod úhlem α = π/6 měřeným od kolmice do\n1. destičky. Pod jakým úhlem β v radiánech paprsek z prvku vystoupí (opět měřeným od\nkolmice)? Předpokládejte také, že paprsek jde celou dobu optickým prvkem, tedy že ten je\ndostatečně rozměrný, aby jej paprsek opustil až na rozhraní poslední destičky se vzduchem.",
+      "locations": [
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            173.5734100341797,
+            399.6756896972656,
+            182.53941345214844
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            184.48341369628906,
+            399.67462158203125,
+            194.66879272460938
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.8399658203125,
+            195.39341735839844,
+            399.66668701171875,
+            204.3594207763672
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.8399658203125,
+            206.3034210205078,
+            399.67529296875,
+            215.48880004882812
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.8399658203125,
+            217.2134246826172,
+            399.67120361328125,
+            226.3988037109375
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.83995819091797,
+            228.12342834472656,
+            399.6666259765625,
+            237.0894317626953
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.83995819091797,
+            239.03343200683594,
+            388.41424560546875,
+            247.9994354248047
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EA",
+      "heading": "Úloha EA . . . sledování rychlého rozpadu",
+      "page_start": 18,
+      "page_end": 18,
+      "text": "Máme radioaktivní zlato 178, které má poločas rozpadu τ = 2,6 s. Jaká část z celkového pů-\nvodního počtu jader zlata se rozpadne v druhé sekundě (čas mezi t1 = 1 s a t2 = 2 s) od chvíle,\nkdy začneme měřit? Výsledek udejte na desetiny procent.",
+      "locations": [
+        {
+          "page": 18,
+          "bbox": [
+            19.84000015258789,
+            443.493408203125,
+            399.67950439453125,
+            452.6788024902344
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.839996337890625,
+            454.4034118652344,
+            399.6841735839844,
+            464.57879638671875
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.84002685546875,
+            465.30340576171875,
+            251.6917724609375,
+            474.2694091796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EB",
+      "heading": "Úloha EB . . . odraz od satelitu",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "Na satelitu na geostacionární dráze (tedy na takové dráze, na které se satelit pozorovatelům\nze Země jeví jako nehybný) je umístěn koutový odražeč. Z místa na povrchu Země, které se\nnachází právě pod tímto satelitem, k němu vyšleme krátký světelný pulz. Za jak dlouho se pulz\nvrátí zpět, je-li rychlost světla c = 3,0 · 108 m·s−1?",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            178.95339965820312,
+            399.6755676269531,
+            187.91940307617188
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            189.8634033203125,
+            399.6666564941406,
+            198.82940673828125
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            200.77340698242188,
+            399.6666259765625,
+            209.73941040039062
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            208.09278869628906,
+            221.968505859375,
+            220.86878967285156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EC",
+      "heading": "Úloha EC . . . akvárium",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "Mějme obdélníkové akvárium, na jehož stranu dopadá pod úhlem α = 68◦od kolmice světlo ze\nslunce. Toto světlo se zlomí a vyjde ven stěnou kolmou na stěnu, na kterou dopadlo. Spočítejte\núhlovou šířku duhy, která se vytvoří, když znáte indexy lomu pro vlnovou délku 400 nm n1 =\n= 1,344 a pro 700 nm n2 = 1,331.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.84000015258789,
+            440.6275939941406,
+            399.6811828613281,
+            451.1788024902344
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.8399658203125,
+            452.9034118652344,
+            399.6665954589844,
+            461.8694152832031
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.8399658203125,
+            463.81341552734375,
+            399.6838073730469,
+            473.9888000488281
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.8399658203125,
+            474.7234191894531,
+            154.55422973632812,
+            484.8988037109375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "ED",
+      "heading": "Úloha ED . . . ruské kuželky",
+      "page_start": 20,
+      "page_end": 20,
+      "text": "Nezbedné dítě o hmotnosti m se zhoupne na houpačce z výšky h0 měřené od nejnižšího bodu\ntrajektorie tak, že v tomto místě srazí svého rodiče o hmotnosti 3m a dále pokračují v pohybu\npohromadě. Do jaké výšky nyní společně vystoupají?",
+      "locations": [
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            216.2934112548828,
+            399.6796875,
+            226.25941467285156
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.839981079101562,
+            227.2034149169922,
+            399.6877136230469,
+            236.3887939453125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.839981079101562,
+            238.11341857910156,
+            233.89425659179688,
+            247.0794219970703
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EE",
+      "heading": "Úloha EE . . . houpačka",
+      "page_start": 20,
+      "page_end": 20,
+      "text": "Uvažujte houpačku, viz obrázek 8, jež má moment setrvačnosti okolo osy otáčení J. Houpačka\nje v zemi přichycena provázkem, který se protrhne při překonání síly F. Určete minimální\ndobu pádu houpačky, pokud můžete na obě sedátka umístit libovolné závaží. Uvažujte, že\nhoupačka se může odchýlit o úhel maximálně ϕ0 od vodorovné polohy. Pro úhel ϕ < ϕ0 uvažujte,\nže cos ϕ ≈1.",
+      "locations": [
+        {
+          "page": 20,
+          "bbox": [
+            19.84000015258789,
+            488.17340087890625,
+            399.6893615722656,
+            497.3587951660156
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84002685546875,
+            499.0834045410156,
+            399.6784362792969,
+            508.268798828125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.840057373046875,
+            509.9933776855469,
+            399.66668701171875,
+            518.9593505859375
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.840057373046875,
+            520.9033813476562,
+            399.6872253417969,
+            530.869384765625
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.840057373046875,
+            531.8134155273438,
+            70.4643325805664,
+            540.9988403320312
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EF",
+      "heading": "Úloha EF . . . neposedná či posedná destička",
+      "page_start": 21,
+      "page_end": 21,
+      "text": "Deskový kondenzátor má elektrody s plochou S = 100 cm2 vzdálené d = 1 cm. Vezmeme die-\nlektrickou destičku o relativní permitivitě εr = 3, tloušťce b = 0,48 cm a ploše S a vložíme ji\nmezi desky kondenzátoru, který jsme předtím odpojili od zdroje. Jaký bude podíl kapacit před\na po vložení destičky? Zmenší či zvětší se náboj na kondenzátoru a bude mít destička tendenci\nvyskakovat, nebo bude naopak vtažena?",
+      "locations": [
+        {
+          "page": 21,
+          "bbox": [
+            19.84000015258789,
+            304.7633972167969,
+            399.67578125,
+            317.7587890625
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.8399658203125,
+            319.4834289550781,
+            399.68255615234375,
+            329.6588134765625
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.8399658203125,
+            330.3934020996094,
+            399.6665954589844,
+            339.3594055175781
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.8399658203125,
+            341.30340576171875,
+            399.6666564941406,
+            350.2694091796875
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.8399658203125,
+            352.2033996582031,
+            181.92733764648438,
+            361.1694030761719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EG",
+      "heading": "Úloha EG . . . optická lavice",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Prokrastinující organizátorka si všimla již dlouho zahálející optické lavice ve skříni na experi-\nmenty a začala si hrát. Našla si čočku o ohniskové vzdálenosti f1 = 10 cm a pak ještě jednu, jejíž\nparametry neznala. Ve vzdálenosti a = 20 cm nalevo od první čočky umístila předmět a druhou\nčočku posadila d = 30 cm napravo od první. A ejhle, zjistila, že poloha obrazu se překrývá s po-\nlohou předmětu. Jaká je ohnisková vzdálenost f2 druhé čočky?",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.6665954589844,
+            63.03940200805664
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.84000015258789,
+            64.98340606689453,
+            399.6810607910156,
+            75.15878295898438
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.840011596679688,
+            75.88340759277344,
+            399.67584228515625,
+            85.06878662109375
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.840011596679688,
+            86.79341125488281,
+            399.6717224121094,
+            95.97879028320312
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.840011596679688,
+            97.70340728759766,
+            272.98590087890625,
+            107.66940307617188
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EH",
+      "heading": "Úloha EH . . . ohřev mléka",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Nádobu tvaru válce o výšce h = 20 cm a poloměru r = 5 cm naplníme při teplotě t1 = 20 ◦C\nprávě do poloviny vodou téže teploty, uzavřeme, ponoříme do vodní lázně o teplotě t2 = 80 ◦C\na počkáme. Jaký bude poté tlak na dně nádoby, je-li atmosferický tlak při plnění pa = 101 kPa,\nhustota vody při 20 ◦C ϱ0 = 998,2 kg·m−3 a při 80 ◦C ϱ1 = 971,8 kg·m−3? Vzduch považujte za\nideální plyn.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.84000015258789,
+            383.277587890625,
+            399.6827697753906,
+            394.82879638671875
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            394.1875915527344,
+            399.6827697753906,
+            405.7388000488281
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            406.4634094238281,
+            399.68426513671875,
+            416.6488037109375
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.839996337890625,
+            413.56341552734375,
+            399.67529296875,
+            427.5487976074219
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.8399658203125,
+            428.2834167480469,
+            69.78059387207031,
+            437.2494201660156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FA",
+      "heading": "Úloha FA . . . Mariánský příkop vs. Mount Everest",
+      "page_start": 23,
+      "page_end": 23,
+      "text": "Jak velký bude rozdíl mezi gravitačním zrychlením působícím na malé lehké hmotné těleso,\nkteré bude h1 = 8,85 km nad povrchem koule o poloměru RZ = 6 378 km, a na druhé, též\ntestovací, těleso, které je zakopáno ve stejné kouli v hloubce h2 = 11,0 km? Na povrchu koule\noznačme gravitační zrychlení g = 9,80665 m·s−2. (Obvykle se takto značí tíhové zrychlení, ale\nrotaci nechceme uvažovat.) Kouli považujte za homogenní. Připomenutí – jako součást řešení\nchceme znát jak velikost rozdílu gravitačních zrychlení, tak informaci o tom, v kterém z těchto\ndvou míst je gravitační zrychlení větší.",
+      "locations": [
+        {
+          "page": 23,
+          "bbox": [
+            19.84000015258789,
+            146.42340087890625,
+            399.6666564941406,
+            155.389404296875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.84000015258789,
+            157.33340454101562,
+            399.6766357421875,
+            167.50877380371094
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            168.243408203125,
+            399.68292236328125,
+            178.4187774658203
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            177.78761291503906,
+            399.67071533203125,
+            188.3287811279297
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            190.05340576171875,
+            399.6665954589844,
+            199.0194091796875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            200.96340942382812,
+            399.67559814453125,
+            209.92941284179688
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.839996337890625,
+            211.8734130859375,
+            175.91116333007812,
+            220.83941650390625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FB",
+      "heading": "Úloha FB . . . svíčková",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "Kulový balón je nadnášen hořícími svíčkami. Kolik jich musíme mít nejméně v koši, aby se\nbalón vznesl? Každá svíčka váží m = 30 g a zahřívá plyn v balónu výkonem P = 1 W, prázdný\nbalón váží M = 50 kg. Koeﬁcient tepelné vodivosti pláště balónu je λ = 0,2 W·K−1·m−2, jeho\npoloměr je R = 10 m. Hustota okolního vzduchu je ϱ = 1,2 kg·m−3 a jeho teplota je T = 293 K.\nPředpokládejte, že teplota vzduchu v balónu je TB a jeho hustota závisí na teplotě jako T −1\nB .",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.66656494140625,
+            63.03940200805664
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            64.98340606689453,
+            399.6876220703125,
+            74.16878509521484
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84002685546875,
+            74.52759552001953,
+            399.6816101074219,
+            85.06878662109375
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84002685546875,
+            82.98340606689453,
+            399.6842956542969,
+            95.97879028320312
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84002685546875,
+            96.22760009765625,
+            391.1725769042969,
+            107.66940307617188
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            380.4900207519531,
+            97.70340728759766,
+            394.2442932128906,
+            109.25940704345703
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FC",
+      "heading": "Úloha FC . . . spravedlivý pan Gauss",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "Náboj Q je umístěn ve výšce d/2 nad středem čtverce o hraně d. Jaký je tok elektrické intenzity\nčtvercem?",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.84000015258789,
+            499.79339599609375,
+            399.68377685546875,
+            508.9787902832031
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.840011596679688,
+            510.7033996582031,
+            60.052520751953125,
+            519.6693725585938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FD",
+      "heading": "Úloha FD . . . kmit kmňak",
+      "page_start": 25,
+      "page_end": 25,
+      "text": "Stojí před vámi úloha zjistit moment setrvačnosti In neznámého tělesa o hmotnosti M = 900 g\nvzhledem k předem dané ose. K dispozici jste měli ocelovou strunu a testovací válec se stejnou\nhmotností a poloměrem R = 10 cm. Válec zavěšený na struně konal torzní kmity podél osy\nkolmé na podstavu s periodou Tv = 12 s. Neznámé těleso na stejné struně konalo torzní kmity\ns periodou Tt = 15 s. Určete moment setrvačnosti vzhledem k ose rovnoběžné s osou torzních\nkmitů. Vzájemná vzdálenost os je R/2.",
+      "locations": [
+        {
+          "page": 25,
+          "bbox": [
+            19.84000015258789,
+            129.4434051513672,
+            399.5664367675781,
+            139.40940856933594
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.839996337890625,
+            140.35340881347656,
+            399.6666259765625,
+            149.3194122314453
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.839996337890625,
+            151.26341247558594,
+            399.67486572265625,
+            160.44879150390625
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.839996337890625,
+            162.1734161376953,
+            399.6764831542969,
+            172.3488006591797
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.839996337890625,
+            173.0834197998047,
+            399.67803955078125,
+            183.25880432128906
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.839996337890625,
+            183.99342346191406,
+            177.27426147460938,
+            193.17880249023438
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FE",
+      "heading": "Úloha FE . . . kondíky",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "Dva kondenzátory o kapacitách C1 = 70 nF a C2 = 50 nF jsme nabili na napětí U1 = 5 V\na U2 = 7 V a spojili jsme desky se stejným znaménkem náboje. Kolik procent energie jsme\ntímto spojením ztratili?",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            54.073402404785156,
+            399.61895751953125,
+            64.24878692626953
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84002685546875,
+            64.98340606689453,
+            399.6697998046875,
+            75.15878295898438
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.840030670166016,
+            75.88340759277344,
+            115.42655944824219,
+            84.84940338134766
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FF",
+      "heading": "Úloha FF . . . odporový koberec",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "Je dána nekonečná odporová síť tvořená n-úhelníky z odporového drátu s konstantním délko-\nvým odporem. Každý menší n-úhelník spojuje středy stran toho předcházejícího. Jedna strana\nnejvětšího n-úhelníku má odpor R0. Nyní spojíme všechny vrcholy tohoto největšího n-úhelníku\na naměříme odpor mezi nimi a středem útvaru. Jaký bude tento odpor?",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            389.9833984375,
+            399.67559814453125,
+            398.94940185546875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            400.8833923339844,
+            399.6665954589844,
+            409.8493957519531
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84000015258789,
+            411.79339599609375,
+            399.6677551269531,
+            421.32598876953125
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.840003967285156,
+            422.7033996582031,
+            310.21282958984375,
+            431.6694030761719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FG",
+      "heading": "Úloha FG . . . potenciálně pokřivené vlny",
+      "page_start": 27,
+      "page_end": 27,
+      "text": "Volná nerelativistická částice s kinetickou energií E a de Broglieho vlnovou délkou λ vletí do\noblasti s odpudivým potenciálem V . Jaká bude nová vlnová délka této částice?",
+      "locations": [
+        {
+          "page": 27,
+          "bbox": [
+            19.84000015258789,
+            245.1934051513672,
+            399.679931640625,
+            254.3787841796875
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.839996337890625,
+            256.1034240722656,
+            338.37310791015625,
+            265.288818359375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    }
+  ],
+  "warnings": []
+}

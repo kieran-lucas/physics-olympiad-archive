@@ -1,0 +1,107 @@
+{
+  "file_id": 1521,
+  "sha256": "39faa10f6904d9d78c6551a69d7623bd53d5e1c4b3995142c61b099bd8d6851c",
+  "method": "four printed columns in reading order, no OCR",
+  "columns": [
+    {
+      "page": 1,
+      "column": 1,
+      "text": "NORDIC-BALTIC PHYSICS OLYMPIAD 2020\n\n\n1.  PHASES OF WATER (6 points) — Johan\nRuneson.  In this problem we will look at\nthe phase diagram of water (see graphs on\na separate page). The first figure shows the\nphase diagram in a region close to the triple\npoint [(s) – solid, (l) – liquid, (g) – gas], while\nthe second figure shows the melting curve.\nWhen two phases α and β are in equilibrium,\nthe phase transition curve follows the law of\nClausius–Clapeyron:\n\n\n           dp   1 Hβ −Hα\n            =                   ,\n          dT  T Vβ −Vα\n\n\nwhere Hα is the specific enthalpy (enthalpy\nper mass) of phase α, and Vα is the specific\nvolume (volume per mass).\n\ni) (1.5 points) Using that Vg ≫Vl, find an\nexpression for the liquid-gas transition curve\np(T) in terms of the latent heat of evapora-\ntion ∆Hlg ≡Hl −Hg, the pressure p0 at any\nreference point along the curve, the gas con-\nstant R and the molar mass µ.\n\nii) (1.5 points) Approximate the Earth as a\nsystem of a homogeneous atmosphere, con-\nsisting of air and water vapor, in equilib-\nrium with a sea of liquid water.  If the at-\nmospheric temperature rises by 3◦C, by what\npercentage does the water vapor pressure\nrise? (The current temperature of the Earth\nis 15◦C.)  You may need the values R =\n8.314Jmol−1 K−1 and µ = 18.015gmol−1.\n\niii) (3 points)Use reasonable approximations\nand calculate Vl −Vs, the difference in spe-\ncific volume between liquid water and ice, at\natmospheric pressure.\n2. TUNNEL DIODE (10 points) — Jaan Kalda.\n\nThe V-I-curve of a tunnel diode is depicted\nin the figure below, curve (a). In some parts\nof the problem, we use an idealized model\ncurve (b)."
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "text": "         I (mA)\n   25\n                                                           (b)\n\n   20\n                                                                    (a)\n   15\n\n\n   10\n\n\n    5\n\n\n             100      200      300      400   V (mV)\n.\n,\n   i) (1 point) In order to measure the V-I curve\n   of the diode, it is connected in series with a\n   variable power supply (the value of the elec-\n  tromotive force E can be changed from 0V\n   to 1V), see circuit (a). The ammeter has in-\n   ternal resistance r = 2Ω; the applied voltage\n   is E = 50mV. What is the diode voltage Vi and\n  current Ii? Use the real V-I-curve of the di-\n  ode.\n           (a)                   (c)                 L                 C  A        L   A\n                          L\n-\n       A              C  Rd\n-        (b)                  (d)  r          K\n\n   ii) (1 point)Now, let us study the effect of the\n   self-inductance of the wires. In order to take\n-\n   into account such an inductance, the circuit\n-\n  needs to be modified as shown in circuit (b);\n-\n   let L = 500nH. The switch K is kept open\n   until the voltage is adjusted to E = 250mV,\n  and is then closed. How long will it take\n   for the current to reach I1 = 20mA? Neglect\n  henceforth (until otherwise instructed) the\n   internal resistances of the battery and of the\n  ammeter (put r = 0), and use the idealized V-\n-  I-curve of the diode.\n\n   iii) (1 point)With the same settings as for task\n    ii), how long will it take from the moment\n  when the switch was closed until the diode\n   voltage reaches V2 = 500mV?\n\n   iv) (2 points)With the same setting as for task\n    ii), plot the diode current as a function of"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "text": "time and find the period and amplitude of\nthe current oscillations.\n\nv) (2 points) Circuit (b) is used to measure\nthe V-I curve of the diode:  for each data\npoint, the voltage is adjusted to the desired\nvalue while the switch is kept open, and then\nthe switch is closed.  Note that when the\nammeter current oscillates with a high fre-\nquency, it shows the average current. Plot\nthe expected measurement results, i.e. the\naverage current through the ammeter as a\nfunction of the applied voltage V = E.\n\nvi) (1 point) Thus far we have assumed that\nthe diode is an ideal device; in reality,  it\nhas a small parasitic capacitance, let it be\nC = 30pF.  Taking this into account, our\ncircuit should be drawn as shown in dia-\ngram  (c).  Now we assume the ammeter,\nagain, to be non-ideal, with internal resist-\nance r = 2Ω. Let us assume that after closing\nthe switch, the voltage was slowly increased\nfrom E = 0mV to E = 150mV so that a sta-\ntionary (oscillations-free) operation regime\nV(t) ≡V0 and I(t) ≡I0 has been achieved.\nSuppose there is a small perturbation to the\ndiode current and voltage: I = I0 + δI(t) and\nV = V0 + δV(t), where I0 and V0 are the cur-\nrent and voltage in the stationary operational\nregime. For small perturbation amplitudes,\nthe V-I-curve of the diode can be linearized,\nresulting in δV = RdδI, where Rd is the differ-\nential resistance of the diode. Determine the\nvalue of Rd.\n\nvii) (2 points) Continuing with the previous\nquestion, one can show that the problem of\nstability for the circuit (c), i.e. the question\nif the small current perturbations δI(t) will\ngrow exponentially in time or not, is equi-\nvalent to the problem of stability for the cir-\ncuit (d) (the battery is removed, and the di-\node is substituted with its differential resist-\nance found by the previous task). What is the\nlargest inductance of wires L for which the\nsystem is stable?l"
+    },
+    {
+      "page": 1,
+      "column": 4,
+      "text": "3. CONICAL ROOM (3 points) — Maté Vigh.\n\n   The interior of a modern museum is a per-\nfect, right cone with half apex angle 60° (i.e.\nthe walls are slanted by 60° with respect to\nthe vertical). Launched from the center of\nthe coneʼs base, the minimal speed needed\nfor a projectile to reach the apex (i.e. the\nhighest point of the walls) is v0. What is the\nminimal speed required to reach the wall of\nthe cone?\n4. DRONE (9 points) — Lasse Franti and Jaan\nKalda. A drone is pulling a cuboid with a rope\nas shown in the sketch; the cuboid is sliding\nslowly, with a constant speed, on the hori-\nzontal floor. The cuboid is made from an ho-\nmogeneous material. You may take measure-\nments from the sketch (on a separate page)\nassuming that the dimensions and distances\non it are correct within an unknown scale\nfactor.  In order to help you in case you\ndonʼt have access to a printer, and need to\nread the problem texts directly from the com-\nputer screen, some auxiliary dashed lines are\nshown in the diagram (which might or might\nnot be useful).\n\ni) (2 points) Find the coefficient of friction\nbetween the cuboid and the floor.\n\nii) (2 points)Find the mass of the cuboid if the\nmass of the drone is m = 1kg.\n\niii) (2 points) Next we will be studying the\nflight of a drone in adiabatic atmosphere. In\nadiabatic atmosphere, air parcels are moving\ncontinuously up or down, and while doing so,\nexpand or contract adiabatically.  It can be\nshown that in adiabatic atmosphere, the tem-\nperature is a linear function of the height z:\nT = T0 −zg/cp, where T0 = 293K is the tem-\nperature on the ground, cp = 1.00Jg−1 K−1 is\nthe specific heat of air at constant pressure,\nand g = 9.81m/s2. Find the dependence of\nair density ρ as a function of height, in terms\nof the density ρ0 at the ground level (z = 0),\nspecific heat of air at constant volume cv =\n0.718Jg−1 K−1, and other previously defined"
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "text": "quantities.\n\niv) (3 points) Assuming that the maximal\nflight height zmax of a drone with no load is\nlimited by the power of its motor, find zmax\nif it is known that the power is just enough\nfor the drone to lift a load equal to 50% of its\nmass off the ground. You may neglect the ef-\nfect of turbulence on droneʼs thrust.\n5. BOTTLEʼS SOUND (8 points) — Jaan Kalda\nand Eero Uustalu.   Tools: an empty 1-litre"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "text": "   bottle, a small (about 100 ml) cup of known\n  volume (or other tool for measuring water\n  volumes), a smartphone with installed “Phys-\n   ics Toolbox Sensor Suite” or “Physics Toolbox\n  Pro” (mark on your paper, which version did\n  you use).\n\n-       If you blow near the bottleʼs mouth, a\n  whistling sound can be generated: a gentle\n   (to moderately strong) air flow needs to pass\n  the bottleʼs mouth perpendicularly to the\n   bottleʼs axis.  Your task is to study the de-"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "text": "pendence of the frequency f of the generated\nsound as a function of the volume V occu-\npied by water inside the bottle.\n\ni) (4 points) While blowing near the bottleʼs\nmouth, measure the sound frequency using\neither the “tone detector” or “spectrum ana-\nlyzer” of the “Physics Toolbox” (once the app\nis launched, the menu can be pulled from\nthe left top corner of the screen).   If you\nmanage to obtain a nice distinct sound, use\nthe “tone detector”; otherwise use the “spec-"
+    },
+    {
+      "page": 2,
+      "column": 4,
+      "text": "trum analyzer” to determine the frequency of\nthe spectrumʼs peak. Tabulate your measure-\nment data.\n\nii) (1 point) Either based on theoretical con-\nsideration or on the data analysis, suggest a\nfunctional dependence of f on V.\n\niii) (3 points) Test the validity of your sugges-\ntion for this dependence graphically, and de-\ntermine the parameters of it. Error analysis\nis not required."
+    },
+    {
+      "page": 3,
+      "column": 1,
+      "text": "   1750\n                  (Pa)\n\n    p   1500\n          107\n               (s)   1250  105\n\n          103   1000\n(Pa)\np            0    750\n\n\n    500\n\n\n    250\n\n\n      0\n     −20  −15"
+    },
+    {
+      "page": 3,
+      "column": 2,
+      "text": "(l)\n\n\n       (g)\n\n\n  150    300\n T (◦C)\n\n\n\n\n\n −10   −5\n           T"
+    },
+    {
+      "page": 3,
+      "column": 3,
+      "text": "0      5     10\n(◦C)"
+    },
+    {
+      "page": 3,
+      "column": 4,
+      "text": "15     20"
+    },
+    {
+      "page": 4,
+      "column": 1,
+      "text": "       ×108\n    2.00\n\n    1.75\n\n    1.50\n\n    1.25\n(Pa) 1.00\n\np\n    0.75\n\n    0.50\n\n    0.25\n\n    0.00\n         −20"
+    },
+    {
+      "page": 4,
+      "column": 2,
+      "text": "                     (Pa)\n\n     p\n\n\n\n\n\n−15\n        T"
+    },
+    {
+      "page": 4,
+      "column": 3,
+      "text": "    107\n\n    105(Pa)\np 103\n\n\n         0     150\n            T (◦\n\n\n\n\n\n −10      −5\n (◦C)"
+    },
+    {
+      "page": 4,
+      "column": 4,
+      "text": "    300\n◦C)\n\n\n\n\n\n        0"
+    },
+    {
+      "page": 5,
+      "column": 1,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 2,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 3,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 4,
+      "text": ""
+    }
+  ]
+}

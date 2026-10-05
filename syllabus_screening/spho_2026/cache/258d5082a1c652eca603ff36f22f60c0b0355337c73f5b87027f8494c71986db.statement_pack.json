@@ -1,0 +1,3000 @@
+{
+  "file_id": 2845,
+  "statements": [
+    {
+      "number": "AA",
+      "heading": "Problem AA . . . cold lemonade",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "The FYKOS bird wanted to cool down a bottle of the Bohemsca lemonade, so he dipped it into\na well. What volume would he have to drink beforehand in order to make the bottle float? The\ntotal external volume of the lemonade bottle is 0.420l and the maximum volume of a liquid\nthat can fit inside it is 0.336 l. The original volume of lemonade in a filled bottle is written on\nthe bottle. The density of glass is 2.5 times greater than the density of water.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.69451904296875,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            399.6856384277344,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            75.80210876464844,
+            399.6800842285156,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84197998046875,
+            86.71111297607422,
+            399.6808166503906,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84197998046875,
+            97.62010955810547,
+            333.1307067871094,
+            106.805908203125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AB",
+      "heading": "Problem AB . . . ropey",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "A new rope with a length l0 = 60.0 m has a diameter d0 = 9.40 mm. After some use, its diameter\nchanges to d = 10.10 mm. Find out how much the rope shortens, assuming that its volume stays\nconstant.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            368.5791015625,
+            399.6811218261719,
+            378.7608947753906
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84197998046875,
+            379.48809814453125,
+            399.6949462890625,
+            388.67388916015625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.841976165771484,
+            390.3970947265625,
+            56.514556884765625,
+            399.3634948730469
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AC",
+      "heading": "Problem AC . . . at the bottom",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "4α\n2α\nh\nr\nDano has a dry well with constant circular cross-section and depth h.\nWhen standing at the bottom, he is able to see an angle 2α ≤90◦of\nthe sky above him. We want to increase this angle by pouring some\nspecific liquid into the well (Dano still stays at the bottom). Find the\ncondition for the index of refraction of the liquid if we want the angle\nof the visible sky to be twice as large.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            349.17364501953125,
+            107.67677307128906,
+            357.9552001953125,
+            115.16371154785156
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            349.17364501953125,
+            139.74661254882812,
+            357.9552001953125,
+            147.2335662841797
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            377.3782653808594,
+            130.03640747070312,
+            381.810546875,
+            137.5233612060547
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            343.4388427734375,
+            175.29673767089844,
+            346.91278076171875,
+            182.78369140625
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            301.9783935546875,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841995239257812,
+            63.52894592285156,
+            301.9781799316406,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84197998046875,
+            75.80210876464844,
+            301.978759765625,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84197998046875,
+            86.71111297607422,
+            301.978759765625,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84197998046875,
+            97.62010955810547,
+            301.9787902832031,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84197998046875,
+            108.52910614013672,
+            172.1273193359375,
+            117.4955062866211
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AD",
+      "heading": "Problem AD . . . snow on the roof",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "There is a h = 20 cm (in vertical direction) thick layer of snow on our roof. The slope of the\nroof is α = 55◦, the density of the snow is ϱ = 0.80 kg·dm−3 and the dimensions of the roof\nare 30 m × 6 m (when viewed in the direction perpendicular to it). Find the pressure exerted\non the roof by the snow.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.841999053955078,
+            359.07110595703125,
+            399.6809997558594,
+            368.25689697265625
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841999053955078,
+            366.1711120605469,
+            399.6817626953125,
+            379.1658935546875
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84197998046875,
+            380.8901062011719,
+            399.681884765625,
+            390.0758972167969
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.84197998046875,
+            391.7991027832031,
+            118.49928283691406,
+            400.7655029296875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AE",
+      "heading": "Problem AE . . . Danka’s glasses",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "The maximum distance at which Danka can see sharply with a naked eye is 20 cm. What glasses\ndoes Danka need to see properly (i.e. so her far point is located at the correct distance in front\nof the eye)? Find the type and optical power of the lenses.",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6825256347656,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84197998046875,
+            64.89310455322266,
+            399.6946105957031,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.84197998046875,
+            75.80210876464844,
+            255.6762237548828,
+            84.76850891113281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AF",
+      "heading": "Problem AF . . . interdimensional potential",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Consider a planet with the same equatorial gravitational acceleration ag and centrifugal accel-\neration ao as the Earth (ag = 9.83 m·s−2 and ao = 0.034 m·s−2 respectively), but with a radius\nof only R = 5.00 km. How big is the difference between the gravitational potential energy of\na small satellite on the surface of the planet and its potential energy infinitely far from the\nplanet? We are interested in the absolute value of this quantity per one kilogram of the satel-\nlite’s mass.",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.841999053955078,
+            215.53012084960938,
+            399.67718505859375,
+            225.4925079345703
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.841995239257812,
+            222.63011169433594,
+            399.6849365234375,
+            236.62091064453125
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.841995239257812,
+            237.34811401367188,
+            399.6838684082031,
+            246.53390502929688
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.841995239257812,
+            248.25711059570312,
+            399.6856384277344,
+            257.2235107421875
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.841995239257812,
+            259.16607666015625,
+            399.6855773925781,
+            268.1324768066406
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.841995239257812,
+            270.0750732421875,
+            64.03739166259766,
+            279.0414733886719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AG",
+      "heading": "Problem AG . . . caffeine",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Daniel is watching his intake of caffeine. A standard cup of coffee contains approximately 80.0 mg\nof caffeine. Daniel is preparing his coffee in his moka pot, in which case one cup with vol-\nume 1.00 dl contains three times more caffeine than a standard cup. FYKOS has ordered new\ncups in the shape of equilateral cylinders – that means their height is the same as the diameter\nof the base, which is 8 cm. How much caffeine (in mg) does Daniel receive by drinking a full\nnew cup of coffee prepared in the moka pot?",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.5649719238281,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842010498046875,
+            64.89310455322266,
+            399.69464111328125,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842010498046875,
+            75.80210876464844,
+            399.68206787109375,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842010498046875,
+            86.71111297607422,
+            399.68560791015625,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842010498046875,
+            97.62010955810547,
+            399.68499755859375,
+            106.805908203125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842025756835938,
+            108.52910614013672,
+            199.8963165283203,
+            117.4955062866211
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AH",
+      "heading": "Problem AH . . . non-ideal voltmeter",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Consider a resistor with resistance R. We connect a voltmeter in parallel with the resistor and\nan ammeter in series with them. Then, we connect this circuit to a DC voltage source. The\nammeter shows a current I, the voltmeter a voltage U (where U̸ = RI). Calculate the inner\nresistance of the voltmeter.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            267.60809326171875,
+            399.6775817871094,
+            276.79388427734375
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842002868652344,
+            278.51708984375,
+            399.6856994628906,
+            287.4834899902344
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842002868652344,
+            289.42608642578125,
+            399.68426513671875,
+            298.61187744140625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841995239257812,
+            300.3350830078125,
+            129.33071899414062,
+            309.3014831542969
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BA",
+      "heading": "Problem BA . . . pulleys again",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "M\nm\nWhat is the downward acceleration of the body with mass M? Neglect the\nmasses of all the pulleys and ropes.",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            355.9385681152344,
+            137.24380493164062,
+            361.19171142578125,
+            142.53396606445312
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            385.7232360839844,
+            99.99082946777344,
+            390.51611328125,
+            105.28099060058594
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            333.87786865234375,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841995239257812,
+            64.89310455322266,
+            162.2284393310547,
+            73.85950469970703
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BB",
+      "heading": "Problem BB . . . full tank, please",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "The water level in Matěj’s well began to drop, so Matěj started to fill it with a water stream\nwith constant mass flow q. Meanwhile, he noticed that just above the water level (which is h =\n= 37 m deep), the cross-section of the stream is 13 times smaller. What is the velocity of the\nwater at the top of the well? Neglect surface tension.",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            449.0121154785156,
+            399.68560791015625,
+            457.978515625
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            459.9211120605469,
+            399.6821594238281,
+            469.1069030761719
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.842010498046875,
+            470.8301086425781,
+            399.6782531738281,
+            480.0158996582031
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.842010498046875,
+            481.7391052246094,
+            233.55615234375,
+            490.70550537109375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BC",
+      "heading": "Problem BC . . . dropped",
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Štěpán dropped a very heavy cannonball into a well. After the time 3.69 s, he heard a loud\n“splash”. How deep is the water level in the well? Neglect air resistance, but assume that the\nspeed of sound is finite.",
+      "locations": [
+        {
+          "page": 7,
+          "bbox": [
+            19.841999053955078,
+            286.87908935546875,
+            399.6810302734375,
+            296.06488037109375
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.84197998046875,
+            297.7880859375,
+            399.685546875,
+            306.7544860839844
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.84197998046875,
+            308.69708251953125,
+            114.74237060546875,
+            317.6634826660156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BD",
+      "heading": "Problem BD . . . phy-lley",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "M\nA member of FYKOS with mass m = 50 kg is pulling a rope downward\nwith a constant force F = 300 N. Find the magnitude of his acceleration.\nThe mass of the depicted platform is M = 50 kg. Neglect the moments of\ninertia of all pulleys.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            359.3331604003906,
+            141.93795776367188,
+            363.9028625488281,
+            146.5398712158203
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            317.9392395019531,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841995239257812,
+            64.89310455322266,
+            317.93011474609375,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841995239257812,
+            75.80210876464844,
+            317.9310607910156,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841995239257812,
+            86.71111297607422,
+            102.89776611328125,
+            95.6775131225586
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BE",
+      "heading": "Problem BE . . . how to move the world",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Lego wanted to move the world, so he jumped down from a tree. His centre of mass shifted\nby h relative to the Earth. By how much did the Earth move, in the reference frame of the\ncentre of mass of the Lego-Earth system? Lego’s mass is m, the mass of Earth is M. Assume\nthat the radius of Earth RZ ≫h. Do not assume anything about the masses of Lego and the\nEarth.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            302.08111572265625,
+            399.6856384277344,
+            311.0475158691406
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            312.9901123046875,
+            399.67828369140625,
+            322.1759033203125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.842002868652344,
+            323.89910888671875,
+            399.6794738769531,
+            333.08489990234375
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.842041015625,
+            334.80810546875,
+            399.6779479980469,
+            344.8243103027344
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841995239257812,
+            345.71710205078125,
+            45.59349822998047,
+            354.6835021972656
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BF",
+      "heading": "Problem BF . . . a bubble in a sea",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "At the seabed in the depth h1 = 130 m under the sea level, a scuba diver releases an air bubble\nwith temperature t1 = 36 ◦C and radius r1 = 0.50 cm. The bubble moves upwards without\ndividing into smaller bubbles or changing its shape. What is the radius of the bubble in the\ndepth h2 = 5 m under the sea level? Assume that there’s no heat exchange between the bubble\nand the sea during the ascent of the bubble. The density of the seawater is ϱ = 1 020 kg·m−3,\nthe atmospheric pressure is pa = 1 013 hPa.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            200.6811065673828,
+            399.67755126953125,
+            210.86289978027344
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841995239257812,
+            210.22593688964844,
+            399.6812744140625,
+            221.7718963623047
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841995239257812,
+            222.4990997314453,
+            399.68560791015625,
+            231.4654998779297
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841995239257812,
+            233.40809631347656,
+            399.67889404296875,
+            243.59088134765625
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            242.9529266357422,
+            399.6853942871094,
+            253.5028839111328
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.842010498046875,
+            255.2270965576172,
+            193.73638916015625,
+            265.40887451171875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BG",
+      "heading": "Problem BG . . . doubly dioptric",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "We have a thin lens made of flint glass. We manufactured it to have optical power exactly φ =\n= 1.000 D for the red light. Unfortunately, flint glass has a disadvantage of relatively high\ndispersion. What optical power does the lens have for blue light? The refractive index of our\nlens is nr = 1.628 for the red light and nb = 1.647 for the blue light.",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6821594238281,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            64.89310455322266,
+            399.6866149902344,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            75.80210876464844,
+            399.6856689453125,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            86.71110534667969,
+            295.113037109375,
+            96.9569091796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BH",
+      "heading": "Problem BH . . . a molecular rotator",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "A diatomic molecule of oxygen with a total mass m = 5.30 · 10−26 kg is rotating around its\ncentre of mass. The bond between the two atoms is elastic with a force constant k = 180 N·m−1\nand length l = 1.21 A. What is the relative change in the length of the bond (the total change\nin the length divided by the original length) if the molecule starts rotating with an angular\nspeed ω = 6.00·1012 rad·s−1? Assume that the atoms are point masses at the ends of the bond.",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.841999053955078,
+            330.27947998046875,
+            399.6835021972656,
+            343.05487060546875
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.841995239257812,
+            343.4139404296875,
+            399.1863098144531,
+            353.9638671875
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            355.68707275390625,
+            399.686767578125,
+            364.87286376953125
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84200668334961,
+            366.5960693359375,
+            399.68560791015625,
+            375.5624694824219
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84200668334961,
+            373.91546630859375,
+            399.67877197265625,
+            386.69085693359375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CA",
+      "heading": "Problem CA . . . danger in class",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "During Social Sciences lessons, Daniel noticed that most of the neon lamps in the classroom\nare quite old. These lamps are l = 1.5 m long and firmly attached at the endpoints. Sometimes,\none of these attachments gets broken and the lamp can spin around the other end. What is the\nvelocity of the free end of the lamp at the lowest point of its trajectory if we assume that there\nis no resistance?",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.68560791015625,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            399.6858825683594,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84198760986328,
+            75.80210876464844,
+            399.6855163574219,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84198760986328,
+            86.71111297607422,
+            399.6855773925781,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84198760986328,
+            97.62010955810547,
+            85.30567169189453,
+            106.58650970458984
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CB",
+      "heading": "Problem CB . . . make a wish",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "Danka owns a well with a uniform circular cross-section. The well is magical and makes dreams\ncome true. Danka imagined sunny beaches of the South Pacific and threw a coin into the well.\nThe coin elastically bounced off the walls of the well a few times. The height difference between\nthe first and second points of impact with the wall of the well was d1 = 14.6 m. The height\ndifference between the second and third points of impact was d2 = 23.7 m. Even before the coin\nbounced off the wall for the fourth time, Danka knew what the height difference between the\nthird and fourth points of impact was going to be. You should calculate it as well. Assume that\nthe coin is a point mass.",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            367.3930969238281,
+            399.68560791015625,
+            376.3594970703125
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            378.3020935058594,
+            399.6945495605469,
+            387.26849365234375
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            389.2110900878906,
+            399.6946716308594,
+            398.177490234375
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            400.1200866699219,
+            399.6876525878906,
+            410.3028869628906
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84197998046875,
+            411.03009033203125,
+            399.6827392578125,
+            421.2118835449219
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841964721679688,
+            421.9390869140625,
+            399.6856689453125,
+            430.9054870605469
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841964721679688,
+            432.84808349609375,
+            399.685546875,
+            441.8144836425781
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841964721679688,
+            443.757080078125,
+            118.32891082763672,
+            452.7234802246094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CC",
+      "heading": "Problem CC . . . a paintbrush is falling",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Find the time t that it takes a paintbrush to fall from the top of a roof to the ground. The\nroof touches the ground, its height is h, its slope is α and the coefficient of friction between\nthe brush and the roof is f. Assume that the initial velocity of the paintbrush is zero and the\nslope of the roof is constant. Also, find the conditions that need to be satisfied for the brush to\nactually fall to the ground.",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.841999053955078,
+            269.89410400390625,
+            399.6865234375,
+            279.07989501953125
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842002868652344,
+            280.8031005859375,
+            399.6880798339844,
+            289.9888916015625
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            291.71307373046875,
+            399.6830139160156,
+            300.89886474609375
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842002868652344,
+            302.6220703125,
+            399.6855773925781,
+            311.5884704589844
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842002868652344,
+            313.53106689453125,
+            128.45201110839844,
+            322.4974670410156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CD",
+      "heading": "Problem CD . . . sprinting on a wheelchair",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Imagine that we are sitting in an electric wheelchair on an oval athletic track with length l =\n= 400.0 m. Calculate the shortest time we need to drive around the oval if the inertial acceler-\nation must not exceed a = 0.1g at any time. We start in the curved part of the oval with an\narbitrary non-zero velocity (which we also aim to optimise). Both linear parts and both curved\nparts have lengths l/4.",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            167.1061248779297,
+            399.6821594238281,
+            176.2919158935547
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.842010498046875,
+            178.01512145996094,
+            399.6825256347656,
+            187.20091247558594
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.842010498046875,
+            188.9241180419922,
+            399.6800231933594,
+            198.1099090576172
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.842002868652344,
+            199.83311462402344,
+            399.6946105957031,
+            208.7995147705078
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.842002868652344,
+            210.7421112060547,
+            111.19239044189453,
+            219.9279022216797
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CE",
+      "heading": "Problem CE . . . dancing",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Even thought it sounds quite unlikely, some Matfyz students like dancing. Daniel is trying to\nlearn advanced steps, for example a simple pirouette. He grabs the hips of his partner and starts\nto spin around with her. What is the centrifugal force acting on Daniel’s partner? Imagine that\nDaniel is really strong, so he manages to carry his partner just above the floor at the distance\nof his stretched arms – let’s consider it r = 0.90 m. Assume that the spinning couple makes f =\n= 0.75 spins per second, his partner weighs m1 = 50 kg and Daniel weighs m2 = 70 kg.",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            116.0321044921875,
+            399.6856384277344,
+            124.99850463867188
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            126.94110870361328,
+            399.6855773925781,
+            135.9075164794922
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            137.85011291503906,
+            399.6856384277344,
+            146.81651306152344
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            148.7591094970703,
+            399.68560791015625,
+            157.7255096435547
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            159.66810607910156,
+            399.68212890625,
+            168.85389709472656
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.84197998046875,
+            170.5771026611328,
+            369.25238037109375,
+            180.75889587402344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CF",
+      "heading": "Problem CF . . . heat and collisions",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Two particles with momenta m1v1 and m2v2 (these are vector quantities) collided and merged.\nWhat was the heat released during the collision?",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            383.2810974121094,
+            399.6795349121094,
+            393.2434997558594
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841995239257812,
+            394.1900939941406,
+            216.43930053710938,
+            403.156494140625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CG",
+      "heading": "Problem CG . . . cooking",
+      "page_start": 15,
+      "page_end": 15,
+      "text": "Danka cooks on a hob with input energy consumption (power) P. She pours 2.00 l of water\nwith temperature 40 ◦C into a stock pot with temperature 23 ◦C. The water starts boiling after\na time t1 = 6 min. Danka then empties the pot and lets it cool to 70 ◦C. At this moment, Danka\npours 2.00 l of water with temperature 40 ◦C into the pot again. How much time does she save\nif she wants to wait until the water starts boiling again? The stock pot has temperature 105 ◦C\nwhen the water is boiling. The hob heats the pot and water with efficiency η = 0.85. The\nheat capacity of the pot is C = 439 J·K−1 and the specific heat capacity of water is cv =\n= 4 180 J·kg−1·K−1.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.841999053955078,
+            247.35411071777344,
+            399.6882629394531,
+            256.5398864746094
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.842010498046875,
+            256.8989562988281,
+            399.6836853027344,
+            267.4488830566406
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            267.8079528808594,
+            399.68438720703125,
+            279.3538818359375
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            278.7169494628906,
+            399.6902160644531,
+            289.2668762207031
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            289.6259460449219,
+            399.68310546875,
+            300.1758728027344
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.842041015625,
+            301.8990783691406,
+            399.67645263671875,
+            311.0848693847656
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.842041015625,
+            308.99908447265625,
+            399.6821594238281,
+            322.9898681640625
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.842010498046875,
+            322.3529357910156,
+            100.05540466308594,
+            332.90289306640625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CH",
+      "heading": "Problem CH . . . water in an angular tube",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "We have a tube with water flowing through it, with a mass flow rate Q and a velocity v. At\none point, this tube is bent in such a way that it has two arms with an angle α between them\n(so α = π means that there is no bend). What is the magnitute of the force the water is exerting\non this bend?",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.841999053955078,
+            114.2081069946289,
+            399.6856384277344,
+            123.39390563964844
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.84197998046875,
+            125.11811065673828,
+            399.6778564453125,
+            134.3039093017578
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.84197998046875,
+            136.02711486816406,
+            399.6785583496094,
+            145.21290588378906
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.84197998046875,
+            146.9361114501953,
+            74.68944549560547,
+            155.9025115966797
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DA",
+      "heading": "Problem DA . . . the floor is lava",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "M\nm\nA member of FYKOS with mass m = 50 kg (depicted in the figure) is\npulling a rope with a constant force F. The mass of the platform is M =\n= 50 kg. Can the FYKOS member lift himself above the platform? If yes,\nwhat force does he have to pull with to do so? Neglect the moments of\ninertia of all pulleys.",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            359.3331604003906,
+            435.6559753417969,
+            363.9028625488281,
+            440.25787353515625
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            356.51507568359375,
+            414.3707580566406,
+            360.6844177246094,
+            418.97265625
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.841999053955078,
+            347.70111083984375,
+            317.9292297363281,
+            356.88690185546875
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.841995239257812,
+            358.610107421875,
+            317.9311218261719,
+            367.7958984375
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.841995239257812,
+            369.51910400390625,
+            317.93963623046875,
+            378.70489501953125
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.841995239257812,
+            380.4281005859375,
+            317.92999267578125,
+            389.3945007324219
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.841995239257812,
+            391.33709716796875,
+            102.89776611328125,
+            400.3034973144531
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DB",
+      "heading": "Problem DB . . . lift mechanics",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "A container with water is placed inside a stationary lift. In the container, there is also a cuboidal\nweight made of aluminium (with dimensions x = 3.00 cm, y = 4.00 cm and z = 5.00 cm), which\nis fully submerged in the water. The weight is hanging on a massless spring with a spring\nconstant k = 230 N·m−1, which is attached to the ceiling and initially stretched. The lift begins\nto move upwards with a constant acceleration a = 3.00 m·s−2. Find the ratio of the spring’s\nelongation when the lift is moving to its initial elongation. The density of aluminium is ϱAl =\n= 2 700 kg·m−3. Assume that the spring doesn’t stretch far enough to reach the floor.",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.841999053955078,
+            137.88011169433594,
+            399.68560791015625,
+            146.8465118408203
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841999053955078,
+            148.7891082763672,
+            399.6889953613281,
+            157.9748992919922
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842041015625,
+            159.69810485839844,
+            399.6856994628906,
+            168.6645050048828
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842041015625,
+            169.24295043945312,
+            399.67864990234375,
+            179.7928924560547
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842041015625,
+            180.15194702148438,
+            399.6822509765625,
+            190.70188903808594
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842025756835938,
+            192.4250946044922,
+            399.6821594238281,
+            202.79090881347656
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842010498046875,
+            201.96995544433594,
+            364.9234619140625,
+            212.51991271972656
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DC",
+      "heading": "Problem DC . . . rotation of the velocity vector",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "Certainly, you have already calculated common projectile motion - for instance, the trajectory of\na ball which was kicked under an initial angle α (with respect to the ground) and with an initial\nspeed v0. Find out how the magnitude of angular velocity ω of its velocity vector v depends\non the initial speed v0, the initial angle α, the instantaneous speed v and the gravitational\nacceleration g.",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.841999053955078,
+            449.4200744628906,
+            399.68572998046875,
+            458.386474609375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841999053955078,
+            460.3290710449219,
+            399.6859130859375,
+            469.5148620605469
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841995239257812,
+            471.2380676269531,
+            399.6849670410156,
+            480.76690673828125
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84197998046875,
+            482.1470642089844,
+            399.6921691894531,
+            491.6759033203125
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841964721679688,
+            493.0560607910156,
+            77.85435485839844,
+            502.2418518066406
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DD",
+      "heading": "Problem DD . . . heavy can",
+      "page_start": 18,
+      "page_end": 18,
+      "text": "Imagine a symmetric can. Its mass is m, its height is H and the area of each base is S. There\nis a liquid with density ϱ in the can.\nWe want the height of the centre of mass of the system can+liquid to be the smallest\npossible. For what height h of the liquid does it happen?",
+      "locations": [
+        {
+          "page": 18,
+          "bbox": [
+            19.841999053955078,
+            225.19212341308594,
+            399.6832275390625,
+            234.37791442871094
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.842010498046875,
+            236.1011199951172,
+            166.30380249023438,
+            245.2869110107422
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            33.790008544921875,
+            247.01011657714844,
+            399.6819152832031,
+            255.9765167236328
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.842010498046875,
+            257.9190979003906,
+            249.01608276367188,
+            267.1048889160156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DE",
+      "heading": "Problem DE . . . Jindra the tractor driver",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "Tractor driver Jindra has an uncommon hobby – he likes moving from some point A to B in\nthe shortest possible time. Now he finds himself in a field, at the point A, and the point B is\nlocated at the distance d to the east from A. The speed of the tractor depends on the azimuth\nof its motion as v = v0 |cos α| (so v = v0 if it’s moving northwards or southwards). How long\ndoes it take Jindra to reach point B?",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6852111816406,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.842010498046875,
+            64.89310455322266,
+            399.68475341796875,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84197998046875,
+            75.80210876464844,
+            399.6900634765625,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84197998046875,
+            86.71111297607422,
+            399.681884765625,
+            96.72731018066406
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84198760986328,
+            97.62010955810547,
+            170.1147003173828,
+            106.805908203125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DF",
+      "heading": "Problem DF . . . lens-like mirror",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "We have a thin plano-convex lens with a radius of curvature R and a refractive index n. Onto\nthe convex side of the lens, we place a shiny foil so that it behaves as a convex spherical mirror\nwith a radius R. Find the (positive) focal length of this system.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.841999053955078,
+            477.8410949707031,
+            399.68585205078125,
+            487.0268859863281
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84197998046875,
+            488.7500915527344,
+            399.6856384277344,
+            497.71649169921875
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84197998046875,
+            499.6590881347656,
+            276.70916748046875,
+            508.8448791503906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DG",
+      "heading": "Problem DG . . . at the absolute bottom",
+      "page_start": 20,
+      "page_end": 20,
+      "text": "Dano has a dry well with constant circular cross-section and depth h = 23.0 m. When he\nwatches the sky from the centre at the bottom of the well, he sees all the stars which have\na smaller zenith distance than α = 8.00◦. What is the minimum volume of an unknown liquid\nwith a refractive index n = 2.31 that Dano has to pour into the well in order to see all the stars\nwith the zenith distance 2α?",
+      "locations": [
+        {
+          "page": 20,
+          "bbox": [
+            19.841999053955078,
+            349.7821044921875,
+            399.6784973144531,
+            358.9678955078125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84197998046875,
+            360.6921081542969,
+            399.6944885253906,
+            369.65850830078125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.84197998046875,
+            370.2369689941406,
+            399.6814880371094,
+            380.7868957519531
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.841995239257812,
+            382.5101013183594,
+            399.68408203125,
+            391.6958923339844
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            19.842002868652344,
+            393.4190979003906,
+            135.1527099609375,
+            402.6048889160156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DH",
+      "heading": "Problem DH . . . retroreflection",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Retroreflective elements are called such because they reflect light back to the source. There are\ntwo ways of constructing them. We can cover the surface by miniature corner reflectors (like\nin bike reflectors) or we can cover it by a reflective material and partially embed transparent\nballs into it (like in white strips on a reflective vest). Calculate an ideal refractive index of the\nballs in order to reflect back most of the incoming light.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6856384277344,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            399.6945495605469,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            75.80210876464844,
+            399.694580078125,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            86.71111297607422,
+            399.6856994628906,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            97.62010955810547,
+            245.87600708007812,
+            106.58650970458984
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EA",
+      "heading": "Problem EA . . . jerked around",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Find the mean square modulus of the change in the vector of velocity of a pollen particle with\nmass M = 250 ng when this particle collides head on with an atom of argon in air (i.e. in such\na way that they are moving directly towards each other). The temperature is t = 25.3 ◦C and\nthe pressure is p = 1 003 hPa.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            433.7071228027344,
+            399.6856384277344,
+            442.67352294921875
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            444.6161193847656,
+            399.6880187988281,
+            453.8019104003906
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841995239257812,
+            454.1619873046875,
+            399.68536376953125,
+            464.7119140625
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.842010498046875,
+            466.43511962890625,
+            137.79541015625,
+            475.62091064453125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EB",
+      "heading": "Problem EB . . . green shift",
+      "page_start": 23,
+      "page_end": 23,
+      "text": "Chuck Norris has such a fast car that he sometimes drives through an orange traffic light\nbecause he sees it as green. But that’s nothing. Paťo (the one who ran a 12-minute run in 6\nminutes) runs so fast that he sees red as green. The wavelengths of green, orange and red light\nare λz = 550nm, λo = 600nm and λc = 700nm respectively. What is the difference between the\nspeeds of Paťo and Chuck Norris’s car?",
+      "locations": [
+        {
+          "page": 23,
+          "bbox": [
+            19.841999053955078,
+            277.2940979003906,
+            399.694580078125,
+            286.260498046875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841999053955078,
+            288.2030944824219,
+            399.6856689453125,
+            297.16949462890625
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841999053955078,
+            299.1120910644531,
+            399.694580078125,
+            308.0784912109375
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841999053955078,
+            310.0210876464844,
+            399.6839599609375,
+            320.202880859375
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.842010498046875,
+            320.93011474609375,
+            178.4486846923828,
+            329.8965148925781
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EC",
+      "heading": "Problem EC . . . Are we climbing?",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "We are sitting in a train inside a tunnel. The train driver decided to let the train move only by\nits own inertia. What is the angle α between the water level in a glass and the floor of the train?\nAssume that when the train is standing on a horizontal surface, the floor is also horizontal. The\nelevation of the track is t = 1.2 % and the rolling resistance coefficient between the track and\nthe wheels of the train is f = 0.002.",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.841999053955078,
+            146.48512268066406,
+            399.694580078125,
+            155.45152282714844
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.841999053955078,
+            157.3941192626953,
+            399.67730712890625,
+            166.5799102783203
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84198760986328,
+            168.30311584472656,
+            399.68560791015625,
+            177.26951599121094
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84198760986328,
+            179.2121124267578,
+            399.6806945800781,
+            188.39891052246094
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84198760986328,
+            190.1221160888672,
+            164.4613800048828,
+            199.3079071044922
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "ED",
+      "heading": "Problem ED . . . hole in a planet",
+      "page_start": 25,
+      "page_end": 25,
+      "text": "At a large distance from the Earth, there is a rocket which has run out of fuel. The rocket is\nattracted to the Earth and NASA scientists are trying to figure out how to save the crew. Honza\nsuggests digging a hole through the Earth, so that the rocket would not hit the ground, but\nfly through the tunnel. For simplicity, assume that the rocket is initially at rest at an infinite\ndistance from the Earth. The tunnel through the Earth is aligned with the direction of the fall\nof the rocket. Honza wants to know what the velocity of the rocket would be in the middle of\nthe Earth. Assume that the Earth is homogeneous.",
+      "locations": [
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6856689453125,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            399.6856994628906,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            75.80210876464844,
+            399.6855773925781,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            86.71111297607422,
+            399.6856689453125,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            97.62010955810547,
+            399.6856384277344,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            108.52910614013672,
+            399.68560791015625,
+            117.4955062866211
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            119.4381103515625,
+            225.94366455078125,
+            128.40451049804688
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EE",
+      "heading": "Problem EE . . . slippery rope",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "Dodo has a well and a bucket. The mass of the bucket is m = 1.75 kg and it can hold at most\nV = 15.2 l of water. The bucket is hanging from a rope, which is thrown over a fixed log with\na circular cross-section. When Dodo pulls the bucket full of water upwards, he pulls the rope\nwith a force F = 237 N. Find the force which Dodo must exert in order to drop the empty\nbucket down with a constant velocity.",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6783447265625,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.842010498046875,
+            64.89310455322266,
+            399.6785583496094,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84201431274414,
+            75.80210876464844,
+            399.68560791015625,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.84201431274414,
+            86.71111297607422,
+            399.68804931640625,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.842010498046875,
+            97.62010955810547,
+            172.23495483398438,
+            106.58650970458984
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EF",
+      "heading": "Problem EF . . . RLC for sure this time",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "R\nL\nC\nU\nLego took Dodo’s circuit from the Online Physics Brawl and slightly\nchanged it. Now it is the circuit shown in the figure, composed\nof a coil with inductance L = 10.0 mH, a capacitor with capaci-\ntance C = 4.70 μF, a resistor with resistance R = 1.00 kΩ, and an\nAC voltage source with the effective value of voltage Uef = 230 V\nand adjustable frequency. Lego set the frequency of the AC source\nin such a way that the amplitude of the current would be maximised.\nWhat is the power drawn by the whole circuit?",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            303.08502197265625,
+            491.63397216796875,
+            310.6466369628906,
+            501.5965576171875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            387.30902099609375,
+            493.75994873046875,
+            394.09356689453125,
+            503.7225341796875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            344.25103759765625,
+            452.6309509277344,
+            351.3742980957031,
+            462.5935363769531
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            344.2230224609375,
+            500.8199462890625,
+            351.0274658203125,
+            510.78253173828125
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            451.05010986328125,
+            293.12896728515625,
+            460.0165100097656
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            461.9591064453125,
+            293.11993408203125,
+            470.9255065917969
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            472.86810302734375,
+            293.1153259277344,
+            482.05389404296875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841995239257812,
+            483.777099609375,
+            293.12237548828125,
+            492.962890625
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.842010498046875,
+            494.68609619140625,
+            293.0533447265625,
+            504.99188232421875
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841995239257812,
+            505.5950927734375,
+            293.1199645996094,
+            514.5615234375
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841995239257812,
+            516.5040893554688,
+            293.11993408203125,
+            525.4705200195312
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841995239257812,
+            527.4130859375,
+            210.44973754882812,
+            536.3795166015625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EG",
+      "heading": "Problem EG . . . rotation of polarisation",
+      "page_start": 27,
+      "page_end": 27,
+      "text": "We all know that when horizontally polarised light hits an ideal vertical polarisation filter, the\nlight intensity behind the filter is zero - the light cannot pass through the filter. However, if we\nplace another polarisation filter between the two, light can pass through the last filter. Suppose\nthat we have N filters in a series such that each one is rotated by the same angle δ relative to\nthe previous filter. Additionally, the last filter is rotated by 90◦relative to the first one. We let\nlight with an original intensity I0 pass through the filters. For a large value of N, estimate how\nmuch the intensity of the light decreases after passing through all the filters.",
+      "locations": [
+        {
+          "page": 27,
+          "bbox": [
+            19.841999053955078,
+            288.27008056640625,
+            399.6856384277344,
+            297.2364807128906
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841999053955078,
+            299.1790771484375,
+            399.6946716308594,
+            308.1454772949219
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841999053955078,
+            310.08807373046875,
+            399.68560791015625,
+            319.0544738769531
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841999053955078,
+            320.9971008300781,
+            399.67730712890625,
+            330.1828918457031
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84197998046875,
+            330.54296875,
+            399.68328857421875,
+            341.0928955078125
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841995239257812,
+            342.81610107421875,
+            399.6910705566406,
+            352.77850341796875
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84197998046875,
+            353.72509765625,
+            328.5282287597656,
+            362.6914978027344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EH",
+      "heading": "Problem EH . . . TNT planet",
+      "page_start": 28,
+      "page_end": 28,
+      "text": "Consider a sphere of TNT floating freely in space. Assume that firing one kilogram of TNT\nreleases 4.184 MJ of energy, which is immediately converted into kinetic energy of the reaction\nproducts (whose mass is the same as the mass of the original TNT, 1 kg). What is the radius\nof the largest sphere with density ϱ = 1 650 kg·m−3 that can completely scatter through the\nexplosion (i.e. all its mass is thrown to infinity, where it does not gravitationally affect itself\nanymore)?",
+      "locations": [
+        {
+          "page": 28,
+          "bbox": [
+            19.841999053955078,
+            148.7001190185547,
+            399.6856384277344,
+            157.66651916503906
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841999053955078,
+            159.60911560058594,
+            399.677734375,
+            168.79490661621094
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841999053955078,
+            170.5181121826172,
+            399.685302734375,
+            179.7039031982422
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84197998046875,
+            177.61912536621094,
+            399.68328857421875,
+            190.61390686035156
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841964721679688,
+            192.3371124267578,
+            399.6856384277344,
+            201.3035125732422
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841964721679688,
+            203.24610900878906,
+            62.10061264038086,
+            212.21250915527344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FA",
+      "heading": "Problem FA . . . Jindra II. the tractor driver",
+      "page_start": 29,
+      "page_end": 29,
+      "text": "Jindra the tractor driver has an unsual hobby – he likes moving from some point A to B in\nthe shortest possible time. At this moment, Jindra with his tractor is in a field, at the point A,\nand the point B is located at a distance r from the point A in the same field. At a distance d\nfrom the line segment AB, there is a driveway running parallel to it. In the field, the tractor\nmoves with the same velocity u in all directions and on the driveway, it moves with a velocity v,\nwhere v > u. Jindra found out that it does not matter if he drives from the point A to the\npoint B directly or if he first drives from the point A onto the driveway, then along the driveway\nand after a while, back into the field towards the point B. In both cases, the time of the journey\nis t. Express the ratio d/r using u and v.",
+      "locations": [
+        {
+          "page": 29,
+          "bbox": [
+            19.841999053955078,
+            160.9241180419922,
+            399.68524169921875,
+            170.1099090576172
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842041015625,
+            171.83311462402344,
+            399.6854248046875,
+            181.01890563964844
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842041015625,
+            182.7421112060547,
+            399.6891174316406,
+            191.9279022216797
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842041015625,
+            193.65110778808594,
+            399.68377685546875,
+            202.83689880371094
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842041015625,
+            204.5601043701172,
+            399.6854248046875,
+            213.7458953857422
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842041015625,
+            215.46910095214844,
+            399.6813049316406,
+            224.65489196777344
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            226.3780975341797,
+            399.6943359375,
+            235.5638885498047
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            237.28709411621094,
+            399.6814880371094,
+            246.47288513183594
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            248.1970977783203,
+            184.952392578125,
+            257.38287353515625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FB",
+      "heading": "Problem FB . . . dome",
+      "page_start": 30,
+      "page_end": 30,
+      "text": "The hemispherical dome of an observatory has a diameter d = 20 m and mass m = 200 t,\ndistributed uniformly. Find the minimal power of motors moving the dome which is needed to\nturn the dome by 180◦in t = 30 s. The dome is sitting frictionlessly on track bearings. At the\nstart and at the end, the dome must be stationary.",
+      "locations": [
+        {
+          "page": 30,
+          "bbox": [
+            19.841999053955078,
+            423.5791015625,
+            399.68536376953125,
+            432.764892578125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            434.48809814453125,
+            399.68560791015625,
+            443.4544982910156
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            444.032958984375,
+            399.68548583984375,
+            454.5828857421875
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            456.30609130859375,
+            225.4056854248047,
+            465.2724914550781
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FC",
+      "heading": "Problem FC . . . light please",
+      "page_start": 31,
+      "page_end": 31,
+      "text": "On a ceiling at a height h = 2.5 m, there is a light bulb that shines isotropically into the whole\nspace below it with a luminous flux Φ = 1400 lm. How large is the area on the ground where\nthe illuminance is greater than E0 = 25 lx?",
+      "locations": [
+        {
+          "page": 31,
+          "bbox": [
+            19.841999053955078,
+            422.3701171875,
+            399.685302734375,
+            431.555908203125
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.841995239257812,
+            433.2801208496094,
+            399.6822509765625,
+            442.4659118652344
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84197998046875,
+            444.1891174316406,
+            192.82168579101562,
+            454.37091064453125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FD",
+      "heading": "Problem FD . . . electron-y",
+      "page_start": 32,
+      "page_end": 32,
+      "text": "What are the possible values of the total electron spin quantum number of a neutral atom of\nnitrogen? For each option, it is possible to find the most energetically favourable configuration.\nState the values of the spin in the order that corresponds to increasing energy of these confugu-\nrations.",
+      "locations": [
+        {
+          "page": 32,
+          "bbox": [
+            19.841999053955078,
+            206.4461212158203,
+            399.6855773925781,
+            215.4125213623047
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.841999053955078,
+            217.35511779785156,
+            399.6856384277344,
+            226.32151794433594
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.841999053955078,
+            228.2641143798828,
+            399.6856689453125,
+            237.2305145263672
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.841999053955078,
+            239.17311096191406,
+            50.13050079345703,
+            248.13951110839844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FE",
+      "heading": "Problem FE . . . thirteen wells",
+      "page_start": 33,
+      "page_end": 33,
+      "text": "Jáchym usurped all twelve wells from the previous problems and added one more, the thirteenth\nwell. Then, to each well, he poured V0 = 169.00 m3 of one of thirteen different liquids. The last,\nthirteenth well, was full of blood. The ritual of invoking demons could begin. First, Jáchym\ntransferred a volume V = 13.00 m3 from the thirteenth well to the first one. After proper\nmixing, he transferred a volume V from the first well back to the thirteenth well. Then, he\nmixed up the liquid in the thirteenth well again and repeated the process with the second well,\nthe third well and so on, up to the 12-th well. Altogether, there were 24 pourings. In the end,\nJáchym measured the volume fractions of all liquids in the thirteenth well and multiplied these\nvalues. What was the result?",
+      "locations": [
+        {
+          "page": 33,
+          "bbox": [
+            19.841999053955078,
+            240.89010620117188,
+            399.694580078125,
+            249.85650634765625
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.841999053955078,
+            247.99009704589844,
+            399.6850891113281,
+            261.98187255859375
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.841995239257812,
+            262.70806884765625,
+            399.6944885253906,
+            271.6744689941406
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.841995239257812,
+            269.80908203125,
+            399.68511962890625,
+            282.80389404296875
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.841995239257812,
+            284.527099609375,
+            399.68316650390625,
+            293.712890625
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.841995239257812,
+            295.43609619140625,
+            399.6946105957031,
+            304.4024963378906
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.841995239257812,
+            306.3450927734375,
+            399.6800231933594,
+            315.5308837890625
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.84197998046875,
+            317.25408935546875,
+            399.6855773925781,
+            326.2204895019531
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.84197998046875,
+            328.1630859375,
+            136.2527618408203,
+            337.1294860839844
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FF",
+      "heading": "Problem FF . . . boiling",
+      "page_start": 35,
+      "page_end": 35,
+      "text": "Mikuláš has a well, but he is too lazy to pull water out of it by hand. Therefore, he bought\na pump with an electric motor, whose efficiency η does not depend on the voltage or the current.\nWhat is the minimal depth of the well such that it would be more efficient to convert water\ninto steam instead of pumping normally? The original temperature of the water is T and it\nwould be boiled by a spiral with resistance R. The resistance per unit length of the power\nline that connects the spiral with the voltage source on the ground is λ. We expect a general\nresult expressed using the quantities specified in the problem statement and generally known\nconstants.",
+      "locations": [
+        {
+          "page": 35,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6946716308594,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            399.687255859375,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841995239257812,
+            75.80210876464844,
+            399.6946105957031,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841995239257812,
+            86.71111297607422,
+            399.67999267578125,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841949462890625,
+            97.62010955810547,
+            399.6898498535156,
+            106.805908203125
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841949462890625,
+            108.52910614013672,
+            399.68194580078125,
+            117.71490478515625
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841949462890625,
+            119.4381103515625,
+            399.6945495605469,
+            128.40451049804688
+          ]
+        },
+        {
+          "page": 35,
+          "bbox": [
+            19.841949462890625,
+            130.3471221923828,
+            60.14592361450195,
+            139.3135223388672
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FG",
+      "heading": "Problem FG . . . inverse well",
+      "page_start": 36,
+      "page_end": 36,
+      "text": "Jáchym has an inverse well – water is constantly being replenished into it with a constant mass\nflow rate q = 17.0 kg·min−1 by a stream with a circular cross section. At what depth does\ncontinuous flow become unstable and break down into droplets with a radius r = 2.5 mm? The\nvelocity of the water at the top of the well and air resistance are negligible.",
+      "locations": [
+        {
+          "page": 36,
+          "bbox": [
+            19.841999053955078,
+            87.3351058959961,
+            399.685546875,
+            96.30150604248047
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.841999053955078,
+            94.43610382080078,
+            399.6803894042969,
+            107.430908203125
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.842010498046875,
+            109.15410614013672,
+            399.6794128417969,
+            118.33990478515625
+          ]
+        },
+        {
+          "page": 36,
+          "bbox": [
+            19.842041015625,
+            120.06310272216797,
+            324.00921630859375,
+            129.02951049804688
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FH",
+      "heading": "Problem FH . . . of course it’s drinking water",
+      "page_start": 37,
+      "page_end": 37,
+      "text": "Jáchym has a well and he constantly draws water from it with a volumetric flow rate qV =\n= 0.2 l·s−1. Water is being constantly replenished into the well so the total volume stays constant\nat V = 68 m3. However, Jáchym accidentally dropped a piece of radioactive bread into the well,\nwhich dissipated perfectly in the water. The bread contained 3.0·1015 radioactive isotopes with\na half-life T = 69 h. Jáchym decided to ignore it and continued to draw water at the original\nrate. How long does it take until the radioactive activity of the well drops below A = 1 900 s−1?",
+      "locations": [
+        {
+          "page": 37,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.68218994140625,
+            64.16590881347656
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842041015625,
+            63.52894592285156,
+            399.6919860839844,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842041015625,
+            74.54834747314453,
+            399.691650390625,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842044830322266,
+            82.90210723876953,
+            399.67889404296875,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842025756835938,
+            97.62010955810547,
+            399.68096923828125,
+            106.805908203125
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842025756835938,
+            107.16494750976562,
+            399.26373291015625,
+            117.71490478515625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GA",
+      "heading": "Problem GA . . . hole in a bucket",
+      "page_start": 37,
+      "page_end": 38,
+      "text": "Dodo has a well with a bucket, which has a cylindrical shape - its height is h0 = 32 cm, the\nradius of its base is r = 12 cm and its weight is m = 2.7 kg. At the bottom of the bucket, there\nis a hole with a cross-section S = 1.0 cm2. Dodo pulls the bucket up from a depth H = 25 m\nat a constant speed v = 0.40 m·s−1. Compared to the situation if the bucket wasn’t leaky, how\nmany times less efficient is this procedure? We are asking about the ratio of works which Dodo\n14th year\nhas to perform to pull a unit amount of water out of the well in both cases.",
+      "locations": [
+        {
+          "page": 37,
+          "bbox": [
+            19.841999053955078,
+            484.4521179199219,
+            399.67779541015625,
+            494.6339111328125
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842010498046875,
+            495.3611145019531,
+            399.681396484375,
+            504.5469055175781
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842010498046875,
+            505.016357421875,
+            399.63922119140625,
+            515.4559326171875
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842010498046875,
+            515.81494140625,
+            399.69140625,
+            526.3648681640625
+          ]
+        },
+        {
+          "page": 37,
+          "bbox": [
+            19.842002868652344,
+            528.089111328125,
+            399.6856689453125,
+            537.0555419921875
+          ]
+        },
+        {
+          "page": 38,
+          "bbox": [
+            246.21099853515625,
+            19.87512969970703,
+            285.720947265625,
+            30.65822982788086
+          ]
+        },
+        {
+          "page": 38,
+          "bbox": [
+            19.841999053955078,
+            39.21010971069336,
+            325.30035400390625,
+            48.176509857177734
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GB",
+      "heading": "Problem GB . . . excess heat",
+      "page_start": 39,
+      "page_end": 39,
+      "text": "Geothermal energy comes from the decay of radioactive elements, from tidal deformations of\nthe Earth and from the residual heat released by differentiation of the layers of Earth. The\nEarth has mass M = 5.97 · 1024 kg and radius R = 6.38 · 103 km. Assume that at the beginning\nof its existence, it was a homogeneous sphere. After differentiation, a metallic (predominantly\niron) core with a radius rj = 3.50 · 103 km and a density ϱj = 13 000 kg·m−3 formed within\nthe Earth. The remainder of the Earth is the mantle, with a constant density. Find the heat\nreleased by this differentiation.",
+      "locations": [
+        {
+          "page": 39,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6856384277344,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 39,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            399.6856689453125,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 39,
+          "bbox": [
+            19.841999053955078,
+            72.21250915527344,
+            399.67694091796875,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 39,
+          "bbox": [
+            19.841995239257812,
+            86.71111297607422,
+            399.6945495605469,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 39,
+          "bbox": [
+            19.841995239257812,
+            93.81110382080078,
+            399.6798095703125,
+            107.80191040039062
+          ]
+        },
+        {
+          "page": 39,
+          "bbox": [
+            19.842010498046875,
+            108.52910614013672,
+            399.6856384277344,
+            117.4955062866211
+          ]
+        },
+        {
+          "page": 39,
+          "bbox": [
+            19.842010498046875,
+            119.43810272216797,
+            144.4480743408203,
+            128.40451049804688
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GC",
+      "heading": "Problem GC . . . parabolic rays",
+      "page_start": 40,
+      "page_end": 40,
+      "text": "Your task is to find out how the refractive index of the atmosphere should depend on the\nheight y above the surface, if we want the rays in the atmosphere to travel along parabolic\ntrajectories y = x2. Neglect the curvature of Earth.",
+      "locations": [
+        {
+          "page": 40,
+          "bbox": [
+            19.841999053955078,
+            418.2231140136719,
+            399.6855773925781,
+            427.18951416015625
+          ]
+        },
+        {
+          "page": 40,
+          "bbox": [
+            19.841999053955078,
+            429.1321105957031,
+            399.6853942871094,
+            438.3179016113281
+          ]
+        },
+        {
+          "page": 40,
+          "bbox": [
+            19.841995239257812,
+            438.7883605957031,
+            226.67010498046875,
+            449.2279052734375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    }
+  ],
+  "warnings": []
+}

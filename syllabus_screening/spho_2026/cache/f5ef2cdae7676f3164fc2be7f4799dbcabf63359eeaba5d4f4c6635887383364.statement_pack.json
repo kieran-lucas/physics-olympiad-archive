@@ -1,0 +1,5079 @@
+{
+  "file_id": 2846,
+  "statements": [
+    {
+      "number": "AA",
+      "heading": "Problem AA . . . escalator strangeness",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "L\nω\nω\nh\nYou may have noticed that the escalator belt for holding fre-\nquently moves at a different speed than the stairs themselves.\nConsider a simplified model where the belt and the stairs are\nattached to (wrapped around, without slipping) cylinders with\na common axis at each end of the escalator. The cylinders are\nrotating with a constant angular velocity ω = 0.36 rad·s−1 and\nthe radii of inner cylinders are r1 = 1.2 m. Find the ratio of the\nvelocity of the belt to the velocity of the stairs. The escalator in\nthe model has length l = 32 m and the distance from the stairs to the belt is h = 0.6 m.\nThe radii of the cylinders on which the belt is rotating are r2 = r1 + h. The relation between\nlinear and angular velocity v = ωr gives the ratio in question\nv2\nv1 = ωr2\nωr1 = r1 + h\nr1\n= 3\n2 .\nMatěj Mezera\nm.mezera@fykos.cz",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            70.714111328125,
+            86.3116226196289,
+            74.70357513427734,
+            92.01900482177734
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            21.24236488342285,
+            69.70264434814453,
+            24.88938331604004,
+            75.41002655029297
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            119.22406005859375,
+            117.41693115234375,
+            122.87107849121094,
+            123.12431335449219
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            117.74476623535156,
+            105.72578430175781,
+            121.12353515625,
+            111.43316650390625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47900390625,
+            53.98411178588867,
+            399.6844177246094,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47900390625,
+            64.89310455322266,
+            399.69329833984375,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47900390625,
+            75.80210876464844,
+            399.68438720703125,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47900390625,
+            86.71111297607422,
+            399.6844177246094,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47900390625,
+            97.62010955810547,
+            399.6844787597656,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47900390625,
+            104.72010803222656,
+            399.6853942871094,
+            117.71490478515625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47903442382812,
+            119.43810272216797,
+            399.6805419921875,
+            129.62091064453125
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            141.47903442382812,
+            130.3471221923828,
+            399.6844787597656,
+            139.3135223388672
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84203338623047,
+            141.25711059570312,
+            372.8433837890625,
+            150.44290161132812
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84197998046875,
+            157.8631134033203,
+            399.69195556640625,
+            168.04490661621094
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.84197998046875,
+            168.77210998535156,
+            266.2480773925781,
+            177.95790100097656
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            159.45797729492188,
+            185.4705047607422,
+            167.5863037109375,
+            194.7799530029297
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            159.4580078125,
+            185.4705047607422,
+            196.62831115722656,
+            207.3129119873047
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            182.76300048828125,
+            185.4705047607422,
+            236.6861114501953,
+            207.3129119873047
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            220.0919952392578,
+            197.3505096435547,
+            227.90231323242188,
+            206.6599578857422
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            240.4429931640625,
+            185.4705047607422,
+            255.9747314453125,
+            200.2359161376953
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            251.36599731445312,
+            191.26951599121094,
+            261.2703857421875,
+            206.31690979003906
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            322.2539978027344,
+            209.2381134033203,
+            385.1442565917969,
+            218.2045135498047
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            313.6829833984375,
+            220.39816284179688,
+            393.7082214355469,
+            229.36456298828125
+          ]
+        }
+      ]
+    },
+    {
+      "number": "AB",
+      "heading": "Problem AB . . . far from the planet",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "How much (in percent) do airliners prolong their path by flying at height H = 11 km, compared\nto the distance flown just above the sea level? Neglect the travel distance necessary to reach a\nparticular height. Assume that the radius of Earth is RZ = 6,373 km.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            258.61407470703125,
+            399.6849670410156,
+            267.79986572265625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.842010498046875,
+            269.5230712890625,
+            399.6856689453125,
+            278.4894714355469
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.842010498046875,
+            280.43206787109375,
+            298.49139404296875,
+            290.6148681640625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AC",
+      "heading": "Problem AC . . . it sparks",
+      "page_start": 2,
+      "page_end": 2,
+      "text": "Find the distance d between an electric line and a locomotive’s pantograph (traction unit) which\nis needed for electric discharge (a spark) to occur. The electric line uses direct current and its\nvoltage with respect to the rail (the ground) is U = 3 kV. The dielectric strength of air (the\nintensity of the electric field between electrodes needed for a spark) is E = 3.0·106 kg·m·A−1·s−3.\nAssume that the relative permittivity and permeability of air are both 1.",
+      "locations": [
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            483.777099609375,
+            399.6901550292969,
+            492.962890625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            494.68609619140625,
+            399.685546875,
+            503.6524963378906
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.841999053955078,
+            505.5950927734375,
+            399.6829833984375,
+            514.7808837890625
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.841995239257812,
+            512.9144897460938,
+            399.6853942871094,
+            525.6898803710938
+          ]
+        },
+        {
+          "page": 2,
+          "bbox": [
+            19.842010498046875,
+            527.4130859375,
+            314.5303955078125,
+            536.598876953125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AD",
+      "heading": "Problem AD . . . beware tram",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "We are standing next to a straight tram track. We see a tram approaching from the right with\na constant velocity v and another tram approaching from the left with a constant velocity u.\nIn the front window of the second tram, we glimpse the reflection of the first tram. Find the\nvelocity with which the reflection is approaching us.",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            19.841999053955078,
+            283.2880859375,
+            399.6855773925781,
+            292.2544860839844
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841999053955078,
+            294.19708251953125,
+            399.6853942871094,
+            303.38287353515625
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.842010498046875,
+            305.1060791015625,
+            399.685546875,
+            314.0724792480469
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.842010498046875,
+            316.01507568359375,
+            229.70062255859375,
+            324.9814758300781
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AE",
+      "heading": "Problem AE . . . unstable Danka",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "b\nc\na\nConsider a cuboid with dimensions a = 20 cm, b = 30 cm, c =\n= 50 cm and density ϱ = 620 kg·m−3. The cuboid is lying on a\nhorizontal surface in a homogeneous gravitational field in such a\nway that the faces with dimensions a and c are facing up/down.\nWhat is the stability of the cuboid, i.e. the minimum amount of\nenergy necessary to overturn it?",
+      "locations": [
+        {
+          "page": 3,
+          "bbox": [
+            355.6758117675781,
+            455.0858459472656,
+            359.5899963378906,
+            463.981689453125
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            331.4825134277344,
+            473.01947021484375,
+            335.441162109375,
+            481.9153137207031
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            360.06036376953125,
+            467.35931396484375,
+            364.9085998535156,
+            476.2551574707031
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841999053955078,
+            431.444091796875,
+            278.0451354980469,
+            440.6298828125
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841995239257812,
+            440.98895263671875,
+            278.0440673828125,
+            451.53887939453125
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841995239257812,
+            453.2620849609375,
+            278.0473937988281,
+            462.2284851074219
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841995239257812,
+            464.17108154296875,
+            278.0581970214844,
+            473.35687255859375
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841995239257812,
+            475.0810852050781,
+            278.0474548339844,
+            484.0474853515625
+          ]
+        },
+        {
+          "page": 3,
+          "bbox": [
+            19.841995239257812,
+            485.9900817871094,
+            149.0568084716797,
+            494.95648193359375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AF",
+      "heading": "Problem AF . . . flat-Earth",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "It is well-known that the Earth is flat and supported by elephants. Above it, there is a dome\nfrom which the Sun, the Moon and stars are hanging. If the Moon with mass 7.348·1022 kg was\nhanging from a steel rope with a uniform circular cross-section, what would be the minimum\ndiameter of its cross-section if we wanted to keep a 10 % reserve (the rope should not break\nif the mass increased by 10 %)? The yield stress of steel is 700 MPa. The Moon is placed in\nuniform gravity g. The weight of the rope can be neglected.",
+      "locations": [
+        {
+          "page": 4,
+          "bbox": [
+            19.841999053955078,
+            310.92510986328125,
+            399.6856689453125,
+            319.8915100097656
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.841999053955078,
+            318.2444763183594,
+            399.6941223144531,
+            331.0198974609375
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.842010498046875,
+            332.74310302734375,
+            399.694580078125,
+            341.7095031738281
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.842010498046875,
+            343.652099609375,
+            399.68402099609375,
+            352.837890625
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.842010498046875,
+            354.56109619140625,
+            399.6793212890625,
+            363.74688720703125
+          ]
+        },
+        {
+          "page": 4,
+          "bbox": [
+            19.842010498046875,
+            365.4700927734375,
+            260.7067565917969,
+            374.6558837890625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AG",
+      "heading": "Problem AG . . . the Prague Metro",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "You are running on an escalator. The time it takes you to run from the bottom to the top\nwhen the escalator is turned on is tz. If the escalator is turned off, the time it takes you is tv\n(tv < tz). Your running speed is vc. Find the speed of the escalator.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.68560791015625,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            398.9729919433594,
+            74.42047882080078
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842010498046875,
+            75.80210876464844,
+            292.74896240234375,
+            85.98390197753906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "AH",
+      "heading": "Problem AH . . . prefixious",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Sort the first eight letters of the English alphabet according to their use as SI prefixes in\ndescending order of size. Make sure to use correct capitalisation of letters. In case some letter\nis not used as a prefix, do not use it. In case both forms (lowercase and uppercase) are, use\nboth.",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            324.8780822753906,
+            399.6856384277344,
+            333.844482421875
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            335.7870788574219,
+            399.6856689453125,
+            344.75347900390625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            346.6960754394531,
+            399.6856994628906,
+            355.6624755859375
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            357.6050720214844,
+            41.10133743286133,
+            366.57147216796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BA",
+      "heading": "Problem BA . . . landing accident",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Some flight navigation instruments are based on air pressure. Let’s focus on the altimeter, which\ndisplays the altitude of the plane calculated using the static pressure of surrounding air. For\nthis device to work correctly, it is necessary on every airport to recalibrate it with the current\nair pressure at sea level, calculated from local air pressure. Near the sea level, we can then use\nthe approximation that ascent by ∆h = 8.0 m corresponds to a pressure drop ∆p = 1.0 hPa.\nIf a pilot accidentally recalibrates the device with sea level pressure perr = 1,021 hPa instead\nof the correct pr = 1,012 hPa, how high above the sea level would the airplane be when the\naltimeter shows 450 m?",
+      "locations": [
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            461.9590759277344,
+            399.6945495605469,
+            470.92547607421875
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            472.8680725097656,
+            399.694580078125,
+            481.83447265625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            483.7770690917969,
+            399.6945495605469,
+            492.74346923828125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            494.6860656738281,
+            399.6856384277344,
+            503.6524658203125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.841999053955078,
+            505.5950927734375,
+            399.68536376953125,
+            514.7808837890625
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.84197998046875,
+            516.5040283203125,
+            399.6853332519531,
+            526.6859130859375
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842010498046875,
+            527.4130859375,
+            399.6861572265625,
+            537.5948486328125
+          ]
+        },
+        {
+          "page": 5,
+          "bbox": [
+            19.842002868652344,
+            538.3220825195312,
+            113.1886978149414,
+            547.5078735351562
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BB",
+      "heading": "Problem BB . . . drawing",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "In the picture, you can see an optical axis, on which a point source of light (“zdroj”), a focus\npoint of the first (diverging) lens, a thin diverging lens, a thin converging lens, and a focus\npoint of the second (converging) lens are marked. Each distance is equal to three units (of dis-\ntance). Draw into the picture the position of the source’s image after it is formed by both lenses.\nYour task is only to decide between which two of the marked points on the axis the image will be\nformed. You may solve it by an arbitrary method.\nF1\nzdroj\nF2",
+      "locations": [
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            306.5631103515625,
+            399.6856689453125,
+            315.5295104980469
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            317.47210693359375,
+            399.6856689453125,
+            326.4385070800781
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            328.381103515625,
+            399.685546875,
+            337.3475036621094
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            339.29010009765625,
+            399.68560791015625,
+            348.2565002441406
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            350.1990966796875,
+            399.68560791015625,
+            359.1654968261719
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            19.841999053955078,
+            424.7160949707031,
+            213.78524780273438,
+            433.6824951171875
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            254.6854248046875,
+            398.0747375488281,
+            260.0038146972656,
+            403.2666015625
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            227.46742248535156,
+            402.8729248046875,
+            239.78875732421875,
+            407.87347412109375
+          ]
+        },
+        {
+          "page": 6,
+          "bbox": [
+            325.8250732421875,
+            398.0747375488281,
+            331.1434631347656,
+            403.2666015625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BC",
+      "heading": "Problem BC . . . acceleration from planets",
+      "page_start": 7,
+      "page_end": 7,
+      "text": "Consider a system of two homogeneous spherical planets, both with densities ϱ = 4,200 kg·m−3.\nThe smaller planet has radius R = 4.20 · 106 m and the larger one has radius R2 = 2R. The\ndistance of their centres is r = 16R. What is the gravitational acceleration (including its\ndirection) acting on a dust particle located at a distance x = 8R from the centres of both\nplanets?",
+      "locations": [
+        {
+          "page": 7,
+          "bbox": [
+            19.841999053955078,
+            258.60595703125,
+            399.68536376953125,
+            269.1558837890625
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.84197998046875,
+            267.28948974609375,
+            399.682373046875,
+            281.0609130859375
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.841949462890625,
+            281.7880859375,
+            399.6836853027344,
+            290.973876953125
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.841957092285156,
+            292.69708251953125,
+            399.67877197265625,
+            301.88287353515625
+          ]
+        },
+        {
+          "page": 7,
+          "bbox": [
+            19.841949462890625,
+            303.6060791015625,
+            52.919002532958984,
+            312.5724792480469
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BD",
+      "heading": "Problem BD . . . drinking tea",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Consider a cylindrical container with height h and base area S, filled with tea with density\nϱ. There is a little hole with area s ≪S at the bottom of the container. This hole is used to\nattach a horizontal tube with a faucet and a manometer (a vertical tube, open at the top) to\nthe container. Find the formula describing the height of liquid in the manometer l(t) over time\nafter the faucet is opened. Assume that this height adapts instantly to changes in the flow and\nthat tea is an ideal liquid (incompressible, with zero viscosity and surface tension).",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            126.9111099243164,
+            399.69024658203125,
+            136.09690856933594
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84197998046875,
+            137.8201141357422,
+            399.6842346191406,
+            147.0059051513672
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84197235107422,
+            148.72911071777344,
+            399.6855163574219,
+            157.6955108642578
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84197235107422,
+            159.6381072998047,
+            399.6846923828125,
+            168.8238983154297
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.842010498046875,
+            170.54710388183594,
+            399.6856689453125,
+            179.5135040283203
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.842010498046875,
+            181.4561004638672,
+            354.4411315917969,
+            190.42250061035156
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BE",
+      "heading": "Problem BE . . . at the bottom of the lake",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "How much higher is the pressure at the bottom of the Dead Sea as a result of it being salty?\nWe are interested in the difference with respect to a hypothetical situation when the sea would\nbe sweet. Consider a situation where the lake’s surface (the Dead Sea is a lake, which is drying\nout continuously) is h0 = 430 m under the sea level, and the deepest point of the lake is ∆h =\n= 298 m lower. The density of sweetwater is ϱ0 = 997 kg·m−3, while the current density of the\nlake is ϱ = 1,240 kg·m−3. Assume that the depth of the lake after demineralizing would be the\nsame.",
+      "locations": [
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            362.87109375,
+            399.6945495605469,
+            371.8374938964844
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            373.78009033203125,
+            399.694580078125,
+            382.7464904785156
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            384.6890869140625,
+            399.6856384277344,
+            393.6554870605469
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841999053955078,
+            395.59808349609375,
+            399.68212890625,
+            405.7798767089844
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.84197998046875,
+            405.1429443359375,
+            399.6834716796875,
+            416.68988037109375
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841995239257812,
+            416.05194091796875,
+            399.6840515136719,
+            426.60186767578125
+          ]
+        },
+        {
+          "page": 8,
+          "bbox": [
+            19.841991424560547,
+            428.3250732421875,
+            42.41939163208008,
+            437.2914733886719
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BF",
+      "heading": "Problem BF . . . take a guess",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "By how many orders of magnitude is the volume of the observable universe greater than the\nvolume of a hydrogen atom? In other words, find the order of magnitude of the ratio (volume\nof observable universe) / (volume of a hydrogen atom). The observable universe has diameter\n28.5 Gpc. The van der Waals radius of hydrogen is r = 1.2 Å.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            137.29310607910156,
+            399.68560791015625,
+            146.25950622558594
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            148.20211791992188,
+            399.6945495605469,
+            157.16851806640625
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            159.11111450195312,
+            399.6855773925781,
+            168.0775146484375
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            170.02011108398438,
+            266.222412109375,
+            179.20590209960938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BG",
+      "heading": "Problem BG . . . exosystem with a planet",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "Imagine that we discovered another planetary system, which is similar to ours. The local sun\nhas mass 0.900MS (a multiple of the mass of our Sun). If the year on a local planet similar\nto our Earth has the same length as our year, at what distance from the local sun would it\nhave to be? For simplicity, assume that the planet has a circular orbit. Compute the result as\na multiple of au, i.e. the middle distance between the centers of the Earth and the Sun.",
+      "locations": [
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            327.2261047363281,
+            399.6856384277344,
+            336.1925048828125
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841999053955078,
+            338.1351013183594,
+            399.6814270019531,
+            348.22149658203125
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841995239257812,
+            349.0440979003906,
+            399.6856384277344,
+            358.010498046875
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841995239257812,
+            359.9530944824219,
+            399.68560791015625,
+            368.91949462890625
+          ]
+        },
+        {
+          "page": 9,
+          "bbox": [
+            19.841995239257812,
+            370.8620910644531,
+            373.2855224609375,
+            380.0478820800781
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "BH",
+      "heading": "Problem BH . . . price of a flight",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "We are flying in an aircraft-carrier BAe 146-300/RJ100 and we want to know whether it would\nbe cheaper to fly at low or high velocity, when we want to fly s = 250 km at the flight level\nFL 310. The aircraft at this flight level has fuel consumption Mh = 2,517 kg·h−1 at velocity\nvh = 429 kn and Ml = 1,724 kg·h−1 at velocity vl = 377 kn. For which type of flight is the fuel\nconsumption lower and how much fuel (in kg) do we save at the distance s? One knot (kn) is\n1,852 m·h−1.",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.841999053955078,
+            207.90611267089844,
+            399.6946716308594,
+            216.8725128173828
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.841999053955078,
+            218.8151092529297,
+            399.69219970703125,
+            228.0019073486328
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            225.91610717773438,
+            399.69219970703125,
+            239.9709014892578
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84197998046875,
+            236.82510375976562,
+            399.6810302734375,
+            250.87991333007812
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            251.54310607910156,
+            399.6841125488281,
+            260.7288818359375
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842041015625,
+            261.0879211425781,
+            70.2724380493164,
+            271.63787841796875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CA",
+      "heading": "Problem CA . . . when physicist cooks",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "In the manual for Legolas’ kettle, it is written that U0 = 240V , P0 = 2200W (i.e. the kettle\nconsumes electrical power P0 if the voltage is U0). He poured exactly V = 1.5 l of water with\ntemperature T1 = 20 ◦C into the kettle. Then he switched the kettle on and heated the water\nto a temperature T2 = 80 ◦C. His stopwatch showed that the process lasted for t = 4.2 min.\nWhat voltage does Legolas have in his power socket? Assume that the resistance of the kettle\nis independent on temperature and the efficiency of heating water is η = 90 %.",
+      "locations": [
+        {
+          "page": 10,
+          "bbox": [
+            19.841999053955078,
+            472.8680725097656,
+            399.6918640136719,
+            483.04986572265625
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            483.7770690917969,
+            399.67724609375,
+            493.7394714355469
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            493.3219299316406,
+            399.6888732910156,
+            504.86785888671875
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            504.2309265136719,
+            399.6853942871094,
+            515.77685546875
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.842010498046875,
+            516.5040283203125,
+            399.6946105957031,
+            525.470458984375
+          ]
+        },
+        {
+          "page": 10,
+          "bbox": [
+            19.84300994873047,
+            527.4130859375,
+            336.3013916015625,
+            536.598876953125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CB",
+      "heading": "Problem CB . . . the price of charging a car battery",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "How much does it cost to fully charge an empty battery (12 V, 60 Ah)? We will use a battery\ncharger with parameters 12 V, 4.2 A and effectivness 72 %. The price for electricity is k =\n= 4.0 Kč·kWh−1.",
+      "locations": [
+        {
+          "page": 11,
+          "bbox": [
+            19.841999053955078,
+            298.985107421875,
+            399.67840576171875,
+            308.1708984375
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.841995239257812,
+            309.89410400390625,
+            399.68212890625,
+            319.07989501953125
+          ]
+        },
+        {
+          "page": 11,
+          "bbox": [
+            19.84197998046875,
+            319.4389343261719,
+            87.88937377929688,
+            329.9888916015625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CC",
+      "heading": "Problem CC . . . mirrors",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Consider almost perfectly polished plane mirrors and set them parallel to a distance of 5 m.\nWhen Matej looked in one of them, he did not see the infinity of reflections. How far away is\nthe last visible image if one reflection reflects only 98.5 % light? He is able to detect an image\nthat has 10 % of the original brightness. Do not consider the dimensions of his head or other\nloss of brightness.\nThe beam of light has to reflect log0.985(0.1) = 152 times, before its intensity drops below 10 %.\nEach reflection corresponds to five meters of distance and since the number is even, the distance\nbefore the first reflection and the distance after the last reflection sum up to 5 m. Thus, the\nfarthest image will be seen at a distance 152 · 5 m .= 760 m.\nMatěj Mezera\nm.mezera@fykos.cz",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6853942871094,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            64.89310455322266,
+            399.68560791015625,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            75.80210876464844,
+            399.67926025390625,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            86.71111297607422,
+            399.6841735839844,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            97.62010955810547,
+            91.25042724609375,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            112.58710479736328,
+            399.6853942871094,
+            123.36094665527344
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            123.49610137939453,
+            399.6856384277344,
+            132.46250915527344
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            134.40512084960938,
+            399.6810302734375,
+            143.59091186523438
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.842010498046875,
+            140.08851623535156,
+            257.72039794921875,
+            154.49990844726562
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            322.2539978027344,
+            161.7711181640625,
+            385.1442565917969,
+            170.73751831054688
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            313.6829833984375,
+            172.93116760253906,
+            393.7082214355469,
+            181.89756774902344
+          ]
+        }
+      ]
+    },
+    {
+      "number": "CD",
+      "heading": "Problem CD . . . model of an atom",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "An electron in the Bohr model of the hydrogen atom is orbiting around fixed proton on a circle\nwith radius r. Its angular momentum is quantized, so it obtains values L = nℏ, where n is a\nnumber describing quantum state of the electron. What is the radius r of the circular orbit of\nthe electron, when it is present in the second quantum state?",
+      "locations": [
+        {
+          "page": 12,
+          "bbox": [
+            19.841999053955078,
+            210.5111083984375,
+            399.6856384277344,
+            219.47750854492188
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.841999053955078,
+            221.42010498046875,
+            399.6814270019531,
+            230.60589599609375
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.841949462890625,
+            232.33010864257812,
+            399.6834716796875,
+            241.51589965820312
+          ]
+        },
+        {
+          "page": 12,
+          "bbox": [
+            19.841949462890625,
+            243.23910522460938,
+            266.92901611328125,
+            252.20550537109375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CE",
+      "heading": "Problem CE . . . degradation of the efficiency of a kettle",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "Consider a kettle with a power P = 1,800 W which heats m = 1.2 kg of water from temperature\nt0 = 18 ◦C to t1 = 100 ◦C in τ = 4.2 min. Unfortunately, it takes another ∆τ = 15 s for it to\n“realise” the water has boiled and to turn off. By how much does the efficiency of the kettle as a\nheat engine decreases as opposed to it turning off right after the water has boiled? Suppose that\nthe heat capacity of water is constant, c = 4,200 J·kg−1·K−1.",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.678955078125,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841995239257812,
+            63.52894592285156,
+            399.67724609375,
+            75.07490539550781
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84197998046875,
+            75.80210876464844,
+            399.685546875,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84197998046875,
+            86.71111297607422,
+            399.68560791015625,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84197998046875,
+            96.25595092773438,
+            260.96636962890625,
+            106.805908203125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CF",
+      "heading": "Problem CF . . . zkkzgt zjazq",
+      "page_start": 13,
+      "page_end": 13,
+      "text": "A\nA bomb was found at a field. The countdown ends at 13:30,\nso the poor farmers cannot escape the explosion’s deadly radius\nanymore. At which point(s) should you cut the circuit if you\nknow that the bomb does not explode only when the ammeter\nshows exactly 15 mA at 13:30? The circuit is powered by four\n1.5 V batteries and each resistor has resistance 1 kΩ. Mark the\npoint(s) to cut in the figure.",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            356.25897216796875,
+            395.6207275390625,
+            360.3279113769531,
+            400.8982238769531
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            331.5931091308594,
+            278.0474548339844,
+            340.55950927734375
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            342.5021057128906,
+            278.0473937988281,
+            351.468505859375
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            353.4111022949219,
+            278.056396484375,
+            362.37750244140625
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            364.3200988769531,
+            278.0473937988281,
+            373.2864990234375
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            375.2301025390625,
+            278.04913330078125,
+            384.4158935546875
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841995239257812,
+            386.13909912109375,
+            278.04229736328125,
+            395.32489013671875
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.841995239257812,
+            397.048095703125,
+            133.6256103515625,
+            406.0144958496094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CG",
+      "heading": "Problem CG . . . playing with marbles",
+      "page_start": 13,
+      "page_end": 14,
+      "text": "Danka has a marble with radius R = 1.0 cm and mass m = 20 g. She pushes the marble in such\na way that a horizontal force F = 15 N acts on it for a time t = 0.2 s (we neglect the rolling\nA\nfriction during this time period and the marble does not slip). How long does the bead move?\nThe rolling resistance coefficient is ξ = 0.03m. Assume that the bead does not slip.",
+      "locations": [
+        {
+          "page": 13,
+          "bbox": [
+            19.841999053955078,
+            521.6361083984375,
+            399.6908874511719,
+            530.8218994140625
+          ]
+        },
+        {
+          "page": 13,
+          "bbox": [
+            19.84197998046875,
+            532.5451049804688,
+            399.6781005859375,
+            541.7308959960938
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            223.02200317382812,
+            122.34049224853516,
+            228.35916137695312,
+            129.45669555664062
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            144.35411071777344,
+            399.69464111328125,
+            153.3205108642578
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            155.26312255859375,
+            354.6700134277344,
+            164.44891357421875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "CH",
+      "heading": "Problem CH . . . flat-Earth reloaded",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "It is well-known that the Earth is flat and supported by elephants. Above it, there is a dome\nfrom which the Sun, the Moon and stars are hanging. If the Moon with mass 7.348·1022 kg was\nhanging from a steel rope with a uniform circular cross-section, what would be the minimum\nradius of its cross-section? The length of the rope is 3.2 km, the yield stress of steel is 700 MPa\nand its density is 7,850 kg·m−3. The Moon and the rope are placed in uniform gravity g. Neglect\nthe mutual gravitational influence of the rope and the Moon.",
+      "locations": [
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            472.8680725097656,
+            399.6856689453125,
+            481.83447265625
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.841999053955078,
+            480.1874694824219,
+            399.6941223144531,
+            492.9628601074219
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.842010498046875,
+            494.6860656738281,
+            399.694580078125,
+            503.6524658203125
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.842010498046875,
+            505.5950927734375,
+            399.5899963378906,
+            514.7808837890625
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.842010498046875,
+            515.139892578125,
+            399.6781005859375,
+            525.6898193359375
+          ]
+        },
+        {
+          "page": 14,
+          "bbox": [
+            19.842010498046875,
+            527.4130859375,
+            266.48974609375,
+            536.3795166015625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DA",
+      "heading": "Problem DA . . . not even an oil stain",
+      "page_start": 15,
+      "page_end": 15,
+      "text": "There is a standardized light source with luminous intensity I0 = 10 kcd and a light bulb; the\ndistance between them is d = 3 m. If we place a sheet of paper with an oil stain between the\nsources at a distance l = 1 m from the light bulb, the whole sheet appears equally bright. Find\nthe luminous intensity I of the light bulb.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.841999053955078,
+            300.66510009765625,
+            399.68463134765625,
+            310.8468933105469
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            311.5740966796875,
+            399.6863098144531,
+            320.7598876953125
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            322.48309326171875,
+            399.6827392578125,
+            331.66888427734375
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            333.39208984375,
+            188.81869506835938,
+            342.577880859375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DB",
+      "heading": "Problem DB . . . rabbit no racist",
+      "page_start": 15,
+      "page_end": 15,
+      "text": "A small, fat, spherical magic rabbit with diameter d = 30 cm is floating in space near Earth. The\nrabbit is cold, so it decides to paint itself black with some Vanta Black colour, which reflects\nonly η = 0.035 of incident radiation. What is the power it absorbs from solar radiation? The\npower radiated by the Sun is W = 3.8 · 1026 W.",
+      "locations": [
+        {
+          "page": 15,
+          "bbox": [
+            19.841999053955078,
+            473.8591003417969,
+            399.6819152832031,
+            483.0448913574219
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            484.7680969238281,
+            399.6856994628906,
+            493.7344970703125
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            495.6770935058594,
+            399.68377685546875,
+            504.8628845214844
+          ]
+        },
+        {
+          "page": 15,
+          "bbox": [
+            19.841995239257812,
+            502.9964904785156,
+            210.86537170410156,
+            515.7718505859375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DC",
+      "heading": "Problem DC . . . lumberjack physicist",
+      "page_start": 16,
+      "page_end": 16,
+      "text": "There is an idealised homogeneous tree with uniform, but negligible thickness and height h. We\ncut the tree next to the ground in such a way that it starts falling around a fixed point at the\nbottom. What is the velocity of the top of the tree immediately before it hits the ground?",
+      "locations": [
+        {
+          "page": 16,
+          "bbox": [
+            19.841999053955078,
+            172.90411376953125,
+            399.6935729980469,
+            182.08990478515625
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.842010498046875,
+            183.8131103515625,
+            399.6856689453125,
+            192.77951049804688
+          ]
+        },
+        {
+          "page": 16,
+          "bbox": [
+            19.842010498046875,
+            194.72210693359375,
+            383.3846130371094,
+            203.68850708007812
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DD",
+      "heading": "Problem DD . . . black box",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "We have a black box with five terminals labelled A to E. We know that there are only 1 Ω\nresistors and wires inside. The table below shows values of resistance measured by a multimeter\nconnected between all pairs of terminals. Draw an electrical diagram of the black box.\nHint\nWe did not use more than seven resistors.\nA\nB\nC\nD\nE\nA\n0\n1\n3/4\n3/4\n1\nB\n1\n0\n3/4\n3/4\n0\nC\n3/4\n3/4\n0\n1\n3/4\nD\n3/4\n3/4\n1\n0\n3/4\nE\n1\n0\n3/4\n3/4\n0\nFirst, note that B and E are connected by a wire. Therefore, the problem reduces to a black\nbox with 4 terminals (A to D).\nA\nB\nC\nD\nE\nNext, we may notice symmetry between these four terminals. For each terminal, there is\none “sister” terminal and the resistance between them is 1 Ω, while the resistance between this\nterminal and either of the remaining two is 3/4 Ω. Assuming we have ≤7 resistors, there are\nonly two possible ways of connecting them symmetrically to all four terminals in such a way\nthat all resistances are non-zero. There may either be a cycle of four resistors or the same cycle\nwith pairs of opposite vertices connected by resistors (6 resistors in total). It’s easy to see that\nonly the first configuration fulfills the given conditions.\nMatěj Mezera\nm.mezera@fykos.cz",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.68109130859375,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842010498046875,
+            64.89310455322266,
+            399.6946105957031,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842010498046875,
+            75.80210876464844,
+            367.4156188964844,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842010498046875,
+            114.610107421875,
+            37.73894500732422,
+            123.57650756835938
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            46.70600891113281,
+            114.610107421875,
+            215.4895477294922,
+            123.57650756835938
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            250.8470001220703,
+            86.2821044921875,
+            257.7601013183594,
+            95.24850463867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            277.4129943847656,
+            86.2821044921875,
+            283.9405212402344,
+            95.24850463867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            303.46697998046875,
+            86.2821044921875,
+            310.12005615234375,
+            95.24850463867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            329.260986328125,
+            86.2821044921875,
+            336.29962158203125,
+            95.24850463867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            356.2120056152344,
+            86.2821044921875,
+            362.4795227050781,
+            95.24850463867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            224.66700744628906,
+            97.58910369873047,
+            231.58010864257812,
+            106.55550384521484
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            253.15199279785156,
+            97.58910369873047,
+            257.7607116699219,
+            106.55550384521484
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            279.33099365234375,
+            97.58910369873047,
+            283.9397277832031,
+            106.55550384521484
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            296.29400634765625,
+            97.58910369873047,
+            310.1202087402344,
+            106.55550384521484
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            322.4739990234375,
+            97.58910369873047,
+            336.3002014160156,
+            106.55550384521484
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            357.8710021972656,
+            97.58910369873047,
+            362.479736328125,
+            106.55550384521484
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            225.05299377441406,
+            108.89710235595703,
+            231.58053588867188,
+            117.8635025024414
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            253.15199279785156,
+            108.89710235595703,
+            257.7607116699219,
+            117.8635025024414
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            279.33099365234375,
+            108.89710235595703,
+            283.9397277832031,
+            117.8635025024414
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            296.29400634765625,
+            108.89710235595703,
+            310.1202087402344,
+            117.8635025024414
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            322.4739990234375,
+            108.89710235595703,
+            336.3002014160156,
+            117.8635025024414
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            357.8710021972656,
+            108.89710235595703,
+            362.479736328125,
+            117.8635025024414
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            224.927001953125,
+            120.20410919189453,
+            231.580078125,
+            129.17051696777344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            243.9340057373047,
+            120.20410919189453,
+            257.76019287109375,
+            129.17051696777344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            270.114013671875,
+            120.20410919189453,
+            283.9402160644531,
+            129.17051696777344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            305.510986328125,
+            120.20410919189453,
+            310.1197204589844,
+            129.17051696777344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            331.6910095214844,
+            120.20410919189453,
+            336.29974365234375,
+            129.17051696777344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            348.65399169921875,
+            120.20410919189453,
+            362.4801940917969,
+            129.17051696777344
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            224.54200744628906,
+            131.51211547851562,
+            231.58062744140625,
+            140.478515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            243.9340057373047,
+            131.51211547851562,
+            257.76019287109375,
+            140.478515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            270.114013671875,
+            131.51211547851562,
+            283.9402160644531,
+            140.478515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            305.510986328125,
+            131.51211547851562,
+            310.1197204589844,
+            140.478515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            331.6910095214844,
+            131.51211547851562,
+            336.29974365234375,
+            140.478515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            348.65399169921875,
+            131.51211547851562,
+            362.4801940917969,
+            140.478515625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            225.31300354003906,
+            142.81910705566406,
+            231.5805206298828,
+            151.78550720214844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            253.15199279785156,
+            142.81910705566406,
+            257.7607116699219,
+            151.78550720214844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            279.33099365234375,
+            142.81910705566406,
+            283.9397277832031,
+            151.78550720214844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            296.29400634765625,
+            142.81910705566406,
+            310.1202087402344,
+            151.78550720214844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            322.4739990234375,
+            142.81910705566406,
+            336.3002014160156,
+            151.78550720214844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            357.8710021972656,
+            142.81910705566406,
+            362.479736328125,
+            151.78550720214844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842010498046875,
+            158.45912170410156,
+            399.6946105957031,
+            167.42552185058594
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842010498046875,
+            169.3681182861328,
+            144.7529296875,
+            178.3345184326172
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            148.3251495361328,
+            189.65786743164062,
+            156.50836181640625,
+            200.56881713867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            201.511962890625,
+            249.26577758789062,
+            209.23690795898438,
+            260.1767272949219
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            207.67568969726562,
+            189.65786743164062,
+            215.5533905029297,
+            200.56881713867188
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            148.17401123046875,
+            248.28012084960938,
+            156.5099639892578,
+            259.1910705566406
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            254.2431640625,
+            248.28012084960938,
+            261.67352294921875,
+            259.1910705566406
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            33.790000915527344,
+            270.27008056640625,
+            399.6818542480469,
+            279.2364807128906
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.842002868652344,
+            281.1790771484375,
+            399.6790771484375,
+            290.3648681640625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841995239257812,
+            292.08807373046875,
+            399.68212890625,
+            301.27386474609375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841995239257812,
+            302.9970703125,
+            399.694580078125,
+            311.9634704589844
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841995239257812,
+            313.90606689453125,
+            399.68560791015625,
+            322.8724670410156
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841995239257812,
+            324.8150939941406,
+            399.6856689453125,
+            333.781494140625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.841995239257812,
+            335.7240905761719,
+            241.79629516601562,
+            344.69049072265625
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            322.25396728515625,
+            352.18109130859375,
+            385.1442565917969,
+            361.1474914550781
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            313.6829833984375,
+            363.3411560058594,
+            393.7082214355469,
+            372.30755615234375
+          ]
+        }
+      ]
+    },
+    {
+      "number": "DE",
+      "heading": "Problem DE . . . two cuboids",
+      "page_start": 17,
+      "page_end": 17,
+      "text": "One upon a time, there were two cuboids with base areas S1 and S2, where S1 < S2. One day,\nthe first one (the one with a smaller base) fell into the other one, since it was hollow. However,\nthe first cuboid wasn’t hollow, it had a height h and density ϱ1. Therefore, it used that moment\nto think: what is the volume of a liquid with density ϱ > ϱ1 which needs to be poured inside\nthe second cuboid so that the first one stops sticking to its bottom?",
+      "locations": [
+        {
+          "page": 17,
+          "bbox": [
+            19.841999053955078,
+            401.2471008300781,
+            399.68798828125,
+            411.42889404296875
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84197998046875,
+            412.1560974121094,
+            399.694580078125,
+            421.12249755859375
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84197998046875,
+            423.0650939941406,
+            399.6893005371094,
+            432.59393310546875
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84197998046875,
+            433.9740905761719,
+            399.68499755859375,
+            443.9364929199219
+          ]
+        },
+        {
+          "page": 17,
+          "bbox": [
+            19.84197998046875,
+            444.8830871582031,
+            293.95379638671875,
+            453.8494873046875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DF",
+      "heading": "Problem DF . . . fast crash",
+      "page_start": 18,
+      "page_end": 18,
+      "text": "A particle with rest mass m1 = 2m0 is flying in the positive direction of the x-axis, with velocity\nv1 = 3\n5c. A particle with rest mass m2 = 3m0 is flying in the opposite direction with velocity\nv2 = −4\n5c. These two particles collide (the collision is inelastic), creating a particle with rest\nmass m3 flying with velocity v3. Find its mass and velocity (including the direction).",
+      "locations": [
+        {
+          "page": 18,
+          "bbox": [
+            19.841999053955078,
+            185.74610900878906,
+            399.6882019042969,
+            195.9279022216797
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.842010498046875,
+            195.53636169433594,
+            46.486328125,
+            206.8369140625
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            42.83399963378906,
+            196.6551055908203,
+            399.68829345703125,
+            208.22994995117188
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.842010498046875,
+            206.44534301757812,
+            54.37832260131836,
+            217.7458953857422
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            50.72599792480469,
+            207.56410217285156,
+            399.6864929199219,
+            219.13894653320312
+          ]
+        },
+        {
+          "page": 18,
+          "bbox": [
+            19.842002868652344,
+            218.4730987548828,
+            362.7678527832031,
+            228.4355010986328
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DG",
+      "heading": "Problem DG . . . air goes through",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "A dormitory room has temperature tin = 15 ◦C. Outside, it is freezing, with temperature tout =\n= −5 ◦C. In the room, there are two people, each of them generating power P0 = 200 W, a\nradiator with power P1 = 1500 W and a leaking simple glass window with area S = 5 m2 and\nheat transfer coefficient Λ = 0.73 W·m−2·K−1. Find the volume V of cold air which flows into\nthe room in one minute. Assume that this air is exchanged for an equivalent volume of “hot”\nair from the room. The room is perfectly thermally insulated otherwise.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            19.841999053955078,
+            52.61994552612305,
+            399.6821594238281,
+            64.16590118408203
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.842010498046875,
+            63.52894592285156,
+            399.67779541015625,
+            75.07490539550781
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.842010498046875,
+            71.99311065673828,
+            399.6853332519531,
+            85.9839096069336
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84197998046875,
+            85.3469467163086,
+            399.692626953125,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841964721679688,
+            97.62010955810547,
+            399.68560791015625,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841964721679688,
+            108.52910614013672,
+            307.215087890625,
+            117.4955062866211
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "DH",
+      "heading": "Problem DH . . . lifting by lever",
+      "page_start": 19,
+      "page_end": 19,
+      "text": "ϱ\na\nh\nl\nFind the minimum force F necessary to lift a steel cube with\nedge length a = 1.5 m using a crowbar with length l = 2 m.\nThe crowbar is a straight rod and the part of the crowbar that is\ninserted under the cube (in the middle of one of the bottom edges\nof the cube, perpendicularly to this edge) has length h = 0.1 m.\nThe cube, the crowbar and the floor are rigid.",
+      "locations": [
+        {
+          "page": 19,
+          "bbox": [
+            327.4483947753906,
+            383.3952331542969,
+            330.1737976074219,
+            388.5472412109375
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            327.409912109375,
+            356.6319885253906,
+            330.2177429199219,
+            361.78399658203125
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            346.0174255371094,
+            412.5200500488281,
+            349.0674133300781,
+            417.67205810546875
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            366.6624450683594,
+            402.96978759765625,
+            368.2441101074219,
+            408.1217956542969
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841999053955078,
+            356.13909912109375,
+            278.0429992675781,
+            365.32489013671875
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841995239257812,
+            367.048095703125,
+            278.04937744140625,
+            376.23388671875
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841995239257812,
+            377.95709228515625,
+            278.0473937988281,
+            386.9234924316406
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841995239257812,
+            388.8660888671875,
+            278.0473937988281,
+            397.8324890136719
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.841995239257812,
+            399.77508544921875,
+            278.04937744140625,
+            408.96087646484375
+          ]
+        },
+        {
+          "page": 19,
+          "bbox": [
+            19.84197998046875,
+            410.68408203125,
+            205.6078643798828,
+            419.6504821777344
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EA",
+      "heading": "Problem EA . . . asymmetrical pendulum amplitude",
+      "page_start": 20,
+      "page_end": 20,
+      "text": "'0\nm\n'm\nThere is a pendulum, depicted schematically (with distances and\nangles not corresponding to this problem) in the figure. When\nswinging on the left side, the pendulum has length l and angular\namplitude φm. On the other side, half of the rope is stopped by\na wall and the remaining half swings with an angular amplitude\nφ′\nm. If φm = 5.0 ◦, what is φ′\nm? Assume that it is an ideal math-\nematical pendulum without energy loss.",
+      "locations": [
+        {
+          "page": 20,
+          "bbox": [
+            72.11637878417969,
+            268.7802734375,
+            79.15872192382812,
+            279.8736572265625
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            77.32493591308594,
+            273.7618103027344,
+            82.97120666503906,
+            279.33563232421875
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            59.25876998901367,
+            231.69406127929688,
+            70.11358642578125,
+            239.6566619873047
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47900390625,
+            192.88711547851562,
+            399.68438720703125,
+            201.853515625
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47900390625,
+            203.79611206054688,
+            399.6844177246094,
+            212.76251220703125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47900390625,
+            214.70611572265625,
+            399.6817626953125,
+            223.89190673828125
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47900390625,
+            225.6151123046875,
+            399.6926574707031,
+            235.14247131347656
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47900390625,
+            236.52410888671875,
+            399.6844482421875,
+            245.49050903320312
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47900390625,
+            246.06893920898438,
+            149.68380737304688,
+            256.618896484375
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            147.49600219726562,
+            246.06893920898438,
+            257.4258117675781,
+            257.6148986816406
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            255.23802185058594,
+            247.43310546875,
+            399.6841125488281,
+            257.54144287109375
+          ]
+        },
+        {
+          "page": 20,
+          "bbox": [
+            141.47901916503906,
+            258.34210205078125,
+            302.407958984375,
+            267.3085021972656
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EB",
+      "heading": "Problem EB . . . Jachym’s bow",
+      "page_start": 21,
+      "page_end": 21,
+      "text": "Jachym’s new compound bow can be approximated as two pul-\nleys with negligible diameters separated by a distance y0 with a\nstring wound around them in four loops. The string is a closed\nloop with a constant length 8y0. The pulleys can only move along\nthe line passing through their centres and each pulley is con-\nnected to the rigid frame of the bow by a spring with a spring\nconstant k. Jachym now pulls one of the threads of the string\nback, perpendicularly to the line passing through the pulleys.\nDetermine how the force he must exert on the string depends on the drawing distance x. At\nthe beginning, the tension in the springs is zero.",
+      "locations": [
+        {
+          "page": 21,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            278.0474548339844,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.841999053955078,
+            64.89310455322266,
+            278.0487976074219,
+            74.85550689697266
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.841995239257812,
+            75.80210876464844,
+            278.04742431640625,
+            84.76850891113281
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.841995239257812,
+            86.71111297607422,
+            278.0478210449219,
+            96.23994445800781
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.842002868652344,
+            97.62010955810547,
+            278.0473937988281,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.842002868652344,
+            108.52910614013672,
+            278.0474548339844,
+            117.4955062866211
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.842002868652344,
+            119.4381103515625,
+            278.0440368652344,
+            128.6239013671875
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.842002868652344,
+            130.3471221923828,
+            278.04742431640625,
+            139.3135223388672
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.842002868652344,
+            141.2571258544922,
+            399.68963623046875,
+            150.4429168701172
+          ]
+        },
+        {
+          "page": 21,
+          "bbox": [
+            19.842010498046875,
+            152.16612243652344,
+            214.46670532226562,
+            161.1325225830078
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EC",
+      "heading": "Problem EC . . . laser",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "A teacher is illuminating a blackboard with a green laser pointer. The cross-sectional area of\nthe ray is 1cm2 and the power of the laser is 1mW. How many photons are located in one metre\nof the ray? The wavelength of green light is 530nm.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6856689453125,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            61.084110260009766,
+            399.68048095703125,
+            74.07890319824219
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841995239257812,
+            75.80210876464844,
+            228.7153778076172,
+            84.98790740966797
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "ED",
+      "heading": "Problem ED . . . 1D billiards",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Consider an infinite trough and N = 17 identical balls which can only move inside the trough.\nThe positions and velocities of the balls may be chosen arbitrarily. What is the maximum\npossible number of collisions that can occur? All collisions are perfectly elastic and friction\ninside the trough is negligible.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            292.80810546875,
+            399.68096923828125,
+            301.993896484375
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.842002868652344,
+            303.71710205078125,
+            399.6946105957031,
+            312.6835021972656
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.842002868652344,
+            314.6260986328125,
+            399.6856384277344,
+            323.5924987792969
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.842002868652344,
+            325.53509521484375,
+            141.3636474609375,
+            334.5014953613281
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EE",
+      "heading": "Problem EE . . . wailing vibes",
+      "page_start": 22,
+      "page_end": 22,
+      "text": "Suppose that you look at a particle (a point mass) oscillating at the end of a spring at a random\nmoment in time. What is the probability that the distance of this point from the equilibrium\nposition does not exceed y1 = 1.0 cm? The amplitude of the particle’s oscillations is ym = 3.0 cm\nand there is no damping force.",
+      "locations": [
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            505.5950927734375,
+            399.6856384277344,
+            514.5615234375
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            516.5040893554688,
+            399.6856384277344,
+            525.4705200195312
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.841999053955078,
+            527.4130859375,
+            399.64288330078125,
+            537.5948486328125
+          ]
+        },
+        {
+          "page": 22,
+          "bbox": [
+            19.842010498046875,
+            538.3220825195312,
+            143.10311889648438,
+            547.2885131835938
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EF",
+      "heading": "Problem EF . . . crane driver",
+      "page_start": 23,
+      "page_end": 23,
+      "text": "K\nP\nM\ns1\ns2\nh\nA crane driver forgot how much weight his crane can lift up.\nThe height of the crane is h = 80 m and a counterweight with\nmass M = 10 t is positioned at a distance s1 = 10 m from the\ncabin (point K). A hook (ignore its weight) is hanging freely s2 =\n= 60 m from the cabin. The linear density of the whole construc-\ntion is λ = 10 kg·m−1. The crane driver knows that the weakest\npoints of the crane are its foot (point P), where it is anchored\nto the ground, and its joint (point K). He does not remember\nthe critical magnitude of torque which can act at this point (in\neither direction), but he knows that after exceeding this value,\nthe crane would collapse. How much weight can the crane driver\ncertainly lift up?",
+      "locations": [
+        {
+          "page": 23,
+          "bbox": [
+            320.40185546875,
+            258.028564453125,
+            327.0891418457031,
+            265.715087890625
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            320.40185546875,
+            334.22613525390625,
+            325.4442138671875,
+            341.91265869140625
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            290.0702819824219,
+            253.6016845703125,
+            297.7030029296875,
+            261.2882080078125
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            302.8323059082031,
+            235.39947509765625,
+            309.64349365234375,
+            243.38095092773438
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            351.4329528808594,
+            241.47488403320312,
+            358.244140625,
+            249.45547485351562
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            299.32781982421875,
+            296.1697998046875,
+            303.87823486328125,
+            303.8563232421875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            33.790000915527344,
+            241.10011291503906,
+            278.043701171875,
+            250.06651306152344
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.842002868652344,
+            252.0091094970703,
+            278.04541015625,
+            261.19488525390625
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.842002868652344,
+            262.9180908203125,
+            278.0488586425781,
+            273.0998840332031
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            273.82708740234375,
+            278.0451354980469,
+            284.0088806152344
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            284.736083984375,
+            278.0491943359375,
+            293.921875
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            294.2809143066406,
+            278.055419921875,
+            304.83087158203125
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            306.5540771484375,
+            278.056396484375,
+            315.5204772949219
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            317.46307373046875,
+            278.04742431640625,
+            326.4294738769531
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            328.3720703125,
+            278.04742431640625,
+            337.3384704589844
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            339.28106689453125,
+            278.056396484375,
+            348.2474670410156
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            350.1910705566406,
+            278.056396484375,
+            359.157470703125
+          ]
+        },
+        {
+          "page": 23,
+          "bbox": [
+            19.841995239257812,
+            361.1000671386719,
+            87.21552276611328,
+            370.06646728515625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EG",
+      "heading": "Problem EG . . . Christmas snowman reloaded",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "Consider a large snowball with radius R and acceleration due to gravity at its surface equal to\ng. Let’s use this snowball as the base of a snowman, which is made up of an infinite number\nof snowballs with the same density, whose radii form an infinite geometric sequence with a\ncoefficient (common ratio, quotient) 1/2. Adjacent snowballs always touch and the centres\nof all snowballs are collinear. Compute the intensity of gravitational field at the top of this\nsnowman. The snowman is not located in any external gravitational field.",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            19.841999053955078,
+            105.04310607910156,
+            399.6820373535156,
+            114.2289047241211
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84197998046875,
+            115.95211029052734,
+            399.6852722167969,
+            125.13790893554688
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84197998046875,
+            126.8611068725586,
+            399.6856689453125,
+            135.8275146484375
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84197998046875,
+            137.77011108398438,
+            399.6912841796875,
+            146.95590209960938
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84198760986328,
+            148.67910766601562,
+            399.6856689453125,
+            157.6455078125
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84198760986328,
+            159.58810424804688,
+            317.05126953125,
+            168.55450439453125
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "EH",
+      "heading": "Problem EH . . . lunar mining",
+      "page_start": 24,
+      "page_end": 24,
+      "text": "Once upon a time mankind finally managed to build a lunar base. Instead of scientific re-\nsearch, however, they started plundering the Moon when they discovered an invaluable material\nnamed Fykosium, with density ϱ = 5,000 kg·m−3, and started mining it homogeneously from\nthe surface of the Moon. The mining operations were so intensive that the radius of the Moon\ndecreased and it wasn’t possible to watch a full solar eclipse from the surface of Earth anymore.\nCalculate the mass of Fykosium that was mined out. The semi-major axis of the Moon’s orbit\nis a = 384,400 km and its eccentricity is e = 0, 0549. Assume that the orbit of the Earth around\nthe Sun is a circle with radius r = 1.496 · 1011 m. The Sun has radius RS = 6.96 · 108 m, the\nequatorial radius of Earth is RZ = 6,378 km, the radius of the Moon is RM = 1,738 km. Assume\nthat RZ ≪r and that all the Fykosium that was mined out remains on an orbit around the\nMoon, so the orbit of the Moon around the Earth has not changed.",
+      "locations": [
+        {
+          "page": 24,
+          "bbox": [
+            33.790000915527344,
+            418.3221130371094,
+            399.68194580078125,
+            427.28851318359375
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842002868652344,
+            429.2311096191406,
+            399.6856689453125,
+            438.197509765625
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842002868652344,
+            438.7759704589844,
+            399.67919921875,
+            449.3258972167969
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842010498046875,
+            451.05010986328125,
+            399.6856689453125,
+            460.0165100097656
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842010498046875,
+            461.9591064453125,
+            399.6946105957031,
+            470.9255065917969
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842010498046875,
+            472.86810302734375,
+            399.6855773925781,
+            481.8345031738281
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842010498046875,
+            483.777099609375,
+            399.6824035644531,
+            492.962890625
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842010498046875,
+            491.09649658203125,
+            399.6831970214844,
+            504.99188232421875
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.84197998046875,
+            505.5950927734375,
+            399.6850280761719,
+            515.77685546875
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842010498046875,
+            516.5040893554688,
+            399.6820373535156,
+            526.5203247070312
+          ]
+        },
+        {
+          "page": 24,
+          "bbox": [
+            19.842002868652344,
+            527.4130859375,
+            292.08880615234375,
+            536.3795166015625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FA",
+      "heading": "Problem FA . . . Christmas snowman",
+      "page_start": 25,
+      "page_end": 25,
+      "text": "Matúš built a snowman in the following way: He made a snowball with radius R. Then, he\nmade a second snowball with radius R/2 and placed it on top of the first snowball. On top of\nthe second snowball, he put a third one with radius R/4, and so on, placing an infinite number\nof balls on top of each other, always with a halved radius. All snowballs have the same density.\nAt what height above the ground is the centre of mass of the resulting snowman?",
+      "locations": [
+        {
+          "page": 25,
+          "bbox": [
+            19.841999053955078,
+            244.17510986328125,
+            399.68035888671875,
+            253.36090087890625
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.842010498046875,
+            255.08412170410156,
+            399.6845397949219,
+            264.2698974609375
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.842010498046875,
+            265.99310302734375,
+            399.6851806640625,
+            275.17889404296875
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.842010498046875,
+            276.902099609375,
+            399.694580078125,
+            285.8684997558594
+          ]
+        },
+        {
+          "page": 25,
+          "bbox": [
+            19.842010498046875,
+            287.81109619140625,
+            348.9178466796875,
+            296.7774963378906
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FB",
+      "heading": "Problem FB . . . slide farther",
+      "page_start": 26,
+      "page_end": 26,
+      "text": "You are standing on a horizontal plane and throwing an object from zero height. What is the\noptimal angle of your throw (with respect to the horizontal plane) if you want the object to\ncome to rest after sliding as far as possible? The friction coefficient between the thrown object\nand the ground is f =\n√\n3/4, the collision of the thrown object with the ground is perfectly\ninelastic and it does not rotate.",
+      "locations": [
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            145.84510803222656,
+            399.6855163574219,
+            154.81150817871094
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            156.75411987304688,
+            399.68560791015625,
+            165.72052001953125
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            167.66311645507812,
+            399.68560791015625,
+            176.6295166015625
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.841999053955078,
+            178.57211303710938,
+            112.83715057373047,
+            187.75790405273438
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            116.42599487304688,
+            171.24591064453125,
+            124.11019897460938,
+            180.21231079101562
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            124.10600280761719,
+            178.57211303710938,
+            399.6851806640625,
+            187.75790405273438
+          ]
+        },
+        {
+          "page": 26,
+          "bbox": [
+            19.842002868652344,
+            189.48110961914062,
+            146.74346923828125,
+            198.447509765625
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FC",
+      "heading": "Problem FC . . . bouncing pendulum",
+      "page_start": 27,
+      "page_end": 27,
+      "text": "There is a pendulum formed by a steel ball (radius r = 0.5 cm, specific heat capacity c =\n= 452 J·kg−1·K−1, density ϱ = 7,850 kg·m−3) attached to a wall by a rope with length l =\n= 1.0 m, so the ball always bounces off the wall in the bottommost point of its trajectory.\nDuring a bounce, the ball loses energy and heats up. The velocity with which the ball bounces\noff is given by the coefficient of restitution k = v1/v0 = 0.90 (v0 and v1 are the velocities before\nand after the bounce, respectively). We release the pendulum from an initial position given\nby a displacement angle α = 45◦. How much higher is the temperature of the ball after three\nbounces? Assume that half of the energy lost during bounces is used to heat the ball.",
+      "locations": [
+        {
+          "page": 27,
+          "bbox": [
+            19.841999053955078,
+            126.5851058959961,
+            399.68212890625,
+            135.77090454101562
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84197998046875,
+            136.12994384765625,
+            399.68212890625,
+            146.67990112304688
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84197998046875,
+            148.40310668945312,
+            399.692626953125,
+            157.58889770507812
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841976165771484,
+            159.31210327148438,
+            399.6856384277344,
+            168.27850341796875
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841976165771484,
+            170.22210693359375,
+            399.6778869628906,
+            180.40390014648438
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841995239257812,
+            181.131103515625,
+            399.694580078125,
+            190.09750366210938
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.841995239257812,
+            190.67593383789062,
+            399.67816162109375,
+            201.22589111328125
+          ]
+        },
+        {
+          "page": 27,
+          "bbox": [
+            19.84198760986328,
+            202.9490966796875,
+            364.65380859375,
+            211.91549682617188
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FD",
+      "heading": "Problem FD . . . capacitors",
+      "page_start": 28,
+      "page_end": 28,
+      "text": "Initially, there is an LC circuit composed of one coil and one parallel-plate capacitor. The\ndistance between the plates of the capacitor is d0 = 4.0 mm, the surface area is S = 500 cm2\nand the inductance of the coil is L = 20 mH. After some time, we insert a conducting plate with\nthickness r = 0.5 mm inside the capacitor exactly in the middle between its plates. How does\nthe resonance frequency of the circuit change? Express the ratio of new to old frequency.\nThe initial capacitance of the capacitor is\nC0 = εS\nd0 ,\nwhere ε is the permittivity of the medium inside it. If we insert a conducting plate in the middle,\nwe effectively split it into two smaller capacitors. The distance between plates in each of them\nis\nd = d0 −r\n2\n,\nso each of them has capacitance\nC′ =\n2εS\nd0 −r .\nThe new capacitors are connected in series. Their capacitances combine in the same way as\nresistances of parallel resistors, so the resulting capacitance is\nC =\nC′2\nC′ + C′ = 1\n2C′ =\nεS\nd0 −r .\nIn the original LC circuit, the current flowing through both elements is identical, while the\nvoltages on them are opposite to each other. This leads to a differential equation\n¨I +\n1\nLC0 I = 0 .\nIts solutions are some complex exponentials, in general\nI = Aeiω0t + Be−iω0t ,\nwhere A, B are constants and ω0 is the angular frequency\nω0 =\n1\n√LC0\n.\nThe situation after the plate is inserted gives the same equations, we only need to use the\ncapacitance C computed above instead of C0. The resulting ratio of frequencies is\nf\nf0 = ω\nω0 =\n√\nC0\nC =\n√\n1 −r\nd0 =\n√\n7\n8\n.= 0.94 .\nJáchym Bártík\ntuaki@fykos.cz",
+      "locations": [
+        {
+          "page": 28,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.6856384277344,
+            62.95051193237305
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841999053955078,
+            63.63934326171875,
+            399.1863098144531,
+            75.07490539550781
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.842010498046875,
+            75.80210876464844,
+            399.6776123046875,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.842025756835938,
+            86.71111297607422,
+            399.6783142089844,
+            95.89691162109375
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.842029571533203,
+            97.62010955810547,
+            378.2111511230469,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.842029571533203,
+            114.50711059570312,
+            187.6661376953125,
+            123.4735107421875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            189.8040313720703,
+            131.55950927734375,
+            223.9229278564453,
+            147.32090759277344
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            214.76100158691406,
+            137.35850524902344,
+            229.7283935546875,
+            153.4019012451172
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841995239257812,
+            159.5041046142578,
+            399.6784973144531,
+            168.6898956298828
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841995239257812,
+            170.41311645507812,
+            399.68560791015625,
+            179.3795166015625
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841995239257812,
+            181.32211303710938,
+            26.037778854370117,
+            190.28851318359375
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            185.68798828125,
+            188.6968994140625,
+            228.29541015625,
+            203.62789916992188
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            213.9429931640625,
+            200.7425079345703,
+            218.55172729492188,
+            209.7089080810547
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            231.27999877929688,
+            194.66151428222656,
+            233.84439086914062,
+            203.62791442871094
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841995239257812,
+            212.82212829589844,
+            148.99403381347656,
+            221.7885284423828
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            183.125,
+            223.39651489257812,
+            202.74916076660156,
+            236.669921875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            211.29701232910156,
+            221.90452575683594,
+            225.81289672851562,
+            230.8709259033203
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            206.50799560546875,
+            227.70350646972656,
+            236.40737915039062,
+            243.581298828125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84197998046875,
+            246.76211547851562,
+            399.685546875,
+            255.728515625
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84197998046875,
+            257.67108154296875,
+            268.54302978515625,
+            266.6374816894531
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            147.00299072265625,
+            282.1634826660156,
+            163.94314575195312,
+            291.1298828125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            176.4569854736328,
+            274.78094482421875,
+            189.51129150390625,
+            285.33087158203125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            167.70199584960938,
+            276.3644714355469,
+            218.05274963378906,
+            297.2118835449219
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            213.44400024414062,
+            277.8564758300781,
+            238.87115478515625,
+            297.2118835449219
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            249.72300720214844,
+            276.3644714355469,
+            259.6308898925781,
+            285.33087158203125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            242.6300048828125,
+            282.1634826660156,
+            272.5293884277344,
+            298.04229736328125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            33.78999328613281,
+            304.30908203125,
+            399.6819152832031,
+            313.2754821777344
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.841995239257812,
+            315.2191162109375,
+            346.0934143066406,
+            324.1855163574219
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            179.21099853515625,
+            335.4574890136719,
+            193.15313720703125,
+            346.68988037109375
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            202.5959930419922,
+            331.9244689941406,
+            207.20472717285156,
+            340.890869140625
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            196.39999389648438,
+            337.7235107421875,
+            240.32139587402344,
+            353.7679138183594
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.842010498046875,
+            359.7711181640625,
+            241.62591552734375,
+            368.7375183105469
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            165.4320068359375,
+            374.5625,
+            254.10040283203125,
+            387.8359069824219
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.842010498046875,
+            397.52911376953125,
+            253.73602294921875,
+            407.49151611328125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            183.09500122070312,
+            420.0345153808594,
+            202.70315551757812,
+            429.9969177246094
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            216.49801635742188,
+            414.2355041503906,
+            221.10675048828125,
+            423.201904296875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            206.46200561523438,
+            419.7789001464844,
+            230.64230346679688,
+            436.3619384765625
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            233.87298583984375,
+            420.03448486328125,
+            236.4373779296875,
+            429.0008850097656
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84197998046875,
+            443.60009765625,
+            399.68560791015625,
+            452.5664978027344
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            19.84197998046875,
+            454.50909423828125,
+            349.9345703125,
+            464.0389404296875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            121.34697723388672,
+            475.9004821777344,
+            125.82121276855469,
+            484.86688232421875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            119.75900268554688,
+            475.9004821777344,
+            150.70553588867188,
+            497.7428894042969
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            143.06100463867188,
+            481.6994934082031,
+            163.86514282226562,
+            497.7428894042969
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            166.42898559570312,
+            465.376953125,
+            176.39158630371094,
+            475.3395690917969
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            177.58700561523438,
+            475.9004821777344,
+            187.81732177734375,
+            485.2099304199219
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            179.34300231933594,
+            481.6994934082031,
+            199.2351531982422,
+            496.74688720703125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            201.7989959716797,
+            467.0079345703125,
+            211.7615966796875,
+            476.9705505371094
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            211.76100158691406,
+            475.9004821777344,
+            235.2444305419922,
+            490.6658935546875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            228.8280029296875,
+            481.6994934082031,
+            248.67315673828125,
+            497.7428894042969
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            251.2360076904297,
+            465.60394287109375,
+            261.1986083984375,
+            475.5665588378906
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            262.39501953125,
+            475.9004821777344,
+            267.0037536621094,
+            484.86688232421875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            262.39501953125,
+            487.7804870605469,
+            267.0037536621094,
+            496.74688720703125
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            270.75799560546875,
+            476.2544860839844,
+            300.9684143066406,
+            490.6658935546875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            327.10504150390625,
+            513.8441162109375,
+            393.7074279785156,
+            522.810546875
+          ]
+        },
+        {
+          "page": 28,
+          "bbox": [
+            327.45501708984375,
+            525.0042114257812,
+            393.3581237792969,
+            533.9705810546875
+          ]
+        }
+      ]
+    },
+    {
+      "number": "FE",
+      "heading": "Problem FE . . . Christmas snowman reloaded reloaded",
+      "page_start": 29,
+      "page_end": 29,
+      "text": "Consider a large snowball with radius R. Let’s use this snowball as the base of a snowman,\nwhich is made up of an infinite number of snowballs with the same density, whose radii form an\ninfinite geometric sequence with a coefficient (common ratio, quotient) 1/2. Adjacent snowballs\nalways touch and the centres of all snowballs are collinear. Compute the moment of inertia of\nthe snowman with respect to an axis passing through the top of the snowman and perpendicular\nto the line passing through the centres of all snowballs. The total mass of the whole snowman\nis M.",
+      "locations": [
+        {
+          "page": 29,
+          "bbox": [
+            19.841999053955078,
+            53.98411178588867,
+            399.69329833984375,
+            63.16990661621094
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842002868652344,
+            64.89310455322266,
+            399.6856689453125,
+            73.85950469970703
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842002868652344,
+            75.80210876464844,
+            399.68609619140625,
+            84.98790740966797
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            86.71111297607422,
+            399.6855773925781,
+            95.6775131225586
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            97.62010955810547,
+            399.6856689453125,
+            106.58650970458984
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            108.52910614013672,
+            399.6946105957031,
+            117.4955062866211
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.842010498046875,
+            119.4381103515625,
+            41.549400329589844,
+            128.6239013671875
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FF",
+      "heading": "Problem FF . . . analytical bouncing ball",
+      "page_start": 29,
+      "page_end": 31,
+      "text": "Vašek likes playing with bouncing balls; specifically, he’s interested in the restitution coefficient.\nHe decided to test a bouncing ball on a larger scale, so he threw it from the 15-th floor of the\ndorm, at a height h1 = 50 m above the ground, under a randomly chosen angle. At the 20-th\nfloor (height h2 = 65 m), however, there is the dorm supervisor, who most definitely would not\nlike to see someone throwing things from windows. Since the dorm supervisor does not lean out\nof the window, he only sees outside under the angle α = 60◦downwards with respect to the\nhorizontal plane. What is the maximum velocity with which Vašek can throw the bouncing ball\nso that it is guaranteed that the supervisor cannot see it at any point of its trajectory (before\nit impacts the ground)?\nConsider a coordinate system such that the y-axis corresponds to the wall and the x-axis\ncorresponds to the ground. The supervisor’s line of sight is given by the formula y = h2−x tan α.\nNext, we need to determine the trajectory of the ball depending on the initial velocity v and\nthe angle φ under which it’s thrown. Let’s define the angle φ as the angle between the initial\nvelocity vector and the horizontal plane in the same way as α (positive when throwing down).\nThen, the ball follows a regular ballistic trajectory with coordinates at time t after the throw\ngiven by\nx = tv cos φ ,\ny = h1 −tv sin φ −1\n2gt2 .\nWe don’t need the time dependence at all, only the relation between y and x, so let’s express t\nfrom the first formula and plug it in the second formula\ny = h1 −x tan φ −\ngx2\n2v2 cos2 φ .\nNow we can find the intersection of the bouncing ball’s trajectory and the dorm supervisor’s\nline of sight. Mathematically, we’re looking for x such that both curves’ y are equal\nh2 −x tan α = h1 −x tan φ −\ngx2\n2v2 cos2 φ ,\n0 = x2\ng\n2v2 cos2 φ + x (tan φ −tan α) + h2 −h1 .\nThis is a quadratic equation. If it has a positive discriminant, it means that the bouncing ball\ncrosses the supervisor’s line of sight twice, which we want to avoid. The critical case is when\nthe discriminant is 0, which is when the ball only touches the line of sight.\nLet’s denote the velocity which leads to discriminant 0 for a fixed φ by v0(φ). We obtain\nan equation\n(tan φ −tan α)2 −4\ng\n2v0(φ)2 cos2 φ (h2 −h1) = 0 .\nNext, let’s express\nv0(φ)2 =\n2g (h2 −h1)\ncos2 φ (tan φ −tan α)2 .\n(1)\nWe’re supposed to find the maximum v such that for each φ, the ball isn’t seen by the supervisor.\nThis velocity is the minimum of v0(φ).\nThe right hand side of (1) is always non-negative, so if we want to minimise v0(φ), we only\nneed to minimise its square. In addition, the numerator doesn’t depend on φ, so we only need\nto maximise the denominator. If we require its derivative with respect to φ to be 0, we get\n(tan φ −tan α) ((tan φ −tan α) cos φ sin φ −1) = 0 .\nOne solution is clearly φ = α, which means the denominator in (1) is 0. Its physical meaning is\nthrowing in parallel with the dorm supervisor’s line of sight (or more vertically), in which case\nany velocity is allowed. However, this case isn’t interesting for us, so the second parenthesised\nexpression must be zero. Further simplifications give us a condition\ncos φ (tan α sin φ + cos φ) = 0 .\nFor cos φ = 0, we get two possible angles: 90 ◦(vertically down), which again isn’t interesting,\nand −90◦(vertically up). It’s easy to compute that v0(−90◦) =\n√\n2g (h2 −h1).\nThe condition tan α sin φ + cos φ = 0 can be again simplified to\ntan φ = −cot α ,\nwhich gives φ = −30 ◦(throwing upwards under an angle 30 ◦). If we plug this angle into (1),\nwe get\nv0(−30◦) =\n√\n2g (h2 −h1)\ntan2 α + 1\n=\n√\n1\n2g (h2 −h1) .\nThis is less than v0(−90◦), so it’s the velocity we were looking for.\nFor the given numerical values, we get v0(−30◦) = 8.58 m·s−1.\nŠimon Pajger\nlegolas@fykos.cz",
+      "locations": [
+        {
+          "page": 29,
+          "bbox": [
+            19.841999053955078,
+            527.4130859375,
+            399.6946105957031,
+            536.3795166015625
+          ]
+        },
+        {
+          "page": 29,
+          "bbox": [
+            19.841999053955078,
+            538.3221435546875,
+            399.6856384277344,
+            547.28857421875
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841999053955078,
+            39.21010971069336,
+            399.6802673339844,
+            49.39190673828125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            50.11911392211914,
+            399.6798095703125,
+            60.30190658569336
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            61.02811050415039,
+            399.6856384277344,
+            69.9945068359375
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            70.57294464111328,
+            399.6855773925781,
+            81.12290954589844
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            82.84710693359375,
+            399.6856689453125,
+            91.81350708007812
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            93.75611114501953,
+            399.68572998046875,
+            102.7225112915039
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            104.66510772705078,
+            115.423828125,
+            113.63150787353516
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            120.3381118774414,
+            399.68475341796875,
+            129.52391052246094
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            131.2471160888672,
+            399.68536376953125,
+            140.7759552001953
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            142.15611267089844,
+            399.6853332519531,
+            151.34190368652344
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            153.0651092529297,
+            399.68316650390625,
+            162.2509002685547
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            163.97511291503906,
+            399.69000244140625,
+            173.16090393066406
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            174.8841094970703,
+            399.6867980957031,
+            184.0699005126953
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.842010498046875,
+            185.79310607910156,
+            53.63637924194336,
+            194.75950622558594
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            159.0880126953125,
+            202.46449279785156,
+            210.2490997314453,
+            211.43089294433594
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            159.45101928710938,
+            215.39549255371094,
+            242.95472717285156,
+            230.99227905273438
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            238.3459930419922,
+            216.8874969482422,
+            260.44439697265625,
+            236.24290466308594
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841995239257812,
+            239.81910705566406,
+            399.68353271484375,
+            249.00489807128906
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            250.7281036376953,
+            245.1048583984375,
+            259.6944885253906
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            148.5559844970703,
+            272.6288757324219,
+            223.29812622070312,
+            282.59228515625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            239.0669708251953,
+            265.5223388671875,
+            252.65928649902344,
+            275.9618835449219
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            226.5449981689453,
+            272.79449462890625,
+            270.97637939453125,
+            287.8418884277344
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            293.2611083984375,
+            399.68560791015625,
+            302.2275085449219
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            304.17010498046875,
+            356.9117126464844,
+            313.35589599609375
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            92.18595886230469,
+            326.0708923339844,
+            210.34510803222656,
+            336.0343017578125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            226.11395263671875,
+            318.9643249511719,
+            239.70626831054688,
+            329.40386962890625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            213.5919952392578,
+            326.2364807128906,
+            258.02337646484375,
+            341.2848815917969
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            135.85598754882812,
+            345.73431396484375,
+            161.62631225585938,
+            356.671875
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            180.53099060058594,
+            341.907470703125,
+            184.92453002929688,
+            350.8738708496094
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            163.3209991455078,
+            347.5398864746094,
+            327.34637451171875,
+            362.7538757324219
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841964721679688,
+            368.1720886230469,
+            399.6856384277344,
+            377.13848876953125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841964721679688,
+            379.0810852050781,
+            399.6856384277344,
+            388.0474853515625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.841964721679688,
+            389.9910888671875,
+            320.7626953125,
+            399.1768798828125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            33.78996276855469,
+            400.90008544921875,
+            399.6830749511719,
+            410.4289245605469
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.842010498046875,
+            411.80908203125,
+            67.21150207519531,
+            420.7754821777344
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            110.48101043701172,
+            419.95086669921875,
+            190.62673950195312,
+            433.3898620605469
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            217.53900146484375,
+            418.62445068359375,
+            221.9325408935547,
+            427.5908508300781
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            191.82199096679688,
+            424.2579040527344,
+            309.0503845214844,
+            439.8139343261719
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            442.9071044921875,
+            93.50096130371094,
+            451.8735046386719
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            142.46897888183594,
+            454.1575012207031,
+            178.1561279296875,
+            467.77496337890625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            202.73497009277344,
+            452.4219055175781,
+            250.95053100585938,
+            462.3843078613281
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            181.91500854492188,
+            458.4644775390625,
+            277.0633544921875,
+            474.6988830566406
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            387.9029541015625,
+            458.2450866699219,
+            399.6852722167969,
+            467.21148681640625
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            478.23309326171875,
+            399.68511962890625,
+            487.41888427734375
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.84197998046875,
+            489.14208984375,
+            176.1773681640625,
+            498.6709289550781
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            33.78997802734375,
+            500.05108642578125,
+            399.6829528808594,
+            509.5809326171875
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.842041015625,
+            510.9600830078125,
+            399.67950439453125,
+            520.1458740234375
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            19.842071533203125,
+            521.8701171875,
+            385.8950500488281,
+            531.055908203125
+          ]
+        },
+        {
+          "page": 30,
+          "bbox": [
+            105.92608642578125,
+            538.3759155273438,
+            313.6064453125,
+            547.5078735351562
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.841999053955078,
+            39.21010971069336,
+            399.6811218261719,
+            48.395904541015625
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            50.11911392211914,
+            399.6856689453125,
+            59.085514068603516
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            61.02811050415039,
+            399.6945495605469,
+            69.9945068359375
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            71.9371109008789,
+            291.51495361328125,
+            80.90351104736328
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            148.77700805664062,
+            90.7175064086914,
+            270.75439453125,
+            99.68390655517578
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.841995239257812,
+            107.69495391845703,
+            399.6935729980469,
+            118.24491119384766
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            119.98895263671875,
+            276.1201477050781,
+            130.88294982910156
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            278.68499755859375,
+            112.34095764160156,
+            288.6475830078125,
+            122.30355834960938
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            288.64801025390625,
+            121.35311126708984,
+            339.4244079589844,
+            131.37030029296875
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            33.790008544921875,
+            132.2631072998047,
+            289.3271179199219,
+            141.4488983154297
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            176.9040069580078,
+            150.87689208984375,
+            242.6314697265625,
+            160.00889587402344
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.841995239257812,
+            168.01995849609375,
+            399.6849365234375,
+            178.5699005126953
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            180.29312133789062,
+            45.701107025146484,
+            189.259521484375
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            116.61601257324219,
+            197.35694885253906,
+            162.83316040039062,
+            208.74795532226562
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            165.39801025390625,
+            183.18995666503906,
+            175.36061096191406,
+            193.15255737304688
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            176.55599975585938,
+            193.3948974609375,
+            224.7705535888672,
+            203.35829162597656
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            180.25399780273438,
+            202.5675048828125,
+            221.063232421875,
+            214.48590087890625
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            228.52301025390625,
+            199.43850708007812,
+            235.68716430664062,
+            208.4049072265625
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            238.25001525878906,
+            183.3429412841797,
+            248.21261596679688,
+            193.3055419921875
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            249.40899658203125,
+            193.63951110839844,
+            254.01773071289062,
+            202.6059112548828
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            249.40899658203125,
+            199.2729034423828,
+            302.9163818359375,
+            214.48590087890625
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.84197998046875,
+            218.6969451904297,
+            288.17218017578125,
+            229.5909423828125
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            33.78997802734375,
+            229.60594177246094,
+            284.56634521484375,
+            240.49993896484375
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            325.09197998046875,
+            248.30010986328125,
+            387.00494384765625,
+            257.2665100097656
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            318.3900146484375,
+            259.4611511230469,
+            393.7078552246094,
+            268.42755126953125
+          ]
+        }
+      ]
+    },
+    {
+      "number": "FG",
+      "heading": "Problem FG . . . ice hockey sticks",
+      "page_start": 31,
+      "page_end": 31,
+      "text": "Jirka and Jachym wanted to compete in ice hockey puck shooting. Both of them were shooting\nfrom the middle of a rink, at a distance l = 19.50 m from a hockey goal. Jirka decided to shoot\nthe puck along the surface of the ice into the middle of the goal with velocity v0 = 20.00 m·s−1,\nwhile Jachym was shooting into the left gibbet (= the top left edge of the goal) with velocity u.\nBy total accident, both of them scored a goal at the same time t from shooting. Calculate the\nvelocity u of Jachym’s shot. The dimensions of the hockey goal are 1.830 m × 1.220 m (width\n× height), the friction coefficient of a puck on ice is f = 0.150 and the mass of the puck is\nm = 170.0 g. Calculate the result in m·s−1 to 4 significant figures.",
+      "locations": [
+        {
+          "page": 31,
+          "bbox": [
+            19.841999053955078,
+            297.694091796875,
+            399.6856689453125,
+            306.6604919433594
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.841999053955078,
+            308.60308837890625,
+            399.6801452636719,
+            317.78887939453125
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.841995239257812,
+            318.14794921875,
+            399.6853942871094,
+            329.69390869140625
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            330.4211120605469,
+            399.6854248046875,
+            339.6069030761719
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842041015625,
+            341.3301086425781,
+            399.68365478515625,
+            350.5158996582031
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842056274414062,
+            352.2391052246094,
+            399.68524169921875,
+            361.4248962402344
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842041015625,
+            363.1481018066406,
+            399.6775207519531,
+            372.3338928222656
+          ]
+        },
+        {
+          "page": 31,
+          "bbox": [
+            19.842010498046875,
+            370.2491149902344,
+            286.40301513671875,
+            383.243896484375
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "FH",
+      "heading": "Problem FH . . . flat-Earth reloaded reloaded",
+      "page_start": 32,
+      "page_end": 32,
+      "text": "It is well-known that the Earth is flat and supported by elephants. Above it, there is a dome\nfrom which the Sun, the Moon and stars are hanging. If the Moon with mass 7.348·1022 kg was\nhanging from a steel rope with a (not necessarily uniform) circular cross-section, what would\nbe the radius of its cross-section at the point of contact with the dome? The length of the rope\nis l = 3,200 m, the yield stress of steel is 700 MPa and its density is 7,850 kg·m−3. The Moon is\nplaced in uniform gravity g. Neglect all other gravitational effects.",
+      "locations": [
+        {
+          "page": 32,
+          "bbox": [
+            19.841999053955078,
+            329.1170959472656,
+            399.6856689453125,
+            338.08349609375
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.841999053955078,
+            336.4364929199219,
+            399.6941223144531,
+            349.2118835449219
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.842010498046875,
+            350.9350891113281,
+            399.6945495605469,
+            359.9014892578125
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.842010498046875,
+            361.8440856933594,
+            399.6856689453125,
+            370.81048583984375
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.842010498046875,
+            371.3889465332031,
+            399.6832275390625,
+            381.9388732910156
+          ]
+        },
+        {
+          "page": 32,
+          "bbox": [
+            19.842010498046875,
+            383.6620788574219,
+            287.1754150390625,
+            392.8478698730469
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GA",
+      "heading": "Problem GA . . . centrifuge",
+      "page_start": 33,
+      "page_end": 33,
+      "text": "We pour water into a hollow cylinder with base radius R to a height h0. Then, we spin the\ncylinder up to a constant angular velocity. Determine the angular velocity at which the water\nlevel in the centre just touches the bottom of the cylinder.",
+      "locations": [
+        {
+          "page": 33,
+          "bbox": [
+            19.841999053955078,
+            343.2701110839844,
+            399.6806640625,
+            352.7999572753906
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.842010498046875,
+            354.18011474609375,
+            399.694580078125,
+            363.1465148925781
+          ]
+        },
+        {
+          "page": 33,
+          "bbox": [
+            19.842010498046875,
+            365.089111328125,
+            255.57760620117188,
+            374.0555114746094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    },
+    {
+      "number": "GB",
+      "heading": "Problem GB . . . drinking tea 2.0",
+      "page_start": 34,
+      "page_end": 34,
+      "text": "Consider a cylindrical container with height H and radius R, filled with tea with density ϱ.\nThere is a little hole with area s ≪S at the bottom of the container. This hole is used to\nattach a horizontal tube with a faucet and a manometer (a vertical tube, open at the top) to\nthe container. Both tubes have radii r. The distance between the side of the container and the\nmanometer is a, the distance between the manometer and faucet (the end of the horizontal\ntube) is b. Find the formula describing the height of liquid in the manometer l(t) over time\nafter the faucet is opened. Assume that this height adapts instantly to changes in flow in the\nhorizontal tube. The tea is incompressible with dynamic viscosity η and surface tension σ.\nAssume laminar flow in the tube and r ≪a, b ≪H, R.\nHint\nIn case of laminar flow, the pressure difference ∆p between the ends of a tube satisfies\nPoiseuille’s equation\n∆p = 8ηlQ\nπR4 ,\nwhere R is the diameter of the tube, l its length and Q the volumetric flow\nrate.",
+      "locations": [
+        {
+          "page": 34,
+          "bbox": [
+            19.841999053955078,
+            270.9901123046875,
+            399.6853942871094,
+            280.1759033203125
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842010498046875,
+            281.89910888671875,
+            399.6813659667969,
+            291.08489990234375
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842018127441406,
+            292.80810546875,
+            399.6855773925781,
+            301.7745056152344
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842018127441406,
+            303.71710205078125,
+            399.6802062988281,
+            312.90289306640625
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842018127441406,
+            314.6260986328125,
+            399.69329833984375,
+            323.8118896484375
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842018127441406,
+            325.53509521484375,
+            399.67816162109375,
+            334.72088623046875
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842010498046875,
+            336.444091796875,
+            399.6856994628906,
+            345.4104919433594
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842010498046875,
+            347.35308837890625,
+            399.6854248046875,
+            356.53887939453125
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842041015625,
+            358.2630920410156,
+            240.35743713378906,
+            367.4488830566406
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842041015625,
+            369.1720886230469,
+            37.738975524902344,
+            378.13848876953125
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            46.70603942871094,
+            369.1720886230469,
+            399.6800537109375,
+            378.3578796386719
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.842041015625,
+            380.0810852050781,
+            101.4990463256836,
+            389.0474853515625
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            184.3750457763672,
+            389.262451171875,
+            229.8614959716797,
+            404.0278625488281
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            212.0399932861328,
+            395.0614929199219,
+            235.15737915039062,
+            410.10888671875
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            85.03898620605469,
+            413.22210693359375,
+            399.6935729980469,
+            422.40789794921875
+          ]
+        },
+        {
+          "page": 34,
+          "bbox": [
+            19.841995239257812,
+            424.131103515625,
+            38.30381393432617,
+            433.0975036621094
+          ]
+        }
+      ],
+      "terminated_by_author_note": true
+    }
+  ],
+  "warnings": [
+    "Unterminated AA",
+    "Unterminated CC",
+    "Unterminated DD",
+    "Unterminated FD",
+    "Unterminated FF"
+  ]
+}

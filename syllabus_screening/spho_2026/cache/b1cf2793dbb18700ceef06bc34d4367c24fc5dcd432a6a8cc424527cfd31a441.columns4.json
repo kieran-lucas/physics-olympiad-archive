@@ -1,0 +1,87 @@
+{
+  "file_id": 1531,
+  "sha256": "b1cf2793dbb18700ceef06bc34d4367c24fc5dcd432a6a8cc424527cfd31a441",
+  "method": "whole text lines assigned to four printed columns by center; no clipping or OCR",
+  "columns": [
+    {
+      "page": 1,
+      "column": 1,
+      "text": "Estonian-Finnish Olympiad 2015\nEditors: S. Ainsaar, M. Heidelberg\n1. ANNIHILATION (6 points) (by L. Franti)\nAn electron with kinetic energy 1 MeV\ntravels along the z-axis and collides with a\npositron at rest. The particles annihilate pro-\nducing a pair of two photons A and B with\nequal energies.\ni) (1.5 points) Find the speed of the electron\nve in the lab frame.\nii) (0.5 points) Find the energy Eγ of photon\nA in the lab frame.\niii) (1 point)\nFind the momentum pγ of\nphoton A in the lab frame.\niv) (2 points) Find the angle α between the\nz-axis and the momentum of photon A in the\nlab frame.\nv) (1 point)\nWhy is it not possible for a\ncollision process to produce just one single\nphoton?\nThe rest mass of electron me = 511keV/c2.\nYou can express your results in electron volts\nand related units.\n2.\nHOLOGRAPHIC LENS (7 points)\nJ. Kalda) Monochromatic light can be focused\ninto a point using an holographic lens (bet-\nter known as a Fresnel zone plate). This is\na thin ﬁlm which has a system of opaque\nand transparent concentric rings: the opaque\nrings obstruct those light waves which would\narrive at the focus in the opposite phase (as\ncompared with the light from the transpar-\nent rings). In what follows, let us assume\nthat the diameter and focal length of such\na lens d = f = 10cm; the wavelength of the\nmonochromatic incident light radiation is"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "text": "λ = 5×10−7 m.\ni) (1.5 points) Starting enumeration from the\n(opaque) centre of the lens, what is the radius\nof the m-th transparent ring (more precisely,\nthe circle at the middle of the ring)?\nii) (1.5 points) Let us consider also a glass\nlens of the same focal length f and diameter\nd, such that a parallel incident beam is col-\nlected perfectly into the focus (has aspheric\nsurfaces). What is the minimal possible thick-\nness of such a lens if the coefﬁcient of refrac-\ntion of the glass is n = 1.5?\niii) (2 points)\nIf a short light pulse falls\nonto a lens, the behaviour of the holographic\nlens is very different from that of the glass\nlens.\nIndeed, if we ignore the dispersion\nof the glass (the dependence of n on the\nwavelength), the pulse duration at the fo-\ncus of the glass lens is the same as that of\nthe incident beam. Meanwhile, in the case\nof a short pulse (τ = 3×10−14 s), the pulse\nduration at the focus of the holographic lens\nbecomes signiﬁcantly dilated. Sketch qual-\nitatively the light intensity I at the focus of\nthe holographic lens as a function of time. A\nscale is required for time t, but not for I. The\nspeed of light c = 3×108 m/s.\n(by\niv) (1 point) Even if the light source is an\nideal laser providing a perfectly monochro-\nmatic radiation, the short pulse is no longer\nstrictly monochromatic. Estimate the width\nof the range of wavelengths in the pulse of\nduration τ.\nv) (1 point)\nEstimate the duration of this\nlight pulse in the focus of the glass lens.\nAssume that in the glass, the light wave\ngroup velocity vg depends on the wavelength"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "text": "vg\ndvg\ndλ = 0.02 ×\nat the rate\nλ and that for the\nwavelength λ, group speed is equal to the\nphase speed.\n3. GEAR SHIFT (3 points) (by K.A. Saar)\nThe maximum torque of a car’s engine de-\npends on the engine’s rotation speed (see the\nfollowing ﬁgure, a larger copy is on an extra\nsheet).\nThe rotations of the engine are transferred to\nthe wheels through a transmission gearbox.\nWhen the car is in the ﬁrst gear, then the\ngear ratio from the engine to the wheels is\n14:1; in the second gear, the gear ratio is 7:1.\ni) (2 points) At what speed of the car should\nthe transmission be shifted from the ﬁrst\ngear into the second, in order for the aver-\nage acceleration of the car to be maximum?\nii) (1 point)\nWhat is the acceleration of\nthe car immediately before and immediately\nafter the gear change?\nNeglect any drag force. The mass of the\ncar m = 1400kg, the diameter of a wheel is\nd = 60cm.\n4. STAR WARS (8 points) (by J. Kalda) Here\nwe’ll study, in which region of space targets\ncan be hit with an interplanetary ballistic\nmissile. The launching point P is motion-\nless in the inertial frame of reference of a"
+    },
+    {
+      "page": 1,
+      "column": 4,
+      "text": "gravitationally attracting star centred at S.\nThe launching speed of the missile is ﬁxed\nthroughout this problem and equal to v0, the\nsame applies to the distance to launching\npoint |SP| = R. The mass of the star is M,\nand the gravity constant is G. Hint: the total\nenergy of a missile of mass m moving on an\nelliptical orbit is E = −GMm/(2a), where a is\nthe longer semiaxis of its orbit.\ni) (2 points) The missile is launched as de-\nscribed above in an arbitrary direction. What\nis the period of the missile on its elliptic or-\nbit?\nii) (2 points) According to the Kepler’s I law,\nthe missile’s orbit is an ellipse, with one of the\nfoci being at S. The position of the other fo-\ncus F depends on the launching angle. While\nthe launching angle is changed, the focus F\nmoves along a certain curve; what curve is\nit? Also, determine the geometric dimensions\nof that curve.\niii) (1 point) Let us consider such a point\nQ on the missile’s trajectory, the distance of\nwhich from the star equals to |SQ| = r. De-\ntermine the distance |QF|.\niv) (1 point)\nThe position of point Q (as\ndeﬁned above) depends on the launching\nangle of the missile, and so does the distance\n|PQ|. Among all the possible positions of the\npoint Q, what is the largest possible distance\n|PQ|?\nv) (2 points) For questions iii and iv, we as-\nsumed that the distance r had a ﬁxed value.\nNow, if we consider r as a free parameter, the\nposition of the point Q is a function of both\nr and of the launching angle. What is the\nboundary of that region of space to which the\npoint Q can belong?"
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "text": "5.\n(by M. Heidel-\nRADIATOR (8 points)\nberg) Measure the heat transfer coefﬁcient h\nbetween the environment and an aluminium\np\nproﬁle. h =\nT−T0 , where p is the heat ﬂux\nfrom the aluminium proﬁle to air per unit of\nlength; T and T0 are the temperatures of alu-\nminium and the environment, respectively.\nFor measurements, keep the aluminium pro-\nﬁle ﬂat on your table surface, to limit nonlin-\near effects from turbulence. Thermal conduct-\nivity of aluminium is k = 205W/(K·m) and\nthe cross-section of the proﬁle is A = 36mm2.\nHint: to describe the stationary temper-\nature distribution along the proﬁle we can\nderive a one-dimensional Helmholtz equa-\ntion T′′(x) = h(T(x)−T0)\n, the general solution\nkA\nof which is\nq\nq\nh\nh\nkA +C2e−x\nT(x) = T0 +C1ex\nkA ,\nwhere C1 and C2 are integration constants.\nEquipment: Aluminium proﬁle, wire (for\nheating), DC power source, infrared thermo-\nmeter, ruler.\nKeep the temperature of the wire be-\nlow 150°C as both the wire insulation\nand the table surface will start to emit\nsmoke after that point!\n6.\n(by J. Kalda)\nTWO BALLS (5 points)\nThe following snapshot (a larger version is on\nan extra sheet) depicts two balls that were"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "text": "thrown simultaneously and with the same\ninitial speed, but in different directions from\npoint P. What was the initial speed? Use\ng = 9.8m/s2.\n1st ball\ng\n2nd ball\nP\nthrowing \npoint\n10m\n7. BOUNCY BALL (5 points) (by J. Toots)\nA homogeneous elastic ball with radius R\nbounces from a vertical wall in such a way\nthat it rebounds back exactly in the same\ndirection it came from. The ball’s speed be-\nfore the bounce is v at an angle α to the ver-\ntical; the ball also has an angular speed ω.\nThere was no slipping at the contact point,\nbut do not assume that ωR = vcosα. The\nbounce was completely elastic, ie no kinetic\nenergy was lost; also, the horizontal compon-\nents of incident and rebound velocities have\nthe same magnitude. The moment of inertia\nfor a homogeneous ball is I = 2\n5 mR2."
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "text": "i) (1 point) Find the angular speed ω2 of the\nball after the bounce.\nii) (2 points) Find the initial angular speed\nω in terms of v, α and R.\niii) (2 points) What is the minimum value\nfor coefﬁcient of friction µ that such bounce\ncould happen?\n8.\n(by\nELECTRIC FIELD (6 points)\nL. Franti) A conducting ring with radius R\ncarries a large current I. The ring lies sta-\ntionary in the xy-plane with its centerpoint\nat (0,0,0). An observer approaches the ring\nparallel to the z-axis with velocity v and\nmeasures the electric ﬁeld at distance r from\nthe axis. Assume that v ≪c and r ≪R.\ni) (2 points)\nFind the direction and mag-\nnitude of the magnetic ﬁeld B(z) on z axis in\nstationary reference frame.\nii) (4 points) Estimate the magnitude and\ndirection of electric ﬁeld E(z,r) measured by\nthe observer when he is at a distance z from\nthe ring’s plane.\n9. SOLENOIDS (8 points) (by S. Ainsaar).\nA tightly-wound rigid solenoid coil has been\npartly inserted into another. They are con-\nnected to a constant current source so that\nthe same current I ﬂows through them; both\ngenerate a magnetic ﬁeld in the same direc-\ntion. The solenoids have N turns both, their"
+    },
+    {
+      "page": 2,
+      "column": 4,
+      "text": "length is l, their cross-sectional areas are A1\nand A2. It may be assumed that A1, A2 ≪l2.\nYou may ﬁnd it useful to know that the mag-\nnetic ﬁeld at the centre of one solenoid taken\nseparately is B = µ0IN/l, where µ0 is the per-\nmeability of vacuum.\ni) (2 points)\nThe centres of the coils are\nat a distance x < l along their common axis\n[A1, A2 ≪(x −l)2,x2]. Find the total energy\nEm of the magnetic ﬁeld in the system.\nii) (4 points) Find the electromotive forces\nE1 and E2 generated on the coils when one is\npulled out with a speed v.\niii) (2 points) Find the force F needed to pull\none coil outwards.\n10.\n(by\nVAPOUR PRESSURE (8 points)\nJ. Kalda, M. Heidelberg, E. Uustalu) Meas-\nure the room temperature saturated vapour\npressure of the unknown ﬂuid in the syringe.\nThe volume of the bottle is V = 0.50ℓ, the in-\nner diameter of the pipe is d = 6.0mm. Cur-\nrent air pressure p0 and room temperature\nT0 are written on the blackboard. There is\nno need to repeat the measurement after a\nsuccessful attempt as getting the bottle free\nfrom vapours is time consuming. Estimate\nthe uncertainty of the result.\nEquipment: syringe with an unknown\nﬂuid, syringe with water, bottle, ﬂexible pipe,\nruler, plug, stand, tape."
+    },
+    {
+      "page": 3,
+      "column": 1,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 3,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 4,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "column": 1,
+      "text": "g"
+    },
+    {
+      "page": 4,
+      "column": 2,
+      "text": "2nd ball\n10m"
+    },
+    {
+      "page": 4,
+      "column": 3,
+      "text": "1st ball\nP\npoint"
+    },
+    {
+      "page": 4,
+      "column": 4,
+      "text": "throwing "
+    }
+  ]
+}

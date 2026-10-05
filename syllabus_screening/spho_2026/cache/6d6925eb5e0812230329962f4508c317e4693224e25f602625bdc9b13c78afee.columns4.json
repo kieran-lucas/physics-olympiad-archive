@@ -1,0 +1,107 @@
+{
+  "file_id": 1525,
+  "sha256": "6d6925eb5e0812230329962f4508c317e4693224e25f602625bdc9b13c78afee",
+  "method": "whole text lines assigned to four printed columns by center; no clipping or OCR",
+  "columns": [
+    {
+      "page": 1,
+      "column": 1,
+      "text": "Nordic-Baltic Physics Olympiad 2018\n1. GRAVITATIONAL RACING (11 points) —\nMaté Vigh and Jaan Kalda. While in generic\ncase, the dynamics of three gravitationally inter-\nacting bodies is complicated and chaotic, there\nare special cases when the dynamics is regular.\nIn particular, there are cases when bodies per-\nform periodic motion. The simplest case of such\nperiodic motion is when all three bodies, posi-\ntioned at the vertices of an equilateral triangle,\nrotate as a rigid body. In what follows we con-\nsider a more complicated periodic motion.\nRelatively recently ¹, it was discovered that\nthree equal point masses can move periodically\nalong a common 8-shaped trajectory shown in\nthe ﬁgure (arrow denotes the direction of mo-\ntion). This ﬁgure is based on a computer simula-\ntion and has a correct shape. If needed, you can\nmeasure distances from the enlarged version of\nthe ﬁgure (on a separate sheet) using a ruler.\nLet us enumerate the three bodies with num-\nbers 1, 2, and 3, according to the order in which\nthey pass the leftmost point P shown in the ﬁg-\nure.\nLet O2 and O3 denote the positions of\nthe bodies 2 and 3, respectively at that moment\nwhen the body 1 is passing the middle point O.\nSimilarly, let P2 and P3 denote the positions of\nthe bodies 2 and 3, respectively at that moment\nwhen the body 1 is passing the leftmost point P.\nLet T denote the full period of motion of each\nof the bodies along this 8-shaped trajectory.\ni) (2 points)Express the following travel times for\none of the bodies: (a) from O2 to O; (b) from\nO3 to P2.\nii) (1 point) Let⃗v1,⃗v2, and⃗v3 denote the ve-\nlocities of the three bodies at a certain moment\n¹Cristopher Moore, Phys. Rev. Lett. 70, 3675 (1993)"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "text": "of time. Write down an equality relating these\nthree vectors to each other.\niii) (2 points) Prove that the total angular mo-\nmentum of this system is zero.\niv) (2 points) Construct the positions of the\npoints O2 and O3 (use the ﬁgure on the separate\nsheet). Motivate your construction.\nv) (2 points)Construct the positions of the points\nP2 and P3 (use the ﬁgure on the separate sheet).\nFind two independent ways of construction and\nmotivate your methods.\nvi) (2 points) Find the ratio of the speed of the\nbodies at point O to the speed at point P.\n2.\nSPEED CAMERA (6 points)\n— Mihkel\nKree.\nIn this problem, we analyse the work-\ning principle of a speed camera. The transmit-\nter of the speed camera emits an electomagnetic\nwave of frequency f0 = 24GHz having wave-\nform cos(2πf0 t). The wave gets reﬂected from\nan approaching car moving with speed v. The\nreﬂected wave is recorded by the receiver of the\nspeed camera.\ni) (2 points)Express the freqency f1 of the reﬂec-\nted wave.\nii) (2 points) In the speed camera, the received\nwaveform is multiplied with the original emit-\nted waveform. Express all the frequency com-\nponents present in the multiplied signal.\niii) (2 points) Given the lowest frequency com-\nponent flow = 4.8kHz present in the multiplied\nsignal, calculate the speed of the car v. Note: the\nspeed of light c = 3.0×108 m/s and the follow-\ning trigonometric identity might turn to be use-\nful:\n[\n]\ncosαcosβ = 1\ncos(α+β)+cos(α−β)\n.\n2\n3. WEATHER FORECAST (7 points) — Johan\nRuneson. The map shown on a separate page\nshows isobars at a constant height close to sea\nlevel. You may assume that the pattern of iso-"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "text": "bars is stationary in time (changes very slowly).\ni) (2 points)Sketch the direction of the wind ve-\nlocity at the points A and B.\nii) (2.5 points) Estimate the magnitude of the\nwind velocity at point A. Make use of the fact\nthat at point A, the lines of constant pressure\nare almost straight. The density of air near the\nground ρ = 1.23kg/m3.\niii) (2.5 points) Estimate the magnitude of the\nwind velocity at point B.\nHint.\nWhen an object of\nmass m (for example a slab of\nair) is moving with velocity v\nin a frame of reference rotat-\ning with angular velocity Ω, it\nfeels a ﬁctitious force called the\nCoriolis force given by FC/m =\n2vΩsinφ, where the angle φ and the directions\nare indicated in the ﬁgure below.\n4.\nFRESNEL PRISM (12 points)\n— Eero\nUustalu and Jaan Kalda. Equipment: a sheet of\nFresnel prism, a sheet with purple and magenta\nstripes (see separate sheet), a piece of cardboard\npaper (can be used as a screen), ruler, measur-\ning tape, stand, green laser (λ0 = 532nm). NB!\nAvoid looking into direct or reﬂected laser light,\nit my damage your eyes! The intensity maximum\nfor the scattered light from magenta stripes is\nλm = 630nm, and from cyan stripes — λc =\n495nm.\nFresnel prism is a transparent sheet with a"
+    },
+    {
+      "page": 1,
+      "column": 4,
+      "text": "periodic array of stripes; cross-section of such a\nsheet is shown in ﬁgure. The refraction index\nof the material from which the sheet is made\nn = 1.47.\ni) (4 points)Determine the pitch d of the Fresnel\nprism (see ﬁgure for the deﬁnition of the pitch).\nii) (4 points)Determine the angle α of the prism.\niii) (4 points) Assuming that in the range of vis-\nible light, the refraction index n = n(λ) of the\nFresnel prism material is a linear function of\nwavelength λ, determine the chromatic disper-\nsion dn\ndλ."
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "text": "5. MAGNETIC BILLIARD (9 points) — Jaan\nKalda. Consider two absolutely elastic dielec-\ntric balls of radius r and mass m one of which\ncarries isotropically distributed charge −q, and\nthe other — +q. There is so strong homogen-\neous magnetic ﬁeld B, parallel to the axis z, that\nelectrostatic interaction of the two charges can\nbe neglected; neglect also gravity and friction\nforces. The ﬁrst ball (negatively charged) moves\nwith speed v and collides with the second ball\nwhich had been resting at the origin. The colli-\nsion is central, and immediately before the im-\npact, the velocity of the ﬁrst ball was parallel to\nthe x-axis.\ni) (1 point)What is the speed of the second ball\nimmediately after the collision?\nii) (2 points)Sketch the trajectories of the centres\nof the both balls during the subsequent motion.\niii) (3 points)What is the average velocity (mag-\nnitude and direction) of the balls during their\nsubsequent motion?\niv) (3 points) Consider the same situation as be-\nfore, except that the there are three diﬀerences\nin the assumptions: the both balls have now\nidentical positive charge +q; electrostatic repul-\nsion between the balls is no longer negligible;\nthe collision is not necessarily central (but the\nballs move still at the same value of z so that\nthe collision will not induce any motion in the\ndirection of the z-axis). Let Pi denote the point\nwhere the surfaces of the two balls are in contact\nduring the i-th collision. What is the maximal\ndistance between Pi and P j (maximize over all\nthe values i,j = 1,...∞, and over all the impact\nparameters of the collisions for ﬁxed values of B,"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "text": "m, and q)?\n6. CUBE (5 points) — Taavet Kalda. A laser\npointer of power P is directed at a glass cube.\nThe refractive index of the cube is n. The surface\nof the cube has anti-reﬂective coating so that\nthere is no partial reﬂection when light travels\nfrom one medium to the other. The speed of\nlight is c.\ni) (3 points) What is the maximum force by\nwhich the laser pointer can push the cube if the\nlaser needs to be kept parallel to one of the faces\nof the cube (this means that the laser beam can\npropagate only in a two-dimensional plane)?\nii) (2 points) What is the maximum force by\nwhich the laser pointer can push the cube if the\norientation of the laser can be arbitrary?\n7. LCR-CIRCUIT (5 points) — Jaan Kalda.\nConsider the circuit shown in the ﬁgure."
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "text": "i) (2 points) Draw a phasor diagram for this cir-\ncuit showing the voltage vectors between the fol-\nlowing nodes: VAD, VDB, VAB, VAE, VEB, VAF,\nand VFB.\nii) (3 points) The voltages between the nodes D,\nE, and F are know to have the following values:\nVDE = 7V, VDF = 15V, and VEF = 20V; what\nis the value of the input voltage V0?\n8. AIR IN A SUBMARINE (6 points) — Johan\nRuneson, Jaan Kalda. A submarine of unknown\nnationality is travelling near the bottom of the\nBaltic sea, at the depth of h = 300m. Its interior\nis one big room of volume V = 10m3 ﬁlled with\nair (M = 29g/mol) at pressure p0 = 100kPa and\ntemperature t0 = 20◦C. Suddenly it hits a rock\nand a large hole of area A = 20cm2 is formed at\nthe bottom of the submarine. As a result, the\nsubmarine sinks to the bottom and most of it\nis ﬁlled fast with water, leaving a bubble of air\nat increased pressure (no air escapes the submar-\nine). The density of water ρ = 1000kg/m3 and\nfree fall acceleration g = 9.81m/s2. Molar heat\ncapacitance of air by constant volume cV = 5\n2 R,\nwhere R = 8.31J/Kmol is the gas constant.\ni) (2 points) What is the volume rate (m3/s) at\nwhich the water ﬂows into the submarine im-\nmediately after the formation of the hole?\nii) (2 points)The ﬂow rate is so large that the sub-\nmarine is ﬁlled with water so fast that the heat\nL.\nexchange between the gas and the water can be\nneglected (this applies also to the next question).\nWhat is the volume of the air bubble once water\nﬂow has stopped?\niii) (2 points) The water stream rushing into"
+    },
+    {
+      "page": 2,
+      "column": 4,
+      "text": "the submarine creates turbulent water inside the\nsubmarine; what is the total kinetic energy of\nthis water turbulence (which later ends up being\ndissipated as heat), once the inﬂow has stopped\ndue to equalized pressures?\n9. BLACK BOX (?? 1point) — Jaan Kalda, Mi-\nhkel Heidelberg. The black box has three terminal\nwires: “blue”, “black” and “white”, and contains\nin a star conﬁguration: a battery, a capacitor, an\ninductor in series with a diode. You may con-\nsider the diode to be ”ideal” — it conducts cur-\nrent perfectly one way and not at all the other\nway. You may neglect internal resistance of the\nbattery and capacitor, but the inductor has con-\nsiderable internal resistance. The multimeter’s\ninternal resistance when measuring voltages is\nRm = 10MΩand it displays a new reading every\nt = 0.4s.\ni) (3 points)Draw the electrical circuit that is in-\nside the black box. Motivate your solution with\nmeasurements.\nii) (1 point) Determine the electromotive force\nof the battery.\niii) (1 point)Determine the internal resistance of\nthe inductor.\niv) (3 points) Estimate the value of the capacit-\nance C.\nv) (3 points)Estimate the value of the inductance\nEquipment:\nBlack box, multimeter, stop-\nwatch."
+    },
+    {
+      "page": 3,
+      "column": 1,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 3,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "column": 4,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "column": 1,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "column": 2,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "column": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "column": 4,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 1,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 2,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 3,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "column": 4,
+      "text": ""
+    }
+  ]
+}
