@@ -1,0 +1,17 @@
+import xml.etree.ElementTree as ET
+import workflow as w
+c=w.connect();u=c.execute('select screening_unit_id from units where source_file_id=3128 and problem_number=?',('29',)).fetchone()[0]
+urls={'2011':'https://upload.wikimedia.org/wikipedia/commons/archive/9/9d/20141031174254%21Comparison_US_standard_atmosphere_1962.svg','current':'https://upload.wikimedia.org/wikipedia/commons/9/9d/Comparison_US_standard_atmosphere_1962.svg?download=1'}
+common={'original_statement_url':'http://en.wikipedia.org/wiki/Speed_of_sound','file_description_url':'https://commons.wikimedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg','author':'Cmglee / CMG Lee','license':'CC BY-SA 3.0','license_url':'https://creativecommons.org/licenses/by-sa/3.0/','changes':'Original SVG bytes unmodified. Local PNGs are inspection renders only.','validation_status':'XML parsed; both original chart variants rendered and actual temperature/sound-speed axes inspected.'}
+for version,url in urls.items():
+ p=w.ROOT/f'references/ortvay_2012_q29_atmosphere_{version}.svg';part=p.with_suffix('.svg.part');assert not p.exists()
+ b=part.read_bytes();ET.fromstring(b);assert b'Comparison' in b and b'Temperature' in b;part.replace(p)
+ purpose=f'Statement-linked altitude/temperature/sound-speed graph, {version} version. Cmglee, CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/; original bytes unchanged. The pre-2014 revision retains the chart available in 2012; current 2015 revision corrects a temperature-axis scale error. Both variants preserved explicitly, not silently substituted.'
+ ref=dict(reference_id=f'ortvay_2012_q29_atmosphere_{version}',screening_unit_id=u,url=url,local_path=p.relative_to(w.ROOT).as_posix(),sha256=w.digest(p),byte_size=p.stat().st_size,page_count=None,purpose=purpose,acquired_at=w.now())
+ c.execute('insert into screening_references values (?,?,?,?,?,?,?,?,?)',tuple(ref.values()))
+ w.writejson(p.with_suffix('.svg.provenance.json'),{**ref,**common,'history_note':'Archive URI timestamp is when the prior revision was archived in October 2014; Commons identifies that revision as 26 November 2011. Current revision 25 August 2015 fixes temperature labels.'})
+p=w.ROOT/'references/ortvay_2012_q29_graph_attribution.txt'
+w.writetext(p,'Comparison US standard atmosphere 1962\nAuthor: Cmglee (CMG Lee)\nSource: https://commons.wikimedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg\nLicense: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/\nBoth preserved SVGs retain original downloaded bytes.\nThe original contest linked the Speed of sound Wikipedia page. The 2011 revision was available in 2012; the 2015 revision corrected temperature-axis labels. Use the corrected scale for quantitative work and document which variant was used. These are the original linked chart versions, not an unrelated atmosphere model.\n')
+ref=dict(reference_id='ortvay_2012_q29_graph_attribution',screening_unit_id=u,url=common['file_description_url'],local_path=p.relative_to(w.ROOT).as_posix(),sha256=w.digest(p),byte_size=p.stat().st_size,page_count=None,purpose='Attribution/license and explicit historical versus corrected-axis guidance accompanying both statement-linked original chart variants.',acquired_at=w.now())
+c.execute('insert into screening_references values (?,?,?,?,?,?,?,?,?)',tuple(ref.values()));c.commit();w.writejson(p.with_suffix('.txt.provenance.json'),{**ref,**common})
+print('Preserved two validated original chart revisions and required attribution.')
