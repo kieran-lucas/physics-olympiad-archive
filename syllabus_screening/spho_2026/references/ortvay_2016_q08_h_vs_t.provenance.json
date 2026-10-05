@@ -1,0 +1,11 @@
+{
+  "reference_id": "ortvay_2016_q08_h_vs_t",
+  "screening_unit_id": "raw::5674",
+  "source_url": "https://oroszl.web.elte.hu/szamprob/notebooks/Package05/data/BAUMGARTNER/h_vs_t",
+  "sha256": "cd98ebb65455299c6caa7ed7a595be992e79ef4710d8ae92070b7ccffe45cd7f",
+  "byte_size": 4289,
+  "page_count": null,
+  "validation_status": "finite_two_columns_strictly_increasing_time",
+  "purpose": "Essential source-linked Baumgartner numerical h_vs_t dataset for Q8 physical p3. 324 finite samples. Original headerless bytes retained; units not stated in file. Velocity km/h interpretation is inferred by consistency with height derivative, not inserted into data.",
+  "acquired_at": "2026-10-04T01:44:57.045322+00:00"
+}

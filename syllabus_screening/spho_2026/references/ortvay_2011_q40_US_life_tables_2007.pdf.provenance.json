@@ -1,0 +1,15 @@
+{
+  "reference_id": "ortvay_2011_q40_US_life_tables_2007",
+  "screening_unit_id": "raw::5868",
+  "url": "https://www.cdc.gov/nchs/data/nvsr/nvsr59/nvsr59_09.pdf",
+  "local_path": "references/ortvay_2011_q40_US_life_tables_2007.pdf",
+  "sha256": "c57790f4ded49d9d92eb26afe7139a18ea48c62b5943e916b910c0c959a8ce8c",
+  "byte_size": 1536697,
+  "page_count": 61,
+  "purpose": "Real life-table data available from the original statement-linked CDC Life Tables portal: US 2007 period table report published 28 September 2011. Complete total-population age/death/survival table spans physical pp8-9, actually read and rendered. Historical 2007 dataset explicitly chosen, not contemporary individual mortality guidance.",
+  "acquired_at": "2026-10-04T02:21:06.697077+00:00",
+  "original_statement_url": "http://www.cdc.gov/nchs/products/life_tables.htm",
+  "verified_portal": "https://www.cdc.gov/nchs/products/life_tables.htm",
+  "validation_status": "61 nonencrypted readable pages; report title/year verified; actual total-population complete age table pp8-9 inspected, including terminal 100+ category.",
+  "selection_note": "Statement allows real US/country tables without fixing a year. This official report was published before the 2011 contest. Data choice remains explicit; no private account or other dataset needed."
+}

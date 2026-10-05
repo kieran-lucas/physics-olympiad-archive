@@ -1,0 +1,12 @@
+{
+  "reference_id": "ortvay_2017_q36_arxiv_1605.01087v3",
+  "screening_unit_id": "raw::5662",
+  "source_url": "https://arxiv.org/pdf/1605.01087v3",
+  "source_statement": "Ortvay 2017 Q36 physical p10 explicitly links arXiv:1605.01087",
+  "acquired_at": "2026-10-04T01:37:50.256673+00:00",
+  "sha256": "9165c7769adea5e6a03220d55cf74a30a09fad4eee2166eb98c53c4844745b12",
+  "byte_size": 3447731,
+  "page_count": 9,
+  "validation_status": "pdf_opened_all_pages_valid",
+  "purpose": "Problem-supplied quantum model and scalar expectation-value ODEs in Sections II-III and Appendix; reviewed before screening."
+}

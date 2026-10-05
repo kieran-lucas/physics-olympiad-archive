@@ -1,0 +1,12 @@
+{
+  "reference_id": "us2022_collision_2022-final_windows",
+  "statement_file_id": 1934,
+  "statement_repository_url": "https://github.com/USPhysicsTeam/2022-future-circular-collider",
+  "release_tag": "2022-final",
+  "release_published_at": "2022-09-14T21:41:05Z",
+  "url": "https://github.com/USPhysicsTeam/2022-future-circular-collider/releases/download/2022-final/collision-black-box-windows.exe",
+  "sha256": "3f766ee0f0a83c20daabb3870ae09510ab00704a86a644483bca2982bc4434e5",
+  "byte_size": 999424,
+  "validation": "MZ/PE signature and release asset byte size match",
+  "executable_run": false
+}

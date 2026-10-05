@@ -1,0 +1,23 @@
+{
+  "selected_units": 8019,
+  "verified_distinct_selected_questions": 8010,
+  "unique_physical_files": 2926,
+  "raw_acquisition_files": 2908,
+  "source_linked_reference_files": 18,
+  "source_linked_reference_associations": 19,
+  "byte_size": 1835051644,
+  "hardlinks": 2926,
+  "copies": 0,
+  "hash_mismatches": 0,
+  "selection_is_complete": false,
+  "scope_selection_complete": true,
+  "inventory_complete": true,
+  "source_unavailable_count": 10,
+  "archival_validation_issues": [
+    "PDF repair required 2680",
+    "PDF repair required 2682",
+    "PDF repair required 2683",
+    "PDF repair required 2686",
+    "PDF repair required 2688"
+  ]
+}

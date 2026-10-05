@@ -1,0 +1,1216 @@
+PAGE 1
+A quantum optical model for the dynamics of high harmonic generation
+´Akos Gombk¨ot˝o,1 Attila Czirj´ak,1, 2 S´andor Varr´o,3, 2 and P´eter F¨oldi1, 2
+1Department of Theoretical Physics, University of Szeged, Tisza Lajos k¨or´ut 84, H-6720 Szeged, Hungary
+2ELI-ALPS, ELI-HU Non-proﬁt Ltd., Dugonics t´er 13, H-6720 Szeged, Hungary
+3Wigner Research Centre for Physics, Konkoly-Thege M. ´ut 29-33, H-1121 Budapest, Hungary
+We investigate a two-level atom in the ﬁeld of a strong laser pulse. The resulting time-dependent
+polarization is the source of a radiation the frequency components of which are essentially harmonics
+of the driving ﬁeld’s carrier frequency. The time evolution of this secondary radiation is analyzed in
+terms of the expectation values of the photon number operators for a large number of electromag-
+netic modes that are initially in the vacuum state. Our method is based on a multimode version
+of the Jaynes-Cummings-Paul model and can be generalized to diﬀerent radiating systems as well.
+We show, that after the exciting pulse, the ﬁnal distribution of the photon numbers is close to the
+conventional (Fourier transform-based) power spectrum of the secondary radiation. The details of
+the high harmonic spectra are also analyzed, for many-cycle excitations a clear physical interpreta-
+tion is given in terms of the Floquet quasi-energies. A ﬁrst step towards the determination of the
+photon statistics of the HHG modes reveals states with slightly super-Poissonian distribution.
+I.
+INTRODUCTION
+High harmonic generation (HHG) [1–4] is a strongly
+nonlinear eﬀect that is observed in several state of the
+art experiments, using gaseous targets (see e.g. [5] for a
+review), plasma surfaces [6] and – more recently – solid
+state samples as well [7].
+One of the most important
+applications is the generation of attosecond pulses [8, 9],
+which can monitor or induce physical processes on an ex-
+perimentally unprecedented time scale. Therefore, deep
+understanding of the physical mechanisms underlying the
+phenomenon of HHG is of crucial importance.
+Although HHG is an inherently high-ﬁeld eﬀect, due
+to the low eﬃciency of the process, the intensities of the
+generated harmonics are by orders of magnitude lower
+than that of the exciting ﬁeld. Therefore, the usual as-
+sumption [10, 11] that the exciting ﬁeld (with high pho-
+ton numbers) not necessarily needs to be quantized, can
+be veriﬁed, but the same does not hold for the weak sec-
+ondary radiation.
+Motivated by this, in the following
+we introduce a model where a quantum system interacts
+with a strong, classical electromagnetic ﬁeld as well as
+with quantized radiation modes that are initially in the
+vacuum state.
+The main features of the gas HHG spectra are well
+described by the so-called ”three-step” model [10], con-
+sisting of the emission of the single active electron, its
+motion in the laser ﬁeld and recombination with the par-
+ent ion. The amount of energy the electron gained during
+this process is assumed to be transferred into high har-
+monic radiation. In this picture the continuum plays a
+substantial role, and the emerging exponential integrals
+can be performed both in the adiabatic [11] and in the
+nonadiabatic [12] cases by means of saddle point approx-
+imation.
+On the other hand, the appearance of the HHG it-
+self does not require the presence of the continuum.
+As studies with driven two-level systems (having only
+bound states) show [13–16], the qualitative properties
+of the HHG spectra can be calculated analytically us-
+ing traditional quantum optical notions like e.g., dressed
+states.
+An appropriately generalized version of the
+Jaynes-Cummings-Paul model has also been used to de-
+scribe high-ﬁeld, multiphoton processes [17–19].
+Al-
+though a strong analogy can be drawn between the dy-
+namics of a driven two-level system and the three-step
+model [20], for the realistic description of HHG in gas
+samples (with the obvious involvement of continuum
+states), the latter one became more widely used.
+For
+solid state systems [7], on the other hand, only bound
+states get populated, and even the two-level approxima-
+tion can be valid for quantum wells in semiconductor
+heterostructures [21].
+Motivated by this, we use a two-level system as a model
+for the radiating quantum system (so that the resulting
+approach will be similar to that used in driven spin-boson
+models [22] or for the description of resonance ﬂuores-
+cence [23]). Following the tradition, we keep using the
+term ”atom”, although as we have seen above, solid state
+systems can be described by this model more appropri-
+ately. The simplicity of the two-level system helps under-
+standing the dynamics of the HHG, and – as we shall see
+– certain important aspects of our approach can be eas-
+ily generalized to more complex high harmonic sources
+as well. Let us emphasize that although many important
+results were obtained using a two-level system as a model
+– even in the context of HHG (see e.g. [13–16]) – we are
+not aware of any work focusing on the quantum optical
+description of the high harmonic modes. Additionally,
+the focus is usually on the spectrum of the secondary
+radiation, while our model allows monitoring the time
+evolution of the photon numbers corresponding to diﬀer-
+ent modes of the emitted electromagnetic ﬁeld.
+The current paper is organized as follows. In Sec. II we
+introduce the model. The time evolution of the photon
+number expectation values is presented in Sec. III, and
+the corresponding HHG spectra are analyzed in Sec. IV.
+We discuss the photon statistics of the high harmonic
+modes in Sec. V, and draw the conclusions in Sec. VI.
+arXiv:1605.01087v3  [quant-ph]  12 Sep 2016
+
+PAGE 2
+2
+II.
+MODEL
+Let us consider the following Hamiltonian:
+H(t) = Ha + Hm + Ham + Hex(t),
+(1)
+where the ﬁrst term describes a two-level atom and the
+second one corresponds to quantized radiation modes:
+Ha = ℏω0
+2 σz,
+Hm =
+X
+n
+ℏ˜ωna†
+nan,
+(2)
+while their interaction [without rotating wave approxi-
+mation (RWA)] can be written in the following form:
+Ham =
+X
+n
+ℏΩn
+2 (an + a†
+n)σx,
+(3)
+where σx and σz denote the usual Pauli matrices. Note
+that Ham = −DE, where the atomic dipole moment op-
+erator is given by D = dσx (for the sake of simplicity, the
+matrix element d is chosen to be real), and the quantized
+electric ﬁeld is a sum of operators En =
+q
+ℏ˜ωn
+ϵ0V (an + an†)
+(with V denoting the quantization volume). This means
+that Ωn = 2d
+q
+ℏ˜ωn
+ϵ0V . Additionally, we assume a strong,
+pulsed excitation that is described by a classical, time-
+dependent electric ﬁeld:
+Hex(t) = −DE(t) = −dσxE(t) = −ℏΩ(t)
+2
+σx,
+(4)
+where
+E(t) = E0 sin2
+
+π t
+τ
+
+cos(νt),
+(5)
+if 0 < t < τ, and E(t) = 0 otherwise. T = 2π/ν will
+be used to denote the cycle time of the carrier wave.
+The initial state of the system will be assumed to be a
+tensorial product state,
+|Ψ(t = 0)⟩am = |φ⟩m0|ψ⟩a0,
+(6)
+where the modes at t = 0 are in their vacuum state
+|φ⟩m0 = |0, 0, . . . 0⟩.
+(7)
+Note that for semiconductor quantum dots – to which our
+model is most directly applicable – dipole moment ma-
+trix elements d range between 1 to 100 Debye, depending
+mainly on the size of the dots and their constituent mate-
+rials. For practically resonant near infrared excitations,
+the condition E0d = ℏν means peak ﬁeld amplitudes E0
+of the order of GV/m, which can be realized relatively
+easily using currently available Ti:Sapphire technology.
+The corresponding pulse durations are in the femtosec-
+ond range.
+The dynamics induced by the Hamiltonian (1) practi-
+cally cannot be solved without approximations. Let us
+summarize the general physical and technical properties
+of the model, which can serve as basis of the approxi-
+mative methods. Using Eq. (7) and assuming that the
+atomic system is initially in its ground state, if there is
+no external driving (i.e., |ψ⟩a0 = |g⟩, E0 = 0), there
+is essentially no dynamics.
+On the other hand, with
+|ψ⟩a0 = |e⟩, there are interfering vacuum Rabi oscilla-
+tions that can serve as a simple model for spontaneous
+emission: The excitation of the atomic system is dis-
+tributed among the degrees of freedom of the radiation
+modes. This is the point where the question which modes
+we take into account becomes important. In principle,
+the sum in Eq. (2) is inﬁnite. However, when focusing on
+the process of HHG, only a ﬁnite number of harmonics
+(a few times ten) appear, so only modes with frequencies
+roughly in the range of 0–100 ν play relevant role. Practi-
+cally (from the viewpoint of numerical feasibility), a few
+thousand modes can be taken into account in this inter-
+val. As a consequence, the initially excited atomic state
+will not monotonically decay: when oscillations with the
+ﬁnite number of Rabi frequencies Ωn rephase, we would
+observe a revival process, that does not appear in free
+space. Technically, this allows us the determination of
+the time scale on which our model with a ﬁnite number
+of modes describes the process appropriately: Since for
+usual excitations, spontaneous emission plays negligible
+role (the lifetimes of the atomic levels can be orders of
+magnitude longer than the duration of the HHG process),
+our theoretical description is valid until the quantized
+modes do not cause signiﬁcant atomic decay. This limit
+can be identiﬁed using our model based on expectation
+values (see the next section), and the parameters found
+to be valid for that calculation will be used later on to
+calculate e.g., photon statistics.
+As a ﬁnal, general note, let us mention that neither
+speciﬁc mode functions, nor the density of modes were
+taken explicitly into account. In an actual experiment,
+these issues must be relevant, but it is not inconsistent
+to neglect them on the level of the model of two-level
+atoms. Additionally, although a complete description of
+the HHG signal emerging from a given sample requires
+taking propagation eﬀects also into account (see e.g. [24]),
+here we focus on the single-atom response.
+III.
+TIME EVOLUTION OF THE PHOTON
+NUMBER EXPECTATION VALUES
+Our ﬁrst approach is based on the Heisenberg equa-
+tions of motion for both the atomic and electromagnetic
+ﬁeld operators. As one can check easily, one cannot ob-
+tain an exact closed set of dynamical equations, since the
+time derivatives of two-operator products involve three-
+operator products, whose time derivatives contain terms
+being the products of four operators, etc. Because of this
+hierarchy, we have to restrict ourselves to expectation val-
+ues and – at some point – introduce a factorization that
+is based on physical considerations.
+
+PAGE 3
+3
+The simplest Heisenberg equations of motion read:
+d
+dtσx = ω0σy,
+(8)
+d
+dtσy = −ω0σx + σz
+"
+Ω(t) +
+X
+n
+Ωn
+ an + a†
+n
+
+#
+, (9)
+d
+dtσz = −σy
+"
+Ω(t) +
+X
+n
+Ωn(an + a†
+n)
+#
+,
+(10)
+d
+dtan = −i
+
+˜ωnan + Ωn
+2 σx
+
+,
+(11)
+d
+dtNn = d
+dta†
+nan = iΩn
+2
+ an −a†
+n
+
+σx.
+(12)
+One can assume already at this point that the expecta-
+tion values of the products of atomic an ﬁeld operators
+factorize (e.g., ⟨σzan⟩= ⟨σz⟩⟨an⟩), but in this case the
+inﬂuence of the photon number operators on the atomic
+system’s time evolution – which should be weak – is ex-
+actly zero. Additionally, since the photon annihilation
+operators’ dynamics are governed by a ”classical” quan-
+tity (the expectation value of the dipole moment), the
+resulting photon statistics is necessarily Poissonian (i.e.,
+the high harmonic modes are in coherent states).
+FIG. 1. Central panel: the time evolution of the expectation
+values of the photon number operators ⟨Nn⟩as a function of
+the frequency of the modes ˜ωn (measured in units of ν). The
+time dependence of the resonant exciting pulse (ν = ω0) can
+be seen in the left panel, while the ﬁnal (t = 12 T) distribution
+of the photon number operator expectation values is shown
+on the top.
+The next level of equations of motion can be obtained
+by assuming that the dynamical variables are the fol-
+lowing expectation values of Hermitian operators that
+appear in Eqs. (8)-(12):
+U +
+n =
+
+σx(an + a†
+n)
+
+,
+U −
+n = i
+
+σx(an −a†
+n)
+
+(13)
+and similarly
+V ±
+n = (i)(1∓1)/2 
+σy(an ± a†
+n)
+
+,
+(14)
+W ±
+n = (i)(1∓1)/2 
+σz(an ± a†
+n)
+
+,
+(15)
+which are analogous to the ”phonon assisted” density ma-
+trix elements that appear e.g., in semiconductor Bloch-
+equations [25]. Using U = ⟨σx⟩, V = ⟨σy⟩, W = ⟨σz⟩and
+⟨Nn⟩, a closed set of dynamical equations can be obtained
+(see the Appendix), provided one neglects cross correla-
+tions of diﬀerent modes. (More precisely, with A being
+either U, V or W, we set ⟨Abncm⟩= 0, if i) n̸ = m, and ii)
+the mode operators bn and cn are both creation or both
+annihilation operators. We will verify this assumption in
+Sec. V.)
+FIG. 2. The same as Fig. 1, but for a longer, resonant exciting
+pulse (compare the left panels).
+Technically, this approach, with N modes being taken
+into account, means following the dynamics of 7N + 3
+real variables.
+According to our experience, for most
+of our results, the frequency interval [0, 30ν] with N =
+3000 together with the realistic assumption of Ωn/ω0 =
+0.001
+p
+˜ωn/ω0 satisfy the requirement mentioned at the
+end of the previous section: even an exciting pulse as
+long as few hundred optical cycles is much shorter than
+the time scale on which the quantized modes observably
+modify the atom’s dynamics. This means that the num-
+ber of modes that we take into account has negligible
+inﬂuence on the time evolution of the atom, it is mainly
+the resolution of the spectra that is determined by the
+value of N. By requiring 100 frequency values (points
+on the graphs) in an interval of ”length” ν, the value
+of N = 3000 means covering the interval of [0, 30ν] suf-
+ﬁciently densely. For most of the cases we considered,
+this is appropriate, since no harmonics of higher order
+than 30 appear. However, for the strongly detuned ex-
+citation shown in Fig. 3(d), there are roughly ten times
+more observable harmonics and the value of N had to be
+increased correspondingly.
+As an indication of the correctness of the factorization
+described above, let us mention that without excitation
+(E0 = 0), the initial conditions ⟨Ni⟩= nδi0 (where ˜ω0 =
+ω0) lead to Rabi ﬂopping between mode 0 and the atomic
+system with a frequency very close to Ω0
+√n + 1.
+The time evolution of the photon number expectation
+
+PAGE 4
+4
+values is shown in Figs. 1 and 2. As we can see, the longer
+the exciting pulse is, the more pronounced peaks can be
+observed. As one can expect, these peaks appear around
+integer multiples of the carrier frequency of the exciting
+pulse.
+For long enough pulses (see Fig. 2) and higher
+harmonic orders, a signiﬁcant, qualitative diﬀerence can
+be perceived between the consecutive peaks: the ones at
+odd multiples of ν are considerably broader than those
+corresponding to even harmonics. We will return to this
+point in the next section.
+10-7
+10-5
+10-3
+10-1
+(a)
+ν/ω0=1.1
+10-7
+10-5
+10-3
+10-1
+(b)
+ν/ω0=1.0
+10-7
+10-5
+10-3
+10-1
+2
+4
+6
+8
+10 12 14 16 18 20 22 24 26 28
+harmonic order
+(c)
+ν/ω0=0.9
+10-7
+10-5
+10-3
+10-1
+20
+40
+60
+80
+100
+120
+140
+160
+180
+harmonic order
+(d)
+ν/ω0=0.1
+FIG. 3. The ﬁnal (t > τ) distribution of the photon num-
+ber expectation vales for excitations with diﬀerent frequencies
+(see the legend). The time evolution of the exciting pulses are
+the same in all subﬁgures as the one shown in the left panel
+of Fig. 2, provided we measure time in units of T. (Without
+this scaling, the duration of the pulse corresponding to the
+top subﬁgure is the shortest.)
+The time instants when the peaks corresponding to the
+various harmonic orders appear are related to the pres-
+ence of suﬃciently strong excitation: at the beginning
+of the pulse, when the envelope of the exciting electric
+ﬁeld is far from its maximum, lower order harmonics ap-
+pear. The higher order ones become visible only around
+the maximum of the pulse.
+Note that – according to
+our calculations (not shown here) – for a simply sinu-
+soidally oscillating excitation, the transient time interval
+is practically the same for all harmonics, in other words,
+the corresponding peaks become observable almost at the
+same time.
+Fig. 3 shows the eﬀect of detuning on the ﬁnal (t > τ)
+distribution of the photon number expectation values. As
+we can see, not only the internal structure and height of
+the peaks, but even the number of the observable har-
+monics strongly depends on the frequency of the exci-
+tation.
+As we shall see in the next section, all these
+properties can be understood in terms of the Floquet
+quasi-energies and the corresponding states.
+Note that the features of typical HHG spectra can be
+recognized in Fig. 3: the heights of the peaks correspond-
+ing to low order harmonics is decreasing fast, then we see
+a ”plateau” with comparable peak heights and ﬁnally a
+cutoﬀ, i.e., the disappearance of the pronounced peaks.
+However, focusing on the details, and comparing these
+spectra to the high harmonic emission spectra computed
+for real noble gas atoms (i.e.
+the real single atom re-
+sponse) [26] shows certain qualitative diﬀerences. Close
+to resonance, the peaks of the two-level atom’s spectrum
+emerge from a smooth background, which is mostly miss-
+ing from the real single atom response. This is more ex-
+plicit around the cutoﬀregion, which means simply the
+disappearance of the pronounced peaks in the case of the
+two-level atom, while it is a smooth but substantial drop
+to much lower spectral amplitude in the real single atom
+response. Although the cutoﬀin the strongly detuned
+case [Fig. 3(d)] seems more similar to this real single
+atom spectrum, this is only apparent: the cutoﬀcon-
+sists of densely placed peaks in the two-level case. These
+diﬀerences are due to the diﬀerent physical mechanisms
+being responsible for the process of HHG for a real atom
+and a two-level one.
+As we shall see in the next section, the ﬁnal photon
+number distributions shown in Fig. 3 are very close to
+the HHG spectra that can be obtained in the usual way,
+i.e., by calculating the power spectrum of the second time
+derivative of the dipole moment [27]. The dependence of
+these power spectra on the excitation parameters were
+studied extensively, e.g., analytic formulas for the plateau
+and the cutoﬀfrequency were obtained in Refs. [13–15].
+Our results show good agreement with these analytic esti-
+mations. Therefore, instead of investigating these details
+further, we turn to the interpretation of the spectra and
+the analysis of the corresponding photon statistics.
+IV.
+PROPERTIES OF THE HHG SPECTRA
+As we can see in Fig. 3, HHG spectra show an alter-
+nating sequence of narrow and broader peaks. For long
+pulses, this eﬀect can be understood via the Floquet anal-
+ysis [28] of the problem. Note that although this idea
+itself can be useful for more complex radiating systems
+as well (with obviously increasing computational costs of
+performing the analysis, see e.g. Ref. [29] for early re-
+sults related to atomic hydrogen), this section is speciﬁc
+to two-level systems. (In other words, e.g., neither the
+internal structure nor the heights of the HHG peaks can
+be transferred to diﬀerent systems.)
+In order to see the predictions of Floquet’s theory, let
+
+PAGE 5
+5
+ 0.9
+ 0.95
+ 1
+ 1.05
+ 1.1
+dE0/−hω0
+ 15
+ 15.5
+ 16
+ 16.5
+ 17
+ν/ω0
+ 0
+ 0.05
+ 0.1
+ 0.15
+ 0.2
+ 0.25
+ 0.3
+ 0.35
+FIG. 4. The smallest diﬀerence between two nonequivalent
+Floquet quasi-energies (δϵ = |ϵ1 −ϵ2|, measured in units of ν)
+as a function of the amplitude and frequency of the exciting
+ﬁeld. Note that in this case, by construction, the excitation is
+assumed to be monochromatic with an amplitude of E0. The
+white circle denotes parameters corresponding to Fig. 5.
+us consider a sinusoidal exciting ﬁeld
+E′(t) = E0 sin(νt),
+(16)
+which results in a periodic Hamiltonian
+H′(t + T) = Ha −DE′(t + T) = H′(t),
+(17)
+where the weak corrections Hm and Ham are neglected,
+and T = 2π/ν. According to the general theorem [28, 30],
+H′(t) has ”time dependent eigenstates”
+|φk(t)⟩= e−iϵkt X
+n
+ck
+ne−inνt|ϕ⟩k
+n,
+(18)
+where ϵk are called Floquet quasi-energies (now writ-
+ten in units of frequency).
+There are only two of the
+states above that are not equivalent (and these states
+are orthogonal).
+(The formulae ϵk →˜ϵk = ϵk + mν,
+ck
+n →˜ck
+n = ck
+n−m deﬁne the equivalence, resulting in
+physically undistinguishable states |φk(t)⟩and
+˜φk(t)
+E
+.)
+Let us use indices 1 and 2 for the two nonequivalent states
+the quasi-energies of which have the smallest magnitude.
+This means that δϵ = |ϵ1 −ϵ2| < ν. The dependence of δϵ
+on the amplitude E0 and the detuning ∆= ω0−ν can be
+seen in Fig. 4. (Note that if we applied RWA, δϵ, which is
+essentially the Rabi frequency, would scale linearly with
+E0 and change as δϵ(∆) =
+p
+(δϵ(0))2 + ∆2.)
+Let us assume that the state of the atomic system at
+t = 0 can be expanded as
+|Ψ(0)⟩= α|φ1(0)⟩+ β|φ2(0)⟩.
+(19)
+The time dependence of the expectation value of the
+dipole moment operator reads
+⟨D⟩(t) = ⟨Ψ(t)|D|Ψ(t)⟩=
+(20)
+= |α|2⟨φ1(t)|D|φ1(t)⟩+ |β|2⟨φ2(t)|D|φ2(t)⟩
++ αβ∗⟨φ2(t)|D|φ1(t)⟩+ α∗β⟨φ1(t)|D|φ2(t)⟩,
+and – as we can check easily – contains frequency compo-
+nents nν (the ﬁrst two terms on the rhs of the equation
+above) and nν ± δϵ (the last two terms). Additionally,
+the symmetry of the time periodic Hamiltonian (17) im-
+plies [31] that c1
+n is nonzero only for odd n, while the fre-
+quency components of |φ2(t)⟩can be written as ϵ2 + mν,
+with m being even.
+Combining these, we obtain that
+for inﬁnite, periodic excitation, the Fourier spectrum of
+⟨D⟩(t) contains discrete peaks that are situated at mν
+for odd values of m, and at mν ± δϵ when m is even. In
+other words, this Fourier spectrum – as well as that of
+d2⟨D⟩/dt2 – is an alternating sequence of single and dou-
+ble peaks, which is in qualitative agreement with Figs. 2
+and 3. Let us emphasize that the qualitative diﬀerence
+between the HHG peaks corresponding to odd and even
+harmonics has symmetry related origin, similarly to the
+case of HHG spectra in gas samples [1].
+An additional remarkable point to be noticed is the ap-
+pearance of the expansion coeﬃcients α and β in Eq. (20).
+This fact directly shows that the state of the atomic sys-
+tem at t = 0 plays an important role in determining the
+relative heights of the harmonic peaks. Speciﬁcally, when
+α = 0 (or β = 0), the peaks corresponding to even (odd)
+harmonics are completely absent. Note that similar con-
+sequences of the atomic coherence have been pointed out
+e.g. in Refs. [32, 33].
+The ﬁnite width of the HHG peaks in Fig. 3 is due to
+the ﬁnite duration of the exciting pulse, as well as to the
+fact that the envelope of the exciting pulse is not con-
+stant. (See Fig. 4 for the sensitivity of δϵ on E0.) So in
+order to be able to perform a quantitative comparison
+between the predictions of the Floquet analysis and the
+numerical results, an exciting pulse with an envelope that
+is constant on a relatively long time interval is needed.
+To this end, let us relax the waveform (5) and consider a
+simple sinusoidal excitation the duration of which is 100
+optical cycles, so that E(t) reaches its maximum dur-
+ing the ﬁrst 5 cycles, and decays to zero during the last
+5 cycles (see the insets in Fig. 5). We compare a rep-
+resentative HHG spectrum obtained using the model of
+the previous section with results of the Floquet analy-
+sis and the Fourier transform based power spectrum of
+d2⟨D⟩/dt2 (which is usually considered as the source of
+the secondary radiation [27]) in Fig. 5. As we can see,
+the positions of the peaks are practically the same for the
+Floquet estimation and the numerical result, and even
+the relative heights of the peaks are qualitatively similar.
+Additionally, there are remarkable similarities between
+the spectra that are based on the photon number expec-
+tation values and the Fourier transform of d2⟨D⟩/dt2.
+Finally, let us return to Fig. 3.
+As we can see, for
+”blue-detuned” excitation (i.e., when ν > ω0), there are
+considerably less HHG peaks that are visible than for
+
+PAGE 6
+6
+-10
+ 10
+ 0
+ 50
+ 100
+-10
+ 10
+ 0
+ 50
+ 100
+10-11
+10-10
+10-8
+10-7
+10-6
+10-4
+10-3
+10-2
+HHG spectrum
+Floquet estimation
+10-11
+10-10
+10-8
+10-7
+10-6
+10-4
+10-3
+10-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+harmonic order
+HHG via FFT
+Floquet estimation
+FIG. 5. HHG spectra obtained in diﬀerent ways. Open circles
+on both panels correspond to the Floquet estimation. (The
+parameters are the ones that were denoted by the white circle
+in Fig. 4.) The ﬁnite duration pulse that mimics the corre-
+sponding monochromatic excitation is shown by the insets
+(where time on the horizontal axis has units of T, and we
+plotted dE(t)/ℏω0, similarly to Figs. 1 and 2). The spectra
+plotted by solid red lines were obtained using our model based
+on the expectation values (top panel) and the power spectrum
+of d2⟨D⟩/dt2 (bottom panel). We normalized the results so
+that they have the same value at the strong, single peak at
+˜ω/ν = 9.
+the resonant case, and the number of these peaks is the
+highest for red detuning (ν < ω0). This is a consequence
+of the general fact that
+E0d
+ℏν
+is the parameter that de-
+termines the number of the relevant high harmonics in
+the Floquet time evolution (as shown by a simple trans-
+formation into dimensionless units, see e.g. [34]). That
+is, if all other parameters are the same, an excitation
+with lower frequency produces higher number of observ-
+able harmonics. As a remarkable example, see Fig. 3(d),
+where ν = ω0/10. This case of strong red detuning (that
+is relevant for real atoms and pulses in the infrared) is
+interesting also from the viewpoint of short pulse genera-
+tion: the quasi-continuum of the frequencies correspond-
+ing to the plateau can be shown to have phases that
+produce short bursts of radiation in every half-cycle. As-
+suming T = 2π/ν to have the order of magnitude of fs,
+the duration of these bursts (intensity fwhm) is around
+a few times 10 as.
+V.
+PHOTON STATISTICS AND
+CORRELATIONS
+Besides the photon number expectation value, higher
+momenta as ⟨N 2
+n⟩are also required to determine the pho-
+ton statistics of the HHG modes. However, the method
+introduced in Sec. III cannot be extended in a simple
+way, due to the increasingly complex hierarchy of the
+Heisenberg equations.
+The physical assumptions that led to Eqs. (24)-(33)
+oﬀer an alternative approach to obtain photon statistics.
+Since even the collection of all the modes that are taken
+into account aﬀects negligibly the atomic dynamics on
+the timescale of the HHG, and there is no direct mode-
+mode interaction, the time evolution of a given mode is
+not strongly perturbed by the presence of the other ones.
+Thus it is reasonable to neglect all but one modes, which
+formally means reducing the sum in Eq. (3) to a sin-
+gle term. For the one and only mode that we take into
+account, the calculation of the photon statistics means
+no technical diﬃculty, the time dependent Schr¨odinger
+equation can be solved e.g., in Schr¨odinger picture by
+expanding the atom-mode wave function |Ψam⟩in the ﬁ-
+nite basis of {|n, e⟩, |n, g⟩n = 0, . . . M} , where M is the
+maximal photon number we take into account. The dy-
+namics turns out to be independent from the truncation
+of the single mode Fock space already for M ≈10.
+The most general result (which is independently of the
+frequency ˜ω of the mode) is that the probabilities
+Pn(t) = |⟨n, e|Ψam(t)⟩|2 + |⟨n, g|Ψam(t)⟩|2
+(21)
+are fast decreasing functions of the photon number n. In
+agreement with the fact that the photon number expecta-
+tion values are much below unity, P0 dominates the pho-
+ton statistics by being orders of magnitude larger than
+probabilities that correspond to nonzero photon num-
+bers. Thus the HHG modes are very close to the vac-
+uum, and there can be time instants when the photon
+number expectation value becomes (exactly or numeri-
+cally) zero. This circumstance causes diﬃculties when
+we are interested in e.g., the Mandel-parameter
+QM = (∆N)2
+⟨N⟩
+−1.
+(22)
+However, with careful evaluation, we see that QM is typ-
+ically a small (around 10−4), positive number, indicating
+super-Poissonian statistics.
+In the presence of the ex-
+citing ﬁeld, there can be short intervals, in which QM
+is negative, but ﬁnally, when the exciting ﬁeld is zero
+again, QM became positive for all the cases we investi-
+gated. Representative examples are shown in Fig. 6. The
+narrow peaks at the early stage of the time evolution are
+signatures of the initial transient eﬀects (see Figs. 1 and
+2). Then rapid oscillations appear, which have consider-
+ably more regular pattern when the pulse is over (t > τ).
+These ”ﬁnal” oscillations are solely due to the interaction
+of the atomic system and the quantized mode. (One may
+consider it as a consequence of a very far detuned, tiny
+amplitude Rabi ﬂopping.) Note that when ω0 ≫ν, the
+Mandel-parameter have larger values.
+Numerically, for all harmonics up to 30 (and for the
+same exciting pulse as in Fig. 6), we observed that the
+minimal value of QM is between −4 × 10−4 and +10−5,
+while the maxima are between 10−4 and 0.04. During the
+oscillations for t > τ, QM was always positive, with its
+
+PAGE 7
+7
+-5
+ 0
+ 5
+ 10
+ 15
+ 20
+ 25
+ 30
+ 35
+ 40
+ 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+QM x 104
+ν/ω0=1.0
+ν/ω0=0.1
+-30
+-20
+-10
+ 0
+ 10
+ 20
+ 30
+10
+20
+30
+40
+50
+60
+70
+80
+dE/−hω0
+t/T
+FIG. 6. The Mandel parameter (22) and the exciting classical
+pulse as a function of time, for the eights harmonics, (˜ω/ν =
+8) both in the resonant, and strongly detuned cases.
+time average being between 10−6 and 0.03. For excita-
+tions with diﬀerent waveforms, the order of magnitude
+of these values were the same.
+Since the maximal photon number that we need to take
+into account in order to obtain reliable results (M) is not
+too large, it is also possible to consider the problem with
+two quantized modes. (The corresponding Hilbert space
+is 2 × M 2 dimensional.) The frequencies ˜ω1 and ˜ω2 of
+these modes can be chosen arbitrarily, which allows us
+to systematically check the validity of the assumptions
+that led to Eqs. (24)-(33).
+By calculating expectation
+values of the form ⟨Aaiaj⟩, ⟨Aa†
+iaj⟩and ⟨Aa†
+ia†
+j⟩(where
+A = ˜U, ˜V or ˜W, see the Appendix), it turns out that
+for the initial conditions (7), they mean negligible con-
+tributions to the dynamical equations. Numerically, the
+terms we neglected in Eqs. (24)-(33) are four orders of
+magnitude smaller than the ones we kept.
+The terms
+⟨Aa†
+iai⟩= ⟨ANi⟩become important when ⟨Ni⟩has the
+order of magnitude of unity at t = 0, and in this case the
+factorization ⟨ANi⟩= ⟨A⟩⟨Ni⟩is an accurate approxima-
+tion.
+Besides verifying former approximations, the model
+with two modes can also be used for the calculation of
+mode-mode cross correlations. In the Schr¨odinger pic-
+ture, the equal time second order correlation function
+g2
+ij(t, t) =
+⟨Ψ(t)|NiNj|Ψ(t)⟩
+⟨Ψ(t)|Ni|Ψ(t)⟩⟨Ψ(t)|Nj|Ψ(t)⟩
+(23)
+can be – in principle – calculated straightforwardly. The
+general result is that regardless whether i = j or not,
+g2
+ij is larger than unity.
+(Note that the former case
+is in accord with the slightly super-Poissonian statistics
+we discussed above.) However, a systematic analysis of
+these correlations requires sophisticated numerical meth-
+ods which are under development. These diﬃculties sug-
+gest that a transparent, analytically solvable model –
+which is obviously not easy to construct – would be very
+useful for the deep understanding of the process of HHG.
+VI.
+CONCLUSIONS
+We introduced a quantum optical model for the process
+of high harmonic generation (HHG) in a simple model
+system, a two-level atom.
+Considering a large num-
+ber of electromagnetic modes with frequencies ranging
+from practically zero to the 30th harmonics of the clas-
+sical, pulsed exciting ﬁeld, we analyzed the time evolu-
+tion of the photon number expectation values. We ob-
+served that high harmonics appear one after the other,
+modes with higher frequencies become visible later, when
+the envelope of the excitation is large enough to popu-
+late these modes. The ﬁnal distribution of the photon
+number operators (when the exciting pulse is over) was
+shown to be close to traditional, Fourier transform based
+HHG spectra. For long enough pulses, the ﬁne structure
+of the spectral peaks were shown to be closely related
+to the corresponding Floquet quasi-energies and eigen-
+states. The low photon number expectation values al-
+lowed us to analyze the single mode photon statistics
+of the high harmonic modes, and we found that these
+states have slightly super-Poissonian statistics, i.e., they
+are states with positive Mandel parameter QM.
+Although most of these results are speciﬁc to the two-
+level systems, some of the methods we applied, and also
+a few of the physical consequences, can be transferred to
+more complex radiating systems, atoms and molecules as
+well. However, solving the coupled dynamical equations
+for a radiating system and a large number of electromag-
+netic modes (in a way analogous to the method presented
+in Sec. II), can cause technical diﬃculties already for a
+hydrogen atom. On the other hand, the coupling of a
+single, quantized high harmonic mode is generally fea-
+sible. This would allow the investigation of the photon
+statistics also for more realistic systems.
+ACKNOWLEDGMENTS
+Our work was supported by the Hungarian National
+Research, Development and Innovation Oﬃce under Con-
+tracts No. 81364 and K16-120615. Partial support by
+the ELI-ALPS project is also acknowledged. The ELI-
+ALPS project (GOP-1.1.1-12/B-2012-000, GINOP-2.3.6-
+15-2015-00001) is supported by the European Union
+and co-ﬁnanced by the European Regional Development
+Fund.
+VII.
+APPENDIX
+
+PAGE 8
+8
+(EQUATIONS OF MOTION FOR THE
+EXPECTATION VALUES)
+For the consistency of the notation, let us use U =
+⟨σx⟩= ⟨ˆU⟩, V = ⟨σy⟩= ⟨ˆV ⟩, . . . (i.e., characters without
+hat denote the expectation values of the corresponding
+operators decorated with hat, see Sec. III). Eqs. (8)-(10)
+and (12) can be reformulated easily using ˆU ±
+n , V ±
+n
+and
+W ±
+n . The exact Heisenberg equations of motion for these
+operators read:
+d
+dt
+ˆU +
+n = ω0 ˆV +
+n −˜ωn ˆU −
+n ,
+d
+dt
+ˆU −
+n = ω0 ˆV −
+n + ˜ωn ˆU +
+n + Ωn,
+d
+dt
+ˆV +
+n = −ω0 ˆU +
+n −˜ωn ˆV −
+n + Ω(t) ˆW +
+n +
++ ˆW
+X
+j
+Ωj
+ an + a†
+n
+ 
+aj + a†
+j
+
+,
+d
+dt
+ˆV −
+n = −ω0 ˆU −
+n + ˜ωn ˆV +
+n + Ω(t) ˆW −
+n +
++ i ˆW
+X
+j
+Ωj
+2
+n an −a†
+n
+
+,
+
+aj + a†
+j
+o
+,
+d
+dt
+ˆW +
+n = −˜ωn ˆW −
+n −Ω(t) ˆV +
+n −
+−ˆV
+X
+j
+Ωj
+ an + a†
+n
+ 
+aj + a†
+j
+
+,
+d
+dt
+ˆW −
+n = ˜ωn ˆW +
+n −Ω(t) ˆV −
+n −
+−i ˆV
+X
+j
+Ωj
+2
+n an −a†
+n
+
+,
+
+aj + a†
+j
+o
+,
+where {., .} stands for the anticommutator. Approxima-
+tions take place when we calculate the expectation val-
+ues of both sides of the equations above. As it has been
+mentioned in Sec. V, for any atomic operator A, it is
+consistent to set ⟨Aanaj⟩=
+D
+Aa†
+na†
+j
+E
+= 0, and to con-
+sider terms
+D
+Aana†
+j
+E
+,
+
+Aa†
+naj
+
+to be nonzero only for
+n = j. This, with factorizations
+
+Aana†
+n
+
+= ⟨A⟩
+
+ana†
+n
+
+,
+
+Aa†
+nan
+
+= ⟨A⟩
+
+a†
+nan
+
+, result in:
+d
+dtU +
+n = ω0V +
+n −˜ωnU −
+n ,
+(24)
+d
+dtU −
+n = ω0V −
+n + ˜ωnU +
+n + Ωn,
+(25)
+d
+dtV +
+n = −ω0U +
+n −˜ωnV −
+n + Ω(t)W +
+n +
++ WΩn (2 ⟨Nn⟩+ 1) ,
+(26)
+d
+dtV −
+n = −ω0U −
+n + ˜ωnV +
+n + Ω(t)W −
+n ,
+(27)
+d
+dtW +
+n = −˜ωnW −
+n −Ω(t)V +
+n −V Ωn (2 ⟨Nn⟩+ 1) ,(28)
+d
+dtW −
+n = ˜ωnW +
+n −Ω(t)V −
+n .
+(29)
+For the sake of completeness, let us express the expecta-
+tion values of Eqs. (8)-(10) and (12) using the dynamical
+variables:
+d
+dtU = ω0V,
+(30)
+d
+dtV = −ω0U + Ω(t)W +
+X
+n
+ΩnW +
+n ,
+(31)
+d
+dtW = −Ω(t)V −
+X
+n
+ΩnV +
+n ,
+(32)
+d
+dt⟨Nn⟩= Ωn
+2 U −
+n .
+(33)
+[1] M. Ferray, A. L’Huillier, X. F. Li, L. A. Lompre, G. Main-
+fray,
+and C. Manus, Journal of Physics B: Atomic,
+Molecular and Optical Physics 21, L31 (1988).
+[2] A. L’Huillier and P. Balcou, Phys. Rev. Lett. 70, 774
+(1993).
+[3] C.-G. Wahlstr¨om, J. Larsson, A. Persson, T. Starczewski,
+S. Svanberg, P. Sali`eres, P. Balcou,
+and A. L’Huillier,
+Phys. Rev. A 48, 4709 (1993).
+[4] J. J. Macklin, J. D. Kmetec,
+and C. L. Gordon, Phys.
+Rev. Lett. 70, 766 (1993).
+[5] C. Winterfeldt, C. Spielmann, and G. Gerber, Rev. Mod.
+Phys. 80, 117 (2008).
+[6] U. Teubner and P. Gibbon, Rev. Mod. Phys. 81, 445
+(2009).
+[7] S. Ghimire, A. D. DiChiara, E. Sistrunk, P. Agostini,
+L. F. DiMauro, and D. A. Reis, Nature Physics 7, 138
+(2011).
+[8] G. Farkas and C. T´oth, Physics Letters A 168, 447
+(1992).
+[9] F. Krausz and M. Ivanov, Rev. Mod. Phys. 81, 163
+(2009).
+[10] P. B. Corkum, Phys. Rev. Lett. 71, 1994 (1993).
+[11] M. Lewenstein, P. Balcou, M. Y. Ivanov, A. L’Huillier,
+and P. B. Corkum, Phys. Rev. A 49, 2117 (1994).
+[12] G. Sansone, C. Vozzi, S. Stagira,
+and M. Nisoli, Phys.
+Rev. A 70, 013411 (2004).
+[13] A. E. Kaplan and P. L. Shkolnikov, Phys. Rev. A 49,
+1275 (1994).
+[14] R. Burlon, G. Ferrante, C. Leone, P. A. Oleinikov, and
+V. T. Platonenko, J. Opt. Soc. Am. B 13, 162 (1996).
+[15] F. I. Gauthey, B. M. Garraway, and P. L. Knight, Phys.
+Rev. A 56, 3093 (1997).
+[16] A. Di Piazza, E. Fiordilino, and M. H. Mittleman, Phys.
+Rev. A 64, 013414 (2001).
+[17] C. V. Sukumar and B. Buck, Phys. Lett. 83A, 211
+(1981).
+[18] A. Rosenhouse-Dantsker, J. Mod. Opt. 39, 1471 (1992).
+[19] F. A. A. El-Orany and A.-S. Obada, J. Opt. B: Quantum
+Semiclass. Opt. 5, 6072 (2003).
+
+PAGE 9
+9
+[20] C. F. de Morisson Faria and I. Rotter, Laser Physics 13,
+985 (2003).
+[21] J. N. Heyman, K. Craig, B. Galdrikian, M. S. Sherwin,
+K. Campman, P. F. Hopkins, S. Fafard, and A. C. Gos-
+sard, Phys. Rev. Lett. 72, 2183 (1994).
+[22] P. P. Orth, A. Imambekov, and K. Le Hur, Phys. Rev.
+B 87, 014305 (2013).
+[23] P. Meystre and M. Sargent, Elements of Quantum Optics,
+2nd ed. (Springer-Verlag, Berlin, Heidelberg, New York,
+1991).
+[24] E. Balogh, B. Bodi, V. Tosa, E. Goulielmakis, K. Varju,
+and P. Dombi, Phys. Rev. A 90 (2014).
+[25] H. Haug and S. W. Koch, Quantum Theory of the Opti-
+cal and Electronic Properties of Semiconductors, 4th ed.
+(World Scientiﬁc, New Jersey, London, Singapore, 2004).
+[26] K. L. Ishikawa and T. Sato, IEEE Journal of Selected
+Topics in Quantum Electronics 21 (2015).
+[27] A. D. Bandrauk, S. Chelkowski, D. J. Diestler, J. Manz,
+and K.-J. Yuan, Phys. Rev. A 79, 023403 (2009).
+[28] G. Floquet, Ann. ´Ecole Norm. Sup. 12, 46 (1883).
+[29] R. M. Potvliege and R. Shakeshaft, Phys. Rev. A 40,
+3061 (1989).
+[30] J. H. Shirley, Phys. Rev. 138, B979 (1965).
+[31] A. Santana, J. M. G. Llorente, and V. Delgado, J. Phys.
+B: At. Mol. Opt. Phys 34, 23712382 (2001).
+[32] F. I. Gauthey, C. H. Keitel, P. L. Knight, and A. Maquet,
+Phys. Rev. A 52, 525 (1995).
+[33] J. B. Watson, A. Sanpera, X. Chen,
+and K. Burnett,
+Phys. Rev. A 53, R1962 (1996).
+[34] L. Z. Szab´o, M. G. Benedict, A. Czirj´ak, and P. F¨oldi,
+Phys. Rev. B 88, 075438 (2013).

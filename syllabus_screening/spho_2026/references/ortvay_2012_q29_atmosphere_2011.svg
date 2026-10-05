@@ -1,0 +1,160 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-100 -1005 1152 1152">
+ <title>Comparison of 1962 US standard atmosphere graph with altitudes of various objects</title>
+ <desc>Comparison of the 1962 US standard atmosphere graph of geometric altitude against density, pressure, the speed of sound and temperature with approximate altitudes of various objects, by CMG Lee. Data is based on graph at http://www.centennialofflight.gov/essay/Theories_of_Flight/atmosphere/TH1G1.htm .</desc>
+ <defs>
+  <linearGradient id="layer" x1="0%" y1="0%" x2="0%" y2="100%">
+   <stop offset="0%" stop-color="#cc00cc" stop-opacity="0"/>
+   <stop offset="50%" stop-color="#cc00cc" stop-opacity="0.3"/>
+   <stop offset="100%" stop-color="#cc00cc" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" y1="0%" x2="0%" y2="100%">
+   <stop offset="0%" stop-color="#9900cc" stop-opacity="0"/>
+   <stop offset="100%" stop-color="#9900cc" stop-opacity="0.5"/>
+  </linearGradient>
+
+  <g id="grid_x">
+   <path d="M 10 0 V -1000 M 20 0 V -1000 M 30 0 V -1000 M 40 0 V -1000 "/>
+   <path d="M 50 0 V -1000" stroke-opacity="0.5"/>
+  </g>
+  <g id="grid_x5">
+   <use xlink:href="#grid_x"/>
+   <use xlink:href="#grid_x" transform="translate(50,0)"/>
+   <use xlink:href="#grid_x" transform="translate(100,0)"/>
+   <use xlink:href="#grid_x" transform="translate(150,0)"/>
+   <use xlink:href="#grid_x" transform="translate(200,0)"/>
+   <path d="M 250 10 V -1000" stroke-opacity="0.5"/>
+  </g>
+  <g id="grid_y">
+   <path d="M 0 -10 H 750 M 0 -20 H 750 M 0 -30 H 750 M 0 -40 H 750 "/>
+   <path d="M 0 -50 H 750" stroke-opacity="0.5"/>
+  </g>
+  <g id="grid_y4">
+   <use xlink:href="#grid_y"/>
+   <use xlink:href="#grid_y" transform="translate(0,-50)"/>
+   <use xlink:href="#grid_y" transform="translate(0,-100)"/>
+   <use xlink:href="#grid_y" transform="translate(0,-150)"/>
+   <path d="M 0 -100 H 750 M 0 -200 H 750" stroke-opacity="0.5"/>
+  </g>
+  <g id="grid" stroke="#000000" stroke-opacity="0.2">
+   <use xlink:href="#grid_x5"/>
+   <use xlink:href="#grid_x5" transform="translate(250,0)"/>
+   <use xlink:href="#grid_x5" transform="translate(500,0)"/>
+   <use xlink:href="#grid_y4"/>
+   <use xlink:href="#grid_y4" transform="translate(0,-200)"/>
+   <use xlink:href="#grid_y4" transform="translate(0,-400)"/>
+   <use xlink:href="#grid_y4" transform="translate(0,-600)"/>
+   <use xlink:href="#grid_y4" transform="translate(0,-800)"/>
+  </g>
+  <path id="arrow_up" d="M -10 20 L 0 0 L 10 20" stroke="none"/>
+  <use id="arrow_down" xlink:href="#arrow_up" transform="scale(1,-1)"/>
+  <g id="arrow_up_down">
+   <use xlink:href="#arrow_down"/>
+   <use xlink:href="#arrow_up"/>
+   <path d="M -20 0 H 20"/>
+  </g>
+ </defs>
+ <g font-family="sans-serif" font-size="32" letter-spacing="-1" text-anchor="middle" stroke="#000000" stroke-linejoin="round" fill="#000000">
+  <use xlink:href="#grid"/>
+  <rect x="0" y="-1000" width="1050" height="1000" stroke-width="2" fill="none"/>
+  <g transform="translate(750,0)" stroke="#000000" stroke-width="5" fill="#000000">
+   <path d="M 0 0 V -1000"/>
+   <use xlink:href="#arrow_down"/>
+   <use xlink:href="#arrow_up_down" transform="translate(0,-115)"/>
+   <use xlink:href="#arrow_up_down" transform="translate(0,-480)"/>
+   <use xlink:href="#arrow_up_down" transform="translate(0,-800)"/>
+   <g text-anchor="start" stroke="none">
+    <text x="10" y="-40">Troposphere</text>
+    <text x="20" y="-100">Tropopause</text>
+    <text x="10" y="-310">Stratosphere</text>
+    <text x="20" y="-470">Stratopause</text>
+    <text x="10" y="-575">Mesosphere</text>
+    <text x="20" y="-790">Mesopause</text>
+    <text x="10" y="-910">Thermosphere</text>
+   </g>
+  </g>
+  <g text-anchor="middle" stroke="none" stroke-width="5">
+   <g text-anchor="end" fill="#000000">
+    <text x="-10" y="0">0</text>
+    <text x="-10" y="-90">10</text>
+    <text x="-10" y="-190">20</text>
+    <text x="-10" y="-290">30</text>
+    <text x="-10" y="-390">40</text>
+    <text x="-10" y="-490">50</text>
+    <text x="-10" y="-590">60</text>
+    <text x="-10" y="-690">70</text>
+    <text x="-10" y="-790">80</text>
+    <text x="-10" y="-890">90</text>
+    <text x="-10" y="-980">100</text>
+    <text transform="translate(-70,-500) rotate(-90)" x="0" y="0" text-anchor="middle">Geometric altitude (km)</text>
+   </g>
+   <g stroke="#ff0000" fill="#ff0000">
+    <text x="400"  y="-650"  stroke="none" text-anchor="end">Temperature</text>
+    <text x="-100" y="140" stroke="none" text-anchor="start">Temperature (K)</text>
+    <text x="250"  y="140" stroke="none">200</text>
+    <text x="500"  y="140" stroke="none">250</text>
+    <text x="750"  y="140" stroke="none">300</text>
+    <path d="M 690 0 L 335 -110 V -200 L 390 -320 L 600 -485 V -525 L 530 -605 L 330 -715 L 198 -800 V -902 L 260 -1000" fill="none"/>
+   </g>
+   <g stroke="#0000ff" fill="#0000ff">
+    <text x="400"  y="-800"  stroke="none" text-anchor="start">Speed of sound</text>
+    <text x="-100" y="105" stroke="none" text-anchor="start" letter-spacing="-2">Speed of sound (m/s)</text>
+    <text x="250"  y="105" stroke="none">250</text>
+    <text x="500"  y="105" stroke="none">300</text>
+    <text x="750"  y="105" stroke="none">350</text>
+    <path d="M 700 0 L 475 -112 V -200 L 510 -310 L 645 -485 V -525 L 588 -620 L 488 -700 L 380 -805 V -905 L 435 -1000" fill="none"/>
+   </g>
+   <g stroke="#006600" fill="#006600">
+    <text x="150"  y="-60" stroke="none" text-anchor="end">Pressure</text>
+    <text x="-100" y="70"  stroke="none" text-anchor="start">Pressure (kN/m&#178;)</text>
+    <text x="250"  y="70"  stroke="none">50</text>
+    <text x="500"  y="70"  stroke="none">100</text>
+    <text x="750"  y="70"  stroke="none">150</text>
+    <path d="M 530 0 Q 163 -55 80 -130 T 1 -370" fill="none"/>
+   </g>
+   <g stroke="#cc6600" fill="#cc6600">
+    <text x="110"  y="-160" stroke="none" text-anchor="start">Density</text>
+    <text x="-100" y="35"   stroke="none" text-anchor="start">Density (kg/m&#179;)</text>
+    <text x="250"  y="35"   stroke="none">0.5</text>
+    <text x="500"  y="35"   stroke="none">1</text>
+    <text x="750"  y="35"   stroke="none">1.5</text>
+    <path d="M 640 0 C 300 -50 160 -110 100 -150 S 10 -220 1 -370" fill="none"/>
+   </g>
+   <g font-style="italic" font-size="28" text-anchor="end" stroke="#9900cc" fill="#9900cc">
+    <text x="1030" y="-970" stroke="none">K&#225;rm&#225;n line</text>
+    <path d="M 750 -1000 H 1050"/>
+    <text x="760" y="-740" text-anchor="start" stroke="none">ionosphere D layer</text>
+    <rect x="750" y="-900" width="300" height="300" stroke="none" fill="url(#layer)"/>
+    <text x="940" y="-860" stroke="none">aurora</text>
+    <path d="M 950 -999 V -870 C 990 -890 990 -850 1030 -870 V -999" stroke="none" fill="url(#aurora)"/>
+    <text x="990" y="-650" stroke="none">meteor</text>
+    <ellipse cx="1010" cy="-650" rx="3" ry="3"/>
+    <path d="M 1010 -650 L 1030 -670"/>
+    <text x="1040" y="-410" stroke="none">weather balloon</text>
+    <ellipse cx="1020" cy="-400" rx="3" ry="3"/>
+    <text x="760" y="-270" text-anchor="start" stroke="none">ozone layer</text>
+    <rect x="750" y="-400" width="300" height="200" stroke="none" fill="url(#layer)"/>
+    <text x="1040" y="-350" stroke="none">NASA X-43A</text>
+    <path d="M 1015 -340 H 1020 L 1023 -342" fill="none"/>
+    <text x="1040" y="-225" stroke="none">SR-71 Blackbird</text>
+    <path d="M 1010 -259 H 1020 L 1023 -262" fill="none"/>
+    <text x="990" y="-175" stroke="none">Concorde</text>
+    <path d="M 1005 -180 H 1020 L 1024 -184" fill="none"/>
+    <text x="1040" y="-130" stroke="none">typical airliner</text>
+    <path d="M 1000 -115 H 1020 L 1025 -120" fill="none"/>
+    <text x="1005" y="-70" stroke="none">Mt Everest</text>
+    <path d="M 990 0 L 1015 -88.48 L 1040 0" stroke="none"/>
+    <text x="980" y="-8" stroke="none">Burj Khalifa</text>
+    <path d="M 985 0 V -8.28"/>
+    <path d="M 983 0 L 985 -8.28 L 987 0" stroke="none"/>
+    <text x="845" y="30" stroke="none" text-anchor="start">Challenger</text>
+    <text x="840" y="55" stroke="none" text-anchor="start">Deep</text>
+    <path d="M 795 0 L 820 110 L 845 0" stroke="none"/>
+    <text x="1035" y="90" stroke="none">Kola</text>
+    <text x="1035" y="115" stroke="none">Superdeep</text>
+    <text x="1035" y="140" stroke="none">Borehole SG-3</text>
+    <path d="M 1045 0 V 122.62"/>
+   </g>
+  </g>
+ </g>
+</svg>

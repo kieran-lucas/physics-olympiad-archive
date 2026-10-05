@@ -1,0 +1,14 @@
+{
+  "reference_id": "ortvay_2020_p05_data_EN",
+  "screening_unit_id": "raw::5520",
+  "url": "https://ortvay.elte.hu/2020/p05/p05_data_EN.txt",
+  "local_path": "references/ortvay_2020_p05_data_EN.txt",
+  "sha256": "4f40243014e84d05b899593113edc6a12cffc5b0d19548f2e18087abe07f4dbb",
+  "byte_size": 602,
+  "page_count": null,
+  "purpose": "Essential original time-temperature data linked from physical statement p3 via https://ortvay.elte.hu/2020/p05/; verified 11 heating and 31 cooling pairs, finite values and increasing time axes.",
+  "acquired_at": "2026-10-04T01:17:00.406598+00:00",
+  "validation_status": "validated original data; numerical pair counts/time axes checked",
+  "statement_file_id": 3119,
+  "statement_sha256": "7611c58d331528c4f0f4ed06b46a5955929756e6674befe95b4dc2aff044dbe6"
+}

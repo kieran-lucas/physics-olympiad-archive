@@ -1,0 +1,6 @@
+Comparison US standard atmosphere 1962
+Author: Cmglee (CMG Lee)
+Source: https://commons.wikimedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg
+License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+Both preserved SVGs retain original downloaded bytes.
+The original contest linked the Speed of sound Wikipedia page. The 2011 revision was available in 2012; the 2015 revision corrected temperature-axis labels. Use the corrected scale for quantitative work and document which variant was used. These are the original linked chart versions, not an unrelated atmosphere model.

@@ -1,0 +1,11 @@
+{
+  "reference_id": "ortvay_2016_q27_math_ph_0105011v2",
+  "screening_unit_id": "raw::5693",
+  "source_url": "https://arxiv.org/pdf/math-ph/0105011v2",
+  "sha256": "1d2bad4f184bbe817ba1eb7f552cb2be50286241e719ee1e3b69460ef07a937a",
+  "byte_size": 115721,
+  "page_count": 4,
+  "validation_status": "pdf_opened_all_pages_valid",
+  "purpose": "Explicit reference in Q27 physical p7. Read all four pages: unitary scattering definition, optimal-cycle criterion and integer phase winding; physical scatterer construction still not fully supplied.",
+  "acquired_at": "2026-10-04T01:44:57.065049+00:00"
+}

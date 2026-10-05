@@ -1,0 +1,11 @@
+{
+  "reference_id": "arxiv_2412.13580v2",
+  "screening_unit_id": "raw::5420",
+  "url": "https://arxiv.org/pdf/2412.13580v2",
+  "local_path": "references/arxiv_2412.13580v2.pdf",
+  "sha256": "a423858750b0d8fd643ccdb7631b64598c1101d5e5fbc4589275aba124fce7f3",
+  "byte_size": 423605,
+  "page_count": 17,
+  "purpose": "Explicitly linked in Ortvay 2025 Q23; finite binary spin-state graph and Figure 10 needed to interpret its topology task.",
+  "acquired_at": "2026-10-04T00:06:05.875840+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "reference_id": "ortvay_2012_q29_graph_attribution",
+  "screening_unit_id": "raw::5828",
+  "url": "https://commons.wikimedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg",
+  "local_path": "references/ortvay_2012_q29_graph_attribution.txt",
+  "sha256": "712df4a0a219c401d862d384edf4c6296e51be3deb505823a5e48a4e053a2b82",
+  "byte_size": 606,
+  "page_count": null,
+  "purpose": "Attribution/license and explicit historical versus corrected-axis guidance accompanying both statement-linked original chart variants.",
+  "acquired_at": "2026-10-04T02:14:34.702656+00:00",
+  "original_statement_url": "http://en.wikipedia.org/wiki/Speed_of_sound",
+  "file_description_url": "https://commons.wikimedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg",
+  "author": "Cmglee / CMG Lee",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "changes": "Original SVG bytes unmodified. Local PNGs are inspection renders only.",
+  "validation_status": "XML parsed; both original chart variants rendered and actual temperature/sound-speed axes inspected."
+}

@@ -1,0 +1,19 @@
+{
+  "reference_id": "ortvay_2012_q29_atmosphere_2011",
+  "screening_unit_id": "raw::5828",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/archive/9/9d/20141031174254%21Comparison_US_standard_atmosphere_1962.svg",
+  "local_path": "references/ortvay_2012_q29_atmosphere_2011.svg",
+  "sha256": "9c9a23a9703eb40d8509732cc37d12a13153a341aee3eb45fca91608ee7078d8",
+  "byte_size": 8707,
+  "page_count": null,
+  "purpose": "Statement-linked altitude/temperature/sound-speed graph, 2011 version. Cmglee, CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/; original bytes unchanged. The pre-2014 revision retains the chart available in 2012; current 2015 revision corrects a temperature-axis scale error. Both variants preserved explicitly, not silently substituted.",
+  "acquired_at": "2026-10-04T02:14:34.695587+00:00",
+  "original_statement_url": "http://en.wikipedia.org/wiki/Speed_of_sound",
+  "file_description_url": "https://commons.wikimedia.org/wiki/File:Comparison_US_standard_atmosphere_1962.svg",
+  "author": "Cmglee / CMG Lee",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "changes": "Original SVG bytes unmodified. Local PNGs are inspection renders only.",
+  "validation_status": "XML parsed; both original chart variants rendered and actual temperature/sound-speed axes inspected.",
+  "history_note": "Archive URI timestamp is when the prior revision was archived in October 2014; Commons identifies that revision as 26 November 2011. Current revision 25 August 2015 fixes temperature labels."
+}

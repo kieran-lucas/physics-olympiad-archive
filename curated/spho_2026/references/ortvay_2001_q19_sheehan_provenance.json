@@ -1,0 +1,15 @@
+{
+  "acquired_at": "2026-10-04T03:50:37.252923+00:00",
+  "screening_unit_id": "raw::6205",
+  "source_statement_url": "http://www.padrak.com/ine/SHEEHAN.html",
+  "resolved_url": "https://www.padrak.com/ine/SHEEHAN.html",
+  "status_code": 200,
+  "remote_html_sha256": "e09282dd87bd4b59ee4fbc7f676ce77526e0cb8dc556e531d1436ec11603013f",
+  "remote_byte_size": 36507,
+  "title": "Four Paradoxes Involving the Second Law of Thermodynamics",
+  "author": "D. P. Sheehan",
+  "original_publication": "Journal of Scientific Exploration 12(2), 1998, pp303-314",
+  "inspection": "All four model descriptions and closing physical discussion read in source-linked HTML; model equations and text-only diagram descriptions present. Bibliography not separately pursued. No official solution claimed.",
+  "preservation_status": "URL, remote hash and source relationship preserved; source explicitly reserves copying, so full article is not republished in the curated set.",
+  "validation_status": "original linked article accessible; required models inspected online; no full local article copy"
+}

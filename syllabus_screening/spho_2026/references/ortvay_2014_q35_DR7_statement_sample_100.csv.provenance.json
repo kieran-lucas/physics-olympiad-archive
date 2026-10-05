@@ -1,0 +1,17 @@
+{
+  "reference_id": "ortvay_2014_q35_DR7_statement_sample_100",
+  "screening_unit_id": "raw::5768",
+  "url": "https://skyserver.sdss.org/dr7/en/tools/search/x_sql.asp?cmd=SELECT+TOP+100+p.l%2C+p.b%2C+s.z+FROM+SpecObj+s+INNER+JOIN+Star+p+ON+p.objID+%3D+s.bestObjID+WHERE+s.SpecClass+%3D+1&format=csv",
+  "local_path": "references/ortvay_2014_q35_DR7_statement_sample_100.csv",
+  "sha256": "b81f1abf91fe1e8f2b80d58233fbb7ba5fc6f4af860a3e59d972d13fbbb6089d",
+  "byte_size": 3556,
+  "page_count": null,
+  "purpose": "Original statement TOP 100 example executed against live official DR7 endpoint; 100 finite Galactic coordinates/redshifts validated. This unordered illustrative sample is not a complete or representative exercise dataset; contestant-selected larger DR7 query remains required.",
+  "acquired_at": "2026-10-04T02:02:52.807020+00:00",
+  "original_statement_portal": "http://skyserver.sdss3.org/",
+  "verified_DR7_portal": "https://skyserver.sdss.org/dr7/en/tools/search/sql.asp",
+  "final_url": "https://skyserver.sdss.org/dr7/en/tools/search/x_sql.asp?cmd=SELECT+TOP+100+p.l%2C+p.b%2C+s.z+FROM+SpecObj+s+INNER+JOIN+Star+p+ON+p.objID+%3D+s.bestObjID+WHERE+s.SpecClass+%3D+1&format=csv",
+  "query": "SELECT TOP 100 p.l, p.b, s.z FROM SpecObj s INNER JOIN Star p ON p.objID = s.bestObjID WHERE s.SpecClass = 1",
+  "validation_status": "100 records; exact columns l,b,z; finite numbers; angular ranges checked",
+  "dataset_limitations": "Unordered TOP 100 example only. Do not infer full-sky coverage or survey selection from it. Source statement deliberately requires choosing/querying the larger live database."
+}

@@ -1,0 +1,11 @@
+{
+  "reference_id": "ortvay_2024_piszkes",
+  "screening_unit_id": "raw::5423",
+  "url": "https://ortvay.elte.hu/2024/piszkes.jpg",
+  "local_path": "references/ortvay_2024_piszkes.jpg",
+  "sha256": "69f3a71d5b4c65e28e0da9440e14a57d1216c9fac0cbbb064fd122920b18fd10",
+  "byte_size": 3609921,
+  "page_count": null,
+  "purpose": "Full-resolution photograph explicitly linked in Ortvay 2024 Q1; essential for horizon measurement and uncertainty analysis.",
+  "acquired_at": "2026-10-04T00:56:50.025980+00:00"
+}

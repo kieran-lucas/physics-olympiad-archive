@@ -1,0 +1,12 @@
+{
+  "reference_id": "us2022_collision_2022-final_source",
+  "statement_file_id": 1934,
+  "statement_repository_url": "https://github.com/USPhysicsTeam/2022-future-circular-collider",
+  "release_tag": "2022-final",
+  "release_published_at": "2022-09-14T21:41:05Z",
+  "url": "https://api.github.com/repos/USPhysicsTeam/2022-future-circular-collider/zipball/2022-final",
+  "sha256": "28a188efe7156e87c5756d40769efb70d8cb176d8e18b389cde482a077fd5c95",
+  "byte_size": 22728,
+  "validation": "ZIP CRC passes",
+  "executable_run": false
+}
