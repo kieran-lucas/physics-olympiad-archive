@@ -1,0 +1,906 @@
+﻿id,competition_id,year,session,section,source_page_url,expected_problems,source_band_index
+1,1,2026,,Theory,https://olimpicos.net/ipho/index.html#2026,3,1
+2,1,2026,,Experimental,https://olimpicos.net/ipho/index.html#2026,1,2
+3,1,2025,,Theory,https://olimpicos.net/ipho/index.html#2025,3,1
+4,1,2025,,Experimental,https://olimpicos.net/ipho/index.html#2025,2,2
+5,1,2025,,Theory Backup,https://olimpicos.net/ipho/index.html#2025,1,3
+6,1,2024,,Theory,https://olimpicos.net/ipho/index.html#2024,3,1
+7,1,2024,,Experimental,https://olimpicos.net/ipho/index.html#2024,2,2
+8,1,2023,,Theory,https://olimpicos.net/ipho/index.html#2023,3,1
+9,1,2023,,Experimental,https://olimpicos.net/ipho/index.html#2023,2,2
+10,1,2022,,Theory,https://olimpicos.net/ipho/index.html#2022,3,1
+11,1,2022,,Experimental,https://olimpicos.net/ipho/index.html#2022,2,2
+12,1,2021,,Theory,https://olimpicos.net/ipho/index.html#2021,3,1
+13,1,2021,,Experimental,https://olimpicos.net/ipho/index.html#2021,2,2
+14,1,2020,,Theory,https://olimpicos.net/ipho/index.html#2020,3,1
+15,1,2020,,Experimental,https://olimpicos.net/ipho/index.html#2020,1,2
+16,1,2019,,Theory,https://olimpicos.net/ipho/index.html#2019,3,1
+17,1,2019,,Experimental,https://olimpicos.net/ipho/index.html#2019,2,2
+18,1,2018,,Theory,https://olimpicos.net/ipho/index.html#2018,3,1
+19,1,2018,,Experimental,https://olimpicos.net/ipho/index.html#2018,2,2
+20,1,2017,,Theory,https://olimpicos.net/ipho/index.html#2017,3,1
+21,1,2017,,Experimental,https://olimpicos.net/ipho/index.html#2017,2,2
+22,1,2016,,Theory,https://olimpicos.net/ipho/index.html#2016,3,1
+23,1,2016,,Experimental,https://olimpicos.net/ipho/index.html#2016,2,2
+24,1,2015,,Theory,https://olimpicos.net/ipho/index.html#2015,3,1
+25,1,2015,,Experimental,https://olimpicos.net/ipho/index.html#2015,2,2
+26,1,2014,,Theory,https://olimpicos.net/ipho/index.html#2014,3,1
+27,1,2014,,Experimental,https://olimpicos.net/ipho/index.html#2014,1,2
+28,1,2013,,Theory,https://olimpicos.net/ipho/index.html#2013,3,1
+29,1,2013,,Experimental,https://olimpicos.net/ipho/index.html#2013,2,2
+30,1,2012,,Theory,https://olimpicos.net/ipho/index.html#2012,3,1
+31,1,2012,,Experimental,https://olimpicos.net/ipho/index.html#2012,2,2
+32,1,2011,,Theory,https://olimpicos.net/ipho/index.html#2011,3,1
+33,1,2011,,Experimental,https://olimpicos.net/ipho/index.html#2011,2,2
+34,1,2010,,Theory,https://olimpicos.net/ipho/index.html#2010,3,1
+35,1,2010,,Experimental,https://olimpicos.net/ipho/index.html#2010,2,2
+36,1,2009,,Theory,https://olimpicos.net/ipho/index.html#2009,3,1
+37,1,2009,,Experimental,https://olimpicos.net/ipho/index.html#2009,2,2
+38,1,2008,,Theory,https://olimpicos.net/ipho/index.html#2008,3,1
+39,1,2008,,Experimental,https://olimpicos.net/ipho/index.html#2008,1,2
+40,1,2007,,Theory,https://olimpicos.net/ipho/index.html#2007,3,1
+41,1,2007,,Experimental,https://olimpicos.net/ipho/index.html#2007,1,2
+42,1,2006,,Theory,https://olimpicos.net/ipho/index.html#2006,3,1
+43,1,2006,,Experimental,https://olimpicos.net/ipho/index.html#2006,1,2
+44,1,2005,,Theory,https://olimpicos.net/ipho/index.html#2005,3,1
+45,1,2005,,Experimental,https://olimpicos.net/ipho/index.html#2005,1,2
+46,1,2004,,Theory,https://olimpicos.net/ipho/index.html#2004,3,1
+47,1,2004,,Experimental,https://olimpicos.net/ipho/index.html#2004,1,2
+48,1,2003,,Theory,https://olimpicos.net/ipho/index.html#2003,3,1
+49,1,2003,,Experimental,https://olimpicos.net/ipho/index.html#2003,1,2
+50,1,2002,,Theory,https://olimpicos.net/ipho/index.html#2002,3,1
+51,1,2002,,Experimental,https://olimpicos.net/ipho/index.html#2002,2,2
+52,1,2001,,Theory,https://olimpicos.net/ipho/index.html#2001,3,1
+53,1,2001,,Experimental,https://olimpicos.net/ipho/index.html#2001,1,2
+54,1,2000,,Theory,https://olimpicos.net/ipho/index.html#2000,3,1
+55,1,2000,,Experimental,https://olimpicos.net/ipho/index.html#2000,2,2
+56,1,1999,,Theory,https://olimpicos.net/ipho/index.html#1999,3,1
+57,1,1999,,Experimental,https://olimpicos.net/ipho/index.html#1999,1,2
+58,1,1998,,Theory,https://olimpicos.net/ipho/index.html#1998,3,1
+59,1,1998,,Experimental,https://olimpicos.net/ipho/index.html#1998,1,2
+60,1,1997,,Theory,https://olimpicos.net/ipho/index.html#1997,3,1
+61,1,1997,,Experimental,https://olimpicos.net/ipho/index.html#1997,1,2
+62,1,1996,,Theory,https://olimpicos.net/ipho/index.html#1996,3,1
+63,1,1996,,Experimental,https://olimpicos.net/ipho/index.html#1996,1,2
+64,1,1995,,Theory,https://olimpicos.net/ipho/index.html#1995,3,1
+65,1,1995,,Experimental,https://olimpicos.net/ipho/index.html#1995,2,2
+66,1,1994,,Theory,https://olimpicos.net/ipho/index.html#1994,3,1
+67,1,1994,,Experimental,https://olimpicos.net/ipho/index.html#1994,2,2
+68,1,1993,,Theory,https://olimpicos.net/ipho/index.html#1993,3,1
+69,1,1993,,Experimental,https://olimpicos.net/ipho/index.html#1993,2,2
+70,1,1992,,Theory,https://olimpicos.net/ipho/index.html#1992,3,1
+71,1,1992,,Experimental,https://olimpicos.net/ipho/index.html#1992,2,2
+72,1,1991,,Theory,https://olimpicos.net/ipho/index.html#1991,3,1
+73,1,1991,,Experimental,https://olimpicos.net/ipho/index.html#1991,1,2
+74,1,1990,,Theory,https://olimpicos.net/ipho/index.html#1990,3,1
+75,1,1990,,Experimental,https://olimpicos.net/ipho/index.html#1990,2,2
+76,1,1989,,Theory,https://olimpicos.net/ipho/index.html#1989,3,1
+77,1,1989,,Experimental,https://olimpicos.net/ipho/index.html#1989,1,2
+78,1,1988,,Theory,https://olimpicos.net/ipho/index.html#1988,3,1
+79,1,1988,,Experimental,https://olimpicos.net/ipho/index.html#1988,2,2
+80,1,1987,,Theory,https://olimpicos.net/ipho/index.html#1987,3,1
+81,1,1987,,Experimental,https://olimpicos.net/ipho/index.html#1987,1,2
+82,1,1986,,Theory,https://olimpicos.net/ipho/index.html#1986,3,1
+83,1,1986,,Experimental,https://olimpicos.net/ipho/index.html#1986,2,2
+84,1,1985,,Theory,https://olimpicos.net/ipho/index.html#1985,3,1
+85,1,1985,,Experimental,https://olimpicos.net/ipho/index.html#1985,2,2
+86,1,1984,,Theory,https://olimpicos.net/ipho/index.html#1984,3,1
+87,1,1984,,Experimental,https://olimpicos.net/ipho/index.html#1984,2,2
+88,1,1983,,Problems,https://olimpicos.net/ipho/index.html#1983,5,1
+89,1,1982,,Theory,https://olimpicos.net/ipho/index.html#1982,3,1
+90,1,1982,,Experimental,https://olimpicos.net/ipho/index.html#1982,2,2
+91,1,1981,,Theory,https://olimpicos.net/ipho/index.html#1981,3,1
+92,1,1981,,Experimental,https://olimpicos.net/ipho/index.html#1981,1,2
+93,1,1979,,Theory,https://olimpicos.net/ipho/index.html#1979,3,1
+94,1,1979,,Experimental,https://olimpicos.net/ipho/index.html#1979,1,2
+95,1,1977,,Problems,https://olimpicos.net/ipho/index.html#1977,3,1
+96,1,1976,,Theory,https://olimpicos.net/ipho/index.html#1976,3,1
+97,1,1976,,Experimental,https://olimpicos.net/ipho/index.html#1976,1,2
+98,1,1975,,Theory,https://olimpicos.net/ipho/index.html#1975,3,1
+99,1,1975,,Experimental,https://olimpicos.net/ipho/index.html#1975,1,2
+100,1,1974,,Theory,https://olimpicos.net/ipho/index.html#1974,3,1
+101,1,1974,,Experimental,https://olimpicos.net/ipho/index.html#1974,1,2
+102,1,1972,,Theory,https://olimpicos.net/ipho/index.html#1972,4,1
+103,1,1972,,Experimental,https://olimpicos.net/ipho/index.html#1972,1,2
+104,1,1971,,Theory,https://olimpicos.net/ipho/index.html#1971,4,1
+105,1,1971,,Experimental,https://olimpicos.net/ipho/index.html#1971,1,2
+106,1,1970,,Theory,https://olimpicos.net/ipho/index.html#1970,4,1
+107,1,1970,,Experimental,https://olimpicos.net/ipho/index.html#1970,1,2
+108,1,1969,,Problems,https://olimpicos.net/ipho/index.html#1969,4,1
+109,1,1968,,Theory,https://olimpicos.net/ipho/index.html#1968,3,1
+110,1,1968,,Experimental,https://olimpicos.net/ipho/index.html#1968,1,2
+111,1,1967,,Theory,https://olimpicos.net/ipho/index.html#1967,4,1
+112,1,1967,,Experimental,https://olimpicos.net/ipho/index.html#1967,1,2
+113,2,2026,,Theory,https://olimpicos.net/eupho/index.html#2026,3,1
+114,2,2026,,Experimental,https://olimpicos.net/eupho/index.html#2026,1,2
+115,2,2025,,Theory,https://olimpicos.net/eupho/index.html#2025,3,1
+116,2,2025,,Experimental,https://olimpicos.net/eupho/index.html#2025,2,2
+117,2,2024,,Theory,https://olimpicos.net/eupho/index.html#2024,3,1
+118,2,2024,,Experimental,https://olimpicos.net/eupho/index.html#2024,1,2
+119,2,2023,,Theory,https://olimpicos.net/eupho/index.html#2023,3,1
+120,2,2023,,Experimental,https://olimpicos.net/eupho/index.html#2023,2,2
+121,2,2022,,Theory,https://olimpicos.net/eupho/index.html#2022,3,1
+122,2,2022,,Experimental,https://olimpicos.net/eupho/index.html#2022,1,2
+123,2,2021,,Theory,https://olimpicos.net/eupho/index.html#2021,3,1
+124,2,2021,,Experimental,https://olimpicos.net/eupho/index.html#2021,2,2
+125,2,2020,,Theory,https://olimpicos.net/eupho/index.html#2020,3,1
+126,2,2020,,Experimental,https://olimpicos.net/eupho/index.html#2020,2,2
+127,2,2019,,Theory,https://olimpicos.net/eupho/index.html#2019,3,1
+128,2,2019,,Experimental,https://olimpicos.net/eupho/index.html#2019,1,2
+129,2,2018,,Theory,https://olimpicos.net/eupho/index.html#2018,3,1
+130,2,2018,,Experimental,https://olimpicos.net/eupho/index.html#2018,1,2
+131,2,2017,,Theory,https://olimpicos.net/eupho/index.html#2017,3,1
+132,2,2017,,Experimental,https://olimpicos.net/eupho/index.html#2017,1,2
+133,3,2026,,Theory,https://olimpicos.net/apho/index.html#2026,3,1
+134,3,2026,,Experimental,https://olimpicos.net/apho/index.html#2026,2,2
+135,3,2025,,Theory,https://olimpicos.net/apho/index.html#2025,3,1
+136,3,2025,,Experimental,https://olimpicos.net/apho/index.html#2025,1,2
+137,3,2024,,Theory,https://olimpicos.net/apho/index.html#2024,3,1
+138,3,2024,,Experimental,https://olimpicos.net/apho/index.html#2024,1,2
+139,3,2023,,Theory,https://olimpicos.net/apho/index.html#2023,3,1
+140,3,2023,,Experimental,https://olimpicos.net/apho/index.html#2023,2,2
+141,3,2022,,Theory,https://olimpicos.net/apho/index.html#2022,3,1
+142,3,2022,,Experimental,https://olimpicos.net/apho/index.html#2022,2,2
+143,3,2021,,Theory,https://olimpicos.net/apho/index.html#2021,3,1
+144,3,2021,,Experimental,https://olimpicos.net/apho/index.html#2021,2,2
+145,3,2019,,Theory,https://olimpicos.net/apho/index.html#2019,3,1
+146,3,2019,,Experimental,https://olimpicos.net/apho/index.html#2019,2,2
+147,3,2018,,Theory,https://olimpicos.net/apho/index.html#2018,3,1
+148,3,2018,,Experimental,https://olimpicos.net/apho/index.html#2018,1,2
+149,3,2017,,Theory,https://olimpicos.net/apho/index.html#2017,3,1
+150,3,2017,,Experimental,https://olimpicos.net/apho/index.html#2017,1,2
+151,3,2016,,Theory,https://olimpicos.net/apho/index.html#2016,3,1
+152,3,2016,,Experimental,https://olimpicos.net/apho/index.html#2016,2,2
+153,3,2015,,Theory,https://olimpicos.net/apho/index.html#2015,3,1
+154,3,2015,,Experimental,https://olimpicos.net/apho/index.html#2015,1,2
+155,3,2014,,Theory,https://olimpicos.net/apho/index.html#2014,3,1
+156,3,2014,,Experimental,https://olimpicos.net/apho/index.html#2014,1,2
+157,3,2013,,Theory,https://olimpicos.net/apho/index.html#2013,3,1
+158,3,2013,,Experimental,https://olimpicos.net/apho/index.html#2013,1,2
+159,3,2012,,Theory,https://olimpicos.net/apho/index.html#2012,3,1
+160,3,2012,,Experimental,https://olimpicos.net/apho/index.html#2012,2,2
+161,3,2011,,Theory,https://olimpicos.net/apho/index.html#2011,3,1
+162,3,2011,,Experimental,https://olimpicos.net/apho/index.html#2011,2,2
+163,3,2010,,Theory,https://olimpicos.net/apho/index.html#2010,3,1
+164,3,2010,,Experimental,https://olimpicos.net/apho/index.html#2010,2,2
+165,3,2009,,Theory,https://olimpicos.net/apho/index.html#2009,3,1
+166,3,2009,,Experimental,https://olimpicos.net/apho/index.html#2009,2,2
+167,3,2008,,Theory,https://olimpicos.net/apho/index.html#2008,3,1
+168,3,2008,,Experimental,https://olimpicos.net/apho/index.html#2008,1,2
+169,3,2007,,Theory,https://olimpicos.net/apho/index.html#2007,3,1
+170,3,2007,,Experimental,https://olimpicos.net/apho/index.html#2007,2,2
+171,3,2006,,Theory,https://olimpicos.net/apho/index.html#2006,3,1
+172,3,2006,,Experimental,https://olimpicos.net/apho/index.html#2006,1,2
+173,3,2005,,Problems,https://olimpicos.net/apho/index.html#2005,3,1
+174,3,2005,,Experimental,https://olimpicos.net/apho/index.html#2005,2,2
+175,3,2004,,Theory,https://olimpicos.net/apho/index.html#2004,3,1
+176,3,2004,,Experimental,https://olimpicos.net/apho/index.html#2004,2,2
+177,3,2003,,Theory,https://olimpicos.net/apho/index.html#2003,3,1
+178,3,2003,,Experimental,https://olimpicos.net/apho/index.html#2003,2,2
+179,3,2002,,Theory,https://olimpicos.net/apho/index.html#2002,3,1
+180,3,2002,,Experimental,https://olimpicos.net/apho/index.html#2002,2,2
+181,3,2001,,Theory,https://olimpicos.net/apho/index.html#2001,3,1
+182,3,2001,,Experimental,https://olimpicos.net/apho/index.html#2001,1,2
+183,3,2000,,Problems,https://olimpicos.net/apho/index.html#2000,3,1
+184,3,2000,,Experimental,https://olimpicos.net/apho/index.html#2000,2,2
+185,4,2026,,Problems,https://olimpicos.net/nbpho/index.html#2026,10,1
+186,4,2025,,Problems,https://olimpicos.net/nbpho/index.html#2025,9,1
+187,4,2024,,Problems,https://olimpicos.net/nbpho/index.html#2024,10,1
+188,4,2023,,Problems,https://olimpicos.net/nbpho/index.html#2023,9,1
+189,4,2022,,Problems,https://olimpicos.net/nbpho/index.html#2022,9,1
+190,4,2021,,Problems,https://olimpicos.net/nbpho/index.html#2021,4,1
+191,4,2020,,Problems,https://olimpicos.net/nbpho/index.html#2020,5,1
+192,4,2019,,Problems,https://olimpicos.net/nbpho/index.html#2019,8,1
+193,4,2018,,Problems,https://olimpicos.net/nbpho/index.html#2018,9,1
+194,4,2017,,Problems,https://olimpicos.net/nbpho/index.html#2017,10,1
+195,4,2016,,Problems,https://olimpicos.net/nbpho/index.html#2016,10,1
+196,4,2015,,Problems,https://olimpicos.net/nbpho/index.html#2015,10,1
+197,4,2014,,Problems,https://olimpicos.net/nbpho/index.html#2014,10,1
+198,4,2013,,Problems,https://olimpicos.net/nbpho/index.html#2013,10,1
+199,4,2012,,Problems,https://olimpicos.net/nbpho/index.html#2012,10,1
+200,4,2011,,Problems,https://olimpicos.net/nbpho/index.html#2011,9,1
+201,4,2010,,Problems,https://olimpicos.net/nbpho/index.html#2010,11,1
+202,4,2009,,Problems,https://olimpicos.net/nbpho/index.html#2009,10,1
+203,4,2008,,Problems,https://olimpicos.net/nbpho/index.html#2008,10,1
+204,4,2007,,Problems,https://olimpicos.net/nbpho/index.html#2007,8,1
+205,4,2006,,Problems,https://olimpicos.net/nbpho/index.html#2006,8,1
+206,4,2005,,Problems,https://olimpicos.net/nbpho/index.html#2005,9,1
+207,4,2004,,Problems,https://olimpicos.net/nbpho/index.html#2004,9,1
+208,4,2003,,Problems,https://olimpicos.net/nbpho/index.html#2003,8,1
+209,5,2023,,Problems,https://olimpicos.net/oibf/index.html#2023,4,1
+210,5,2022,,Problems,https://olimpicos.net/oibf/index.html#2022,5,1
+211,5,2021,,Problems,https://olimpicos.net/oibf/index.html#2021,3,1
+212,5,2020,,Problems,https://olimpicos.net/oibf/index.html#2020,5,1
+213,5,2019,,Problems,https://olimpicos.net/oibf/index.html#2019,5,1
+214,5,2018,,Problems,https://olimpicos.net/oibf/index.html#2018,5,1
+215,5,2017,,Problems,https://olimpicos.net/oibf/index.html#2017,6,1
+216,5,2016,,Problems,https://olimpicos.net/oibf/index.html#2016,5,1
+217,5,2015,,Problems,https://olimpicos.net/oibf/index.html#2015,4,1
+218,5,2014,,Problems,https://olimpicos.net/oibf/index.html#2014,3,1
+219,5,2013,,Problems,https://olimpicos.net/oibf/index.html#2013,5,1
+220,5,2012,,Problems,https://olimpicos.net/oibf/index.html#2012,6,1
+221,5,2011,,Problems,https://olimpicos.net/oibf/index.html#2011,2,1
+222,5,2010,,Problems,https://olimpicos.net/oibf/index.html#2010,3,1
+223,5,2009,,Problems,https://olimpicos.net/oibf/index.html#2009,4,1
+224,5,2008,,Problems,https://olimpicos.net/oibf/index.html#2008,4,1
+225,5,2007,,Problems,https://olimpicos.net/oibf/index.html#2007,3,1
+226,5,2006,,Problems,https://olimpicos.net/oibf/index.html#2006,4,1
+227,5,2006,,EXPERIENCIA,https://olimpicos.net/oibf/index.html#2006,2,2
+228,5,2005,,Problems,https://olimpicos.net/oibf/index.html#2005,5,1
+229,5,2004,,Problems,https://olimpicos.net/oibf/index.html#2004,4,1
+230,5,2003,,Problems,https://olimpicos.net/oibf/index.html#2003,3,1
+231,5,2002,,Problems,https://olimpicos.net/oibf/index.html#2002,6,1
+232,5,2001,,Problems,https://olimpicos.net/oibf/index.html#2001,7,1
+233,5,2000,,Problems,https://olimpicos.net/oibf/index.html#2000,5,1
+234,5,1999,,Problems,https://olimpicos.net/oibf/index.html#1999,4,1
+235,5,1998,,Problems,https://olimpicos.net/oibf/index.html#1998,7,1
+236,5,1997,,Problems,https://olimpicos.net/oibf/index.html#1997,7,1
+237,5,1991,,Problems,https://olimpicos.net/oibf/index.html#1991,3,1
+238,6,2024,,Problems,https://olimpicos.net/rmph/index.html#2024,4,1
+239,6,2023,,Problems,https://olimpicos.net/rmph/index.html#2023,4,1
+240,6,2021,,Theory,https://olimpicos.net/rmph/index.html#2021,3,1
+241,6,2021,,Experimental,https://olimpicos.net/rmph/index.html#2021,1,2
+242,6,2018,,Theory,https://olimpicos.net/rmph/index.html#2018,3,1
+243,6,2018,,Experimental,https://olimpicos.net/rmph/index.html#2018,1,2
+244,6,2017,,Theory,https://olimpicos.net/rmph/index.html#2017,4,1
+245,6,2017,,Experimental,https://olimpicos.net/rmph/index.html#2017,1,2
+246,6,2016,,Problems,https://olimpicos.net/rmph/index.html#2016,3,1
+247,6,2014,,Theory,https://olimpicos.net/rmph/index.html#2014,3,1
+248,6,2014,,Experimental,https://olimpicos.net/rmph/index.html#2014,2,2
+249,6,2013,,Theory,https://olimpicos.net/rmph/index.html#2013,3,1
+250,6,2013,,Experimental,https://olimpicos.net/rmph/index.html#2013,2,2
+251,6,2012,,Theory,https://olimpicos.net/rmph/index.html#2012,3,1
+252,6,2012,,Experimental,https://olimpicos.net/rmph/index.html#2012,2,2
+253,7,2013,,Problems,https://olimpicos.net/wopho/index.html#2013,10,1
+254,7,2012,,Problems,https://olimpicos.net/wopho/index.html#2012,13,1
+255,7,2011,,Problems,https://olimpicos.net/wopho/index.html#2011,13,1
+256,8,2022,,Theory,https://olimpicos.net/gpho/index.html#2022,3,1
+257,8,2022,,Experimental,https://olimpicos.net/gpho/index.html#2022,1,2
+258,8,2019,,Theory,https://olimpicos.net/gpho/index.html#2019,3,1
+259,8,2019,,Experimental,https://olimpicos.net/gpho/index.html#2019,1,2
+260,8,2017,,Theory,https://olimpicos.net/gpho/index.html#2017,3,1
+261,8,2017,,Experimental,https://olimpicos.net/gpho/index.html#2017,1,2
+262,8,2016,,Theory,https://olimpicos.net/gpho/index.html#2016,3,1
+263,8,2016,,Experimental,https://olimpicos.net/gpho/index.html#2016,2,2
+264,9,2026,,Theory,https://olimpicos.net/izho/index.html#2026,1,1
+265,9,2026,,Experimental,https://olimpicos.net/izho/index.html#2026,1,2
+266,9,2025,,Theory,https://olimpicos.net/izho/index.html#2025,1,1
+267,9,2025,,Experimental,https://olimpicos.net/izho/index.html#2025,1,2
+268,9,2024,,Theory,https://olimpicos.net/izho/index.html#2024,1,1
+269,9,2024,,Experimental,https://olimpicos.net/izho/index.html#2024,1,2
+270,9,2023,,Theory,https://olimpicos.net/izho/index.html#2023,1,1
+271,9,2023,,Experimental,https://olimpicos.net/izho/index.html#2023,1,2
+272,9,2022,,Theory,https://olimpicos.net/izho/index.html#2022,1,1
+273,9,2022,,Experimental,https://olimpicos.net/izho/index.html#2022,1,2
+274,9,2021,,Theory,https://olimpicos.net/izho/index.html#2021,1,1
+275,9,2021,,Experimental,https://olimpicos.net/izho/index.html#2021,1,2
+276,9,2020,,Theory,https://olimpicos.net/izho/index.html#2020,1,1
+277,9,2020,,Experimental,https://olimpicos.net/izho/index.html#2020,1,2
+278,9,2019,,Theory,https://olimpicos.net/izho/index.html#2019,1,1
+279,9,2019,,Experimental,https://olimpicos.net/izho/index.html#2019,1,2
+280,9,2018,,Theory,https://olimpicos.net/izho/index.html#2018,1,1
+281,9,2017,,Theory,https://olimpicos.net/izho/index.html#2017,1,1
+282,9,2017,,Experimental,https://olimpicos.net/izho/index.html#2017,1,2
+283,9,2016,,Theory,https://olimpicos.net/izho/index.html#2016,1,1
+284,9,2016,,Experimental,https://olimpicos.net/izho/index.html#2016,1,2
+285,9,2015,,Theory,https://olimpicos.net/izho/index.html#2015,1,1
+286,9,2015,,Experimental,https://olimpicos.net/izho/index.html#2015,1,2
+287,9,2014,,Theory,https://olimpicos.net/izho/index.html#2014,1,1
+288,9,2014,,Experimental,https://olimpicos.net/izho/index.html#2014,1,2
+289,9,2013,,Theory,https://olimpicos.net/izho/index.html#2013,1,1
+290,9,2012,,Theory,https://olimpicos.net/izho/index.html#2012,1,1
+291,9,2012,,Experimental,https://olimpicos.net/izho/index.html#2012,1,2
+292,9,2011,,Theory,https://olimpicos.net/izho/index.html#2011,1,1
+293,9,2011,,Experimental,https://olimpicos.net/izho/index.html#2011,1,2
+294,9,2010,,Theory,https://olimpicos.net/izho/index.html#2010,1,1
+295,9,2010,,Experimental,https://olimpicos.net/izho/index.html#2010,1,2
+296,10,2026,,Theory,https://olimpicos.net/ispho/index.html#2026,3,1
+297,10,2026,,Experimental,https://olimpicos.net/ispho/index.html#2026,1,2
+298,10,2025,,Theory,https://olimpicos.net/ispho/index.html#2025,3,1
+299,10,2025,,Experimental,https://olimpicos.net/ispho/index.html#2025,1,2
+300,10,2024,,Theory,https://olimpicos.net/ispho/index.html#2024,3,1
+301,10,2024,,Experimental,https://olimpicos.net/ispho/index.html#2024,1,2
+302,10,2023,,Theory,https://olimpicos.net/ispho/index.html#2023,3,1
+303,11,2026,F=ma,Problems,https://olimpicos.net/usapho/index.html#2026,25,1
+304,11,2026,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2026,6,2
+305,11,2025,F=ma,Problems,https://olimpicos.net/usapho/index.html#2025,25,1
+306,11,2025,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2025,6,2
+307,11,2024,F=ma,Problems,https://olimpicos.net/usapho/index.html#2024,25,1
+308,11,2024,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2024,6,2
+309,11,2023,F=ma,Problems,https://olimpicos.net/usapho/index.html#2023,25,1
+310,11,2023,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2023,6,2
+311,11,2022,F=ma,Exam A,https://olimpicos.net/usapho/index.html#2022,25,1
+312,11,2022,F=ma,Exam B,https://olimpicos.net/usapho/index.html#2022,25,2
+313,11,2022,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2022,6,3
+314,11,2022,Training Camp,Theoretical,https://olimpicos.net/usapho/index.html#2022,3,4
+315,11,2022,Training Camp,Mystery Lab,https://olimpicos.net/usapho/index.html#2022,1,5
+316,11,2021,F=ma,Problems,https://olimpicos.net/usapho/index.html#2021,25,1
+317,11,2021,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2021,6,2
+318,11,2021,USAPhO Plus,Problems,https://olimpicos.net/usapho/index.html#2021,3,3
+319,11,2020,F=ma,Exam A,https://olimpicos.net/usapho/index.html#2020,25,1
+320,11,2020,F=ma,Exam B,https://olimpicos.net/usapho/index.html#2020,25,2
+321,11,2020,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2020,6,3
+322,11,2019,F=ma,Exam A,https://olimpicos.net/usapho/index.html#2019,25,1
+323,11,2019,F=ma,Exam B,https://olimpicos.net/usapho/index.html#2019,25,2
+324,11,2019,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2019,6,3
+325,11,2018,F=ma,Exam A,https://olimpicos.net/usapho/index.html#2018,25,1
+326,11,2018,F=ma,Exam B,https://olimpicos.net/usapho/index.html#2018,25,2
+327,11,2018,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2018,6,3
+328,11,2017,F=ma,Problems,https://olimpicos.net/usapho/index.html#2017,25,1
+329,11,2017,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2017,6,2
+330,11,2016,F=ma,Problems,https://olimpicos.net/usapho/index.html#2016,25,1
+331,11,2016,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2016,6,2
+332,11,2015,F=ma,Problems,https://olimpicos.net/usapho/index.html#2015,25,1
+333,11,2015,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2015,6,2
+334,11,2014,F=ma,Problems,https://olimpicos.net/usapho/index.html#2014,25,1
+335,11,2014,USAPhO,Problems,https://olimpicos.net/usapho/index.html#2014,6,2
+336,11,2013,F=ma,Problems,https://olimpicos.net/usapho/index.html#2013,25,1
+337,11,2013,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2013,6,2
+338,11,2012,F=ma,Problems,https://olimpicos.net/usapho/index.html#2012,25,1
+339,11,2012,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2012,6,2
+340,11,2011,F=ma,Problems,https://olimpicos.net/usapho/index.html#2011,25,1
+341,11,2011,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2011,6,2
+342,11,2010,F=ma,Problems,https://olimpicos.net/usapho/index.html#2010,25,1
+343,11,2010,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2010,6,2
+344,11,2009,F=ma,Problems,https://olimpicos.net/usapho/index.html#2009,25,1
+345,11,2009,Quarterfinal,Problems,https://olimpicos.net/usapho/index.html#2009,4,2
+346,11,2009,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2009,6,3
+347,11,2008,F=ma,Problems,https://olimpicos.net/usapho/index.html#2008,25,1
+348,11,2008,Quarterfinal,Problems,https://olimpicos.net/usapho/index.html#2008,4,2
+349,11,2008,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2008,6,3
+350,11,2007,F=ma,Problems,https://olimpicos.net/usapho/index.html#2007,38,1
+351,11,2007,Semifinal,Problems,https://olimpicos.net/usapho/index.html#2007,6,2
+352,12,2022,,Theory,https://olimpicos.net/usatst/index.html#2022,1,1
+353,12,2022,,Experimental,https://olimpicos.net/usatst/index.html#2022,1,2
+354,12,2021,,Theory,https://olimpicos.net/usatst/index.html#2021,1,1
+355,13,2025,,Problems,https://olimpicos.net/cpho-f/index.html#2025,1,1
+356,13,2024,,Problems,https://olimpicos.net/cpho-f/index.html#2024,1,1
+357,13,2023,,Problems,https://olimpicos.net/cpho-f/index.html#2023,1,1
+358,13,2022,,Problems,https://olimpicos.net/cpho-f/index.html#2022,1,1
+359,13,2021,,Problems,https://olimpicos.net/cpho-f/index.html#2021,1,1
+360,13,2020,,Problems,https://olimpicos.net/cpho-f/index.html#2020,1,1
+361,13,2019,,Problems,https://olimpicos.net/cpho-f/index.html#2019,1,1
+362,13,2018,,Problems,https://olimpicos.net/cpho-f/index.html#2018,1,1
+363,13,2017,,Problems,https://olimpicos.net/cpho-f/index.html#2017,1,1
+364,13,2016,,Problems,https://olimpicos.net/cpho-f/index.html#2016,1,1
+365,13,2015,,Problems,https://olimpicos.net/cpho-f/index.html#2015,1,1
+366,13,2014,,Problems,https://olimpicos.net/cpho-f/index.html#2014,1,1
+367,13,2013,,Problems,https://olimpicos.net/cpho-f/index.html#2013,1,1
+368,13,2012,,Problems,https://olimpicos.net/cpho-f/index.html#2012,1,1
+369,13,2011,,Problems,https://olimpicos.net/cpho-f/index.html#2011,1,1
+370,13,2010,,Problems,https://olimpicos.net/cpho-f/index.html#2010,1,1
+371,13,2009,,Problems,https://olimpicos.net/cpho-f/index.html#2009,1,1
+372,13,2008,,Problems,https://olimpicos.net/cpho-f/index.html#2008,1,1
+373,13,2007,,Problems,https://olimpicos.net/cpho-f/index.html#2007,1,1
+374,13,2006,,Problems,https://olimpicos.net/cpho-f/index.html#2006,1,1
+375,13,2005,,Problems,https://olimpicos.net/cpho-f/index.html#2005,1,1
+376,13,2004,,Problems,https://olimpicos.net/cpho-f/index.html#2004,1,1
+377,13,2003,,Problems,https://olimpicos.net/cpho-f/index.html#2003,1,1
+378,14,2026,,Short Problems,https://olimpicos.net/panpho/index.html#2026,4,1
+379,14,2026,,Long Problems,https://olimpicos.net/panpho/index.html#2026,2,2
+380,14,2025,,Short Problems,https://olimpicos.net/panpho/index.html#2025,4,1
+381,14,2025,,Long Problems,https://olimpicos.net/panpho/index.html#2025,2,2
+382,14,2024,,Short Problems,https://olimpicos.net/panpho/index.html#2024,4,1
+383,14,2024,,Long Problems,https://olimpicos.net/panpho/index.html#2024,2,2
+384,14,2023,,Short Problems,https://olimpicos.net/panpho/index.html#2023,4,1
+385,14,2023,,Long Problems,https://olimpicos.net/panpho/index.html#2023,2,2
+386,14,2022,,Short Problems,https://olimpicos.net/panpho/index.html#2022,4,1
+387,14,2022,,Long Problems,https://olimpicos.net/panpho/index.html#2022,2,2
+388,14,2021,,Short Problems,https://olimpicos.net/panpho/index.html#2021,4,1
+389,14,2021,,Long Problems,https://olimpicos.net/panpho/index.html#2021,2,2
+390,14,2020,,Short Problems,https://olimpicos.net/panpho/index.html#2020,4,1
+391,14,2020,,Long Problems,https://olimpicos.net/panpho/index.html#2020,2,2
+392,14,2019,,Short Problems,https://olimpicos.net/panpho/index.html#2019,4,1
+393,14,2019,,Long Problems,https://olimpicos.net/panpho/index.html#2019,2,2
+394,14,2018,,Short Problems,https://olimpicos.net/panpho/index.html#2018,6,1
+395,14,2018,,Long Problems,https://olimpicos.net/panpho/index.html#2018,2,2
+396,14,2017,,Short Problems,https://olimpicos.net/panpho/index.html#2017,7,1
+397,14,2017,,Long Problems,https://olimpicos.net/panpho/index.html#2017,2,2
+398,14,2016,,Short Problems,https://olimpicos.net/panpho/index.html#2016,5,1
+399,14,2016,,Long Problems,https://olimpicos.net/panpho/index.html#2016,3,2
+400,14,2015,,Problems,https://olimpicos.net/panpho/index.html#2015,7,1
+401,14,2014,,Problems,https://olimpicos.net/panpho/index.html#2014,8,1
+402,14,2013,,Problems,https://olimpicos.net/panpho/index.html#2013,7,1
+403,14,2012,,Problems,https://olimpicos.net/panpho/index.html#2012,9,1
+404,14,2011,,Problems,https://olimpicos.net/panpho/index.html#2011,9,1
+405,14,2010,,Problems,https://olimpicos.net/panpho/index.html#2010,9,1
+406,14,2009,,Problems,https://olimpicos.net/panpho/index.html#2009,8,1
+407,14,2008,,Problems,https://olimpicos.net/panpho/index.html#2008,9,1
+408,14,2007,,Problems,https://olimpicos.net/panpho/index.html#2007,10,1
+409,14,2006,,Problems,https://olimpicos.net/panpho/index.html#2006,8,1
+410,14,2005,,Problems,https://olimpicos.net/panpho/index.html#2005,8,1
+411,15,2025,,Problems,https://olimpicos.net/vosh/index.html#2025,5,1
+412,15,2024,,Problems,https://olimpicos.net/vosh/index.html#2024,5,1
+413,15,2023,,Problems,https://olimpicos.net/vosh/index.html#2023,5,1
+414,15,2022,,Problems,https://olimpicos.net/vosh/index.html#2022,5,1
+415,15,2021,,Problems,https://olimpicos.net/vosh/index.html#2021,5,1
+416,15,2019,,Problems,https://olimpicos.net/vosh/index.html#2019,5,1
+417,15,2018,,Problems,https://olimpicos.net/vosh/index.html#2018,5,1
+418,15,2017,,Problems,https://olimpicos.net/vosh/index.html#2017,5,1
+419,15,2016,,Problems,https://olimpicos.net/vosh/index.html#2016,5,1
+420,15,2015,,Problems,https://olimpicos.net/vosh/index.html#2015,5,1
+421,15,2014,,Problems,https://olimpicos.net/vosh/index.html#2014,5,1
+422,15,2013,,Problems,https://olimpicos.net/vosh/index.html#2013,5,1
+423,15,2012,,Problems,https://olimpicos.net/vosh/index.html#2012,5,1
+424,15,2011,,Problems,https://olimpicos.net/vosh/index.html#2011,5,1
+425,15,2010,,Problems,https://olimpicos.net/vosh/index.html#2010,5,1
+426,16,2026,Stage X,Theory,https://olimpicos.net/rutst/index.html#2026,5,1
+427,16,2026,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2026,2,2
+428,16,2026,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2026,6,3
+429,16,2026,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2026,2,4
+430,16,2026,Stage W,Theory,https://olimpicos.net/rutst/index.html#2026,2,5
+431,16,2026,Stage W,Data Analysis,https://olimpicos.net/rutst/index.html#2026,2,6
+432,16,2025,Stage X,Theory,https://olimpicos.net/rutst/index.html#2025,6,1
+433,16,2025,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2025,2,2
+434,16,2025,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2025,6,3
+435,16,2025,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2025,2,4
+436,16,2025,Stage W,Theory,https://olimpicos.net/rutst/index.html#2025,2,5
+437,16,2025,Stage W,Data Analysis,https://olimpicos.net/rutst/index.html#2025,1,6
+438,16,2024,Stage X,Theory,https://olimpicos.net/rutst/index.html#2024,6,1
+439,16,2024,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2024,2,2
+440,16,2024,Stage X,Data Analysis,https://olimpicos.net/rutst/index.html#2024,1,3
+441,16,2024,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2024,6,4
+442,16,2024,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2024,2,5
+443,16,2024,Stage Y,Data Analysis,https://olimpicos.net/rutst/index.html#2024,1,6
+444,16,2024,Stage W,Theory,https://olimpicos.net/rutst/index.html#2024,2,7
+445,16,2024,Stage W,Data Analysis,https://olimpicos.net/rutst/index.html#2024,1,8
+446,16,2023,Stage X,Theory,https://olimpicos.net/rutst/index.html#2023,6,1
+447,16,2023,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2023,2,2
+448,16,2023,Stage X,Data Analysis,https://olimpicos.net/rutst/index.html#2023,1,3
+449,16,2023,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2023,6,4
+450,16,2023,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2023,2,5
+451,16,2023,Stage Y,Data Analysis,https://olimpicos.net/rutst/index.html#2023,1,6
+452,16,2023,Stage W,Theory,https://olimpicos.net/rutst/index.html#2023,2,7
+453,16,2023,Stage W,Data Analysis,https://olimpicos.net/rutst/index.html#2023,1,8
+454,16,2022,Stage X,Theory,https://olimpicos.net/rutst/index.html#2022,6,1
+455,16,2022,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2022,2,2
+456,16,2022,Stage X,Data Analysis,https://olimpicos.net/rutst/index.html#2022,1,3
+457,16,2022,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2022,6,4
+458,16,2022,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2022,1,5
+459,16,2022,Stage Y,Data Analysis,https://olimpicos.net/rutst/index.html#2022,3,6
+460,16,2022,Stage W,Theory,https://olimpicos.net/rutst/index.html#2022,2,7
+461,16,2022,Stage W,Data Analysis,https://olimpicos.net/rutst/index.html#2022,1,8
+462,16,2021,Stage X,Theory,https://olimpicos.net/rutst/index.html#2021,7,1
+463,16,2021,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2021,2,2
+464,16,2021,Stage X,Data Analysis,https://olimpicos.net/rutst/index.html#2021,1,3
+465,16,2021,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2021,6,4
+466,16,2021,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2021,1,5
+467,16,2021,Stage Y,Data Analysis,https://olimpicos.net/rutst/index.html#2021,3,6
+468,16,2021,Stage W,Theory,https://olimpicos.net/rutst/index.html#2021,7,7
+469,16,2021,Stage W,Experimental,https://olimpicos.net/rutst/index.html#2021,2,8
+470,16,2021,Stage W,Data Analysis,https://olimpicos.net/rutst/index.html#2021,1,9
+471,16,2020,Stage X,Theory,https://olimpicos.net/rutst/index.html#2020,7,1
+472,16,2020,Stage X,Experimental,https://olimpicos.net/rutst/index.html#2020,2,2
+473,16,2020,Stage X,Data Analysis,https://olimpicos.net/rutst/index.html#2020,1,3
+474,16,2020,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2020,7,4
+475,16,2020,Stage Y,Experimental,https://olimpicos.net/rutst/index.html#2020,2,5
+476,16,2020,Stage Y,Data Analysis,https://olimpicos.net/rutst/index.html#2020,1,6
+477,16,2019,Stage X,Theory,https://olimpicos.net/rutst/index.html#2019,8,1
+478,16,2019,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2019,6,2
+479,16,2018,Stage X,Theory,https://olimpicos.net/rutst/index.html#2018,8,1
+480,16,2018,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2018,6,2
+481,16,2017,Stage X,Theory,https://olimpicos.net/rutst/index.html#2017,6,1
+482,16,2017,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2017,6,2
+483,16,2016,Stage X,Theory,https://olimpicos.net/rutst/index.html#2016,5,1
+484,16,2016,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2016,6,2
+485,16,2014,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2014,10,1
+486,16,2013,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2013,9,1
+487,16,2012,Stage Y,Theory,https://olimpicos.net/rutst/index.html#2012,3,1
+488,17,2024,тур 1,Problems,https://olimpicos.net/mosphys/index.html#2024,5,1
+489,17,2023,тур 1,Problems,https://olimpicos.net/mosphys/index.html#2023,5,1
+490,17,2022,тур 1,Problems,https://olimpicos.net/mosphys/index.html#2022,5,1
+491,17,2021,тур 1,Problems,https://olimpicos.net/mosphys/index.html#2021,5,1
+492,17,2020,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2020,5,1
+493,17,2019,первый тур,Problems,https://olimpicos.net/mosphys/index.html#2019,5,1
+494,17,2018,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2018,5,1
+495,17,2017,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2017,5,1
+496,17,2016,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2016,5,1
+497,17,2015,первый тур,Problems,https://olimpicos.net/mosphys/index.html#2015,5,1
+498,17,2014,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2014,5,1
+499,17,2013,1-й тур,Problems,https://olimpicos.net/mosphys/index.html#2013,5,1
+500,17,2012,1-й тур,Problems,https://olimpicos.net/mosphys/index.html#2012,5,1
+501,17,2011,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2011,5,1
+502,17,2010,1 тур,Problems,https://olimpicos.net/mosphys/index.html#2010,5,1
+503,18,2025,,Problems,https://olimpicos.net/inpho/index.html#2025,5,1
+504,18,2024,,Problems,https://olimpicos.net/inpho/index.html#2024,6,1
+505,18,2023,,Problems,https://olimpicos.net/inpho/index.html#2023,5,1
+506,18,2022,,Problems,https://olimpicos.net/inpho/index.html#2022,5,1
+507,18,2021,,Problems,https://olimpicos.net/inpho/index.html#2021,5,1
+508,18,2020,,Problems,https://olimpicos.net/inpho/index.html#2020,5,1
+509,18,2019,,Problems,https://olimpicos.net/inpho/index.html#2019,7,1
+510,18,2018,,Problems,https://olimpicos.net/inpho/index.html#2018,7,1
+511,18,2017,,Problems,https://olimpicos.net/inpho/index.html#2017,6,1
+512,18,2016,,Problems,https://olimpicos.net/inpho/index.html#2016,6,1
+513,18,2015,,Problems,https://olimpicos.net/inpho/index.html#2015,6,1
+514,18,2014,,Problems,https://olimpicos.net/inpho/index.html#2014,8,1
+515,18,2013,,Problems,https://olimpicos.net/inpho/index.html#2013,7,1
+516,18,2012,,Problems,https://olimpicos.net/inpho/index.html#2012,5,1
+517,18,2011,,Problems,https://olimpicos.net/inpho/index.html#2011,7,1
+518,18,2010,,Problems,https://olimpicos.net/inpho/index.html#2010,5,1
+519,18,2009,,Problems,https://olimpicos.net/inpho/index.html#2009,1,1
+520,18,2008,,Problems,https://olimpicos.net/inpho/index.html#2008,7,1
+521,19,2025,,Problems,https://olimpicos.net/obf/index.html#2025,8,1
+522,19,2024,,Problems,https://olimpicos.net/obf/index.html#2024,8,1
+523,19,2020,,Problems,https://olimpicos.net/obf/index.html#2020,8,1
+524,19,2017,,Problems,https://olimpicos.net/obf/index.html#2017,8,1
+525,19,2016,,Problems,https://olimpicos.net/obf/index.html#2016,8,1
+526,19,2015,,Problems,https://olimpicos.net/obf/index.html#2015,8,1
+527,19,2014,,Problems,https://olimpicos.net/obf/index.html#2014,8,1
+528,19,2011,,Problems,https://olimpicos.net/obf/index.html#2011,8,1
+529,19,2010,,Problems,https://olimpicos.net/obf/index.html#2010,8,1
+530,19,2009,,Problems,https://olimpicos.net/obf/index.html#2009,8,1
+531,19,2007,,Problems,https://olimpicos.net/obf/index.html#2007,8,1
+532,19,2006,,Problems,https://olimpicos.net/obf/index.html#2006,8,1
+533,20,2026,,Problems,https://olimpicos.net/brtst/index.html#2026,5,1
+534,20,2025,,Problems,https://olimpicos.net/brtst/index.html#2025,5,1
+535,20,2024,,Problems,https://olimpicos.net/brtst/index.html#2024,5,1
+536,20,2023,,Problems,https://olimpicos.net/brtst/index.html#2023,5,1
+537,20,2021,,Problems,https://olimpicos.net/brtst/index.html#2021,6,1
+538,21,2025,Round 2,Problems,https://olimpicos.net/bpho/index.html#2025,1,1
+539,21,2024,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2024,1,1
+540,21,2024,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2024,1,2
+541,21,2024,Round 2,Problems,https://olimpicos.net/bpho/index.html#2024,1,3
+542,21,2023,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2023,1,1
+543,21,2023,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2023,1,2
+544,21,2023,Round 2,Problems,https://olimpicos.net/bpho/index.html#2023,1,3
+545,21,2022,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2022,1,1
+546,21,2022,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2022,1,2
+547,21,2022,Round 2,Problems,https://olimpicos.net/bpho/index.html#2022,1,3
+548,21,2021,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2021,1,1
+549,21,2021,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2021,1,2
+550,21,2021,Round 2,Problems,https://olimpicos.net/bpho/index.html#2021,1,3
+551,21,2020,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2020,1,1
+552,21,2020,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2020,1,2
+553,21,2020,Round 2,Problems,https://olimpicos.net/bpho/index.html#2020,1,3
+554,21,2019,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2019,1,1
+555,21,2019,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2019,1,2
+556,21,2019,Round 2,Problems,https://olimpicos.net/bpho/index.html#2019,1,3
+557,21,2018,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2018,1,1
+558,21,2018,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2018,1,2
+559,21,2018,Round 2,Problems,https://olimpicos.net/bpho/index.html#2018,1,3
+560,21,2017,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2017,1,1
+561,21,2017,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2017,1,2
+562,21,2017,Round 2,Problems,https://olimpicos.net/bpho/index.html#2017,1,3
+563,21,2016,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2016,1,1
+564,21,2016,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2016,1,2
+565,21,2016,Round 2,Problems,https://olimpicos.net/bpho/index.html#2016,1,3
+566,21,2015,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2015,1,1
+567,21,2015,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2015,1,2
+568,21,2015,Round 2,Problems,https://olimpicos.net/bpho/index.html#2015,1,3
+569,21,2014,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2014,1,1
+570,21,2014,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2014,1,2
+571,21,2014,Round 2,Problems,https://olimpicos.net/bpho/index.html#2014,1,3
+572,21,2013,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2013,1,1
+573,21,2013,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2013,1,2
+574,21,2013,Round 2,Problems,https://olimpicos.net/bpho/index.html#2013,1,3
+575,21,2012,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2012,1,1
+576,21,2012,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2012,1,2
+577,21,2012,Round 2,Problems,https://olimpicos.net/bpho/index.html#2012,1,3
+578,21,2011,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2011,1,1
+579,21,2011,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2011,1,2
+580,21,2011,Round 2,Problems,https://olimpicos.net/bpho/index.html#2011,1,3
+581,21,2010,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2010,1,1
+582,21,2010,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2010,1,2
+583,21,2010,Round 2,Problems,https://olimpicos.net/bpho/index.html#2010,1,3
+584,21,2009,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2009,1,1
+585,21,2009,Round 1,Section 2,https://olimpicos.net/bpho/index.html#2009,1,2
+586,21,2008,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2008,1,1
+587,21,2008,Round 2,Problems,https://olimpicos.net/bpho/index.html#2008,1,2
+588,21,2007,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2007,1,1
+589,21,2007,Round 2,Problems,https://olimpicos.net/bpho/index.html#2007,1,2
+590,21,2006,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2006,1,1
+591,21,2006,Round 2,Problems,https://olimpicos.net/bpho/index.html#2006,1,2
+592,21,2005,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2005,1,1
+593,21,2005,Round 2,Problems,https://olimpicos.net/bpho/index.html#2005,1,2
+594,21,2004,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2004,1,1
+595,21,2004,Round 2,Problems,https://olimpicos.net/bpho/index.html#2004,1,2
+596,21,2003,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2003,1,1
+597,21,2003,Round 2,Problems,https://olimpicos.net/bpho/index.html#2003,1,2
+598,21,2002,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2002,1,1
+599,21,2001,Round 1,Section 1,https://olimpicos.net/bpho/index.html#2001,1,1
+600,22,2025,,Problems,https://olimpicos.net/onf/index.html#2025,3,1
+601,22,2024,,Problems,https://olimpicos.net/onf/index.html#2024,3,1
+602,22,2023,,Problems,https://olimpicos.net/onf/index.html#2023,3,1
+603,22,2022,,Problems,https://olimpicos.net/onf/index.html#2022,3,1
+604,22,2019,,Problems,https://olimpicos.net/onf/index.html#2019,3,1
+605,22,2018,,Problems,https://olimpicos.net/onf/index.html#2018,3,1
+606,22,2017,,Problems,https://olimpicos.net/onf/index.html#2017,3,1
+607,22,2016,,Problems,https://olimpicos.net/onf/index.html#2016,3,1
+608,22,2015,,Problems,https://olimpicos.net/onf/index.html#2015,3,1
+609,22,2014,,Problems,https://olimpicos.net/onf/index.html#2014,3,1
+610,22,2013,,Problems,https://olimpicos.net/onf/index.html#2013,3,1
+611,22,2012,,Problems,https://olimpicos.net/onf/index.html#2012,3,1
+612,22,2011,,Problems,https://olimpicos.net/onf/index.html#2011,3,1
+613,22,2010,,Problems,https://olimpicos.net/onf/index.html#2010,3,1
+614,22,2009,,Problems,https://olimpicos.net/onf/index.html#2009,3,1
+615,22,2008,,Problems,https://olimpicos.net/onf/index.html#2008,3,1
+616,22,2007,,Problems,https://olimpicos.net/onf/index.html#2007,3,1
+617,22,2006,,Problems,https://olimpicos.net/onf/index.html#2006,3,1
+618,22,2005,,Problems,https://olimpicos.net/onf/index.html#2005,3,1
+619,22,2004,,Problems,https://olimpicos.net/onf/index.html#2004,3,1
+620,22,2003,,Problems,https://olimpicos.net/onf/index.html#2003,3,1
+621,23,2025,,Theory,https://olimpicos.net/upho/index.html#2025,5,1
+622,24,2025,,Problems,https://olimpicos.net/eotvos/index.html#2025,3,1
+623,24,2024,,Problems,https://olimpicos.net/eotvos/index.html#2024,3,1
+624,24,2023,,Problems,https://olimpicos.net/eotvos/index.html#2023,3,1
+625,24,2022,,Problems,https://olimpicos.net/eotvos/index.html#2022,3,1
+626,24,2021,,Problems,https://olimpicos.net/eotvos/index.html#2021,3,1
+627,24,2020,,Problems,https://olimpicos.net/eotvos/index.html#2020,3,1
+628,24,2019,,Problems,https://olimpicos.net/eotvos/index.html#2019,3,1
+629,24,2018,,Problems,https://olimpicos.net/eotvos/index.html#2018,3,1
+630,24,2017,,Problems,https://olimpicos.net/eotvos/index.html#2017,3,1
+631,24,2016,,Problems,https://olimpicos.net/eotvos/index.html#2016,3,1
+632,24,2015,,Problems,https://olimpicos.net/eotvos/index.html#2015,3,1
+633,24,2014,,Problems,https://olimpicos.net/eotvos/index.html#2014,3,1
+634,25,2026,,Problems,https://olimpicos.net/fyziklani/index.html#2026,58,1
+635,25,2025,,Problems,https://olimpicos.net/fyziklani/index.html#2025,56,1
+636,25,2024,,Problems,https://olimpicos.net/fyziklani/index.html#2024,54,1
+637,25,2023,,Problems,https://olimpicos.net/fyziklani/index.html#2023,51,1
+638,25,2022,,Problems,https://olimpicos.net/fyziklani/index.html#2022,50,1
+639,25,2021,,Problems,https://olimpicos.net/fyziklani/index.html#2021,56,1
+640,25,2020,,Problems,https://olimpicos.net/fyziklani/index.html#2020,51,1
+641,25,2019,,Problems,https://olimpicos.net/fyziklani/index.html#2019,50,1
+642,25,2018,,Problems,https://olimpicos.net/fyziklani/index.html#2018,51,1
+643,25,2017,,Problems,https://olimpicos.net/fyziklani/index.html#2017,50,1
+644,25,2016,,Problems,https://olimpicos.net/fyziklani/index.html#2016,49,1
+645,25,2015,,Problems,https://olimpicos.net/fyziklani/index.html#2015,53,1
+646,25,2014,,Problems,https://olimpicos.net/fyziklani/index.html#2014,51,1
+647,25,2013,,Problems,https://olimpicos.net/fyziklani/index.html#2013,47,1
+648,25,2012,,Problems,https://olimpicos.net/fyziklani/index.html#2012,42,1
+649,25,2011,,Problems,https://olimpicos.net/fyziklani/index.html#2011,38,1
+650,25,2010,,Problems,https://olimpicos.net/fyziklani/index.html#2010,40,1
+651,25,2009,,Problems,https://olimpicos.net/fyziklani/index.html#2009,40,1
+652,25,2008,,Problems,https://olimpicos.net/fyziklani/index.html#2008,40,1
+653,25,2006,,Problems,https://olimpicos.net/fyziklani/index.html#2006,42,1
+654,26,2022,,Problems,https://olimpicos.net/efo/index.html#2022,10,1
+655,26,2021,,Problems,https://olimpicos.net/efo/index.html#2021,10,1
+656,26,2020,,Problems,https://olimpicos.net/efo/index.html#2020,10,1
+657,26,2019,,Problems,https://olimpicos.net/efo/index.html#2019,10,1
+658,26,2018,,Problems,https://olimpicos.net/efo/index.html#2018,10,1
+659,26,2017,,Problems,https://olimpicos.net/efo/index.html#2017,10,1
+660,26,2016,,Problems,https://olimpicos.net/efo/index.html#2016,10,1
+661,26,2015,,Problems,https://olimpicos.net/efo/index.html#2015,10,1
+662,26,2014,,Problems,https://olimpicos.net/efo/index.html#2014,10,1
+663,26,2013,,Problems,https://olimpicos.net/efo/index.html#2013,10,1
+664,26,2012,,Problems,https://olimpicos.net/efo/index.html#2012,10,1
+665,26,2011,,Problems,https://olimpicos.net/efo/index.html#2011,10,1
+666,26,2010,,Problems,https://olimpicos.net/efo/index.html#2010,10,1
+667,26,2009,,Problems,https://olimpicos.net/efo/index.html#2009,10,1
+668,26,2008,,Problems,https://olimpicos.net/efo/index.html#2008,10,1
+669,26,2007,,Problems,https://olimpicos.net/efo/index.html#2007,10,1
+670,26,2006,,Problems,https://olimpicos.net/efo/index.html#2006,10,1
+671,26,2005,,Problems,https://olimpicos.net/efo/index.html#2005,10,1
+672,26,2004,,Problems,https://olimpicos.net/efo/index.html#2004,10,1
+673,26,2003,,Problems,https://olimpicos.net/efo/index.html#2003,10,1
+674,26,2002,,Problems,https://olimpicos.net/efo/index.html#2002,10,1
+675,26,2001,,Problems,https://olimpicos.net/efo/index.html#2001,10,1
+676,26,2000,,Problems,https://olimpicos.net/efo/index.html#2000,10,1
+677,26,1999,,Problems,https://olimpicos.net/efo/index.html#1999,10,1
+678,26,1998,,Problems,https://olimpicos.net/efo/index.html#1998,10,1
+679,27,2026,,Problems,https://olimpicos.net/twpho-tst/index.html#2026,6,1
+680,27,2025,,Problems,https://olimpicos.net/twpho-tst/index.html#2025,6,1
+681,27,2024,,Problems,https://olimpicos.net/twpho-tst/index.html#2024,6,1
+682,27,2023,,Problems,https://olimpicos.net/twpho-tst/index.html#2023,6,1
+683,27,2022,,Problems,https://olimpicos.net/twpho-tst/index.html#2022,6,1
+684,27,2021,,Problems,https://olimpicos.net/twpho-tst/index.html#2021,6,1
+685,27,2020,,Problems,https://olimpicos.net/twpho-tst/index.html#2020,6,1
+686,27,2019,,Problems,https://olimpicos.net/twpho-tst/index.html#2019,6,1
+687,27,2018,,Problems,https://olimpicos.net/twpho-tst/index.html#2018,6,1
+688,27,2017,,Problems,https://olimpicos.net/twpho-tst/index.html#2017,6,1
+689,27,2016,,Problems,https://olimpicos.net/twpho-tst/index.html#2016,6,1
+690,27,2015,,Problems,https://olimpicos.net/twpho-tst/index.html#2015,1,1
+691,27,2014,,Problems,https://olimpicos.net/twpho-tst/index.html#2014,1,1
+692,27,2013,,Problems,https://olimpicos.net/twpho-tst/index.html#2013,1,1
+693,27,2012,,Problems,https://olimpicos.net/twpho-tst/index.html#2012,1,1
+694,27,2011,,Problems,https://olimpicos.net/twpho-tst/index.html#2011,1,1
+695,27,2010,,Problems,https://olimpicos.net/twpho-tst/index.html#2010,1,1
+696,28,2024,,Problems,https://olimpicos.net/twpho-camp/index.html#2024,1,1
+697,28,2022,,Exam 1,https://olimpicos.net/twpho-camp/index.html#2022,1,1
+698,28,2022,,Exam 2,https://olimpicos.net/twpho-camp/index.html#2022,1,2
+699,28,2021,,Exam 1,https://olimpicos.net/twpho-camp/index.html#2021,1,1
+700,28,2021,,Exam 2,https://olimpicos.net/twpho-camp/index.html#2021,1,2
+701,28,2021,,Mock APhO,https://olimpicos.net/twpho-camp/index.html#2021,1,3
+702,28,2020,,Exam 1,https://olimpicos.net/twpho-camp/index.html#2020,1,1
+703,28,2020,,Exam 2,https://olimpicos.net/twpho-camp/index.html#2020,1,2
+704,28,2020,,Mock APhO,https://olimpicos.net/twpho-camp/index.html#2020,1,3
+705,28,2019,,Exam 1,https://olimpicos.net/twpho-camp/index.html#2019,1,1
+706,28,2019,,Exam 2,https://olimpicos.net/twpho-camp/index.html#2019,1,2
+707,28,2019,,Mock APhO,https://olimpicos.net/twpho-camp/index.html#2019,1,3
+708,28,2018,,Exam 1,https://olimpicos.net/twpho-camp/index.html#2018,1,1
+709,28,2018,,Exam 2,https://olimpicos.net/twpho-camp/index.html#2018,1,2
+710,28,2018,,Mock APhO,https://olimpicos.net/twpho-camp/index.html#2018,1,3
+711,28,2017,,Exam 1,https://olimpicos.net/twpho-camp/index.html#2017,1,1
+712,28,2017,,Exam 2,https://olimpicos.net/twpho-camp/index.html#2017,1,2
+713,28,2017,,Mock APhO,https://olimpicos.net/twpho-camp/index.html#2017,1,3
+714,29,2025,,Problems,https://olimpicos.net/spho/index.html#2025,1,1
+715,29,2024,,Problems,https://olimpicos.net/spho/index.html#2024,1,1
+716,29,2023,,Paper 1,https://olimpicos.net/spho/index.html#2023,1,1
+717,29,2023,,Paper 2,https://olimpicos.net/spho/index.html#2023,1,2
+718,29,2022,,Paper 1,https://olimpicos.net/spho/index.html#2022,1,1
+719,29,2022,,Paper 2,https://olimpicos.net/spho/index.html#2022,1,2
+720,29,2021,,Problems,https://olimpicos.net/spho/index.html#2021,1,1
+721,29,2020,,Problems,https://olimpicos.net/spho/index.html#2020,1,1
+722,29,2019,,Paper 1,https://olimpicos.net/spho/index.html#2019,1,1
+723,29,2019,,Paper 2,https://olimpicos.net/spho/index.html#2019,1,2
+724,29,2018,,Paper 1,https://olimpicos.net/spho/index.html#2018,1,1
+725,29,2018,,Paper 2,https://olimpicos.net/spho/index.html#2018,1,2
+726,29,2017,,Paper 1,https://olimpicos.net/spho/index.html#2017,1,1
+727,29,2017,,Paper 2,https://olimpicos.net/spho/index.html#2017,1,2
+728,29,2016,,Problems,https://olimpicos.net/spho/index.html#2016,1,1
+729,29,2014,,Problems,https://olimpicos.net/spho/index.html#2014,1,1
+730,29,2013,,Problems,https://olimpicos.net/spho/index.html#2013,1,1
+731,29,2012,,Problems,https://olimpicos.net/spho/index.html#2012,1,1
+732,29,2011,,Problems,https://olimpicos.net/spho/index.html#2011,1,1
+733,29,2009,,Problems,https://olimpicos.net/spho/index.html#2009,1,1
+734,29,2007,,Problems,https://olimpicos.net/spho/index.html#2007,1,1
+735,29,2006,,Problems,https://olimpicos.net/spho/index.html#2006,1,1
+736,29,2005,,Problems,https://olimpicos.net/spho/index.html#2005,1,1
+737,29,2004,,Problems,https://olimpicos.net/spho/index.html#2004,1,1
+738,29,2003,,Problems,https://olimpicos.net/spho/index.html#2003,1,1
+739,29,2002,,Problems,https://olimpicos.net/spho/index.html#2002,1,1
+740,30,2026,,Problems,https://olimpicos.net/spho-tst/index.html#2026,1,1
+741,30,2025,,Problems,https://olimpicos.net/spho-tst/index.html#2025,1,1
+742,30,2024,,Problems,https://olimpicos.net/spho-tst/index.html#2024,1,1
+743,30,2023,,Problems,https://olimpicos.net/spho-tst/index.html#2023,1,1
+744,30,2022,,Problems,https://olimpicos.net/spho-tst/index.html#2022,1,1
+745,30,2020,,Problems,https://olimpicos.net/spho-tst/index.html#2020,1,1
+746,30,2019,,Problems,https://olimpicos.net/spho-tst/index.html#2019,1,1
+747,30,2018,,Problems,https://olimpicos.net/spho-tst/index.html#2018,1,1
+748,30,2017,,Problems,https://olimpicos.net/spho-tst/index.html#2017,1,1
+749,31,2026,,Problems,https://olimpicos.net/sjpo/index.html#2026,1,1
+750,31,2025,,Problems,https://olimpicos.net/sjpo/index.html#2025,1,1
+751,31,2024,,Problems,https://olimpicos.net/sjpo/index.html#2024,1,1
+752,31,2023,,Problems,https://olimpicos.net/sjpo/index.html#2023,1,1
+753,31,2022,,Problems,https://olimpicos.net/sjpo/index.html#2022,1,1
+754,31,2019,,Problems,https://olimpicos.net/sjpo/index.html#2019,1,1
+755,31,2018,,Problems,https://olimpicos.net/sjpo/index.html#2018,1,1
+756,31,2017,,Problems,https://olimpicos.net/sjpo/index.html#2017,1,1
+757,31,2016,,Problems,https://olimpicos.net/sjpo/index.html#2016,1,1
+758,31,2015,,Problems,https://olimpicos.net/sjpo/index.html#2015,1,1
+759,31,2014,,Problems,https://olimpicos.net/sjpo/index.html#2014,1,1
+760,31,2013,,Problems,https://olimpicos.net/sjpo/index.html#2013,1,1
+761,31,2012,,Problems,https://olimpicos.net/sjpo/index.html#2012,1,1
+762,31,2011,,Problems,https://olimpicos.net/sjpo/index.html#2011,1,1
+763,31,2010,,Problems,https://olimpicos.net/sjpo/index.html#2010,1,1
+764,31,2009,,Problems,https://olimpicos.net/sjpo/index.html#2009,1,1
+765,31,2008,,Problems,https://olimpicos.net/sjpo/index.html#2008,1,1
+766,32,2022,,Round 1,https://olimpicos.net/kphc/index.html#2022,1,1
+767,32,2022,,Round 2,https://olimpicos.net/kphc/index.html#2022,1,2
+768,32,2021,,Problems,https://olimpicos.net/kphc/index.html#2021,1,1
+769,32,2020,,Problems,https://olimpicos.net/kphc/index.html#2020,1,1
+770,32,2019,,Problems,https://olimpicos.net/kphc/index.html#2019,1,1
+771,32,2018,,Problems,https://olimpicos.net/kphc/index.html#2018,1,1
+772,32,2017,,Problems,https://olimpicos.net/kphc/index.html#2017,1,1
+773,32,2016,,Problems,https://olimpicos.net/kphc/index.html#2016,1,1
+774,32,2015,,Round 1,https://olimpicos.net/kphc/index.html#2015,1,1
+775,32,2015,,Round 2,https://olimpicos.net/kphc/index.html#2015,1,2
+776,33,2025,,Problems,https://olimpicos.net/aupho/index.html#2025,1,1
+777,33,2024,,Problems,https://olimpicos.net/aupho/index.html#2024,1,1
+778,33,2023,,Problems,https://olimpicos.net/aupho/index.html#2023,1,1
+779,33,2022,,Problems,https://olimpicos.net/aupho/index.html#2022,1,1
+780,33,2021,,Problems,https://olimpicos.net/aupho/index.html#2021,1,1
+781,33,2020,,Problems,https://olimpicos.net/aupho/index.html#2020,1,1
+782,33,2019,,Problems,https://olimpicos.net/aupho/index.html#2019,1,1
+783,33,2017,,Problems,https://olimpicos.net/aupho/index.html#2017,1,1
+784,33,2016,,Problems,https://olimpicos.net/aupho/index.html#2016,1,1
+785,33,2015,,Problems,https://olimpicos.net/aupho/index.html#2015,1,1
+786,33,2014,,Problems,https://olimpicos.net/aupho/index.html#2014,1,1
+787,33,2013,,Problems,https://olimpicos.net/aupho/index.html#2013,1,1
+788,33,2012,,Problems,https://olimpicos.net/aupho/index.html#2012,1,1
+789,33,2011,,Problems,https://olimpicos.net/aupho/index.html#2011,1,1
+790,33,2010,,Problems,https://olimpicos.net/aupho/index.html#2010,1,1
+791,33,2009,,Problems,https://olimpicos.net/aupho/index.html#2009,1,1
+792,33,2008,,Problems,https://olimpicos.net/aupho/index.html#2008,2,1
+793,33,2007,,Problems,https://olimpicos.net/aupho/index.html#2007,1,1
+794,34,2024,,Problems,https://olimpicos.net/osn-fisika/index.html#2024,40,1
+795,34,2023,,Problems,https://olimpicos.net/osn-fisika/index.html#2023,40,1
+796,34,2020,,Problems,https://olimpicos.net/osn-fisika/index.html#2020,7,1
+797,34,2019,,Problems,https://olimpicos.net/osn-fisika/index.html#2019,8,1
+798,35,2026,,Problems,https://olimpicos.net/azpho/index.html#2026,20,1
+799,35,2025,,Problems,https://olimpicos.net/azpho/index.html#2025,30,1
+800,35,2020,,Problems,https://olimpicos.net/azpho/index.html#2020,5,1
+801,36,2025,Open,Problems,https://olimpicos.net/opho/index.html#2025,35,1
+802,36,2025,Invitational,Part I,https://olimpicos.net/opho/index.html#2025,3,2
+803,36,2025,Invitational,Part II,https://olimpicos.net/opho/index.html#2025,2,3
+804,36,2024,Open,Problems,https://olimpicos.net/opho/index.html#2024,35,1
+805,36,2024,Invitational,Theory,https://olimpicos.net/opho/index.html#2024,4,2
+806,36,2024,Invitational,Experimental,https://olimpicos.net/opho/index.html#2024,1,3
+807,36,2023,Open,Problems,https://olimpicos.net/opho/index.html#2023,35,1
+808,36,2023,Invitational,Theory,https://olimpicos.net/opho/index.html#2023,3,2
+809,36,2023,Invitational,Experimental,https://olimpicos.net/opho/index.html#2023,1,3
+810,36,2022,Open,Problems,https://olimpicos.net/opho/index.html#2022,35,1
+811,36,2022,Invitational,Theory,https://olimpicos.net/opho/index.html#2022,5,2
+812,36,2022,Invitational,Experimental,https://olimpicos.net/opho/index.html#2022,1,3
+813,36,2021,Open,Problems,https://olimpicos.net/opho/index.html#2021,35,1
+814,36,2021,Invitational,Theory,https://olimpicos.net/opho/index.html#2021,4,2
+815,36,2021,Invitational,Experimental,https://olimpicos.net/opho/index.html#2021,1,3
+816,36,2020,Open,Problems,https://olimpicos.net/opho/index.html#2020,55,1
+817,36,2020,Invitational,Problems,https://olimpicos.net/opho/index.html#2020,10,2
+818,37,2025,,Problems,https://olimpicos.net/physicsbrawl/index.html#2025,68,1
+819,37,2024,,Problems,https://olimpicos.net/physicsbrawl/index.html#2024,62,1
+820,37,2023,,Problems,https://olimpicos.net/physicsbrawl/index.html#2023,69,1
+821,37,2022,,Problems,https://olimpicos.net/physicsbrawl/index.html#2022,69,1
+822,37,2021,,Problems,https://olimpicos.net/physicsbrawl/index.html#2021,66,1
+823,37,2020,,Problems,https://olimpicos.net/physicsbrawl/index.html#2020,63,1
+824,37,2019,,Problems,https://olimpicos.net/physicsbrawl/index.html#2019,62,1
+825,37,2018,,Problems,https://olimpicos.net/physicsbrawl/index.html#2018,60,1
+826,37,2017,,Problems,https://olimpicos.net/physicsbrawl/index.html#2017,63,1
+827,37,2016,,Problems,https://olimpicos.net/physicsbrawl/index.html#2016,67,1
+828,37,2015,,Problems,https://olimpicos.net/physicsbrawl/index.html#2015,62,1
+829,37,2014,,Problems,https://olimpicos.net/physicsbrawl/index.html#2014,54,1
+830,37,2013,,Problems,https://olimpicos.net/physicsbrawl/index.html#2013,49,1
+831,37,2012,,Problems,https://olimpicos.net/physicsbrawl/index.html#2012,44,1
+832,38,2026,,Problems,https://olimpicos.net/ortvay/index.html#2026,24,1
+833,38,2025,,Problems,https://olimpicos.net/ortvay/index.html#2025,25,1
+834,38,2024,,Problems,https://olimpicos.net/ortvay/index.html#2024,32,1
+835,38,2023,,Problems,https://olimpicos.net/ortvay/index.html#2023,33,1
+836,38,2022,,Problems,https://olimpicos.net/ortvay/index.html#2022,28,1
+837,38,2020,,Problems,https://olimpicos.net/ortvay/index.html#2020,28,1
+838,38,2019,,Problems,https://olimpicos.net/ortvay/index.html#2019,50,1
+839,38,2018,,Problems,https://olimpicos.net/ortvay/index.html#2018,33,1
+840,38,2017,,Problems,https://olimpicos.net/ortvay/index.html#2017,40,1
+841,38,2016,,Problems,https://olimpicos.net/ortvay/index.html#2016,36,1
+842,38,2015,,Problems,https://olimpicos.net/ortvay/index.html#2015,31,1
+843,38,2014,,Problems,https://olimpicos.net/ortvay/index.html#2014,35,1
+844,38,2013,,Problems,https://olimpicos.net/ortvay/index.html#2013,31,1
+845,38,2012,,Problems,https://olimpicos.net/ortvay/index.html#2012,29,1
+846,38,2011,,Problems,https://olimpicos.net/ortvay/index.html#2011,42,1
+847,38,2010,,Problems,https://olimpicos.net/ortvay/index.html#2010,35,1
+848,38,2009,,Problems,https://olimpicos.net/ortvay/index.html#2009,31,1
+849,38,2008,,Problems,https://olimpicos.net/ortvay/index.html#2008,36,1
+850,38,2007,,Problems,https://olimpicos.net/ortvay/index.html#2007,32,1
+851,38,2006,,Problems,https://olimpicos.net/ortvay/index.html#2006,33,1
+852,38,2005,,Problems,https://olimpicos.net/ortvay/index.html#2005,42,1
+853,38,2004,,Problems,https://olimpicos.net/ortvay/index.html#2004,32,1
+854,38,2003,,Problems,https://olimpicos.net/ortvay/index.html#2003,42,1
+855,38,2002,,Problems,https://olimpicos.net/ortvay/index.html#2002,33,1
+856,38,2001,,Problems,https://olimpicos.net/ortvay/index.html#2001,34,1
+857,38,2000,,Problems,https://olimpicos.net/ortvay/index.html#2000,37,1
+858,38,1999,,Problems,https://olimpicos.net/ortvay/index.html#1999,34,1
+859,38,1998,,Problems,https://olimpicos.net/ortvay/index.html#1998,35,1
+860,38,1997,,Problems,https://olimpicos.net/ortvay/index.html#1997,42,1
+861,39,2019,,Problems,https://olimpicos.net/physicscup/index.html#2019,5,1
+862,39,2018,,Problems,https://olimpicos.net/physicscup/index.html#2018,5,1
+863,39,2017,,Problems,https://olimpicos.net/physicscup/index.html#2017,4,1
+864,40,2004,,Problems,https://olimpicos.net/baupc/index.html#2004,1,1
+865,40,2003,,Problems,https://olimpicos.net/baupc/index.html#2003,1,1
+866,40,2002,,Problems,https://olimpicos.net/baupc/index.html#2002,1,1
+867,40,2001,,Problems,https://olimpicos.net/baupc/index.html#2001,1,1
+868,40,2000,,Problems,https://olimpicos.net/baupc/index.html#2000,1,1
+869,40,1999,,Problems,https://olimpicos.net/baupc/index.html#1999,1,1
+870,40,1998,,Problems,https://olimpicos.net/baupc/index.html#1998,1,1
+871,40,1997,,Problems,https://olimpicos.net/baupc/index.html#1997,1,1
+872,40,1996,,Problems,https://olimpicos.net/baupc/index.html#1996,1,1
+873,40,1995,,Problems,https://olimpicos.net/baupc/index.html#1995,1,1
+874,5,2023,,Problems,https://olimpicos.net/oibf/index.html#2023,1,2
+875,5,2021,,Problems,https://olimpicos.net/oibf/index.html#2021,1,2
+876,5,2014,,Problems,https://olimpicos.net/oibf/index.html#2014,1,2
+877,5,2011,,Problems,https://olimpicos.net/oibf/index.html#2011,1,2
+878,5,2010,,Problems,https://olimpicos.net/oibf/index.html#2010,1,2
+879,5,2009,,Problems,https://olimpicos.net/oibf/index.html#2009,1,2
+880,5,2007,,Problems,https://olimpicos.net/oibf/index.html#2007,1,2
+881,5,2005,,Problems,https://olimpicos.net/oibf/index.html#2005,2,2
+882,5,2004,,Problems,https://olimpicos.net/oibf/index.html#2004,2,2
+883,5,2003,,Problems,https://olimpicos.net/oibf/index.html#2003,1,2
+884,5,2002,,Problems,https://olimpicos.net/oibf/index.html#2002,1,2
+885,5,2001,,Problems,https://olimpicos.net/oibf/index.html#2001,1,2
+886,5,2000,,Problems,https://olimpicos.net/oibf/index.html#2000,2,2
+887,5,1999,,Problems,https://olimpicos.net/oibf/index.html#1999,2,2
+888,5,1998,,Problems,https://olimpicos.net/oibf/index.html#1998,2,2
+889,5,1997,,Problems,https://olimpicos.net/oibf/index.html#1997,2,2
+890,5,1991,,Problems,https://olimpicos.net/oibf/index.html#1991,1,2
+891,17,2024,тур 2,Problems,https://olimpicos.net/mosphys/index.html#2024,5,2
+892,17,2023,тур 2,Problems,https://olimpicos.net/mosphys/index.html#2023,5,2
+893,17,2022,тур 2,Problems,https://olimpicos.net/mosphys/index.html#2022,5,2
+894,17,2021,тур 2,Problems,https://olimpicos.net/mosphys/index.html#2021,5,2
+895,17,2020,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2020,5,2
+896,17,2019,второй тур,Problems,https://olimpicos.net/mosphys/index.html#2019,5,2
+897,17,2018,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2018,5,2
+898,17,2017,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2017,5,2
+899,17,2016,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2016,5,2
+900,17,2015,второй тур,Problems,https://olimpicos.net/mosphys/index.html#2015,5,2
+901,17,2014,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2014,5,2
+902,17,2013,2-й тур,Problems,https://olimpicos.net/mosphys/index.html#2013,5,2
+903,17,2012,2-й тур,Problems,https://olimpicos.net/mosphys/index.html#2012,5,2
+904,17,2011,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2011,5,2
+905,17,2010,2 тур,Problems,https://olimpicos.net/mosphys/index.html#2010,5,2

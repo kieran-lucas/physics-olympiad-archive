@@ -1,0 +1,356 @@
+[
+  {
+    "file_id": 1606,
+    "path": "originals/oibf/2015/OIbF_2015_Q1__9efd1c1c3a32a7b2.pdf",
+    "actual_content": "statement_only",
+    "result": "source_solution_link_mismatch"
+  },
+  {
+    "file_id": 1607,
+    "path": "originals/oibf/2015/OIbF_2015_Q2__78296ce717e3e289.pdf",
+    "actual_content": "statement_only",
+    "result": "source_solution_link_mismatch"
+  },
+  {
+    "file_id": 1608,
+    "path": "originals/oibf/2015/OIbF_2015_Q3__656232868a8e2a21.pdf",
+    "actual_content": "statement_only",
+    "result": "source_solution_link_mismatch"
+  },
+  {
+    "file_id": 1609,
+    "path": "originals/oibf/2014/OIbF_2014_Q1-3__586adadb32c13a8a.pdf",
+    "actual_content": "statement_only",
+    "result": "source_solution_link_mismatch"
+  },
+  {
+    "file_id": 1617,
+    "path": "originals/oibf/2012/OIbF_2012_S1-6__52db4d812aa76ac0.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 1681,
+    "path": "originals/rmph/2021/RMPh_2021_Q4__ee2fb26615cf9848.pdf",
+    "actual_content": "statement_only",
+    "result": "source_solution_link_mismatch"
+  },
+  {
+    "file_id": 2617,
+    "path": "originals/mosphys/2013/MOSh_2013_Q1-5__0482456ed934969c.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2619,
+    "path": "originals/mosphys/2013/MOSh_2013_S6-10__85962527d67c3de9.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2649,
+    "path": "originals/inpho/2017/InPhO_2017_Q1-6__1931a03611b2424d.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2651,
+    "path": "originals/inpho/2016/InPhO_2016_Q1-6__1599c8d8f4cc7831.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2652,
+    "path": "originals/inpho/2015/InPhO_2015_Q1-6__ea5aebdc302c0620.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2653,
+    "path": "originals/inpho/2014/InPhO_2014_Q1-8__9c3ee38f89320169.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2839,
+    "path": "originals/fyziklani/2026/Fyziklani_2026_Q1-58__2b981ce38096a67c.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2840,
+    "path": "originals/fyziklani/2025/Fyziklani_2025_Q1-56__7ada69d198c2677d.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2841,
+    "path": "originals/fyziklani/2024/Fyziklani_2024_Q1-54__cd9f983841aadccf.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2842,
+    "path": "originals/fyziklani/2023/Fyziklani_2023_Q1-51__a3ab080b0e2ca3db.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2843,
+    "path": "originals/fyziklani/2022/Fyziklani_2022_Q1-50__b76d3994e016c1b8.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2844,
+    "path": "originals/fyziklani/2021/Fyziklani_2021_S1-56__a97e9f509f731617.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2845,
+    "path": "originals/fyziklani/2020/Fyziklani_2020_Q1-51__258d5082a1c652ec.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2846,
+    "path": "originals/fyziklani/2019/Fyziklani_2019_Q1-50__f5ef2cdae7676f31.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2847,
+    "path": "originals/fyziklani/2018/Fyziklani_2018_Q1-51__09866a46824d4189.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2848,
+    "path": "originals/fyziklani/2017/Fyziklani_2017_Q1-50__9b7cee51fa5f5a4b.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2849,
+    "path": "originals/fyziklani/2016/Fyziklani_2016_Q1-49__62a9c2ce1bb27e8d.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2850,
+    "path": "originals/fyziklani/2015/Fyziklani_2015_Q1-53__69757af89ae46d44.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2851,
+    "path": "originals/fyziklani/2014/Fyziklani_2014_S1-51__5e9550a1f5782c1b.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2852,
+    "path": "originals/fyziklani/2013/Fyziklani_2013_Q1-47__72d8c6a8920b5d76.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2853,
+    "path": "originals/fyziklani/2012/Fyziklani_2012_Q1-42__1380bd2c26f4986d.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2854,
+    "path": "originals/fyziklani/2011/Fyziklani_2011_Q1-38__4bc8d7fd340f7af5.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2855,
+    "path": "originals/fyziklani/2010/Fyziklani_2010_Q1-40__14ad603e0e7f5447.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2856,
+    "path": "originals/fyziklani/2009/Fyziklani_2009_Q1-40__b46500e8f6c95baa.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2857,
+    "path": "originals/fyziklani/2008/Fyziklani_2008_Q1-40__426a25af55d47b17.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2858,
+    "path": "originals/fyziklani/2006/Fyziklani_2006_Q1-42__7240478eeeefc696.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 2909,
+    "path": "originals/twpho-tst/2024/TwPhO_2024_Q1-6__de9d843ec1101618.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3065,
+    "path": "originals/osn-fisika/2024/OSN_2024_Q1-40__16ebe5cdc849e0c6.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3089,
+    "path": "originals/opho/2022/OPhO_2022_S1-35__7ab33abf8d46fcd7.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3101,
+    "path": "originals/physicsbrawl/2025/PhysicsBrawl_2025_Q1-68__b1c1bd23b7574561.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3102,
+    "path": "originals/physicsbrawl/2024/PhysicsBrawl_2024_Q1-62__e8bfa492f8431bb4.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3103,
+    "path": "originals/physicsbrawl/2023/PhysicsBrawl_2023_Q1-69__42d78574e8991491.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3104,
+    "path": "originals/physicsbrawl/2022/PhysicsBrawl_2022_Q1-69__ffffa2dc7f23886c.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3105,
+    "path": "originals/physicsbrawl/2021/PhysicsBrawl_2021_Q1-66__c6f39b134c74e897.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3106,
+    "path": "originals/physicsbrawl/2020/PhysicsBrawl_2020_Q1-63__334bb9dd7023baae.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3107,
+    "path": "originals/physicsbrawl/2019/PhysicsBrawl_2019_Q1-62__394a50d2e1b2e07d.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3108,
+    "path": "originals/physicsbrawl/2018/PhysicsBrawl_2018_Q1-60__fb23fd1092e08b74.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3109,
+    "path": "originals/physicsbrawl/2017/PhysicsBrawl_2017_Q1-63__ae917506c6844a78.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3110,
+    "path": "originals/physicsbrawl/2016/PhysicsBrawl_2016_Q1-67__43ffdcce08814eec.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3111,
+    "path": "originals/physicsbrawl/2015/PhysicsBrawl_2015_S1-62__678a126ec7d21d19.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3112,
+    "path": "originals/physicsbrawl/2014/PhysicsBrawl_2014_Q1-54__67f88af2e56aa03e.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3113,
+    "path": "originals/physicsbrawl/2013/PhysicsBrawl_2013_Q1-49__fb942431f047308b.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3114,
+    "path": "originals/physicsbrawl/2012/PhysicsBrawl_2012_Q1-44__ea653ce671815acc.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3178,
+    "path": "originals/twpho-tst/2025/TwPhO_2025_Q1-6__106a988932956384.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3179,
+    "path": "originals/twpho-tst/2026/TwPhO_2026_Q1-6__58f484559441f6d2.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3180,
+    "path": "originals/twpho-tst/2023/TwPhO_2023_S1-6__e63769e78505b2bd.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3181,
+    "path": "originals/twpho-tst/2022/TwPhO_2022_Q1-6__28d7bc88c2b19c86.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3182,
+    "path": "originals/twpho-tst/2021/TwPhO_2021_Q1-6__bdcb8b6271645b1c.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3183,
+    "path": "originals/twpho-tst/2020/TwPhO_2020_Q1-6__bf4fed707193a2e7.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3184,
+    "path": "originals/twpho-tst/2019/TwPhO_2019_S1-6__0a966cf0590159a2.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3185,
+    "path": "originals/twpho-tst/2018/TwPhO_2018_Q1-6__93b91cece67cdb98.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3186,
+    "path": "originals/twpho-tst/2017/TwPhO_2017_S1-6__e5e10a6f390c9bf5.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  },
+  {
+    "file_id": 3187,
+    "path": "originals/twpho-tst/2016/TwPhO_2016_Q1-6__4e74bf2930078889.pdf",
+    "actual_content": "combined",
+    "result": "normalized_role_corrected"
+  }
+]

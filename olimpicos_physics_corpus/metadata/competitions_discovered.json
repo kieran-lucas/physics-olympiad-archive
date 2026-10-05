@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "ipho",
+    "url": "https://olimpicos.net/ipho/index.html",
+    "name": "IPhO",
+    "full_name": "International Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "eupho",
+    "url": "https://olimpicos.net/eupho/index.html",
+    "name": "EuPhO",
+    "full_name": "European Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "apho",
+    "url": "https://olimpicos.net/apho/index.html",
+    "name": "APhO",
+    "full_name": "Asian Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "nbpho",
+    "url": "https://olimpicos.net/nbpho/index.html",
+    "name": "NBPhO",
+    "full_name": "Nordic-Baltic Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "oibf",
+    "url": "https://olimpicos.net/oibf/index.html",
+    "name": "OIbF",
+    "full_name": "Olimpíada Ibero Americana de Física",
+    "category": "International"
+  },
+  {
+    "slug": "rmph",
+    "url": "https://olimpicos.net/rmph/index.html",
+    "name": "RMPh",
+    "full_name": "Romanian Master of Physics",
+    "category": "International"
+  },
+  {
+    "slug": "wopho",
+    "url": "https://olimpicos.net/wopho/index.html",
+    "name": "WoPhO",
+    "full_name": "World Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "gpho",
+    "url": "https://olimpicos.net/gpho/index.html",
+    "name": "GPhO",
+    "full_name": "Gulf Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "izho",
+    "url": "https://olimpicos.net/izho/index.html",
+    "name": "IZhO",
+    "full_name": "International Zhautykov Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "ispho",
+    "url": "https://olimpicos.net/ispho/index.html",
+    "name": "ISPhO",
+    "full_name": "International Scientific Physics Olympiad",
+    "category": "International"
+  },
+  {
+    "slug": "usapho",
+    "url": "https://olimpicos.net/usapho/index.html",
+    "name": "USAPhO",
+    "full_name": "United States Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "usatst",
+    "url": "https://olimpicos.net/usatst/index.html",
+    "name": "USA TST",
+    "full_name": "USA Physics Team Selection Test",
+    "category": "National"
+  },
+  {
+    "slug": "cpho-f",
+    "url": "https://olimpicos.net/cpho-f/index.html",
+    "name": "CPhO",
+    "full_name": "Chinese Physics Olympiad (Finals)",
+    "category": "National"
+  },
+  {
+    "slug": "panpho",
+    "url": "https://olimpicos.net/panpho/index.html",
+    "name": "PanPhO",
+    "full_name": "Pan Pearl River Delta & Chinese Elite Schools Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "vosh",
+    "url": "https://olimpicos.net/vosh/index.html",
+    "name": "VsOSh",
+    "full_name": "All-Russian Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "rutst",
+    "url": "https://olimpicos.net/rutst/index.html",
+    "name": "Russia TST",
+    "full_name": "Russian Physics Team Selection",
+    "category": "National"
+  },
+  {
+    "slug": "mosphys",
+    "url": "https://olimpicos.net/mosphys/index.html",
+    "name": "MOSh",
+    "full_name": "Moscow Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "inpho",
+    "url": "https://olimpicos.net/inpho/index.html",
+    "name": "InPhO",
+    "full_name": "Indian National Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "obf",
+    "url": "https://olimpicos.net/obf/index.html",
+    "name": "OBF",
+    "full_name": "Olimpíada Brasileira de Física",
+    "category": "National"
+  },
+  {
+    "slug": "brtst",
+    "url": "https://olimpicos.net/brtst/index.html",
+    "name": "SOIF",
+    "full_name": "Seletiva das Olimpiadas Internacionais de Fisica",
+    "category": "National"
+  },
+  {
+    "slug": "bpho",
+    "url": "https://olimpicos.net/bpho/index.html",
+    "name": "BPhO",
+    "full_name": "British Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "onf",
+    "url": "https://olimpicos.net/onf/index.html",
+    "name": "ONF",
+    "full_name": "Olimpiada Nationala de Fizica",
+    "category": "National"
+  },
+  {
+    "slug": "upho",
+    "url": "https://olimpicos.net/upho/index.html",
+    "name": "UPhO",
+    "full_name": "All-Ukrainian Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "eotvos",
+    "url": "https://olimpicos.net/eotvos/index.html",
+    "name": "Eötvös",
+    "full_name": "Eötvös Loránd Physics Competition",
+    "category": "National"
+  },
+  {
+    "slug": "fyziklani",
+    "url": "https://olimpicos.net/fyziklani/index.html",
+    "name": "Fyziklani",
+    "full_name": "FYKOS Fyziklani",
+    "category": "National"
+  },
+  {
+    "slug": "efo",
+    "url": "https://olimpicos.net/efo/index.html",
+    "name": "EFO",
+    "full_name": "Eesti Fuusika Olumpiaad",
+    "category": "National"
+  },
+  {
+    "slug": "twpho-tst",
+    "url": "https://olimpicos.net/twpho-tst/index.html",
+    "name": "TwPhO TST",
+    "full_name": "Taiwan Physics Olympiad Team Selection",
+    "category": "National"
+  },
+  {
+    "slug": "twpho-camp",
+    "url": "https://olimpicos.net/twpho-camp/index.html",
+    "name": "TwPhO Camp",
+    "full_name": "Taiwan Physics Olympiad Selection Camp",
+    "category": "National"
+  },
+  {
+    "slug": "spho",
+    "url": "https://olimpicos.net/spho/index.html",
+    "name": "SPhO",
+    "full_name": "Singapore Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "spho-tst",
+    "url": "https://olimpicos.net/spho-tst/index.html",
+    "name": "SPhO TST",
+    "full_name": "Singapore Physics Team Selection Test",
+    "category": "National"
+  },
+  {
+    "slug": "sjpo",
+    "url": "https://olimpicos.net/sjpo/index.html",
+    "name": "SJPO",
+    "full_name": "Singapore Junior Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "kphc",
+    "url": "https://olimpicos.net/kphc/index.html",
+    "name": "KPhC",
+    "full_name": "Korean Middle School Physics Competition",
+    "category": "National"
+  },
+  {
+    "slug": "aupho",
+    "url": "https://olimpicos.net/aupho/index.html",
+    "name": "AuPhO",
+    "full_name": "Australian Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "osn-fisika",
+    "url": "https://olimpicos.net/osn-fisika/index.html",
+    "name": "OSN Fisika",
+    "full_name": "Olimpiade Sains Nasional Fisika",
+    "category": "National"
+  },
+  {
+    "slug": "azpho",
+    "url": "https://olimpicos.net/azpho/index.html",
+    "name": "AzPhO",
+    "full_name": "Azerbaijan Physics Olympiad",
+    "category": "National"
+  },
+  {
+    "slug": "opho",
+    "url": "https://olimpicos.net/opho/index.html",
+    "name": "OPhO",
+    "full_name": "Online Physics Olympiad",
+    "category": "Open"
+  },
+  {
+    "slug": "physicsbrawl",
+    "url": "https://olimpicos.net/physicsbrawl/index.html",
+    "name": "Physics Brawl",
+    "full_name": "Physics Brawl Online",
+    "category": "Open"
+  },
+  {
+    "slug": "ortvay",
+    "url": "https://olimpicos.net/ortvay/index.html",
+    "name": "Ortvay",
+    "full_name": "Rudolf Ortvay Competition in Physics",
+    "category": "Open"
+  },
+  {
+    "slug": "physicscup",
+    "url": "https://olimpicos.net/physicscup/index.html",
+    "name": "Physics Cup",
+    "full_name": "Physics Cup – TalTech",
+    "category": "Open"
+  },
+  {
+    "slug": "baupc",
+    "url": "https://olimpicos.net/baupc/index.html",
+    "name": "BAUPC",
+    "full_name": "Boston Area Undergraduate Physics Competition",
+    "category": "Open"
+  }
+]

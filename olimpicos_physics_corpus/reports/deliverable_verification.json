@@ -1,0 +1,11 @@
+{
+  "required_deliverables_present": true,
+  "csv_counts_match_database": true,
+  "ai_rows": 6392,
+  "referenced_ai_paths_verified": 3187,
+  "unresolved_source_errors": 5,
+  "unavailable_record_rows": 5124,
+  "remaining_acquisitions": 0,
+  "all_competition_reconciliations_match": true,
+  "total_corpus_bytes": 1937444527
+}

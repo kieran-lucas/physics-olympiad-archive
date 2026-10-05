@@ -1,0 +1,41 @@
+﻿competition,slug,category,processed,years,sections,logical_problem_rows,document_records,downloadable_document_records,acquired_document_records,unique_files_referenced,index_only,individual_not_published,unavailable_documents,download_failures,validation_failures,duplicate_document_storage_avoided,source_content_mismatches,unresolved_parser_warnings
+IPhO,ipho,International,processed,57,112,260,742,706,706,703,36,0,0,0,0,3,0,0
+EuPhO,eupho,International,processed,10,20,44,256,245,245,239,11,0,0,0,0,6,0,0
+APhO,apho,International,processed,26,52,120,420,397,397,397,23,4,0,0,0,0,0,0
+NBPhO,nbpho,International,processed,24,24,215,540,515,515,217,25,0,0,0,0,298,0,0
+OIbF,oibf,International,processed,28,46,152,109,108,108,103,1,100,0,0,0,5,4,0
+RMPh,rmph,International,processed,9,15,39,79,77,77,75,2,0,0,0,0,2,1,0
+WoPhO,wopho,International,processed,3,3,36,57,56,56,56,1,0,0,0,0,0,0,0
+GPhO,gpho,International,processed,4,8,17,26,22,22,22,4,14,0,0,0,0,0,0
+IZhO,izho,International,processed,17,32,32,65,64,64,64,1,0,0,0,0,0,0,0
+ISPhO,ispho,International,processed,4,7,15,34,33,33,33,1,0,0,0,0,0,0,0
+USAPhO,usapho,National,processed,20,49,748,100,98,98,98,2,747,0,0,0,0,0,0
+USA TST,usatst,National,processed,2,3,3,7,6,6,6,1,0,0,0,0,5,0,0
+CPhO,cpho-f,National,processed,23,23,23,37,36,36,36,1,0,0,0,0,0,0,0
+PanPhO,panpho,National,processed,22,33,165,79,77,77,77,2,161,0,0,0,0,0,0
+VsOSh,vosh,National,processed,15,15,75,31,30,30,30,1,75,0,0,0,0,0,0
+Russia TST,rutst,National,processed,14,62,225,424,423,423,422,1,0,0,0,0,1,0,0
+MOSh,mosphys,National,processed,15,30,150,61,60,60,58,1,150,0,0,0,2,0,0
+InPhO,inpho,National,processed,18,18,103,39,38,38,34,1,102,0,0,0,4,0,0
+OBF,obf,National,processed,12,12,96,15,14,14,14,1,96,0,0,0,0,0,0
+SOIF,brtst,National,processed,5,5,26,11,10,10,10,1,26,0,0,0,0,0,0
+BPhO,bpho,National,processed,25,62,62,111,110,110,95,1,0,0,0,0,15,0,0
+ONF,onf,National,processed,21,21,63,42,41,41,41,1,63,0,0,0,0,0,0
+UPhO,upho,National,processed,1,1,5,2,1,1,1,1,5,0,0,0,0,0,0
+Eötvös,eotvos,National,processed,12,12,36,14,12,12,12,2,36,0,0,0,0,0,0
+Fyziklani,fyziklani,National,processed,20,20,969,42,40,40,20,2,969,0,0,0,20,0,0
+EFO,efo,National,processed,25,25,250,51,50,50,50,1,250,0,0,0,0,0,0
+TwPhO TST,twpho-tst,National,processed,17,17,72,29,28,28,17,1,66,0,0,0,11,0,0
+TwPhO Camp,twpho-camp,National,processed,7,18,18,19,18,18,18,1,0,0,0,0,0,0,0
+SPhO,spho,National,processed,21,26,26,28,27,27,27,1,0,0,0,0,0,0,0
+SPhO TST,spho-tst,National,processed,9,9,9,20,19,19,19,1,0,0,0,0,0,0,0
+SJPO,sjpo,National,processed,17,17,17,33,32,32,32,1,0,0,0,0,0,0,0
+KPhC,kphc,National,processed,8,10,10,11,10,10,10,1,0,0,0,0,0,0,0
+AuPhO,aupho,National,processed,18,18,19,44,43,43,43,1,0,0,0,0,0,0,0
+OSN Fisika,osn-fisika,National,processed,4,4,95,6,5,5,4,1,95,0,0,0,1,0,0
+AzPhO,azpho,National,processed,3,3,55,4,3,3,3,1,55,0,0,0,0,0,0
+OPhO,opho,Open,processed,6,17,265,31,30,30,29,1,252,0,0,0,1,0,0
+Physics Brawl,physicsbrawl,Open,processed,14,14,858,30,28,28,14,2,858,0,0,0,14,0,0
+Ortvay,ortvay,Open,processed,29,29,995,30,29,29,29,1,995,0,0,0,0,0,0
+Physics Cup,physicscup,Open,processed,3,3,14,15,14,14,14,1,0,0,0,0,0,0,0
+BAUPC,baupc,Open,processed,10,10,10,21,20,20,20,1,0,0,0,0,0,0,0

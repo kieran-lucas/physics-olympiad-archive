@@ -1,0 +1,733 @@
+IPhO_2026_Q1.pdf 3 HEAD QUESTION T1 [10 pts]. Three problems
+This question consists of three independent problems.
+T1-A [3.0 pts]. Hydrostatic gate
+Fig. 1a.
+Two water reservoirs are separated by a vertical
+wall MN, as shown in the figure 1a. The left
+reservoir can receive water from a source. It must
+be ensured that the maximum possible difference
+between the water levels is 
+ 1.41 m. To
+achieve this, a slot of vertical size 
+ is cut in
+MN and sealed with a solid cubic block of side
+length 
+. The block has density 
+, w TAIL T1-C [3.5 pts]. Photodissociation of ozone
+Fig. 1c.
+A photon with angular frequency 
+ strikes an ozone molecule
+O at rest, dissociating it (breaking it apart) into an oxygen
+molecule O and an oxygen a HEADINGS [' 1.41 m. To', '30 points | 5.0 hours', '1 −ε cos(θ)', '30 points | 5.0 hours', ' 1.10 V and ', ' 16.0 amu.', '30 points | 5.0 hours']
+IPhO_2026_S1.pdf 4 HEAD Theoretical Exam-Solution
+LVI International Physics Olympiad
+Bucaramanga, Colombia. 2026
+T1
+SOLUTION T1 [10 pts]. Three problems
+T1-A [3.0 pts]. Hydrostatic gate
+T1-A1 [3.0 pts].
+Since the dam is perfectly sealed, the area of the
+opening is a · (a/
+√
+2):
+The horizontal force exerted by the water on either
+side is equal to the pressure at the centroid of the
+cube sections on the corresponding side times the
+effective area, as calculated previously:
+∆F = a2
+√
+2ρ0g∆h
+With an effective application p TAIL Theoretical Exam-Solution
+LVI International Physics Olympiad
+Bucaramanga, Colombia. 2026
+T1
+now we can solve the quadratic equation for pγ. We
+get (we need to choose the correct solution of the
+quadra HEADINGS ['2 = 0.50m', '502 −', '0 −576', '1 ± 7', '1 + ε cos(θ −θ0)', '1 −ε', '1 −', '1 −2304', '2500 = 7', '1 −(7/25)a0 = 1600', '1 + ε cos(θ −θ0)', '1 + ε cos θ′ →0', '1 + 4ke2(15¯h2)', '1 + 45', '4 = 7']
+IPhO_2025_Q2.pdf 6 HEAD Theory
+Q2-1
+English (Official)
+Cox's Timepiece (10 points)
+In 1765, British clockmaker James Cox invented a clock whose only source of energy is the fluctuations
+in atmospheric pressure. Cox's clock used two vessels containing mercury. Changes in atmospheric
+pressure caused mercury to move between the vessels, and the two vessels to move relative to each
+other. This movement acted as an energy source for the actual clock.
+We propose an analysis of this device. Throughout,
+we assume that
+• the Ea TAIL Theory
+Q2-6
+English (Official)
+For the next question only, suppose that the mass 𝑀is temporarily blocked at 𝑥= 𝑋.
+C.2
+Give an expression for the total tension force −→
+𝑇= 𝑇−→
+𝑢𝑥acting on the mass 𝑀
+du HEADINGS ['0.2pt', '1.00 × 103', '2.34 × 103', '0.97 × 103', '47.4 × 103', '0.96 × 103', '99.8 × 103', '0.8pt', '13.5 × 103', '0.163', '0.3pt', '0.3pt', '1.4pt', '0.3pt', '1.7pt']
+IPhO_2025_S2.pdf 20 HEAD Theory
+Q2-1
+English (Official)
+Cox's Timepiece (10 points)
+In 1765, British clockmaker James Cox invented a clock whose only source of energy is the fluctuations
+in atmospheric pressure. Cox's clock used two vessels containing mercury. Changes in atmospheric
+pressure caused mercury to move between the vessels, and the two vessels to move relative to each
+other. This movement acted as an energy source for the actual clock.
+We propose an analysis of this device. Throughout,
+we assume that
+• the Ea TAIL Theory
+Q2-20
+English (Official)
+Credits:
+[1]: Bruno Vacaro;
+[2]: Victoria and Albert Museum, London. 
+ HEADINGS ['0.2pt', '0 = 𝑚−→', '0.1', '0.1', '1.00 × 103', '2.34 × 103', '0.97 × 103', '47.4 × 103', '0.96 × 103', '99.8 × 103', '0.8pt', '14.7', '14.4', '2.1', '5.1']
+EuPhO_2026_Q1.pdf 1 HEAD T1: Jumper (10 pts)
+Two uniform rods, each of mass m and length ℓ, are
+connected at one end by a hinge equipped with a tor-
+sional spring. The spring exerts equal and opposite
+restoring torques τ on the rods about the hinge,
+τ = 2kθ,
+where 2θ is the angle between the rods (in radians),
+and k (k ≫mgℓ) is the torsional spring constant.
+2θ
+τ
+The system is placed on a flat horizontal surface with
+the free ends of the rods resting on the floor and the
+hinge above them. The hinge is then pushed down-
+ TAIL T1: Jumper (10 pts)
+Two uniform rods, each of mass m and length ℓ, are
+connected at one end by a hinge equipped with a tor-
+sional spring. The spring exerts equal and opposite
+restoring torques τ on t HEADINGS []
+EuPhO_2026_S1.pdf 7 HEAD T1: Jumper (10 pts)
+ENERGY APPROACH. The motion of the jumper
+has two phases: a push-off phase and a free verti-
+cal flight phase after the jumper loses contact with
+the ground. During the push-off phase, the mechan-
+ical energy of the jumper is conserved, as the forces
+from the ground do no work on the jumper. Let us
+first analyse the push-off phase.
+The mechanical energy of the jumper consists of
+three parts: the elastic energy of the spring, Wel =
+k(2θ)2/2 = 2kθ2, gravitational potential ener TAIL Task 3. Investigating the free vertical flight
+Problem T1 – vertical flight
+Pts.
+A
+Obtains the expression v∗= 1.2487
+p
+k/m
+for the C.M. velocity at the moment of
+detachment
+0.5
+B
+States or illustrates HEADINGS ['2 m(v∗2', '2 J∗ω2', '2 m(ℓ˙θ/2)2 + 1', '2 · 1', '12 mℓ2 ˙θ2 = mℓ2 ˙θ2/6', '0.', '2 ℓsin(θ0) ˙θ', '2 2mv∗2', '2 k sin2(θ0)', '2 cos ωt.', '0 = π2/4. Finally,', '0.000', '2.4674', '1.571', '0.785']
+IPhO_1967_Q1.pdf 2 HEAD Problems of the 1st International Physics Olympiad1  
+(Warsaw, 1967) 
+ 
+Waldemar Gorzkowski 
+Institute of Physics, Polish Academy of Sciences, Warsaw, Poland2 
+ 
+Abstract 
+ 
+The article contains the competition problems given at he 1st International Physics 
+Olympiad (Warsaw, 1967) and their solutions. Additionally it contains comments of historical 
+character. 
+ 
+Introduction 
+ 
+ 
+One of the most important points when preparing the students to the International 
+Physics Olympiads is solving and TAIL question arises, however, who should do it. According to the Statutes the problems are created 
+by the local organizing committees. It is true that the texts are improved and accepted by the 
+Internat HEADINGS [' \n1 This is somewhat extended version of the article sent for publication in Physics Competiti', '2 e-mail: gorzk@ifpan.edu.pl ', ' \nProblem 1 ']
+IPhO_1967_S1.pdf 3 HEAD Solution 
+ 
+ 
+ 
+ 
+ 
+Fig. 2 
+ 
+ 
+We will use notation shown in Fig. 2.  
+ 
+ 
+As no horizontal force acts on the system ball + bullet, the horizontal component of 
+momentum of this system before collision and after collision must be the same: 
+ 
+.
+0
+MV
+mv
+mv
+
+
+ 
+ 
+So,  
+ 
+V
+m
+M
+v
+v
+
+
+0
+. 
+ 
+From conditions described in the text of the problem it follows that 
+ 
+.
+V
+v 
+ 
+ 
+ 
+After collision both the ball and the bullet continue a free motion in the gravitational 
+field with initial horizontal  TAIL 
+
+
+
+
+
+
+
+
+m
+m
+M
+g
+h
+s
+v
+h
+g
+v
+s
+m
+M
+p
+2
+2
+2
+0
+2
+0
+2
+. 
+ 
+Numerically: 
+ p = 92,8%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HEADINGS ['0 \uf02d']
+IPhO_2022_S1.pdf 23 HEAD IPhO 2022
+Theoretical problems: solutions. Language: English
+General rules
+Rule 1: Propagating errors are not punished except
+(a) those cases when the (possibly intermediate) result is
+clearly wrong and hence, the contestant has another op-
+portunity to figure out that something must have gone
+wrong, and could start searching for the mistakes. Ex-
+amples (not limited to): dimensionally wrong answer;
+obviously too large or too small numerical value; wrong
+sign of the effect;
+(b) for the calculati TAIL IPhO 2022
+Theoretical problems: solutions. Language: English
+Remark: if integration in f) is done over proper time,
+no points are given for f). If integration boundaries for
+distance or proper time ar HEADINGS ['4 d2hJ = 0.75 A m2.', '4 d2hJ', '0.2 pts', '0.1 pts', '0.1 pts', '0.1 pts', '0.1 pts', '4 d2hJ', '0.1 pts', '0.1 pts', '0.1 pts', '0.1 pts', '0.1 pts', '0.1 pts', '0.1 pts']
+NBPhO_2019_Q1.pdf 2 HEAD NORDIC-BALTIC PHYSICS OLYMPIAD 2019
+1. SATELLITE (8 points) — Taavet Kalda. A
+solar powered satellite with starting velocity
+v0 is launched from Earth onto an elliptical
+heliocentric orbit with the intent of gather-
+ing as much solar energy as possible. The
+angle of departure can be freely changed.
+i) (1 point) What is the minimal required
+launching speed vm for the satellite to reach
+any heliocentric orbit?
+ii) (2 points)What is the speed of the satellite
+just after exiting Earthʼs gravitationa TAIL 5. BRACHISTOCHRONE (10 points) — Rūdolf
+Treilis. Consider points A and B separated
+by height H in the vertical direction and dis-
+tance L in the horizontal direction, placed in
+a gravitational field g HEADINGS ['1. SATELLITE (8 points) — Taavet Kalda. A', '2.', '3. MOTION IN B (8 points) — Andréas Sund-', '4.', '3 and 5 are perpendicular to each other, the', '\n5. BRACHISTOCHRONE (10 points) — Rūdolf', '2 find the minimum', '6.', '7. DOMINOES (6 points) — Kaarel Hänni.', '8. FOUR RESISTORS (10 points) — Jaan Kalda']
+NBPhO_2019_S1.pdf 3 HEAD NORDIC-BALTIC PHO 2019 - SOLUTIONS
+1. SATELLITE (8 points) — Taavet Kalda.
+i) (1 point)From the energy conservation law,
+mv2
+m
+2
+−GM⊕m
+r⊕
+= 0,
+hence
+vm =
+√
+2GM⊕
+r⊕
+.
+ii) (2 points)Let the speed of the satellite just
+after leaving Earthʼs gravitational field be v1.
+From energy conservation,
+mv2
+0
+2
+−GM⊕m
+r⊕
+= mv2
+1
+2 ,
+where M⊕is Earthʼs mass. Furthermore, we
+have g = GM⊕
+r2
+⊕. Thus,
+v1 =
+√
+v2
+0 −2GM⊕
+r⊕
+=
+√
+v2
+0 −2gr⊕.
+iii) (2.5 points) The average solar irradiance
+can be expressed as
+Iavg = 1
+T TAIL is of the form EG
+=
+−
+∫GM(r)
+r
+dM
+=
+−
+∫GM(r)
+r
+4πr2drρ. To simplify this, we can
+use the result from the first part GM
+=
+−dp
+dr
+r2
+ρ . Therefore,
+EG =
+∫
+dp4πr3 = 3
+∫
+dpV.
+From this we see that
+EG
+3
+=  HEADINGS ['1. SATELLITE (8 points) — Taavet Kalda.', '2 ,', '0 −2GM⊕', '0 −2gr⊕.', '2 −v2', '2 −x2)−3/2.', '2 −x2)3/2 =', '0 −2gr⊕−1.', '2.', '3. MOTION IN B (8 points) — Andréas Sund-', '4 = πl', '4.', '1.5.', '5. BRACHISTOCHRONE (10 points) — Rūdolf', '0 (from the grazing condition),']
+WoPhO_2012_Q11.pdf 4 HEAD Problem Creator: Viktor Ivanov
+Theoretical 1: Magnetic Monopole
+1
+Introduction
+Our everyday experience shows that the magnetic poles always exist in pairs North and South.
+Breaking a magnet results in the appearance of a new pair of opposite magnetic poles on the
+two broken ends. The fundamental laws of physics, however, do not contradict the existence of
+magnetically charged particles called magnetic monopoles. The magnetic monopole is an object
+possessing just one magnetic pole, either North,  TAIL Problem Creator: Viktor Ivanov
+Theoretical 1: Magnetic Monopole
+(a) Obtain an expression for the change in Zcomponent, ∆Lz, of the angular momentum
+of the electrically charged particle during the whol HEADINGS ['1. When exposed to external magnetic ﬁeld of induction B, a monopole of magnetic charge qm', '2. Electric current I circulates along a circular loop of radius a. A monopole of magnetic c', '3. When at rest, the magnetic monopole creates static magnetic ﬁeld, similar to the electric', '4. A moving electric charge creates magnetic ﬁeld.', '3. Use vector notations in your ﬁnal answer in order to specify both, the magnitude, and', '5. The analogy between electric and magnetic charges is found also in the way they interact ', '6. A point particle of electric charge qe is conﬁned to move along a circle without any resi', '7. In his famous work on magnetic monopoles Paul Dirac has argued that if just one magnetic']
+WoPhO_2012_S11.pdf 17 HEAD Magnetic monopole 
+A problem proposed for the problem competition 
+of WoPhO 2012 
+ 
+ 
+21 June 2012 
+ 
+ 
+ 
+ 
+ TAIL 17 
+ 
+7 b 
+Provides an expression for the magnetic dipole moment of the electron 
+through the charge of the monopoles and the distance between them 
+0.3
+  
+Calculates d numerically  
+0.2
+  
+Subtotal o HEADINGS [' \n \n \n\xa0\n\n2 ', ' \n1.  Formulation of the problem ', '1.1 Intruduction ……………………………………………………………3 ', '1.2 Questions ……………………………………………………………….4 ', '2. Solution ………………………………………………………………………….7 ', '3. Marking scheme ………………………………………………………………14 ', '\n3 ', '34 ⋅', ' \n \n \n \n\n4 ', '\n5 ', '\n6 ', '\n7 ', '\n8 ', '\n9 ', '\n10 ']
+Fma_2022_Q1-25.pdf 9 HEAD 2022 F = ma Exam A
+1
+AAPT
+AIP 2022
+UNITED  STATES  PHYSICS  TEAM
+2022 F = ma Exam A
+25 QUESTIONS - 75 MINUTES
+INSTRUCTIONS
+DO NOT OPEN THIS TEST UNTIL YOU ARE TOLD TO BEGIN
+• Use g = 10 N/kg throughout this contest.
+• You may write in this booklet of questions. However, you will not receive any credit for anything
+written in this booklet. You may only use the scratch paper provided by the proctor.
+• This test contains 25 multiple choice questions. Select the answer that provides the best respons TAIL 2022 F = ma Exam A
+9
+22. A block of mass 2m is placed symmetrically on two identical wedges of mass m, as shown.
+2m
+m
+m
+θ
+θ
+All surfaces are frictionless, and the wedges have angle θ to the vertical.  HEADINGS ['2022 F = ma Exam A', '2022 F = ma Exam A', '25 QUESTIONS - 75 MINUTES', '\n2022 F = ma Exam A', '1. A projectile is thrown upward with speed v. By the time its speed has decreased to v/2, i', '2. A car is moving at 60 miles per hour (mph), when the driver notices an obstacle ahead. Hi', '3. Two blocks of mass m have an inelastic one-dimensional collision. Initially, the first bl', '4. A mass on an ideal pendulum is released from rest at point I. It swings over to point II,', '5. A uniform solid ball with mass m = 1 kg and radius R = 10 cm rolls without slipping on a ', '\n2022 F = ma Exam A', '6. A bob of mass m hangs from a rigid, massless rod, forming an ideal pendulum. The rod is h', '7. The following graph shows the results of measurements of two physical quantities, y and x', '8. A block of mass m is placed on a wedge of mass m, inclined at an angle θ to the horizonta', '9. A person is holding a massless rope, on which hangs a mass m, as shown at left. To pull t', '\n2022 F = ma Exam A']
+Fma_2022_S1-25.pdf 13 HEAD 2022 F = ma Exam A
+1
+AAPT
+AIP 2022
+UNITED  STATES  PHYSICS  TEAM
+2022 F = ma Exam A
+25 QUESTIONS - 75 MINUTES
+INSTRUCTIONS
+DO NOT OPEN THIS TEST UNTIL YOU ARE TOLD TO BEGIN
+• Use g = 10 N/kg throughout this contest.
+• You may write in this booklet of questions. However, you will not receive any credit for anything
+written in this booklet. You may only use the scratch paper provided by the proctor.
+• This test contains 25 multiple choice questions. Select the answer that provides the best respons TAIL 2022 F = ma Exam A
+13
+24. A satellite is in orbit around a planet of mass M. Its maximum distance from the center of the planet is
+d, and at this point, it is traveling at a speed of 1
+2
+q
+GM
+d . What HEADINGS ['2022 F = ma Exam A', '2022 F = ma Exam A', '25 QUESTIONS - 75 MINUTES', '\n2022 F = ma Exam A', '1. A projectile is thrown upward with speed v. By the time its speed has decreased to v/2, i', '2. A car is moving at 60 miles per hour (mph), when the driver notices an obstacle ahead. Hi', '1 = 2ad. In the case where the car was traveling with an initial speed v2 = 70 mph,', '2 −2ad. Thus, v2', '2 −v2', '702 −602 ≈36 mph.', '3. Two blocks of mass m have an inelastic one-dimensional collision. Initially, the first bl', '4. A mass on an ideal pendulum is released from rest at point I. It swings over to point II,', '\n2022 F = ma Exam A', '5. A uniform solid ball with mass m = 1 kg and radius R = 10 cm rolls without slipping on a ', '6. A bob of mass m hangs from a rigid, massless rod, forming an ideal pendulum. The rod is h']
+RuTST_2026_X_Q1.pdf 4 HEAD Road to IPhO
+Гантель с вязкостью
+Часть А. Гантель с закреплённой точкой (2.2 балла)
+Гантель состоит из лёгкого жёсткого стержня длины l и двух точечных масс на его концах: m1 и
+m2 (m1 > m2). Поле тяжести в данной части отсутствует. Гантель закреплена в некоторой своей точке на
+цилиндрическом шарнире так, что она может вращаться в содержащей её плоскости. Система находится в
+вязкой среде, так что на точечные концы гантели (и только на них) действует сила вязкого трения, которая
+равна⃗
+fi = −γ⃗vi, TAIL Road to IPhO⃗
+Ω
+m2⃗
+ω
+θ⃗
+g
+Пусть гантель совершает описанное вращение в однородном поле тяжести⃗g, притом угол плеча гантели
+с вертикалью постоянен и равен θ0.
+E2
+Запишите закон изменения момента импу HEADINGS ['0.6', '0.2', '0.3', '0.6', '0.5', '0.2', '0.2', '1.0', '8 .', '1.5', '0.3', '0.6', '0.2', '0.5', '0.2']
+RuTST_2026_X_S1.pdf 7 HEAD A1
+ Найдите расстояние 
+ от конца гантели 
+ до точки крепления.
+При фиксированной ориентации оси вращения относительно гантели для минимизации момента инерции можно использовать теорему Гюйгенса-Штейнера:
+для оси вращения, проходящей через произвольную точку 
+, момент инерции 
+ связан с моментом инерции 
+, где 
+ — центр масс системы, как
+Таким образом, в случае минимального 
+ верно 
+.
+Для вычисления расстояния от края 
+ используем определение центра масс:
+Ответ:
+ 0.60
+x1
+m1
+P
+JP
+JO
+O
+JP = JO + M TAIL Ответ:
+˙θ =
+γmgl2 sin(θ0)
+2L2
+0
+F4
+ С начальным условием из предыдущего пункта получите явную зависимость 
+.
+Неопределённый интеграл слева равен 
+, а справа 
+.
+Пределы интегрирования: 
+.
+Ответ:
+ 0.80
+ HEADINGS ['\xa00.60', '\xa00.20', '1 + m2x2', '2 =', '\xa00.30', '\xa00.60', '1 + x2', '1 + x2', '1 + x2', '1 + x2', '1 + m2', '1 + m2', '\xa00.50', '1 + m2', '\xa00.20']
+RuTST_2026_Y_Q1.pdf 4 HEAD Road to IPhO
+Физика резки
+Введение
+В этой задаче рассматривается модель сил, действующих при резке, упрощенном двумерном процессе,
+при котором инструмент с прямым лезвием движется перпендикулярно к своему краю, удаляя слой мате-
+риала постоянной толщины. На протяжении всей задачи считайте инструмент идеально острым. В задаче
+используются следующие физические величины:
+• удельная работа отделения R (в Дж/м2) – работа на отделение единичной площади отреза от матери-
+ала, например, при разрезе лист TAIL Road to IPhO
+Часть D. Разрезание напряжённого материала (1.6 балла)
+Рассмотрим образец, растянутый перпендикулярно направлению разреза. При разрезании энергия де-
+формации высвобождается и питает трещ HEADINGS ['0.8', '0.8', '1.0', '0.2', '0.2', '1.5', '0.3', '0.3', '1.0', '1.2', '0.1', '1.0', '0.8', '0.8']
+RuTST_2026_Y_S1.pdf 5 HEAD A1
+ Записав закон сохранения энергии для системы, получите уравнение связи между , 
+, , 
+, 
+ и 
+.
+Рассмотрим смещение ножа на 
+ по направлению резки. Отрез не растягивается, поэтому его относительное смещение по клину также равно 
+.
+Запишем закон сохранения энергии для системы нож-обрез:
+Отсюда получаем:
+Ответ:
+ 0.80
+θ R μ w FC
+N
+dr
+dr
+FCdr = Rwdr + μNdr
+FC = μN + Rw
+A2
+ Определите 
+. Ответ выразите через 
+, , , 
+.
+Запишем второй закон Ньютона для клина в проекции на горизонтальную ось:
+Комбинир TAIL Запишем закон сохранения энергии:
+Отсюда:
+Ответ:
+Fda = Rwda −dΛ
+F=Rw−dΛ/da
+D2
+ При какой минимальной начальной деформации  разрез может распространяться самопроизвольно, без затрачивания внешней работ HEADINGS ['\xa00.80', '\xa00.80', '1 −', '\xa01.00', '1 −', '\xa00.20', '\xa00.20', '\xa01.50', '\xa00.30', '\xa00.30', '\xa01.00', '\xa01.20', '1 −', '\xa00.10', '\xa01.00']
+BPhO_2024_1_Q1.pdf 7 HEAD BPhO Round 1
+Section 1
+8th November 2024
+This question paper and any notes must not be taken out of the exam room
+Instructions
+Time: 1 hour 20 minutes.
+Section 1 - Students may attempt any parts, but are not expected to complete all parts.
+A maximum of 50 marks can be awarded from a total of ≈76 marks allocated to
+the problems of Question 1.
+Working: Working, calculations, explanations and diagrams, properly laid out, must be
+shown for full credit. The final answer alone is not sufficient. Writi TAIL o) A cone of circular cross section sits in a liquid of density 𝜌ℓwith apex pointing down and
+its base level with the surface of the liquid. The density of the cone varies linearly along
+its length. T HEADINGS ['3.00 × 108 m s−1', '1.602 × 10−19 C', '6.63 × 10−34 J s', '9.110 × 10−31 kg', '1.673 × 10−27 kg', '1.675 × 10−27 kg', '1.661 × 10−27 kg = 931.5 MeV c−2', '6.67 × 10−11 m3 kg−1 s−2', '9.81 N kg−1', '8.85 × 10−12 F m−1', '6.02 × 1023 mol−1', '8.3145 J K−1 mol−1', '1.99 × 1030 kg', '6.37 × 106 m', '4180 J kg−1 ◦C−1']
+BPhO_2024_1_S1.pdf 12 HEAD British Physics Olympiad
+BPhO Round 1 - SECTION 1 - Mark Scheme
+November 2024
+Instructions
+Give equivalent credit for alternative solutions which are correct physics.
+The question paper & solutions should be read through first. If you do not know what the question is
+about, you will not mark accurately and it will be much more work for you. This is to ensure that you
+understand the questions. Then the first 10 scripts are issued.
+• The scripts will only be available in PDF format. Do not print.  TAIL r) Closed tube of gas.
+• Difference in pressure due to difference in moles of gas in each section.
+• Gas Law: P1 V
+2
+RT0
+= n1 and P2 V
+2
+RT0
+= n2
+need the “2” factor
+!
+So
+n = n1 + n2 =
+V
+2RT0
+(P1 + P2 HEADINGS ['10 +', '240 × 106', '8 × 240 × 106', '240 × 8', '6 = k∆ℓ2', '3 + mt', '3 + 2', '5 gh', '48.15', '2.48.15', '15 [61 ± 11]', '144.50', '1 = d = 12t2', '1 = 48', '1 + 8t1 −384 = 0']
+BPhO_2024_2_Q1.pdf 11 HEAD British Physics Olympiad 2023-24
+Round 2 Competition Paper
+Tuesday 20th February 2024
+Instructions
+Time: 3 hours (approximately 45 minutes per question).
+Questions: All four questions should be attempted.
+Marks: The four questions carry similar marks.
+Solutions: Answers and calculations are to be written on loose paper or in examination booklets.
+Students should ensure their name and school is clearly written on all answer sheets.
+A new question should be started on a new page.
+Pages must be num TAIL factor of 106 to give a current of 3 mA. Calculate the distance between the sample and the
+detector. Why is this likely an overestimate?
+(iv) If the uncertainty in the detector area diameter of ±5 % d HEADINGS ['3.00 × 108 m s−1', '1.60 × 10−19 C', '9.81 m s−2', '8.85 × 10−12 F m−1', '9.11 × 10−31 kg', '1.67 × 10−27 kg', '1.67 × 10−27 kg', '1.2 × 10−15 m', '6.63 × 10−34 J s', '6.67 × 10−11 m3 kg−1 s−2', '1.38 × 10−23 J K−1', '8.31 J mol−1 K−1', '4.19 × 103 J kg−1 K−1', '1.99 × 1030 kg', '5.97 × 1024 kg']
+Fyziklani_2026_Q1-58.pdf 69 HEAD  TAIL  HEADINGS ['2 = 0 .', '2 sin ϑ cos ϑv2', '3. Therefore, the area of the dipped part is', '4 a2 −', '4 a2 −', '3 h2 .', '2 a −h', '4 a2 −ah +', '3 h2 .', '3 h2', '4 a2 −ah +', '3 h2 =', '6.2 · 109 W · 1 s · ln 2', '15 Bq · 3.20 · 10−11 J · 2.22 · 1016 s', '0 sin2 α + 2gh0']
+Fyziklani_2026_S1-58.pdf 69 HEAD  TAIL  HEADINGS ['2 = 0 .', '2 sin ϑ cos ϑv2', '3. Therefore, the area of the dipped part is', '4 a2 −', '4 a2 −', '3 h2 .', '2 a −h', '4 a2 −ah +', '3 h2 .', '3 h2', '4 a2 −ah +', '3 h2 =', '6.2 · 109 W · 1 s · ln 2', '15 Bq · 3.20 · 10−11 J · 2.22 · 1016 s', '0 sin2 α + 2gh0']
+PhysicsBrawl_2025_Q1-68.pdf 104 HEAD Physics Brawl Online 2025
+15th year
+November 26, 2025
+Solutions of Physics Brawl Online 2025
+1
+ TAIL Physics Brawl Online 2025
+15th year
+November 26, 2025
+FYKOS
+UK, Matematicko-fyzikální fakulta
+Ústav teoretické fyziky
+V Holešovičkách 2
+180 00 Praha 8
+www:
+https://fykos.cz
+e-mail:
+fykos@fykos.cz
+FYKO HEADINGS ['Problem 1 . . . mowing', '3 points', '0.75 m, which is equal the circumference of the pole. From this equation, the radius r is th', 'Problem 2 . . . different period', '3 points', '1 +', 'Problem 3 . . . playing with gas', '3 points', 'Problem 4 . . . fast serve', '4 points', '0 sin2 α .', 'Problem 5 . . . old power supply', '3 points', 'Problem 6 . . . firmly connected mathematical pendulums', '3 points']
+Ortvay_1997_Q1-42.pdf 8 HEAD 28th
+ORTVAY RUDOLF
+PROBLEM SOLVING COMPETITION IN PHYSICS
+1997
+Deadline for solutions: November 20 Thursday Noon, 1997.,
+Postal address: D´avid Gyula, Fizikus Di´akk¨or, G´olyav´ar, Hallgat´oi Iroda, H-1088 Budapest, M´uzeum k¨or´ut 6-8. On
+email, LATEX format solutions should be sent to dgy@ludens.elte.hu
+On FAX solutions can be sent to 36-1-266-2556 .
+Any reference is allowed to consult. Each university year will be evaluated separately. For each problem 100 points can
+be given and no more tha TAIL 40. How large background would be detected in the Gran Sasso neutrino detector if a muon accelerator were built in
+the tunnel of LEP?
+(Csilling ´Akos)
+41. As is well known, the equation of motion in A HEADINGS ['1. Oh, sunshine... Three people are standing in the middle of a ﬁeld, somewhere on the perfe', '2. Thor would like to have ﬁsh soup for dinner, so he creates a ﬁreball on the bottom of the', '3. Sommefeld’s parity violating pocket knife', '\n4. How large can be a unicelled that can serve for dinner for another cell (a macrophag)? Ma', '5. (The following problem is connected to one of the problems of the 1997 E¨otv¨os competiti', '6. An eﬀervescent tablet is dropped in water. Determine its size as a function of time.', '7. Consider an inextensible chain in a uniform gravitational ﬁeld suspended by both ends. Ex', '8. Estimate the seasonal change in the earth’s angular velocity. What eﬀects can this be att', '9. Place three identical elastic balls along a straight line. Press the two outside ones tog', '10. A rolled up water hose of radius R, length L and mass M is rolled out on a horizontal pla', '11. Strong boys, after consuming enough beer, can easily fold tops of beer bottles by compres', '12. Before hearing is established, sound waves have to be transformed into chemical signals.', '13. Podunk’s local government is going to set up a new attraction in the local amusement park', '14. During his breathing exercise, a yogi practises the ﬂoolwing mental technique: ”During in', '15.']
+SPhO_2002_Q1.pdf 4 HEAD  
+ 
+Fifteen Singapore Physics Olympiad 
+ 
+Theoretical Paper: Part II 
+ 
+28 October 2002 
+ 
+Organized by 
+ 
+Institute of Physics, Singapore 
+ 
+In conjunction with 
+ 
+National University of Singapore, 
+National Institute of Education, Nanyang Technological University, 
+Ministry of Education, Singapore 
+ 
+And sponsored by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instructions to Candidates 
+ 
+1.  
+This is Part II of a two-part test. This part of the test is a three-hour test.   
+ 
+2. 
+This paper consists of four (4) question TAIL  
+4. 
+(a) The interior of the Earth can roughly be modelled as follows: it consists of a molten 
+core 3440 km in radius, a mantle surrounding the core with thickness 2900 km, and a rocky crust 
+with t HEADINGS [' \n28 October 2002 ', ' \n1.  ', ' \n2. ', ' \n3. ', ' \n4. ', ' \n5. ', ' \n6. ', ' \n7. ', ' \n \n \n1 ', '\n \n \n \n2. ', ' \n3. ', '\n \n4. ']
+SPhO_2023_Q1.pdf 14 HEAD 36th Singapore Physics Olympiad Theory Paper 1 
+ 
+ 
+Organised by 
+ 
+Institute of Physics 
+ 
+In conjunction with 
+National Institute of Education Singapore, Nanyang Technological University Singapore 
+National University of Singapore 
+Ministry of Education Singapore 
+ 
+And sponsored by 
+Micron Technology Foundation, Inc 
+ 
+Instructions to Candidates 
+ 
+1. This is a 2-hour paper. 
+2. This paper consists of five (5) questions printed on fourteen (14) pages. The second page is 
+a General Information TAIL  
+ 
+SPhO 2023 Theory Paper 1 
+ 
+14 
+5.  
+(b) 
+ 
+Radioactive nucleus A with half-life of 1 hour decays into another 
+radioactive nucleus B which has a half-life of 6 hours.  Nucleus B decays 
+into nucl HEADINGS [' \n1. This is a 2-hour paper. ', '2. This paper consists of five (5) questions printed on fourteen (14) pages. The second page', '3. Attempt all questions.  ', '4. Write your answers in the space provided in the question booklet. ', '5. You may request working paper from the invigilators. ', '6. You may not refer to any books or documents relevant to the competition. ', '1 ', '2 ', '3 ', '4 ', '5 ', ' \n2 ', '6.02 10', ' \n3 ', '1.  ']
+SPhO_2023_Q2.pdf 12 HEAD 36th Singapore Physics Olympiad Theory Paper 2 
+ 
+Organised by 
+ 
+Institute of Physics 
+ 
+ 
+In conjunction with 
+National Institute of Education Singapore, Nanyang Technological University Singapore 
+National University of Singapore 
+Ministry of Education Singapore 
+ 
+And sponsored by 
+Micron Technology Foundation, Inc 
+ 
+Instructions to Candidates 
+ 
+1. This is a 2-hour paper. 
+ 
+2. This paper consists of five (5) questions printed on twelve (12) pages. The second page is a 
+General Information TAIL SPhO 2023 Theory Paper 2 
+ 
+12 
+5.  
+(b) 
+ 
+An observer A in the inertial frame S sees a red flash of light at the origin 
+at time 
+0
+t =
+ and a blue flash of light at 
+B
+x
+x
+=
+ km and time 
+9.50
+t
+s
+ HEADINGS [' \n1. This is a 2-hour paper. ', ' \n2. This paper consists of five (5) questions printed on twelve (12) pages. The second page i', ' \n3. Attempt all questions.  ', ' \n4. Write your answers in the space provided in the question booklet. ', ' \n5. You may request working paper from the invigilators. ', ' \n6. You may not refer to any books or documents relevant to the competition. ', '1 ', '2 ', '3 ', '4 ', '5 ', ' \n2 ', '2 ', ' \n3 ', '1.  ']
+TwPhO_2026_Q1-6.pdf 16 HEAD  TAIL  HEADINGS ['\n\n\n\n\n\n\n\n\n\n2026 年複選考試 ', '10 分 ', '2 ', '2 ', '3 ', '3 ', '3 分 ', '3 ', '4 分 ', '2 ', '2 ', '8 分 ', '2 ', '3 ', ' \n3 ']
+APhO_2021_ExperimentData.zip ARCHIVE ['APhO/', 'APhO/APHO.exe', 'APhO/APHO_Data/', 'APhO/APHO_Data/app.info', 'APhO/APHO_Data/boot.config', 'APhO/APHO_Data/globalgamemanagers', 'APhO/APHO_Data/globalgamemanagers.assets', 'APhO/APHO_Data/level0', 'APhO/APHO_Data/level1', 'APhO/APHO_Data/level2', 'APhO/APHO_Data/level3', 'APhO/APHO_Data/Managed/', 'APhO/APHO_Data/Managed/Assembly-CSharp.dll', 'APhO/APHO_Data/Managed/DemiLib.dll', 'APhO/APHO_Data/Managed/DOTween.dll', 'APhO/APHO_Data/Managed/DOTweenPro.dll', 'APhO/APHO_Data/Managed/Mono.Posix.dll', 'APhO/APHO_Data/Managed/Mono.Security.dll', 'APhO/APHO_Data/Managed/mscorlib.dll', 'APhO/APHO_Data/Managed/PlayerPrefsEditor.dll']
+SCANNED SAMPLE {'id': 710, 'competition_id': 1, 'year': '1969', 'session': '', 'section': 'Problems', 'raw_link_label': 'Problem', 'document_type': 'problem', 'document_scope': 'problem', 'source_page_url': 'https://olimpicos.net/ipho/index.html#1969', 'direct_url': 'https://olimpicos.net/files/ipho/IPhO_1969_Q1.pdf', 'hosting': 'olimpicos', 'original_filename': 'IPhO_1969_Q1.pdf', 'discovered_at': '2026-10-03T20:06:00.118959+00:00', 'notes': '', 'status': 'downloaded', 'file_id': 672, 'http_status': 200, 'response_mime_type': 'application/pdf', 'final_url': 'https://olimpicos.net/files/ipho/IPhO_1969_Q1.pdf', 'attempts': 1, 'last_error': None, 'archive_section_id': 108, 'local_path': 'originals/ipho/1969/IPhO_1969_Q1__db6f329e5f36143a.pdf'}

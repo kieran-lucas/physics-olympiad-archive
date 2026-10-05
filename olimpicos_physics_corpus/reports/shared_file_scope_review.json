@@ -1,0 +1,331 @@
+[
+  {
+    "file_id": 128,
+    "path": "originals/ipho/2022/IPhO_2022_S1__3a7e7e36cfff1b1d.pdf",
+    "logical_problems": 3,
+    "scope": "round",
+    "document_records_corrected": 3
+  },
+  {
+    "file_id": 133,
+    "path": "originals/ipho/2022/IPhO_2022_S4__f7e02e3b79c0a486.pdf",
+    "logical_problems": 2,
+    "scope": "round",
+    "document_records_corrected": 2
+  },
+  {
+    "file_id": 829,
+    "path": "originals/eupho/2021/EuPhO_2021_S1__076112eaa51bd285.pdf",
+    "logical_problems": 3,
+    "scope": "round",
+    "document_records_corrected": 3
+  },
+  {
+    "file_id": 856,
+    "path": "originals/eupho/2020/EuPhO_2020_S1__bdceaf7add4f2210.pdf",
+    "logical_problems": 3,
+    "scope": "round",
+    "document_records_corrected": 3
+  },
+  {
+    "file_id": 882,
+    "path": "originals/eupho/2019/EuPhO_2019_S1__968ab12ecf108a74.pdf",
+    "logical_problems": 3,
+    "scope": "round",
+    "document_records_corrected": 3
+  },
+  {
+    "file_id": 1518,
+    "path": "originals/nbpho/2021/NBPhO_2021_Q1__3481b93686c493bd.pdf",
+    "logical_problems": 4,
+    "scope": "full_exam",
+    "document_records_corrected": 4
+  },
+  {
+    "file_id": 1520,
+    "path": "originals/nbpho/2021/NBPhO_2021_S1__33077308e31d842b.pdf",
+    "logical_problems": 4,
+    "scope": "full_exam",
+    "document_records_corrected": 4
+  },
+  {
+    "file_id": 1521,
+    "path": "originals/nbpho/2020/NBPhO_2020_Q1__39faa10f6904d9d7.pdf",
+    "logical_problems": 5,
+    "scope": "full_exam",
+    "document_records_corrected": 5
+  },
+  {
+    "file_id": 1522,
+    "path": "originals/nbpho/2020/NBPhO_2020_S1__7fd349492edfbb91.pdf",
+    "logical_problems": 5,
+    "scope": "full_exam",
+    "document_records_corrected": 5
+  },
+  {
+    "file_id": 1523,
+    "path": "originals/nbpho/2019/NBPhO_2019_Q1__40b081adc6c6e9b0.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1524,
+    "path": "originals/nbpho/2019/NBPhO_2019_S1__0fcfffab34b688a4.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1525,
+    "path": "originals/nbpho/2018/NBPhO_2018_Q1__6d6925eb5e081223.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1526,
+    "path": "originals/nbpho/2018/NBPhO_2018_S1__e940699336caa0ae.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1527,
+    "path": "originals/nbpho/2017/NBPhO_2017_Q1__74408ff21e092ffa.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1528,
+    "path": "originals/nbpho/2017/NBPhO_2017_S1__80218c183c1e62fe.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1529,
+    "path": "originals/nbpho/2016/NBPhO_2016_Q1__c7561aa952300015.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1530,
+    "path": "originals/nbpho/2016/NBPhO_2016_S1__a5224e9af5db71c8.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1531,
+    "path": "originals/nbpho/2015/NBPhO_2015_Q1__b1cf2793dbb18700.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1532,
+    "path": "originals/nbpho/2015/NBPhO_2015_S1__dcfc8ff7db56fd36.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1533,
+    "path": "originals/nbpho/2014/NBPhO_2014_S1__956ef36bc8c113e7.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1534,
+    "path": "originals/nbpho/2014/NBPhO_2014_Q1__348b2a973efa8cc3.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1535,
+    "path": "originals/nbpho/2013/NBPhO_2013_Q1__94bcde1e42b02885.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1536,
+    "path": "originals/nbpho/2013/NBPhO_2013_S1__142b932c4a8c9401.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1537,
+    "path": "originals/nbpho/2012/NBPhO_2012_Q1__0dc5ebe69013dc24.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1538,
+    "path": "originals/nbpho/2012/NBPhO_2012_S1__0aee724038b1972a.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1539,
+    "path": "originals/nbpho/2011/NBPhO_2011_Q1__c37c9bdee72d4b19.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1540,
+    "path": "originals/nbpho/2011/NBPhO_2011_S1__5c7631b623f5c49b.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1541,
+    "path": "originals/nbpho/2010/NBPhO_2010_Q1__ed8c369411e91241.pdf",
+    "logical_problems": 11,
+    "scope": "full_exam",
+    "document_records_corrected": 11
+  },
+  {
+    "file_id": 1542,
+    "path": "originals/nbpho/2010/NBPhO_2010_S1__053d3eb84c8cdd88.pdf",
+    "logical_problems": 11,
+    "scope": "full_exam",
+    "document_records_corrected": 11
+  },
+  {
+    "file_id": 1543,
+    "path": "originals/nbpho/2009/NBPhO_2009_Q1__35c02d7f202cb9af.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1544,
+    "path": "originals/nbpho/2009/NBPhO_2009_S1__1ae69c05305464a2.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1545,
+    "path": "originals/nbpho/2008/NBPhO_2008_S1__1dcb910f4ead657f.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1546,
+    "path": "originals/nbpho/2008/NBPhO_2008_Q1__71452c7194ffa86b.pdf",
+    "logical_problems": 10,
+    "scope": "full_exam",
+    "document_records_corrected": 10
+  },
+  {
+    "file_id": 1547,
+    "path": "originals/nbpho/2007/NBPhO_2007_S1__02adaf8676164444.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1548,
+    "path": "originals/nbpho/2007/NBPhO_2007_Q1__32d1fa81e561ed68.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1549,
+    "path": "originals/nbpho/2006/NBPhO_2006_Q1__87bd1fc1ad9ee606.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1550,
+    "path": "originals/nbpho/2006/NBPhO_2006_S1__0aad927ae1fffee0.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1551,
+    "path": "originals/nbpho/2005/NBPhO_2005_Q1__9cc9ff9eab54ab80.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1552,
+    "path": "originals/nbpho/2005/NBPhO_2005_S1__fdfe8e0f67fa37bf.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1553,
+    "path": "originals/nbpho/2004/NBPhO_2004_Q1__ab3c77af8a25aefa.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1554,
+    "path": "originals/nbpho/2004/NBPhO_2004_S1__dfb078cefe395654.pdf",
+    "logical_problems": 9,
+    "scope": "full_exam",
+    "document_records_corrected": 9
+  },
+  {
+    "file_id": 1555,
+    "path": "originals/nbpho/2003/NBPhO_2003_Q1__31d287e506856bc5.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1556,
+    "path": "originals/nbpho/2003/NBPhO_2003_S1__5ba04342dcb8c114.pdf",
+    "logical_problems": 8,
+    "scope": "full_exam",
+    "document_records_corrected": 8
+  },
+  {
+    "file_id": 1693,
+    "path": "originals/rmph/2017/RMPh_2017_Q2__1e6de231a4f2e47f.pdf",
+    "logical_problems": 2,
+    "scope": "unknown",
+    "document_records_corrected": 2
+  },
+  {
+    "file_id": 1934,
+    "path": "originals/usapho/2022/USAPhO_2022_Q4__730b29070b01dfdf.pdf",
+    "logical_problems": 2,
+    "scope": "unknown",
+    "document_records_corrected": 1
+  },
+  {
+    "file_id": 1935,
+    "path": "originals/usapho/2022/USAPhO_2022_S4__ec7d63abbac92f02.pdf",
+    "logical_problems": 2,
+    "scope": "unknown",
+    "document_records_corrected": 1
+  },
+  {
+    "file_id": 3100,
+    "path": "originals/opho/2020/OPhOInv_2020_S2-10__7adac7866a1e9c82.pdf",
+    "logical_problems": 9,
+    "scope": "unknown",
+    "document_records_corrected": 1
+  }
+]
