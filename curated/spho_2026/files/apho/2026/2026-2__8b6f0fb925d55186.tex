@@ -1,0 +1,227 @@
+{\large\textbf{Diffraction of X-rays by Structured and Evolving Targets (10 points)}}
+
+\textbf{Note}\\
+1. Vectors are denoted by bold symbols (e.g., $\mathbf{r}$, $\mathbf{q}$ ).\\
+2. Assume that absorption is neglected and that the electric field is polarized
+perpendicular to the plane of incidence.
+
+X-ray diffraction patterns arise because many tiny ``wave sources'' within a
+crystal interfere, and we can predict this by adding their complex amplitudes
+with the correct phases. Consider a monochromatic wave characterized by a
+(real) amplitude $A \geq 0$ and a phase $\phi$. We define the
+\textbf{complex amplitude} $\tilde{A}$ as
+\[
+\tilde{A} = Ae^{i\phi},
+\]
+so that the (real) amplitude of the wave is the magnitude (absolute value) of
+$\tilde{A}$, and $\phi$ is its phase. Thus $\tilde{A}$ conveniently encodes both
+magnitude and phase in a single complex number. In this problem set, we define
+a dimensionless intensity by the squared magnitude of the total complex
+amplitude:
+\[
+I = |\tilde{A}|^2 = A^2.
+\]
+Common experimental and geometric proportionality factors, such as detector
+response, incident-beam normalization, and common propagation factors, are
+absorbed into this definition. By contrast, the single-electron scattering
+amplitude $f_0$ is retained explicitly as the amplitude scale for scattering
+from one point electron.
+
+When a crystalline material is exposed to an incident wave, the wave is
+diffracted by the crystal lattice and the diffracted parts interfere with one
+another. The intensity of the resulting diffracted wave can be calculated by
+adding the complex amplitudes of the individual diffracted waves, taking into
+account the phase differences between them, and then computing the squared
+magnitude of the resulting total complex amplitude. Diffraction primarily
+arises from interactions with electrons, and contributions from heavier
+particles such as nuclei are typically negligible. The amplitude of the wave
+diffracted by a single point electron depends only on $R = |\mathbf{R}|$, the
+distance from the electron to the detector. Since $R$ is much larger than the
+dimensions of the sample, its variation across the sample can be neglected.
+Therefore, the total diffracted wave can be accurately determined by properly
+accounting for the phase differences between individual diffracted waves, while
+their amplitudes are assumed to be constant.
+
+Let $\mathbf{k}_i$ and $\mathbf{k}_f$ denote the wavevectors of the incident and
+diffracted waves, respectively. An incident plane wave with wavevector
+$\mathbf{k}_i$ is diffracted into a wave with wavevector $\mathbf{k}_f$. The
+\textbf{momentum transfer} is defined as
+\[
+\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i
+\]
+and their magnitudes are assumed to be equal, because the wavelength is
+unchanged:
+\[
+k \equiv |\mathbf{k}_i| = |\mathbf{k}_f| = \frac{2\pi}{\lambda}.
+\]
+
+\textbf{Part A: Diffraction from two electrons treated as point particles (2.0 pts)}
+
+Consider two point electrons located at positions $\mathbf{r}_1$ and
+$\mathbf{r}_2$, and define $\mathbf{r} \equiv \mathbf{r}_2 - \mathbf{r}_1$. A
+detector is located at $\mathbf{P}$, and we define
+$\mathbf{R} \equiv \mathbf{P} - \mathbf{r}_1$. A plane wave
+$E_i(\mathbf{r}) \propto e^{i\mathbf{k}_i\cdot\mathbf{r}}$ is incident on the two
+electrons, and the diffracted wave is observed in the far field along the
+direction $\mathbf{k}_f$. In part \textbf{A}, the common time-dependent factor
+$e^{-i\omega t}$ is suppressed, since only relative spatial phases are relevant.
+
+\textbf{A.1}\quad Under the far-field approximation,
+$R \equiv |\mathbf{R}| \gg |\mathbf{r}|$, keep only the leading-order term in
+$|\mathbf{r}|/R$ and write the outgoing geometric path difference,
+$\Delta L_\mathrm{out} \equiv |\mathbf{P} - \mathbf{r}_1| - |\mathbf{P} - \mathbf{r}_2|$,
+in terms of $\mathbf{r}$ and $\mathbf{k}_f$, or equivalently
+$\mathbf{k}_f/k_f$. \hfill 0.6 pt
+
+\textbf{A.2}\quad Using your result from A.1 and accounting for the
+position-dependent phase of the incident wave at $\mathbf{r}_1$ and
+$\mathbf{r}_2$, find the phase difference between the two diffracted
+contributions at the detector, expressed in terms of $\mathbf{q}$ and
+$\mathbf{r}$. The phase difference is defined as
+$\Delta\phi \equiv \phi_1 - \phi_2$, where $\phi_1$ and $\phi_2$ are the phases
+of the contributions from the electrons at $r_1$ and $r_2$. \hfill 0.4 pt
+
+\textbf{A.3}\quad Express the total complex amplitude of the diffracted wave
+from these two electrons in terms of $\mathbf{q}$ and $\mathbf{r}$. You may
+ignore any overall common phase factor, since it does not affect the intensity.
+Assume that the real amplitude of a diffracted wave from a single point
+electron is a constant $f_0$, independent of position. \hfill 0.6 pt
+
+\textbf{A.4}\quad Express the intensity of diffracted waves from those two
+electrons in terms of $\mathbf{q}$ and $\mathbf{r}$. \hfill 0.4 pt
+
+\textbf{Part B: Finite longitudinal coherence (phase-jump model) (2.3 pts)}
+
+Consider two point-like electrons located at positions $\mathbf{r}_1$ and
+$\mathbf{r}_2$, with $\mathbf{r} \equiv \mathbf{r}_2 - \mathbf{r}_1$. A beam of
+wavelength $\lambda_0$ (so $k = 2\pi/\lambda_0$ and $\omega = 2\pi c/\lambda_0$)
+illuminates the electrons, and the diffracted wave is observed in the far field
+along $\mathbf{k}_f$. We model the incident field as a plane wave with a
+time-dependent random phase,
+\[
+E_i(\mathbf{r}, t) = A\ \exp[i\,(\mathbf{k}_i\cdot\mathbf{r} - \omega t + \phi(t))]\,,
+\]
+where $\phi(t)$ is \textit{piecewise constant} and undergoes
+\textit{random phase jumps} at regular time intervals of duration
+\[
+t_0 \equiv \frac{L_0}{c},
+\]
+with $L_0$ the (given) longitudinal coherence length. At the beginning of each
+interval of length $t_0$, $\phi(t)$ is reset to a new independent value
+uniformly distributed on $[0, 2\pi)$. Let $I_0$ denote the (time-averaged)
+intensity at the detector that would be obtained from a \textit{single} electron
+in the same geometry. In this problem, the detector is assumed to measure a
+time-averaged intensity. That is, it does not resolve the individual random
+phase jumps. Instead, it records the average of the instantaneous intensity
+over a time much longer than the phase-jump interval $t_0$:
+$\langle I\rangle_t \equiv \left\langle |E(t)|^2 \right\rangle_t$ . Here
+$\langle\cdots\rangle_t$ denotes an average over many phase-jump intervals.
+
+\textbf{B.1}\quad Using the phase-jump model above, derive the
+\textit{time-averaged} total intensity $\langle I\rangle_t$ at the detector from
+the two electrons. Your final result should be written in terms of $I_0$,
+$\mathbf{q} \equiv \mathbf{k}_f - \mathbf{k}_i$, the separation vector
+$\mathbf{r}$, the wavelength $\lambda_0$, and the coherence length $L_0$.
+Assume the detector averages over times much longer than $t_0$. \hfill 2.3 pt
+
+\textbf{Part C: Non-point particle effect (1.0 pts)}
+
+An electron is often treated as a classical point particle, but in a more
+realistic model its charge may be regarded as being distributed over a finite
+spatial region. Consider two idealized charge distributions: (i) an ideal point
+charge located at $\mathbf{r} = 0$, whose scattering amplitude is
+$A_1(\mathbf{q}) = Q_0$, (ii) an extended Gaussian charge distribution
+$\rho_2(\mathbf{r}) = \rho_0 \exp\left(-\frac{r^2}{R_0^2}\right), \qquad r = |\mathbf{r}|.$
+
+The constants $Q_0$ and $\rho_0$ are chosen so that the total charge is the same
+in both cases:
+\[
+Q_0 = \int \rho_2(\mathbf{r})\, d^3r.
+\]
+Here $d^3r$ denotes the volume element in three-dimensional space. In Cartesian
+coordinates, $d^3r = dxdydz$ and $\int_{\mathbb{R}^3}$ means integration over all
+space. Useful identities (may be used without proof):
+\[
+\int_0^\infty e^{-r^2/R_0^2}\, 4\pi r^2\, dr = \pi^{3/2}R_0^3, \int_{\mathbb{R}^3} e^{-\alpha r^2} e^{i\mathbf{k}\cdot\mathbf{r}}\, d^3\mathbf{r} = \left(\frac{\pi}{\alpha}\right)^{3/2} \exp\left(-\frac{k^2}{4\alpha}\right), \qquad \alpha > 0.
+\]
+
+\textbf{C.1}\quad Obtain the relation among $Q_0$, $\rho_0$, and $R_0$.
+\hfill 0.4 pt
+
+\textbf{C.2}\quad Evaluate the amplitude \hfill 0.4 pt
+\[
+A_2(\mathbf{q}) \equiv \int_{\mathbb{R}^3} \rho_2(\mathbf{r})e^{i\mathbf{q}\cdot\mathbf{r}}\, d^3\mathbf{r}
+\]
+and compare it with the point-charge amplitude $A_1(\mathbf{q}) = Q_0$.
+
+\textbf{C.3}\quad Estimate the ratio of the diffracted intensities,
+$\dfrac{I_2}{I_1}$, for these two idealized cases when $q = \dfrac{2}{R_0}$.
+\hfill 0.2 pt
+
+\textbf{Part D: Diffraction from a film with non-flat surface morphology (2.4 pts)}
+
+Imagine that the surface of a film (i.e., the top atomic layers) is not
+perfectly flat, but exhibits surface roughness. A common model is to assume
+that the local film thickness (measured in monolayers) follows a Gaussian
+distribution. Let $N$ denote the local number of completed monolayers within a
+lateral coherence area of the beam. We assume that $N$ varies across the
+surface and is normally distributed with mean $\bar{N}$ and standard deviation
+$\sigma$ (both in units of monolayers):
+\[
+P(N) = \frac{1}{\sqrt{2\pi}\sigma} \exp\left[-\frac{(N - \bar{N})^2}{2\sigma^2}\right].
+\]
+(For the purpose of evaluating averages, you may treat $N$ as a continuous
+variable.) Let $d$ be the spacing between adjacent atomic layers (monolayers),
+and let $q_z$ denote the component of the scattering vector
+$\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$ normal to the flat surface of the
+film, i.e., $q_z = \mathbf{q}\cdot\hat{\mathbf{z}}$. For an integer number of
+monolayers $N$, the scattering amplitude is
+\[
+A_N(q_z) = \sum_{n=0}^{N-1} e^{iq_z nd} = \frac{1 - e^{iq_z Nd}}{1 - e^{iq_z d}}.
+\]
+When averaging over the Gaussian thickness distribution, we treat $N$ as a
+continuous variable and use the closed-form expression
+\[
+A_N(q_z) \equiv \frac{1 - e^{iq_z Nd}}{1 - e^{iq_z d}}
+\]
+as the corresponding continuous extension. Assume the measured diffraction
+intensity is obtained from the \textit{coherent} average amplitude,
+\[
+I(q_z) \equiv \left|\langle A(q_z)\rangle\right|^2, \qquad \langle A(q_z)\rangle = \int_{-\infty}^{\infty} P(N)\, A_N(q_z)\, dN.
+\]
+
+\textbf{D.1}\quad Calculate the intensity ratios \hfill 2.4 pt
+\[
+\frac{I(q_z, \sigma = 0.4, \bar{N} = 5)}{I(q_z, \sigma = 0, \bar{N} = 5)}
+\]
+at
+\[
+q_z = \frac{\pi}{2d} \qquad \mathrm{and} \qquad q_z = \frac{2\pi}{d},
+\]
+respectively. If needed, evaluate the second case by taking the appropriate
+limit.
+
+\textbf{Part E: Diffraction from a film with evolving surface morphology (2.3 pts)}
+
+Imagine a thin film with a simple cubic structure grown on a substrate in a
+layer-by-layer mode, \textit{i.e.}, each monolayer is completed before the next
+monolayer starts to grow. Let $d$ be the spacing between adjacent atomic layers
+(monolayers), and let $q_z$ denote the component of
+$\mathbf{q} = \mathbf{k}_f - \mathbf{k}_i$ normal to the flat surface of the
+film, \textit{i.e.,} $q_z = \mathbf{q}\cdot\hat{\mathbf{z}}$. As the film is
+being grown, the thickness of the film changes, and so does the diffraction
+intensity at $\mathbf{q} = \frac{\pi}{d}\hat{\mathbf{z}}$. The calculation is
+performed at the specified out-of-plane momentum transfer, and all monolayer
+contributions are coherently summed.
+
+\textbf{E.1}\quad If the film starts to grow at $t = 0$ and the time required to
+complete one monolayer is $t_0$, obtain the diffraction intensity ratio
+\hfill 2.3 pt
+\[
+\frac{I(t = 0.8t_0)}{I(t = 3.6t_0)}
+\]
+measured at $\mathbf{q} = \frac{\pi}{d}\hat{\mathbf{z}}$. Assume that during
+each monolayer-growth interval, the fractional coverage of the top layer
+increases linearly from 0 to 1, so that at time $t = (N + \theta)t_0$, there are
+$N$ completed monolayers and a fractional coverage $\theta$ of the next
+monolayer.
