@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Physica", "version": "1.0.0", "identifier": "local.physica.desktop",
+  "build": { "beforeDevCommand": "npm run dev", "devUrl": "http://127.0.0.1:1420", "beforeBuildCommand": "npm run build", "frontendDist": "../dist" },
+  "app": {
+    "windows": [{ "label": "main", "title": "Physica", "width": 1360, "height": 900, "minWidth": 800, "minHeight": 600, "decorations": false, "resizable": true, "maximized": true, "backgroundColor": "#eef4fb" }],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; font-src 'self' data:; img-src 'self' asset: http://asset.localhost data: blob:; connect-src 'self' ipc: http://ipc.localhost asset: http://asset.localhost; worker-src 'self' blob:",
+      "assetProtocol": { "enable": true, "scope": [] }
+    }
+  },
+  "bundle": { "active": true, "targets": ["nsis"], "icon": ["icons/icon.ico"], "shortDescription": "Offline physics olympiad practice", "windows": { "nsis": { "displayLanguageSelector": false }, "webviewInstallMode": { "type": "skip" } } }
+}
