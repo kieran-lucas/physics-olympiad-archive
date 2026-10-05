@@ -1,0 +1,16 @@
+# Local environments and Python bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Credentials and incomplete local writes
+.env
+.env.*
+!.env.example
+*.sqlite-wal
+*.sqlite-shm
+*.part
+
+# Empty local command artifact
+/python

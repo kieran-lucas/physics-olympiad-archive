@@ -1,0 +1,634 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Physica — Olympiad Trainer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;450;500;550;600;650&family=Sora:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#eef4fb; --surface:#fbfcff; --surface2:#f6f9fd; --ink:#222832; --muted:#8390a3;
+  --line:rgba(40,54,82,.095); --line2:rgba(40,54,82,.14);
+  --blue:#3b82f6; --blue2:#2459d3; --blueSoft:#eef6ff;
+  --green:#3aa77c; --greenSoft:#edf9f4;
+  --red:#cf6570; --redSoft:#fff2f4;
+  --amber:#c98d2f; --amberSoft:#fff7e8;
+  --shadow1:0 1px 2px rgba(31,42,66,.045),0 8px 22px rgba(31,42,66,.065);
+  --shadow2:0 18px 46px rgba(31,42,66,.12),0 3px 8px rgba(31,42,66,.05);
+  --ease:cubic-bezier(.2,.78,.2,1); --spring:cubic-bezier(.18,1.02,.24,1);
+}
+*{box-sizing:border-box}
+html,body{width:100%;height:100%;margin:0}
+body{
+  padding:22px;overflow:hidden;
+  color:var(--ink);font-family:"Lexend","Segoe UI Variable","Segoe UI",system-ui,sans-serif;
+  background:
+    radial-gradient(circle at 88% 8%,rgba(80,151,255,.11),transparent 25%),
+    radial-gradient(circle at 9% 91%,rgba(121,184,255,.08),transparent 29%),
+    linear-gradient(180deg,#f8fbff,#edf3fa);
+  -webkit-font-smoothing:antialiased;text-rendering:geometricPrecision;
+}
+button,input,select{font:inherit}
+
+.app{
+  width:min(1540px,100%);height:calc(100vh - 44px);min-height:680px;margin:auto;
+  border:1px solid rgba(45,58,84,.12);border-radius:22px;overflow:hidden;
+  background:var(--surface);box-shadow:0 30px 84px rgba(26,35,55,.17),0 4px 18px rgba(26,35,55,.07);
+  display:grid;grid-template-rows:43px 1fr;position:relative;isolation:isolate;
+}
+
+/* ---------- PERSISTENT CHROME ---------- */
+.titlebar{
+  background:linear-gradient(180deg,#f4f6fa,#eceff5);
+  border-bottom:1px solid rgba(38,48,68,.07);
+  display:flex;align-items:flex-end;gap:8px;padding:6px 11px 0;user-select:none;
+}
+.window-dots{height:36px;display:flex;align-items:center;gap:7px;padding:0 3px 6px}
+.dot{width:10px;height:10px;border-radius:50%;display:block;box-shadow:inset 0 1px 0 rgba(255,255,255,.35),0 0 0 1px rgba(31,53,94,.045)}
+.dot:nth-child(1){background:#d95f5f} .dot:nth-child(2){background:#4db0b4} .dot:nth-child(3){background:#3b82f6}
+.tabs{display:flex;align-items:flex-end;gap:5px;flex:1;height:100%;min-width:0}
+.tab{
+  height:33px;padding:0 13px;border:0;border-radius:11px 11px 0 0;background:transparent;
+  color:#717985;font-size:10.5px;font-weight:500;cursor:pointer;position:relative;
+  transition:background .2s var(--ease),color .2s var(--ease),transform .22s var(--spring);
+}
+.tab:hover{background:rgba(255,255,255,.48);color:#424a55}
+.tab.active{background:var(--surface);color:#29313c;transform:translateY(-1px)}
+.tab.active::before{
+  content:"";position:absolute;top:0;left:15px;right:15px;height:2px;border-radius:999px;
+  background:linear-gradient(90deg,#c8dfff,#4d96ff 42%,#2459d3 68%,#e0edff);
+  box-shadow:0 0 12px rgba(59,130,246,.16)
+}
+.title-actions{height:36px;display:flex;align-items:center;gap:5px;padding-bottom:5px}
+.ticon,.draw-top{
+  border:0;cursor:pointer;transition:.2s var(--ease)
+}
+.ticon{width:29px;height:29px;border-radius:9px;background:transparent;color:#667487;display:grid;place-items:center}
+.ticon:hover{background:rgba(255,255,255,.68);color:#344760}
+.draw-top{height:29px;padding:0 11px;border-radius:9px;background:var(--blueSoft);color:var(--blue2);font-size:9.5px;font-weight:600}
+.draw-top:hover{background:#e3f0ff}
+
+/* ---------- VIEWPORT ---------- */
+.viewport{
+  position:relative;overflow:hidden;
+  background:
+    radial-gradient(circle at 50% 18%,rgba(89,166,255,.07),transparent 24%),
+    radial-gradient(circle at 84% 14%,rgba(103,140,255,.075),transparent 30%),
+    radial-gradient(circle at 14% 88%,rgba(110,154,255,.06),transparent 27%),
+    linear-gradient(180deg,#fcfdff,#f7faff 55%,#eff4fb);
+}
+.viewport::before{
+  content:"";position:absolute;inset:0;pointer-events:none;z-index:0;
+  background:linear-gradient(126deg,transparent 43%,rgba(125,167,255,.04) 58%,rgba(125,167,255,.055) 69%,transparent 82%);
+}
+.page{display:none;position:absolute;inset:0;overflow:auto;z-index:1;animation:pageIn .24s var(--ease)}
+.page.active{display:block}
+@keyframes pageIn{from{opacity:.35;transform:translateY(3px)}to{opacity:1;transform:none}}
+.page-inner{width:min(1120px,calc(100% - 72px));min-height:100%;margin:auto;position:relative}
+
+/* ---------- HOME ---------- */
+.home{overflow:hidden}
+.home-inner{height:100%;display:grid;grid-template-columns:1fr;align-items:center;padding:48px 20px 52px}
+.kicker{font-size:9px;letter-spacing:.24em;text-transform:uppercase;color:#748caf;font-weight:550;margin-bottom:13px}
+.home h1{
+  margin:0;font-family:Sora,Lexend,sans-serif;font-size:clamp(48px,5.7vw,78px);line-height:.97;
+  letter-spacing:-.075em;font-weight:600;color:#292f38
+}
+.home h1 span{
+  color:transparent;background:linear-gradient(180deg,#7bc5ff 0%,#3489fa 52%,#2259ca 100%);
+  -webkit-background-clip:text;background-clip:text;text-shadow:0 8px 22px rgba(59,130,246,.12)
+}
+.home-copy p{max-width:650px;margin:19px 0 0;font-size:11.5px;line-height:1.75;color:#8793a5}
+.home-actions{display:flex;align-items:center;gap:9px;margin-top:27px}
+.draw-main{
+  height:54px;padding:0 20px;border-radius:17px;border:1px solid rgba(56,91,148,.11);
+  background:linear-gradient(180deg,rgba(255,255,255,.99),rgba(255,255,255,.93));
+  color:#35455c;font-weight:600;font-size:11px;cursor:pointer;box-shadow:0 16px 38px rgba(40,65,108,.10),0 2px 5px rgba(31,42,66,.04);
+  display:flex;align-items:center;gap:10px;transition:transform .25s var(--spring),box-shadow .25s var(--ease),border-color .25s var(--ease)
+}
+.draw-main:hover{transform:translateY(-2px);border-color:rgba(59,130,246,.19);box-shadow:0 20px 46px rgba(43,75,132,.12)}
+.spark{font-size:16px;color:#4b91f8;text-shadow:0 0 17px rgba(59,130,246,.28)}
+.resume{
+  height:54px;padding:0 15px;border:1px solid rgba(72,92,132,.07);border-radius:17px;background:rgba(255,255,255,.28);
+  color:#8894a5;font-size:10px;cursor:pointer
+}
+.mode-line{display:flex;align-items:center;gap:8px;margin-top:18px;font-size:8.8px;color:#96a1b0}
+.mode-chip{
+  padding:5px 8px;border-radius:999px;background:rgba(255,255,255,.48);border:1px solid rgba(74,94,136,.06);color:#6f7f97
+}
+.micro{position:absolute;color:#8092b1;font-size:8px;letter-spacing:.35em;text-transform:uppercase;line-height:1.8;opacity:.63;user-select:none;pointer-events:none}
+.micro.left{left:22px;top:28px} .micro.right{right:22px;top:28px;text-align:right}
+.micro::after{content:"";display:block;width:20px;height:1px;margin-top:8px;background:linear-gradient(90deg,rgba(114,153,233,.72),transparent)}
+.micro.right::after{margin-left:auto;background:linear-gradient(270deg,rgba(114,153,233,.72),transparent)}
+
+/* ---------- LIBRARY / HISTORY / SKIP ---------- */
+.section-wrap{padding:30px 0 48px}
+.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;margin-bottom:15px}
+.section-head h2{font-family:Sora,Lexend,sans-serif;margin:0;font-size:28px;letter-spacing:-.055em}
+.section-head p{margin:5px 0 0;font-size:9.5px;color:#8d98a8}
+.filter-row{display:flex;gap:8px;margin-bottom:12px}
+.search{
+  height:40px;flex:1;border:1px solid rgba(54,89,146,.10);border-radius:13px;background:rgba(255,255,255,.90);padding:0 13px;outline:none;color:#344155;font-size:10px
+}
+.search:focus{border-color:rgba(59,130,246,.28);box-shadow:0 0 0 3px rgba(61,112,234,.07)}
+select{height:40px;border:1px solid rgba(54,89,146,.08);border-radius:12px;background:#fff;color:#6f7b8e;padding:0 10px;font-size:9.5px;outline:none}
+.data-table{width:100%;border-collapse:separate;border-spacing:0;background:rgba(255,255,255,.76);border:1px solid rgba(68,88,126,.075);border-radius:16px;overflow:hidden;box-shadow:var(--shadow1)}
+.data-table th,.data-table td{padding:11px 13px;border-bottom:1px solid rgba(68,88,126,.055);font-size:9.7px;text-align:left}
+.data-table th{color:#8a95a6;font-weight:500;background:rgba(247,250,255,.64)} .data-table tr:last-child td{border-bottom:0}
+.data-table tbody tr{cursor:pointer} .data-table tbody tr:hover td{background:rgba(244,249,255,.76)}
+.badge{display:inline-flex;align-items:center;height:22px;padding:0 7px;border-radius:999px;background:#f1f5fa;color:#718097;font-size:8.2px}
+.restore{border:1px solid rgba(62,81,116,.075);border-radius:9px;background:#fff;color:#65758e;font-size:8.7px;padding:6px 9px;cursor:pointer}
+.empty{padding:36px;text-align:center;color:#98a2b0;font-size:10px}
+
+/* ---------- SETTINGS DRAWER ---------- */
+.drawer{
+  position:absolute;right:0;top:0;bottom:0;width:340px;z-index:40;background:rgba(250,252,255,.95);
+  border-left:1px solid rgba(44,55,78,.09);backdrop-filter:blur(20px);box-shadow:-18px 0 48px rgba(31,42,66,.10);
+  transform:translateX(102%);transition:.31s var(--spring);padding:18px
+}
+.drawer.open{transform:translateX(0)}
+.drawer-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.drawer-head b{font-size:11px} .drawer-close{width:29px;height:29px;border:0;border-radius:9px;background:#f0f4f9;color:#6a778b;cursor:pointer}
+.group{border:1px solid rgba(74,93,135,.075);border-radius:13px;background:rgba(255,255,255,.64);overflow:hidden;margin-bottom:8px}
+.group-head{width:100%;border:0;background:transparent;padding:12px;display:flex;justify-content:space-between;color:#54657e;font-size:9.5px;cursor:pointer}
+.group-body{display:none;padding:0 12px 12px} .group.open .group-body{display:block}
+.mode-grid{display:flex;gap:6px;flex-wrap:wrap}
+.mode-btn{border:1px solid rgba(74,93,135,.08);background:#fff;border-radius:9px;padding:7px 9px;color:#718096;font-size:8.8px;cursor:pointer}
+.mode-btn.active{background:var(--blueSoft);color:var(--blue2);border-color:rgba(59,130,246,.14)}
+.weight-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:7px}
+.weight{padding:10px;border-radius:11px;background:linear-gradient(180deg,#fcfdff,#f3f7ff);border:1px solid rgba(74,93,135,.075)}
+.weight b{font-size:10px;display:block} .weight span{font-size:7.8px;color:#8c98aa}
+.toggle-row{display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:8.9px;color:#718097}
+.switch{width:34px;height:20px;border-radius:999px;background:#dbe3ee;position:relative;cursor:pointer;transition:.2s}
+.switch::after{content:"";position:absolute;width:16px;height:16px;border-radius:50%;top:2px;left:2px;background:#fff;box-shadow:0 2px 5px rgba(30,45,70,.16);transition:.2s}
+.switch.on{background:#7fb2fa} .switch.on::after{left:16px}
+
+/* ---------- GACHA ---------- */
+.gacha{
+  position:fixed;inset:0;z-index:100;background:rgba(235,242,252,.82);backdrop-filter:blur(17px);
+  display:none;align-items:center;justify-content:center;padding:26px
+}
+.gacha.show{display:flex}
+.gacha-box{width:min(1120px,94vw);border:1px solid rgba(44,55,78,.11);border-radius:22px;background:rgba(251,253,255,.97);box-shadow:0 32px 92px rgba(31,42,66,.18);overflow:hidden}
+.gacha-head{height:52px;padding:0 18px;display:flex;align-items:center;justify-content:space-between;background:linear-gradient(180deg,#fafcff,#f3f7fc);border-bottom:1px solid rgba(44,55,78,.07)}
+.gacha-head b{font-size:10.5px} .gacha-head span{font-size:8.2px;color:#8290a6;letter-spacing:.16em}
+.gacha-stage{height:282px;position:relative;overflow:hidden;background:radial-gradient(circle at 50% 48%,rgba(82,154,255,.09),transparent 28%),linear-gradient(180deg,#f9fbff,#eff5fd)}
+.gacha-stage::before,.gacha-stage::after{content:"";position:absolute;top:0;bottom:0;width:22%;z-index:4;pointer-events:none}
+.gacha-stage::before{left:0;background:linear-gradient(90deg,#eff5fd 10%,rgba(239,245,253,.95) 48%,transparent)}
+.gacha-stage::after{right:0;background:linear-gradient(270deg,#eff5fd 10%,rgba(239,245,253,.95) 48%,transparent)}
+.marker{position:absolute;left:50%;top:22px;bottom:22px;width:2px;background:#4d91ff;z-index:7;box-shadow:0 0 18px rgba(59,130,246,.34)}
+.marker::before,.marker::after{content:"";position:absolute;left:50%;transform:translateX(-50%);border-left:7px solid transparent;border-right:7px solid transparent}
+.marker::before{top:0;border-top:10px solid #4d91ff} .marker::after{bottom:0;border-bottom:10px solid #4d91ff}
+.reel{position:absolute;left:0;top:48px;height:184px;display:flex;gap:12px;align-items:center;will-change:transform}
+.gcard{width:168px;height:174px;flex:0 0 168px;border-radius:16px;padding:13px;background:rgba(255,255,255,.94);border:1px solid rgba(67,91,135,.09);box-shadow:0 10px 24px rgba(41,60,95,.07);display:flex;flex-direction:column;justify-content:space-between}
+.gcard.theory{border-top:3px solid #5799ff} .gcard.mcq{border-top:3px solid #5dbb97} .gcard.experimental{border-top:3px solid #d6a24b}
+.gcard .type{font-size:7.8px;letter-spacing:.13em;color:#7f91ae;text-transform:uppercase} .gcard h4{font-size:10.8px;line-height:1.4;margin:7px 0;color:#303b4c} .gcard .topic{font-size:8.2px;line-height:1.45;color:#8a98ac} .gcard .src{font-size:7.7px;color:#96a2b4;border-top:1px solid #edf1f6;padding-top:8px}
+.gacha-foot{min-height:72px;padding:12px 18px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid rgba(44,55,78,.065)}
+.gtiny{font-size:7.8px;color:#8592a6;letter-spacing:.16em;text-transform:uppercase} .winner{font-size:11.8px;font-weight:600;margin-top:3px} .winner-sub{font-size:8.3px;color:#8795aa;margin-top:2px}
+.open-btn{opacity:0;pointer-events:none;border:0;border-radius:11px;padding:10px 14px;background:var(--blueSoft);color:var(--blue2);font-size:9.5px;font-weight:600;cursor:pointer;transition:.2s}
+.open-btn.ready{opacity:1;pointer-events:auto}
+
+/* ---------- PROBLEM VIEW ---------- */
+.problem-page{
+  background:radial-gradient(circle at 50% 4%,rgba(92,165,255,.07),transparent 28%),linear-gradient(180deg,#f6f9fd,#edf3fb)
+}
+.problem-workspace{width:min(1240px,calc(100% - 56px));min-height:100%;margin:auto;padding:18px 0 120px;position:relative}
+.paper{
+  width:min(930px,calc(100% - 170px));min-height:1260px;margin:0 auto;background:#fff;
+  border:1px solid rgba(49,62,92,.07);box-shadow:0 20px 50px rgba(31,42,66,.115);padding:62px 74px 88px;position:relative
+}
+.page-no{position:absolute;top:19px;right:27px;font-size:8.4px;color:#9fa8b5}
+.doc-head{text-align:center;font-family:Georgia,serif;color:#5b6370;font-size:11.4px;margin-bottom:82px}
+.pdf-context{font-family:Georgia,serif;font-size:13px;line-height:1.6;color:#666f7b}
+.problem-anchor{border-left:3px solid #5b9cff;padding:3px 0 3px 20px;scroll-margin-top:80px}
+.problem-anchor h2{font-family:Georgia,serif;font-size:23px;line-height:1.28;margin:0 0 14px;color:#252c36}
+.problem-anchor p{font-family:Georgia,serif;font-size:14px;line-height:1.69;color:#303642}
+.diagram{height:180px;width:68%;margin:27px auto;background:linear-gradient(135deg,#fbfbfb,#eff3f7);border:1px solid #d9dee7;display:grid;place-items:center;font-family:Georgia,serif;color:#8d96a4}
+
+/* timer: viewport-pinned, upper-right while the problem page scrolls */
+.timer-card{
+  position:fixed;
+  top:131px;
+  right:max(34px,calc((100vw - min(1540px,100vw - 44px))/2 + 31px));
+  z-index:32;width:148px;padding:10px 11px;border:1px solid rgba(62,85,128,.08);
+  border-radius:15px;background:rgba(255,255,255,.92);backdrop-filter:blur(16px);box-shadow:0 10px 28px rgba(36,53,86,.09)
+}
+.timer-label{font-size:7.3px;letter-spacing:.15em;text-transform:uppercase;color:#93a0b1;margin-bottom:4px}
+.timer-row{display:flex;align-items:center;justify-content:space-between;gap:7px}
+.clock{font-family:Sora,Lexend,sans-serif;font-size:16px;font-weight:600;color:#35465f;letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.timer-controls{display:flex;gap:4px}
+.timer-icon{width:25px;height:25px;border:0;border-radius:8px;background:#f1f6fc;color:#5f7190;cursor:pointer;display:grid;place-items:center;font-size:8.5px}
+.timer-icon:hover{background:#e9f2ff;color:#315da5}
+
+/* deliberately designed action rail */
+.action-rail{
+  position:fixed;right:max(34px,calc((100vw - min(1540px,100vw - 44px))/2 + 31px));bottom:34px;z-index:30;
+  width:76px;padding:7px;border:1px solid rgba(54,75,114,.085);border-radius:19px;background:rgba(252,253,255,.93);backdrop-filter:blur(18px);
+  box-shadow:0 18px 44px rgba(31,42,66,.14),0 2px 5px rgba(31,42,66,.04);display:none;gap:5px;flex-direction:column
+}
+#problem.active .action-rail{display:flex}
+.action{
+  height:54px;border:1px solid transparent;border-radius:13px;background:#f7f9fc;color:#65758d;
+  cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;transition:transform .18s var(--spring),background .18s var(--ease),box-shadow .18s var(--ease)
+}
+.action:hover{transform:translateX(-2px)}
+.action svg{width:16px;height:16px} .action span{font-size:7.7px;font-weight:550}
+.action.answer{background:#f3f8ff;color:#3769ad;border-color:rgba(59,130,246,.07)} .action.answer:hover{background:#eaf4ff}
+.action.solved{background:#f1faf6;color:#347e64;border-color:rgba(54,157,116,.07)} .action.solved:hover{background:#e9f8f1}
+.action.failed{background:#fff5f6;color:#a15862;border-color:rgba(213,101,114,.07)} .action.failed:hover{background:#ffedef}
+.action.skip{background:#f5f6f9;color:#677389;border-color:rgba(78,93,120,.07)} .action.skip:hover{background:#eceff5}
+
+/* ---------- ANSWER ---------- */
+.answer-modal{position:fixed;inset:0;z-index:120;background:rgba(233,241,252,.76);backdrop-filter:blur(14px);display:none;align-items:center;justify-content:center}
+.answer-modal.show{display:flex}
+.answer-box{width:min(760px,90vw);background:#fff;border:1px solid rgba(44,55,78,.10);border-radius:20px;box-shadow:0 26px 75px rgba(31,42,66,.16);padding:20px}
+.answer-box h3{margin:0;font-family:Sora,sans-serif;font-size:18px;letter-spacing:-.04em;color:#283345}
+.answer-meta{font-size:8.8px;color:#8c99ab;margin:6px 0 13px} .answer-body{font-size:10.7px;line-height:1.8;color:#46566e;background:#f7faff;border:1px solid rgba(68,88,126,.07);border-radius:13px;padding:14px}
+.answer-actions{display:flex;justify-content:flex-end;gap:7px;margin-top:12px} .soft{border:1px solid rgba(68,88,126,.08);background:#fff;color:#637188;border-radius:10px;padding:8px 11px;font-size:8.8px;cursor:pointer}
+
+/* ---------- ACTION CONFIRMATION ---------- */
+.confirm-modal{position:fixed;inset:0;z-index:155;background:rgba(233,241,252,.72);backdrop-filter:blur(13px);display:none;align-items:center;justify-content:center;padding:24px}
+.confirm-modal.show{display:flex}
+.confirm-box{width:min(430px,92vw);background:rgba(255,255,255,.98);border:1px solid rgba(44,55,78,.10);border-radius:20px;box-shadow:0 28px 80px rgba(31,42,66,.18);padding:20px}
+.confirm-kicker{font-size:7.8px;letter-spacing:.17em;text-transform:uppercase;color:#92a0b3;margin-bottom:7px}
+.confirm-box h3{margin:0;font-family:Sora,sans-serif;font-size:18px;letter-spacing:-.035em;color:#293548}
+.confirm-box p{margin:9px 0 0;font-size:9.7px;line-height:1.65;color:#748197}
+.confirm-actions{display:flex;justify-content:flex-end;gap:7px;margin-top:17px}
+.confirm-btn{border:1px solid rgba(68,88,126,.09);background:#fff;color:#637188;border-radius:10px;padding:8px 12px;font-size:8.9px;font-weight:550;cursor:pointer}
+.confirm-btn:hover{background:#f6f9fd}
+.confirm-btn.primary{background:var(--blueSoft);color:var(--blue2);border-color:rgba(59,130,246,.12)}
+.confirm-btn.danger{background:var(--redSoft);color:#a15862;border-color:rgba(213,101,114,.10)}
+.confirm-btn.success{background:var(--greenSoft);color:#347e64;border-color:rgba(54,157,116,.10)}
+.confirm-btn.skip{background:#f1f3f7;color:#667389;border-color:rgba(78,93,120,.09)}
+.solve-choice .confirm-actions{display:grid;grid-template-columns:1fr 1fr}
+.solve-choice .confirm-btn{min-height:42px}
+
+/* ---------- TOAST ---------- */
+.toast{position:fixed;left:50%;bottom:29px;transform:translate(-50%,10px);z-index:200;background:rgba(255,255,255,.95);border:1px solid rgba(43,68,112,.10);backdrop-filter:blur(16px);box-shadow:0 12px 30px rgba(34,55,94,.13);color:#566173;padding:9px 12px;border-radius:11px;font-size:9px;opacity:0;pointer-events:none;transition:.22s var(--spring)}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+
+@media(max-width:1040px){
+  body{padding:0} .app{width:100%;height:100vh;border-radius:0;border:0}
+  .home-inner{grid-template-columns:1fr} .page-inner{width:min(92%,760px)}
+  .paper{width:min(900px,calc(100% - 110px));padding:52px 52px 80px}
+  .timer-card{top:109px;right:18px} .action-rail{right:18px;bottom:22px}
+  .micro{display:none}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+
+<body>
+<main class="app" aria-label="Physica olympiad trainer prototype">
+  <header class="titlebar">
+    <nav class="tabs">
+      <button class="tab active" data-page="practice">Practice</button>
+      <button class="tab" data-page="library">Library</button>
+      <button class="tab" data-page="history">History</button>
+      <button class="tab" data-page="skip">Skip List</button>
+    </nav>
+    <div class="title-actions">
+      <button class="ticon" id="settingsBtn" title="Practice controls" aria-label="Practice controls">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="none"><path d="M5 7h14M8 12h8M10 17h4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+      </button>
+      <button class="draw-top" id="drawTop">Draw ✦</button>
+    </div>
+    <div class="window-dots" aria-hidden="true"><i class="dot"></i><i class="dot"></i><i class="dot"></i></div>
+  </header>
+
+  <div class="viewport">
+    <div class="micro left">A WIDER<br>PROBLEM<br>SPACE</div>
+    <div class="micro right">SAME<br>CURIOSITY<br>FURTHER</div>
+
+    <section class="page home active" id="practice">
+      <div class="page-inner home-inner">
+        <div class="home-copy">
+          <div class="kicker">Physics olympiad training · SPhO-oriented</div>
+          <h1>Pick a problem.<br><span>Make it count.</span></h1>
+          <p>One weighted draw at a time. Theory carries more weight, while topics are softly balanced so the long-run practice mix stays broad without feeling scripted.</p>
+          <div class="home-actions">
+            <button class="draw-main" id="drawMain"><span class="spark">✦</span> Draw a problem</button>
+            <button class="resume" id="resumeLast">Resume last</button>
+          </div>
+          <div class="mode-line"><span class="mode-chip">Balanced</span><span>SKIP removes a problem from rotation until restored.</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="page" id="library">
+      <div class="page-inner section-wrap">
+        <div class="section-head">
+          <div><div class="kicker">Library</div><h2>Browse the corpus</h2><p>Use metadata aggressively when you want a specific kind of problem.</p></div>
+        </div>
+        <div class="filter-row">
+          <input class="search" id="librarySearch" placeholder="Search title, topic, source…">
+          <select id="formatFilter"><option value="">All formats</option><option>Theory</option><option>MCQ</option><option>Experimental</option></select>
+          <select id="topicFilter"><option value="">All topics</option><option>Mechanics & Mechanical Waves</option><option>Thermal & Statistical Physics</option><option>Electrostatics</option><option>Magnetism & Electromagnetic Induction</option><option>Electromagnetic Waves & Wave Optics</option><option>Quantum, Atomic & Nuclear Physics</option></select>
+        </div>
+        <table class="data-table"><thead><tr><th>Problem</th><th>Format</th><th>Topic</th><th>Source</th><th>Status</th></tr></thead><tbody id="libraryBody"></tbody></table>
+      </div>
+    </section>
+
+    <section class="page" id="history">
+      <div class="page-inner section-wrap">
+        <div class="section-head"><div><div class="kicker">History</div><h2>Recent work</h2><p>No dashboard noise — just the problems you actually touched.</p></div></div>
+        <table class="data-table"><thead><tr><th>Problem</th><th>Result</th><th>Time</th><th>Source</th></tr></thead><tbody id="historyBody"></tbody></table>
+      </div>
+    </section>
+
+    <section class="page" id="skip">
+      <div class="page-inner section-wrap">
+        <div class="section-head"><div><div class="kicker">Skip List</div><h2>Out of rotation</h2><p>Skipped problems stay here until you deliberately restore them.</p></div></div>
+        <table class="data-table"><thead><tr><th>Problem</th><th>Source</th><th>Topic</th><th></th></tr></thead><tbody id="skipBody"></tbody></table>
+      </div>
+    </section>
+
+    <section class="page problem-page" id="problem">
+      <div class="problem-workspace">
+        <article class="paper" id="paper">
+          <div class="page-no">Page <span id="problemPage">1</span></div>
+          <div class="doc-head" id="docHead">OLYMPIAD PROBLEM</div>
+          <p class="pdf-context">Original paper view · jumped to the problem anchor.</p>
+          <div style="height:138px"></div>
+          <div class="problem-anchor" id="problemAnchor">
+            <h2 id="problemTitle">Problem</h2>
+            <p id="problemText"></p>
+            <div class="diagram">figure / diagram placeholder</div>
+            <p id="problemMeta"></p>
+          </div>
+        </article>
+
+        <div class="timer-card">
+          <div class="timer-label">Stopwatch</div>
+          <div class="timer-row">
+            <div class="clock" id="clock">00:00:00</div>
+            <div class="timer-controls">
+              <button class="timer-icon" id="timerBtn" title="Start / pause">▶</button>
+              <button class="timer-icon" id="resetBtn" title="Reset">↺</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="action-rail">
+          <button class="action answer" id="answerBtn" title="View answer">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M5 5.5A2.5 2.5 0 0 1 7.5 3H19v16H7.5A2.5 2.5 0 0 0 5 21.5v-16Z" stroke="currentColor" stroke-width="1.6"/><path d="M8.5 7H16M8.5 11H16" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            <span>Answer</span>
+          </button>
+          <button class="action solved" id="solvedBtn" title="Mark solved">
+            <svg viewBox="0 0 24 24" fill="none"><path d="m5.5 12.5 4 4 9-9" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <span>Solved</span>
+          </button>
+          <button class="action failed" id="failedBtn" title="Mark failed">
+            <svg viewBox="0 0 24 24" fill="none"><path d="m7 7 10 10M17 7 7 17" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+            <span>Failed</span>
+          </button>
+          <button class="action skip" id="skipBtn" title="Move to Skip List">
+            <svg viewBox="0 0 24 24" fill="none"><path d="M6 7v10l7-5-7-5ZM15 7v10" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <span>SKIP</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <aside class="drawer" id="drawer">
+      <div class="drawer-head"><b>Practice controls</b><button class="drawer-close" id="drawerClose">×</button></div>
+      <div class="group open">
+        <button class="group-head"><span>Mode</span><span>›</span></button>
+        <div class="group-body"><div class="mode-grid">
+          <button class="mode-btn active">Balanced</button><button class="mode-btn">Topic focus</button><button class="mode-btn">Unseen</button><button class="mode-btn">Challenge</button><button class="mode-btn">Mock</button>
+        </div></div>
+      </div>
+      <div class="group open">
+        <button class="group-head"><span>Section weights</span><span>›</span></button>
+        <div class="group-body"><div class="weight-grid">
+          <div class="weight"><b>2×</b><span>Theory</span></div><div class="weight"><b>1×</b><span>MCQ</span></div><div class="weight"><b>1×</b><span>Experimental</span></div>
+        </div></div>
+      </div>
+      <div class="group open">
+        <button class="group-head"><span>Rotation</span><span>›</span></button>
+        <div class="group-body">
+          <div class="toggle-row"><span>Exclude solved problems</span><div class="switch" id="excludeSolved"></div></div>
+          <div style="font-size:8.2px;color:#8a97aa;line-height:1.7;margin-top:10px">SKIP always removes a problem until restored. Experimental topic balancing is supply-aware rather than forced equal.</div>
+        </div>
+      </div>
+    </aside>
+  </div>
+</main>
+
+<div class="gacha" id="gacha">
+  <div class="gacha-box">
+    <div class="gacha-head"><b>Problem draw</b><span id="countdown">WEIGHTED · 5.0S</span></div>
+    <div class="gacha-stage" id="gachaStage"><div class="reel" id="reel"></div><div class="marker"></div></div>
+    <div class="gacha-foot">
+      <div><div class="gtiny">Selected problem</div><div class="winner" id="winner">Rolling…</div><div class="winner-sub" id="winnerSub">Section-weighted · topic-balanced</div></div>
+      <button class="open-btn" id="openProblem">Open problem →</button>
+    </div>
+  </div>
+</div>
+
+<div class="answer-modal" id="answerModal">
+  <div class="answer-box">
+    <h3>Answer / solution</h3>
+    <div class="answer-meta" id="answerMeta"></div>
+    <div class="answer-body" id="answerBody"></div>
+    <div class="answer-actions">
+      <button class="soft" id="officialSolution">Open official solution</button>
+      <button class="soft" id="closeAnswer">Close</button>
+    </div>
+  </div>
+</div>
+
+<div class="confirm-modal" id="confirmModal" role="dialog" aria-modal="true" aria-labelledby="confirmTitle">
+  <div class="confirm-box">
+    <div class="confirm-kicker" id="confirmKicker">Confirm action</div>
+    <h3 id="confirmTitle">Are you sure?</h3>
+    <p id="confirmText"></p>
+    <div class="confirm-actions">
+      <button class="confirm-btn" id="confirmCancel">Cancel</button>
+      <button class="confirm-btn primary" id="confirmAccept">Confirm</button>
+    </div>
+  </div>
+</div>
+
+<div class="confirm-modal solve-choice" id="solveChoiceModal" role="dialog" aria-modal="true" aria-labelledby="solveChoiceTitle">
+  <div class="confirm-box">
+    <div class="confirm-kicker">Solved</div>
+    <h3 id="solveChoiceTitle">What do you want to do next?</h3>
+    <p>The result has been saved. Continue straight into another draw, or return to the home screen.</p>
+    <div class="confirm-actions">
+      <button class="confirm-btn success" id="solveAnother">Solve another</button>
+      <button class="confirm-btn" id="solveHome">Back to home</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const problems=[
+{id:1,title:"Bathysphere under pressure",format:"Theory",topic:"Thermal & Statistical Physics",source:"SPhO 2025 · Problem 2",page:1,file:"spho_2025_theory.pdf",paper:"A spherical steel bathysphere is lowered slowly into the ocean. The internal gas is initially at atmospheric pressure and later reaches thermal equilibrium with seawater. Determine the pressure difference, heat transfer, and the effect of a small elastic reduction in radius.",answer:"Use hydrostatic pressure for the external pressure, combine the ideal-gas relation with the initial state, then evaluate the heat transfer and the small volume correction from shell deformation."},
+{id:2,title:"Car traction and terminal speed",format:"Theory",topic:"Mechanics & Mechanical Waves",source:"SPhO 2025 · Problem 1",page:1,file:"spho_2025_theory.pdf",paper:"A front-wheel-drive car accelerates from rest under a traction limit and finite engine power. At high speed, aerodynamic drag is proportional to v².",answer:"Use the traction limit at low speed, then P=Fv once engine power is limiting. Terminal speed follows when engine power balances drag power."},
+{id:3,title:"Velocity selector and isotope resolution",format:"Theory",topic:"Magnetism & Electromagnetic Induction",source:"SPhO 2025 · Problem 3",page:2,file:"spho_2025_theory.pdf",paper:"A mass spectrometer first passes ions through crossed electric and magnetic fields, then bends them in a uniform magnetic field. Determine the isotope separation and resolution.",answer:"In the selector, qE=qvB. In the analyzer, qvB=mv²/r. Then propagate measurement uncertainty into the mass or radius resolution."},
+{id:4,title:"Coffee sloshing resonance",format:"Experimental",topic:"Mechanics & Mechanical Waves",source:"SPhO 2025 · Experimental 1",page:1,file:"spho_2025_experiment.pdf",paper:"A cylindrical cup of coffee has a supplied fundamental sloshing-frequency model. Use measurements and graphs to determine resonance conditions and safe walking regimes.",answer:"Use the supplied natural-frequency model, compare it with the walking forcing frequency, and use the damping model to infer the resonance response."},
+{id:5,title:"Charged spheres and conductor equivalence",format:"Theory",topic:"Electrostatics",source:"SPhO 2023 · Problem 3",page:2,file:"spho_2023_theory.pdf",paper:"Two overlapping charged spheres produce a field with a surprising conductor-like region. Analyze the electric field and potential.",answer:"Superpose the fields of the two spherical distributions and inspect the region where the resulting field has the conductor-like behavior."},
+{id:6,title:"Lloyd mirror interference geometry",format:"Theory",topic:"Electromagnetic Waves & Wave Optics",source:"SPhO 2024 · Problem 3",page:2,file:"spho_2024_theory.pdf",paper:"A monochromatic source near a reflecting plane produces Lloyd-mirror interference. Determine fringe positions and the relevant geometrical approximations.",answer:"Replace the reflected ray by an image source, compute the path difference, include the reflection phase shift, and solve for fringe positions."},
+{id:7,title:"Po-210 decay power",format:"Theory",topic:"Quantum, Atomic & Nuclear Physics",source:"SPhO 2025 · Problem 4",page:2,file:"spho_2025_theory.pdf",paper:"A sample of Po-210 undergoes alpha decay. Determine the released kinetic energy, recoil effects, half-life relations and thermal power.",answer:"Use mass defect for Q, momentum conservation for alpha/recoil energy sharing, exponential decay for activity, and P=AQ for thermal power."},
+{id:8,title:"Doppler against the wind",format:"MCQ",topic:"Mechanics & Mechanical Waves",source:"FYKOS · Short Problem",page:6,file:"fykos_short.pdf",paper:"A runner approaches a sound source while both move relative to air in the presence of wind. Determine the observed frequency.",answer:"Work in the air frame and use source and observer velocities relative to the medium."},
+{id:9,title:"Maxwell speed distribution",format:"MCQ",topic:"Thermal & Statistical Physics",source:"University Olympiad MCQ",page:4,file:"thermal_mcq.pdf",paper:"For an ideal gas obeying the Maxwell speed distribution, compare the most probable, mean and rms molecular speeds.",answer:"For the Maxwell distribution: v_mp < v_mean < v_rms."},
+{id:10,title:"Capacitor energy after reconnection",format:"MCQ",topic:"Electrostatics",source:"National Physics MCQ",page:7,file:"electro_mcq.pdf",paper:"Two capacitors with different initial voltages are reconnected. Determine the final voltage and change in electrostatic energy.",answer:"Conserve total charge, solve for the common final voltage, then compare initial and final capacitor energies."},
+{id:11,title:"Magnetic dipole oscillation",format:"Experimental",topic:"Magnetism & Electromagnetic Induction",source:"SPhO 2024 · Experimental",page:3,file:"spho_2024_experiment.pdf",paper:"A magnet mounted as an oscillator interacts with Earth's magnetic field. Use period data and calibration to infer the magnetic moment and local field.",answer:"Linearize the small-angle torque, connect period to magnetic moment and field, and combine with calibration data."},
+{id:12,title:"Microwave chocolate speed of light",format:"Experimental",topic:"Electromagnetic Waves & Wave Optics",source:"SPhO 2024 · Experimental",page:1,file:"spho_2024_experiment.pdf",paper:"Use a microwave oven and the spacing of melted chocolate hot spots to estimate the wavelength and hence the speed of light.",answer:"Adjacent hot spots are separated by λ/2. Measure the spacing, infer λ, then use c=fλ."}
+];
+
+const $=s=>document.querySelector(s), $$=s=>document.querySelectorAll(s);
+let current=problems[0],lastProblem=null,pending=null,skipped=new Set(),seen={},results={},history=[];
+let excludeSolved=false,timer=0,timerInt=null;
+
+function toast(t){const e=$("#toast");e.textContent=t;e.classList.add("show");setTimeout(()=>e.classList.remove("show"),1500)}
+function fmt(t){const h=Math.floor(t/3600),m=Math.floor(t%3600/60),s=t%60;return [h,m,s].map(x=>String(x).padStart(2,"0")).join(":")}
+function syncClock(){$("#clock").textContent=fmt(timer)}
+function startTimer(){if(timerInt)return;timerInt=setInterval(()=>{timer++;syncClock()},1000);$("#timerBtn").textContent="❚❚"}
+function pauseTimer(){clearInterval(timerInt);timerInt=null;$("#timerBtn").textContent="▶"}
+function resetTimer(){pauseTimer();timer=0;syncClock()}
+$("#timerBtn").onclick=()=>timerInt?pauseTimer():startTimer();$("#resetBtn").onclick=resetTimer;
+
+function sectionWeight(p){return p.format==="Theory"?2:1}
+function candidatePool(){
+  return problems.filter(p=>!skipped.has(p.id)&&!(excludeSolved&&results[p.id]==="Solved"));
+}
+function weightedPick(){
+  const pool=candidatePool();if(!pool.length)return null;
+  const ws=pool.map(p=>{
+    const topicSeen=Object.entries(seen).filter(([id])=>problems.find(x=>x.id==id)?.topic===p.topic).reduce((a,[,n])=>a+n,0);
+    const exposure=1/(1+topicSeen*.18);
+    const novelty=1/(1+(seen[p.id]||0)*.55);
+    return sectionWeight(p)*exposure*novelty;
+  });
+  let r=Math.random()*ws.reduce((a,b)=>a+b,0);
+  for(let i=0;i<pool.length;i++){r-=ws[i];if(r<=0)return pool[i]}
+  return pool.at(-1);
+}
+function gcard(p){
+  return `<div class="gcard ${p.format.toLowerCase()}"><div><div class="type">${p.format}</div><h4>${p.title}</h4><div class="topic">${p.topic}</div></div><div class="src">${p.source}</div></div>`;
+}
+function draw(){
+  const pool=candidatePool();if(!pool.length){toast("No eligible problems in the current pool.");return}
+  pending=weightedPick();const seq=[],win=34;
+  for(let i=0;i<40;i++)seq.push(i===win?pending:pool[Math.floor(Math.random()*pool.length)]);
+  $("#reel").innerHTML=seq.map(gcard).join("");
+  $("#reel").style.transition="none";$("#reel").style.transform="translate3d(0,0,0)";
+  $("#winner").textContent="Rolling…";$("#winnerSub").textContent="Section-weighted · topic-balanced";
+  $("#openProblem").classList.remove("ready");$("#gacha").classList.add("show");
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const step=180,center=$("#gachaStage").clientWidth/2,cardCenter=win*step+84;
+    $("#reel").style.transition="transform 5s cubic-bezier(.08,.74,.11,1)";
+    $("#reel").style.transform=`translate3d(${center-cardCenter}px,0,0)`;
+  }));
+  let left=50;const ct=setInterval(()=>{
+    left--;$("#countdown").textContent=`WEIGHTED · ${(left/10).toFixed(1)}S`;
+    if(left<=0){clearInterval(ct);$("#countdown").textContent="LOCKED";$("#winner").textContent=pending.title;$("#winnerSub").textContent=`${pending.format} · ${pending.topic} · ${pending.source}`;$("#openProblem").classList.add("ready")}
+  },100);
+}
+
+function goPage(id){
+  $$(".page").forEach(p=>p.classList.toggle("active",p.id===id));
+  $$(".tab").forEach(t=>t.classList.toggle("active",t.dataset.page===(id==="problem"?"practice":id)));
+}
+$$(".tab").forEach(t=>t.onclick=()=>goPage(t.dataset.page));
+
+function openProblem(p){
+  current=p;lastProblem=p;seen[p.id]=(seen[p.id]||0)+1;resetTimer();
+  $("#problemPage").textContent=p.page;$("#docHead").textContent=p.source.toUpperCase();$("#problemTitle").textContent=p.title;$("#problemText").textContent=p.paper;
+  $("#problemMeta").textContent=`${p.format} · ${p.topic} · source file: ${p.file}`;
+  $("#gacha").classList.remove("show");goPage("problem");
+  setTimeout(()=>$("#problemAnchor").scrollIntoView({behavior:"smooth",block:"start"}),90);renderAll();
+}
+$("#openProblem").onclick=()=>{if(pending){openProblem(pending);pending=null}};
+$("#drawMain").onclick=draw;$("#drawTop").onclick=draw;
+$("#resumeLast").onclick=()=>lastProblem?openProblem(lastProblem):toast("No previous problem yet.");
+
+function finish(result,{goHome=true}={}){
+  results[current.id]=result;
+  history.unshift({id:current.id,title:current.title,result,time:fmt(timer),source:current.source});
+  pauseTimer();renderAll();
+  if(goHome)goPage("practice");
+  toast(result);
+}
+
+let confirmAction=null;
+const confirmCopy={
+  answer:{kicker:"Reveal answer",title:"Open the answer?",text:"This will reveal the answer / solution for the current problem. Continue only if you are ready to see it.",label:"Reveal answer",tone:"primary"},
+  solved:{kicker:"Mark result",title:"Mark this problem as solved?",text:"Your current stopwatch time will be saved to History with the result Solved.",label:"Yes, solved",tone:"success"},
+  failed:{kicker:"Mark result",title:"Mark this problem as failed?",text:"Your current stopwatch time will be saved to History with the result Failed.",label:"Yes, failed",tone:"danger"},
+  skip:{kicker:"Skip problem",title:"Move this problem to the Skip List?",text:"It will be removed from normal random rotation until you deliberately restore it.",label:"Move to Skip List",tone:"skip"}
+};
+function askConfirm(action){
+  const c=confirmCopy[action];confirmAction=action;
+  $("#confirmKicker").textContent=c.kicker;$("#confirmTitle").textContent=c.title;$("#confirmText").textContent=c.text;
+  const b=$("#confirmAccept");b.textContent=c.label;b.className=`confirm-btn ${c.tone}`;
+  $("#confirmModal").classList.add("show");
+}
+function closeConfirm(){confirmAction=null;$("#confirmModal").classList.remove("show")}
+$("#confirmCancel").onclick=closeConfirm;
+$("#confirmModal").onclick=e=>{if(e.target===$("#confirmModal"))closeConfirm()};
+$("#confirmAccept").onclick=()=>{
+  const action=confirmAction;closeConfirm();
+  if(action==="answer"){
+    $("#answerMeta").textContent=`${current.source} · ${current.topic}`;$("#answerBody").textContent=current.answer;$("#answerModal").classList.add("show");return;
+  }
+  if(action==="failed"){finish("Failed");return;}
+  if(action==="skip"){
+    skipped.add(current.id);history.unshift({id:current.id,title:current.title,result:"SKIP",time:fmt(timer),source:current.source});
+    pauseTimer();goPage("practice");toast("Moved to Skip List");renderAll();setTimeout(draw,250);return;
+  }
+  if(action==="solved"){
+    finish("Solved",{goHome:false});
+    $("#solveChoiceModal").classList.add("show");
+  }
+};
+
+$("#answerBtn").onclick=()=>askConfirm("answer");
+$("#solvedBtn").onclick=()=>askConfirm("solved");
+$("#failedBtn").onclick=()=>askConfirm("failed");
+$("#skipBtn").onclick=()=>askConfirm("skip");
+$("#solveAnother").onclick=()=>{$("#solveChoiceModal").classList.remove("show");goPage("practice");setTimeout(draw,180)};
+$("#solveHome").onclick=()=>{$("#solveChoiceModal").classList.remove("show");goPage("practice")};
+
+
+$("#closeAnswer").onclick=()=>$("#answerModal").classList.remove("show");
+$("#officialSolution").onclick=()=>{toast("Prototype: open official solution / jump to solution page.");$("#answerModal").classList.remove("show")};
+
+$("#settingsBtn").onclick=()=>$("#drawer").classList.toggle("open");$("#drawerClose").onclick=()=>$("#drawer").classList.remove("open");
+$$(".group-head").forEach(b=>b.onclick=()=>b.parentElement.classList.toggle("open"));
+$$(".mode-btn").forEach(b=>b.onclick=()=>{$$(".mode-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active");toast(`${b.textContent} mode`)})
+$("#excludeSolved").onclick=()=>{excludeSolved=!excludeSolved;$("#excludeSolved").classList.toggle("on",excludeSolved);toast(excludeSolved?"Solved problems excluded":"Solved problems eligible")};
+
+function statusOf(p){return skipped.has(p.id)?"Skipped":results[p.id]||((seen[p.id]||0)?"Seen":"Unseen")}
+function renderLibrary(){
+  const q=$("#librarySearch").value.toLowerCase(),f=$("#formatFilter").value,t=$("#topicFilter").value,b=$("#libraryBody");b.innerHTML="";
+  problems.filter(p=>(!q||[p.title,p.topic,p.source,p.format].join(" ").toLowerCase().includes(q))&&(!f||p.format===f)&&(!t||p.topic===t)).forEach(p=>{
+    const tr=document.createElement("tr");tr.innerHTML=`<td><b>${p.title}</b></td><td>${p.format}</td><td>${p.topic}</td><td>${p.source}</td><td><span class="badge">${statusOf(p)}</span></td>`;
+    tr.onclick=()=>openProblem(p);b.appendChild(tr)
+  });
+  if(!b.children.length)b.innerHTML='<tr><td colspan="5" class="empty">No matching problems.</td></tr>';
+}
+$("#librarySearch").oninput=renderLibrary;$("#formatFilter").onchange=renderLibrary;$("#topicFilter").onchange=renderLibrary;
+
+function renderHistory(){
+  const b=$("#historyBody");b.innerHTML=history.map(h=>`<tr><td><b>${h.title}</b></td><td><span class="badge">${h.result}</span></td><td>${h.time}</td><td>${h.source}</td></tr>`).join("")||'<tr><td colspan="4" class="empty">No activity yet.</td></tr>';
+}
+function renderSkip(){
+  const b=$("#skipBody");b.innerHTML="";
+  problems.filter(p=>skipped.has(p.id)).forEach(p=>{
+    const tr=document.createElement("tr");tr.innerHTML=`<td><b>${p.title}</b></td><td>${p.source}</td><td>${p.topic}</td><td><button class="restore">Restore</button></td>`;
+    tr.querySelector("button").onclick=e=>{e.stopPropagation();skipped.delete(p.id);renderAll();toast("Restored to rotation")};tr.onclick=()=>openProblem(p);b.appendChild(tr)
+  });
+  if(!b.children.length)b.innerHTML='<tr><td colspan="4" class="empty">Skip List is empty.</td></tr>';
+}
+function renderAll(){renderLibrary();renderHistory();renderSkip()}
+renderAll();
+</script>
+</body>
+</html>
